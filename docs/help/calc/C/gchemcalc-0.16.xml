@@ -1,0 +1,433 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE book PUBLIC "-//OASIS/DTD DocBookXML V4.1.2//EN"
+"http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd"[
+  <!ENTITY legal SYSTEM "legal.xml">
+  <!ENTITY appversion "0.14.0">
+  <!ENTITY manrevision "0.4">
+  <!ENTITY date "July 2012">
+  <!ENTITY app "GChemCalc">
+]>
+<!-- 
+      (Do not remove this comment block.)
+  Maintained by the GNOME Documentation Project
+  http://developer.GNOME.org/projects/gdp
+  Template version: 2.0 beta
+  Template last modified Jan 30, 2002
+-->
+<!-- =============Document Header ============================= -->
+<book id="index" lang="en">
+  <title>&app; manual</title>
+<!-- please do not change the id; for translations, change lang to -->
+<!-- appropriate code -->
+  <bookinfo> 
+	 <title>&app; Manual V&manrevision;</title>
+	 <copyright> 
+       <year>2006-2012</year>
+       <holder>Jean Br&#233;fort</holder>
+     </copyright>
+
+  <!-- translators: uncomment this and add lang=".." to the <book> tag:
+
+  <copyright>
+   <year>2002</year>
+   <holder>ME-THE-TRANSLATOR (Latin translation)</holder>
+  </copyright>
+
+   -->
+
+	&legal;
+
+	<publisher role="maintainer">
+		<publishername>GNOME Documentation Project</publishername>
+	</publisher>
+
+	 <authorgroup> 
+		<author> 
+		  <firstname>Jean</firstname>
+		  <surname>Br&#233;fort</surname>
+		  <affiliation> 
+			 <address> <email>jean.brefort@normalesup.org</email> </address>
+		  </affiliation>
+		</author> 
+<!-- This is appropriate place for other contributors: translators,
+      maintainers,  etc. Commented out by default.
+       <othercredit role="translator">
+	<firstname>Latin</firstname> 
+	<surname>Translator 1</surname> 
+	<affiliation> 
+	  <orgname>Latin Translation Team</orgname> 
+	  <address> <email>translator@gnome.org</email> </address> 
+	</affiliation>
+	<contrib>Latin translation</contrib>
+      </othercredit>
+-->
+	 </authorgroup>
+
+<!-- According to GNU FDL, revision history is mandatory if you are -->
+<!-- modifying/reusing someone else's document.  If not, you can omit it. -->
+	 <revhistory>
+<!-- Remember to remove the &manrevision; entity from the revision entries other
+   than the current revision. -->
+   		<revision> 
+		  <revnumber>&app; Manual V&manrevision;</revnumber>
+		  <date>&date;</date> 
+		  <revdescription> 
+			 <para role="author">Jean Br&#233;fort
+				<email>jean.brefort@normalesup.org</email> </para>
+			 <para role="publisher">GNOME Documentation Project</para>
+		  </revdescription>
+		</revision>
+   		<revision> 
+		  <revnumber>&app; Manual V0.3</revnumber>
+		  <date>April 2010</date> 
+		  <revdescription> 
+			 <para role="author">Jean Br&#233;fort
+				<email>jean.brefort@normalesup.org</email> </para>
+			 <para role="publisher">GNOME Documentation Project</para>
+		  </revdescription>
+		</revision>
+   		<revision> 
+		  <revnumber>&app; Manual V0.2</revnumber>
+		  <date>September 2008</date> 
+		  <revdescription> 
+			 <para role="author">Jean Br&#233;fort
+				<email>jean.brefort@normalesup.org</email> </para>
+			 <para role="publisher">GNOME Documentation Project</para>
+		  </revdescription>
+		</revision>
+   		<revision> 
+		  <revnumber>&app; Manual V0.1</revnumber>
+		  <date>February 2006</date> 
+		  <revdescription> 
+			 <para role="author">Jean Br&#233;fort
+				<email>jean.brefort@normalesup.org</email> </para>
+			 <para role="publisher">GNOME Documentation Project</para>
+		  </revdescription>
+		</revision>
+	 </revhistory>
+	 <releaseinfo> This manual describes version &appversion; of &app;.
+		</releaseinfo>
+	 <legalnotice> 
+		<title>Feedback</title>
+		<para>To report a bug or make a suggestion regarding the <application>&app;</application> application or
+		this manual, go to the<application>&app;</application>
+		<ulink url="http://savannah.nongnu.org/projects/gchemutils" type="html"><application>&app;</application> home page</ulink>. 
+      </para>
+<!-- Translators may also add here feedback address for translations -->
+	 </legalnotice>
+	<abstract role="description">
+		<para>&app; allows you to evaluate some molecular properties.</para>
+	</abstract>
+  </bookinfo>  
+
+<!-- ============= Document Body ============================= -->
+
+<!-- ============= Introduction ============================= -->
+ <preface id="gchemcalc-intro">
+    <title>Introduction</title>
+	<para>The <application>&app;</application> application is a simple
+	calculator for chemistry. It parses chemical formula to calculate
+	raw formula, molecular weights, mass composition and isotopic patterns.</para>
+
+ </preface>
+ 
+<!-- ============= Getting started ============================= -->
+ <chapter id="gchemcalc-getting-started">
+    <title>Getting started</title>
+	<sect1 id="gchemcalc-to-start">
+		<title>To Start &app;</title>
+		<para>You can start <application>&app;</application> in the following ways:</para>
+		<variablelist>
+    		<varlistentry>
+    		<term>Applications list</term>
+    		<listitem>
+    		<para>Choose 
+    		<quote>Chemical calculator</quote>. It might be listed either in the Education or
+            Science category.</para>
+    		</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    		<term>Command line</term>
+    		<listitem>
+    		<para>Type <command>gchemcalc</command> [formula], then press <keycap>Return</keycap>.
+			[Formula] stands for an optional chemical formula.</para>
+    		</listitem>
+    		</varlistentry>
+    		</variablelist>
+	</sect1>
+	<sect1 id="gchemcalc-when-you-start">
+		<title>When You Start &app;</title>
+		<para>When you start <application>&app;</application>, the following window is displayed:</para>
+ 			<figure id="gchemcalc-main-window"> 
+			  <title>&app; window</title>
+			  <screenshot> 
+					<mediaobject>
+						<imageobject>
+							<objectinfo> <abstract><para>Screenshot of the <application>&app;</application>window.</para></abstract>
+							</objectinfo> 
+							<imagedata fileref="figures/start.png"/>
+						</imageobject>
+					</mediaobject>
+				</screenshot>
+			</figure>
+	
+		<para>The <application>&app;</application> window contains the following
+		  elements: </para>
+		<variablelist> 
+		  <varlistentry> <term>Menubar</term> 
+			 <listitem> 
+				<para>The menus on the menubar contain all of the commands you need
+				  to work with <application>&app;</application>.</para>
+			 </listitem>
+		  </varlistentry>
+		  <varlistentry> <term>Formula entry</term> 
+			 <listitem> 
+				<para>This is where you can type a formula. </para>
+			 </listitem>
+		  </varlistentry>
+		  <varlistentry> <term>Results</term> 
+			 <listitem> 
+				<para>The next three lines give the entered formula as parsed
+				by <application>&app;</application>, the raw formula and the
+				molecular weight. </para>
+			 </listitem>
+		  </varlistentry>
+		  <varlistentry> <term>Notebook</term> 
+			 <listitem> 
+				<para>The first page of the notebook gives the analysis as mass
+				percent of the elements of the current formula. The second page
+				displays the isotopic pattern. This page is hidden when the
+				formula is empty.</para>
+			 </listitem>
+		  </varlistentry>
+		</variablelist>
+	</sect1>
+</chapter>
+
+<chapter id="gchemcalc-usage">
+    <title>Usage</title>
+	<sect1 id="gchemcalc-formula">
+		<title>Entering a formula</title>
+		<para>Formulas can be entered from the <link linkend="gchemcalc-to-start">command line</link>,
+		from <application>GChemPaint</application>, or directly in the <guilabel>formula entry</guilabel>.</para>
+		<para>When using the formula entry, just type a valid formula as in the following example:</para>
+		<figure id="gchemcalc-formula-window"> 
+		  <title>Entering a formula</title>
+		  <screenshot> 
+				<mediaobject>
+					<imageobject>
+						<objectinfo> <abstract><para>Entering a formula.</para></abstract>
+						</objectinfo> 
+						<imagedata fileref="figures/formula.png"/>
+					</imageobject>
+				</mediaobject>
+			</screenshot>
+		</figure>
+		<para>After validating, if the formula has been succesfully parsed, you get:</para>
+		<figure id="gchemcalc-composition-window"> 
+		  <title>Results</title>
+		  <screenshot> 
+				<mediaobject>
+					<imageobject>
+						<objectinfo> <abstract><para>Result after parsing a formula.</para></abstract>
+						</objectinfo> 
+						<imagedata fileref="figures/composition.png"/>
+					</imageobject>
+				</mediaobject>
+			</screenshot>
+		</figure>
+		<para>The isotopic pattern is displayed on the second page of the notebook:</para>
+		<figure id="gchemcalc-pattern-window"> 
+		  <title>Isotopic pattern</title>
+		  <screenshot> 
+				<mediaobject>
+					<imageobject>
+						<objectinfo> <abstract><para>Result after parsing a formula.</para></abstract>
+						</objectinfo> 
+						<imagedata fileref="figures/pattern.png"/>
+					</imageobject>
+				</mediaobject>
+			</screenshot>
+		</figure>
+		<para>If an error occurs while parsing the formula, a message box will pop up and the cursor
+		will be moved in the entry to the error position.</para>
+	</sect1>
+	<sect1 id="gchemcalc-supported">
+		<title>Features</title>
+		<para><application>&app;</application> supports parenthesis and brackets to any level
+		provided each one is matched as in the following example:</para>
+		<figure id="gchemcalc-braces-window"> 
+		  <title>Using parenthesis and brackets</title>
+		  <screenshot> 
+				<mediaobject>
+					<imageobject>
+						<objectinfo> <abstract><para>Using parenthesis and brackets.</para></abstract>
+						</objectinfo> 
+						<imagedata fileref="figures/braces.png"/>
+					</imageobject>
+				</mediaobject>
+			</screenshot>
+		</figure>
+		<para>Abbreviations such as "Ph" for a phenyl substituant are supported.</para>
+		<para>This is also true for abbreviations such as Pr which might represent either
+		a praseodymium atom or a propyl group. Three options are available in the
+		<menuchoice> <guimenu>Mode</guimenu></menuchoice> menu:</para>
+		<variablelist>
+    	  <varlistentry> <term>Guess</term> 
+			<listitem><para><application>&app;</application> try to guess if the symbol
+			represents an atom or a group, PrCl is analyzed as propyl chloride, while PrCl<subscript>3</subscript>
+			is praseodymium chloride; however, this method might fail in some cases such as
+			PrPr<subscript>3</subscript> which will not be recognized as trypropylpraseodymium, at least
+			with this version of <application>&app;</application>.</para></listitem>
+		  </varlistentry>
+		  <varlistentry> <term>Atom</term>
+			<listitem><para>Ambiguous symbols are interpreted
+			as atoms.</para></listitem>
+		  </varlistentry>
+		  <varlistentry> <term>Nickname</term>
+			<listitem><para>Ambiguous symbols are interpreted
+			as groups.</para></listitem>
+		  </varlistentry>
+		</variablelist>
+		<para>Custom nicknames can be defined using <ulink type="help" url="ghelp:gchempaint-0.12#gchempaint-residues">
+		the <application>GChemPaint</application> application</ulink>.</para>
+	</sect1>
+<!-- ============= To Print a File============================== -->
+	<sect1 id="gchemcalc-print">
+		<title>To Print the Isotopic Pattern Graph</title>
+		  <para>To print a isotopic pattern graph, choose 
+		  <menuchoice> <guimenu>File</guimenu> <guimenuitem>Print...</guimenuitem>
+			 </menuchoice>.</para>
+		 <para><menuchoice> <guimenu>File</guimenu> <guimenuitem>Preview</guimenuitem>
+			 </menuchoice> opens a window with a preview of the printed output.</para>
+		<para>To tune the printed output, choose<menuchoice>
+		<guimenu>File</guimenu> <guimenuitem>Page setup...</guimenuitem>
+		 </menuchoice> as explained below.</para>
+		<sect2 id="gchemcalc-print-setup">
+		  <title>The page setup dialog.</title>
+		  <para>the first tab of the dialog concerns the paper and margins setup.
+		  Headers and footers are not supported in the version of <application>&app;</application></para>
+		  <figure id="gchemcalc-page-setup"> 
+			<title>The Page Setup tab.</title>
+			<screenshot> 
+			  <mediaobject>
+				<imageobject>
+				  <objectinfo> <abstract><para>Screenshot of page setup dialog.</para></abstract>
+				  </objectinfo> 
+				  <imagedata fileref="figures/page-setup.png"/>
+				</imageobject>
+			  </mediaobject>
+			</screenshot>
+		  </figure>
+		  <para>The second tab allows you to choose the scale of the output. With  no scaling or
+		  scaling at 100%, the output will have the same size in points as the size in pixels on
+		  the screen. If you choose automatic scaling, you can make the output fill the available
+		  space either horizontally, vertically, or both (none of the options is equivalent to no scaling).</para>
+		  <para>Printing to more than one page is not supported in this version of <application>&app;</application></para>
+		  <figure id="gchemcalc-print-scale"> 
+			<title>The Print Scale tab.</title>
+			<screenshot> 
+			  <mediaobject>
+				 <imageobject>
+					<objectinfo> <abstract><para>Screenshot of the printing scale page.</para></abstract>
+					</objectinfo> 
+					<imagedata fileref="figures/print-scale.png"/>
+				 </imageobject>
+			  </mediaobject>
+			</screenshot>
+		  </figure>
+	  </sect2>
+	</sect1>
+<!-- ============= To Save as an Image============================== -->
+	<sect1 id="gchemcalc-save-as-image">
+		<title>Export the Isotopic Pattern as an Image.</title>
+		<para>To export the displayed isotopic pattern to an image, use 
+		  <menuchoice> <guimenu>File</guimenu> <guimenuitem>Save As Image</guimenuitem>
+			 </menuchoice>.</para>
+		<para>Available formats are SVG, EPS, PS, PDF, and the formats with write support in
+		GdkPixbuf.</para>
+		<para>To choose a format, you can use an appropriate extension
+		in the file name, or explicitly select a format in the combo box.
+		With the first method, if <application>&app;</application> does
+		not recognize an extension, the exported file will be a SVG
+		file. <application>&app;</application> will add an extension
+		to the file name if needed.</para>
+		<para>You might change the default width and height of the exported image
+		using the appropriate entries.</para>
+		<para>Postscript and PDF files can also be produced using the
+		<link linkend="gchemcalc-print"><menuchoice> <guimenu>File</guimenu> <guimenuitem>Print...</guimenuitem>
+			 </menuchoice> command</link>.</para>
+	</sect1>
+	<sect1 id="gchemcalc-graph">
+		<title>Copying the Isotopic Pattern Graph.</title>
+		<para>To copy the isotopic pattern graph, choose
+		<menuchoice> <guimenu>Edit</guimenu> <guimenuitem>Copy</guimenuitem></menuchoice>
+		and paste in the target application. Graphs will be copied as native graphs to
+		Abiword and as svg or png data to other applications which support such formats.</para>
+	</sect1>
+</chapter>
+ <chapter id="gchemcalc-support">
+    <title>Support.</title>
+	<sect1 id="gchemcalc-question">
+		<title>To Ask a Question</title>
+		<para>If you choose <menuchoice> <guimenu>Help</guimenu> <guimenuitem>Ask a question</guimenuitem></menuchoice>,
+		your mail agent should pop up with a new message to the <ulink type="mail" url="mailto:gchemutils-main@nongnu.org">Gnome Chemistry Utils
+		mailing list</ulink>.</para>
+		<para>Another way to get some help is to connect on the <ulink url="irc://irc.gimp.net/gchemutils">#gchemutils channel</ulink>
+		at irc.gimp.net and ask your question there (if you are not alone on the channel).</para>
+	</sect1>
+	<sect1 id="gchemcalc-web">
+		<title>To Find the Gnome Chemistry Utils on the Web.</title>
+		<para>If you choose <menuchoice> <guimenu>Help</guimenu> <guimenuitem>Gnome Chemistry Utils on the web</guimenuitem></menuchoice>,
+		the default web browser should pop up and display the main page for the Gnome Chemsitry Utils.</para>
+		<para>The main page is
+		<ulink type="http" url="http://gchemutils.nongnu.org">http://gchemutils.nongnu.org</ulink> and the project
+		page at savannah <ulink type="http" url="http://savannah.nongnu.org/projects/gchemutils">http://savannah.nongnu.org/projects/gchemutils</ulink>.</para>
+	</sect1>
+	<sect1 id="gchemcalc-bug">
+		<title>To Report a Bug</title>
+		<para>To report a bug, you must use the bug page for the Gnome Chemistry
+		Utils at Savannah. You can access it by choosing
+		<menuchoice> <guimenu>Help</guimenu> <guimenuitem>Report Bugs</guimenuitem></menuchoice>
+		(hopefully you'll have only one at once to report).</para>
+		<para>You can also type the bug report page address directly in
+		the browser. The bug repository is at
+		<ulink type="http" url="https://savannah.nongnu.org/bugs/?group=gchemutils">https://savannah.nongnu.org/bugs/?group=gchemutils</ulink></para>
+	</sect1>
+</chapter>
+
+<!-- ============= Application License ============================= -->
+
+ <chapter id="license">
+  <title>License</title>
+  <para>
+   This program is free software; you can redistribute it and/or
+   modify it under the terms of the  <ulink type="help" url="ghelp:gpl">GNU
+   General Public License</ulink> as
+   published by the Free Software Foundation; 
+   either version 3 of the License, or (at your option) any later
+   version.
+  </para>
+  <para>
+   This program is distributed in the hope that it will be useful, but
+   WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   <citetitle>GNU General Public License</citetitle> for more details.
+  </para>
+  <para>
+   A copy of the <citetitle>GNU General Public License</citetitle> is
+   included as an appendix to the <citetitle>GNOME Users
+   Guide</citetitle>.  You may also obtain a copy of the
+   <citetitle>GNU General Public License</citetitle> from the Free
+   Software Foundation by visiting <ulink type="http"
+   url="http://www.fsf.org">their Web site</ulink> or by writing to
+   <address>
+    Free Software Foundation, Inc.
+    <street>51 Franklin St</street> - Fifth Floor
+    <city>Boston</city>, <state>MA</state> <postcode>02111-1307</postcode>
+    <country>USA</country>
+   </address>
+  </para>
+ </chapter>
+
+</book>

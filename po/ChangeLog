@@ -1,0 +1,317 @@
+##Text encoding: utf-8
+
+2014-05-08  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: updated files list.
+
+2014-02-14  Dimitris Spingos <dmtrs32@gmail.com>
+	* el.po: updated Greek translation.
+
+2013-11-16  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: add missing files.
+
+2012-10-27  Jean Bréfort  <jean.brefort@normalesup.org>
+	* eu.po: typos.
+
+2012-10-22  Ibon Santisteban
+	* eu.po: updated Basque translation.
+
+2012-08-14  Julian Sikorski  <belegdol@gmail.com>
+	* pl.po: updated Polish translation.
+
+2012-08-11  Jean Brefort  <jean.brefort@normalesup.org>
+	* *.po: updated string list after a string update.
+
+2012-07-23  Dimitris Spingos <dmtrs32@gmail.com>
+	* el.po: updated Greek translation.
+
+2012-07-15  Julian Sikorski  <belegdol@gmail.com>
+	* pl.po: updated Polish translation.
+
+2012-07-13  Jean Bréfort  <jean.brefort@normalesup.org>
+	* *.po: updated string list after a string update.
+
+2012-07-08  Jean Bréfort  <jean.brefort@normalesup.org>
+	* *.po: updated string list for 0.14.
+
+2012-06-11  Jean Brefort  <jean.brefort@normalesup.org>
+	* fr.po: updated French translation.
+
+2012-06-03  Julian Sikorski  <belegdol@gmail.com>
+	* pl.po: updated Polish translation.
+
+2012-05-20  Jean Bréfort  <jean.brefort@normalesup.org>
+	* fr.po: updated French translation.
+
+2012-05-20  Ibon Santisteban
+	* es.po: updated Spanish translation.
+
+2012-04-10  Jean Bréfort  <jean.brefort@normalesup.org>
+	* LINGUAS: add eu to linguas.
+	* eu.po: fixed a few typos.
+
+2012-03-30  Ibon Santisteban
+	* eu.po: new translation.
+
+2012-02-16  Jean Bréfort  <jean.brefort@normalesup.org>
+	* fr.po: update french translation.
+
+2012-01-11  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: add more files.
+
+2011-11-11  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: fixed files list.
+
+2011-10-27  Hendrik Knackstedt
+	* de.po: enhanced translation. [#34531]
+
+2011-08-13  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: added libs/gcr/grid.cc.
+
+2011-07-27  Jean Bréfort  <jean.brefort@normalesup.org>
+	* fr.po: one more typo fixed.
+
+2011-06-01  Jean Bréfort  <jean.brefort@normalesup.org>
+	* fr.po: one more typo fixed.
+
+2011-05-27  Jean Bréfort  <jean.brefort@normalesup.org>
+	* fr.po: fixed two translations.
+
+2011-05-08  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: fixed files list.
+	* POTFILES.skip: ditto.
+
+2011-04-02  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: updated file list.
+	* POTFILES.skip: ditto.
+
+2011-03-23  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: moved some files from gcu to gcugtk.
+
+2011-02-20  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: removed the Wikipedia tool.
+
+2011-02-05  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: add database/databases.xml.in.
+
+2010-12-28  Matthias Mailänder
+	* de.po: Updated German translation for the unstable branch.
+
+2010-11-10 Manolis Stefanis <mstefanis@hotmail.com>
+	* el.po: new greek translation
+
+2010-10-24  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: add plugins/loaders/nuts/plugin.xml.in.
+
+2010-09-24  Jean Bréfort  <jean.brefort@normalesup.org>
+	* fr.po: fixed typo.
+
+2010-09-12  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: moved files from programs/crystal to libs/gcr.
+	* *.po: updated after typo fix.
+
+2010-09-12  I-Yuan Chiang
+	* zh_TW.po: updated translation.
+
+2010-07-23  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: updated file list after reorganizing ui files directories.
+
+2010-07-19  Matthias Mailänder
+	* de.po: Updated German translation.
+
+2010-07-15  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: added new file.
+
+2010-06-26  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: renamed two files.
+
+2010-06-25  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: added new files.
+
+2010-06-15  Jean Bréfort  <jean.brefort@normalesup.org>
+	* fr.po: Fixed typo.
+
+2010-05-11  Julian Sikorski  <belegdol@gmail.com>
+	* pl.po: Finished Polish translation.
+
+2010-05-09  Julian Sikorski  <belegdol@gmail.com>
+	* pl.po: updated Polish translation, some strings still missing.
+
+2010-04-25  Jean Bréfort  <jean.brefort@normalesup.org>
+	* fr.po: updated french translation.
+	* others: updated after typos fixes.
+
+2010-04-24  Jean Bréfort  <jean.brefort@normalesup.org>
+	* *.po: updated.
+
+2010-04-13  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: add plugins/paint/arrows/curvedarrowtool.ui.
+
+2010-02-27  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: add plugins/paint/atoms/orbital-prop.ui.
+
+2010-02-22  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: add missing files.
+
+2010-02-03  Jean Bréfort  <jean.brefort@normalesup.org>
+	* zh_TW.po: updated file, thanks to I-Yuan Chiang and his group.
+
+2010-01-19  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: renamed files.
+
+2009-12-31  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: add missing files.
+
+2009-08-13  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.skip: add gnumeric/plugin.xml.in.in.
+	* fr.po: translate molarmass gnumeric function help.
+
+2009-08-12  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: add fragmenttool.cc.
+
+2009-06-07  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: replaced glade files by ui files.
+
+2009-03-15  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: add new gnumeric plugin related files.
+	* fr.po: updated french translation.
+
+2009-03-13  Jean Bréfort  <jean.brefort@normalesup.org>
+	* LINGUAS: add zh_TW.
+	* zh_TW.po: new file, thanks to I-Yuan Chiang and his group.
+
+2009-03-01  Daniel Leidert  <daniel.leidert@wgdd.de>
+	* POTFILES.in: updated file list.
+
+2008-12-17  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: updated file list.
+
+2008-11-26  Jean Bréfort  <jean.brefort@normalesup.org>
+	* fr.po: fixed typo.
+
+2008-09-18  Julian Sikorski  <belegdol@gmail.com>
+	* pl.po: updated polish translation.
+
+2008-09-15  Julian Sikorski  <belegdol@gmail.com>
+	* pl.po: updated polish translation.
+
+2008-09-14  Julian Sikorski  <belegdol@gmail.com>
+	* pl.po: updated polish translation.
+
+2008-09-06  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.skip: fixed file list.
+
+2008-09-06  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: added new programs/crystal/docprop.cc.
+	* fr.po: updated french translation.
+
+2008-08-25  Jean Bréfort  <jean.brefort@normalesup.org>
+	* de.po: merged missing strings from stable branch.
+	* it.po: ditto.
+	* pl.po: ditto.
+	* pt_BR.po: ditto.
+	* ru.po: ditto.
+
+2008-08-23  Jean Bréfort  <jean.brefort@normalesup.org>
+	* LINGUAS: merged with gchempaint po files.
+	* de.po: ditto.
+	* es.po: ditto.
+	* fr.po: ditto.
+	* it.po: ditto.
+	* pl.po: ditto.
+	* pt_BR.po: ditto.
+	* ru.po: ditto.
+	* zh_CN.po: ditto.
+
+2008-08-22  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: added missing files.
+
+2008-07-03  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: added plugins/loaders/cdx/cdx.cc
+
+2008-06-22  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: added missing files.
+	* POTFILES.skip: new file.
+
+2008-03-18  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: added missing files.
+
+2007-09-16  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: added missing files.
+
+2007-05-09  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: added H-pos.glade.
+
+2007-05-09  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: update files list.
+
+2007-03-31  Jean Bréfort  <jean.brefort@normalesup.org>
+	* fr.po: fixed missing white spaces.
+
+2007-03-09  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: update paths for new architecture.
+
+2007-03-01  Jean Bréfort  <jean.brefort@normalesup.org>
+	* fr.po: update French translation.
+
+2007-02-16  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: update files list.
+
+2006-09-10  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: update files list.
+
+2006-06-19  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: update files list.
+
+2006-05-07  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: add gcu/crystalview.cc.
+
+2006-02-25  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: imported Gnome Crystal stuff
+	* de.po: ditto.
+	* es.po: ditto.
+	* fr.po: ditto.
+	* it.po: ditto.
+	* pl.po: ditto.
+	* ru.po: ditto.
+
+2006-01-30  Jean Bréfort  <jean.brefort@normalesup.org>
+	* POTFILES.in: add one more missing file.
+	* fr.po: update french translation.
+
+2006-01-29  Jean Bréfort  <jean.brefort@normalesup.org>
+	* po/POTFILES.in: add missing files.
+	* po/fr.po: update french translation.
+
+2006-01-15 Jean Bréfort	<jean.brefort@normalesup.org>
+	* Update french translation.
+
+2006-01-13 Daniel Leidert <daniel.leidert.spam@gmx.net>
+	* Updated German translation.
+
+2005-11-21 Valek Filippov
+	* New Russian translation.
+
+2005-11-01  Jean Bréfort  <jean.brefort@normalesup.org>
+	* po/POTFILES.in: add new files.
+	* po/fr.po: update french translation.
+
+2005-10-03 Jean Bréfort	<jean.brefort@normalesup.org>
+	* Update POTFILES.in.
+
+2005-09-22 Jean Bréfort	<jean.brefort@normalesup.org>
+	* Update POTFILES.in.
+
+2005-09-07 Jean Bréfort	<jean.brefort@normalesup.org>
+	* Update POTFILES.in.
+
+2005-05-27 Jean Bréfort	<jean.brefort@normalesup.org>
+	* Update french translation.
+
+2005-03-16 Jean Bréfort	<jean.brefort@normalesup.org>
+	* Merge roentgenium translation from 0-2 branch to de, it and pl.
+
+2005-01-21 Costantino
+	* Updated Italian translation.
+
+2002-07-20	Jean Bréfort	<jean.brefort@normalesup.org>
+	* Updated French Translation

@@ -1,0 +1,709 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE book PUBLIC "-//OASIS/DTD DocBookXML V4.1.2//EN"
+"http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd"[
+  <!ENTITY legal SYSTEM "legal.xml">
+  <!ENTITY appversion "0.14.0">
+  <!ENTITY manrevision "0.14.0">
+  <!ENTITY date "July 2012">
+  <!ENTITY app "GChemTable">
+]>
+<!-- 
+      (Do not remove this comment block.)
+  Maintained by the GNOME Documentation Project
+  http://developer.GNOME.org/projects/gdp
+  Template version: 2.0 beta
+  Template last modified Jan 30, 2002
+-->
+<!-- =============Document Header ============================= -->
+<book id="index" lang="en">
+  <title>&app; manual</title>
+<!-- please do not change the id; for translations, change lang to -->
+<!-- appropriate code -->
+  <bookinfo> 
+	 <title>&app; Manual V&manrevision;</title>
+	 <copyright> 
+       <year>2006-2012</year>
+       <holder>Jean Br&#233;fort</holder>
+     </copyright>
+
+  <!-- translators: uncomment this and add lang=".." to the <book> tag:
+
+  <copyright>
+   <year>2002</year>
+   <holder>ME-THE-TRANSLATOR (Latin translation)</holder>
+  </copyright>
+
+   -->
+
+	&legal;
+
+	<publisher role="maintainer">
+		<publishername>GNOME Documentation Project</publishername>
+	</publisher>
+
+	 <authorgroup> 
+		<author> 
+		  <firstname>Jean</firstname>
+		  <surname>Br&#233;fort</surname>
+		  <affiliation> 
+			 <address> <email>jean.brefort@normalesup.org</email> </address>
+		  </affiliation>
+		</author> 
+<!-- This is appropriate place for other contributors: translators,
+      maintainers,  etc. Commented out by default.
+       <othercredit role="translator">
+	<firstname>Latin</firstname> 
+	<surname>Translator 1</surname> 
+	<affiliation> 
+	  <orgname>Latin Translation Team</orgname> 
+	  <address> <email>translator@gnome.org</email> </address> 
+	</affiliation>
+	<contrib>Latin translation</contrib>
+      </othercredit>
+-->
+	 </authorgroup>
+
+<!-- According to GNU FDL, revision history is mandatory if you are -->
+<!-- modifying/reusing someone else's document.  If not, you can omit it. -->
+	 <revhistory>
+<!-- Remember to remove the &manrevision; entity from the revision entries other
+   than the current revision. -->
+   		<revision> 
+		  <revnumber>&app; Manual V&manrevision;</revnumber>
+		  <date>&date;</date> 
+		  <revdescription> 
+			 <para role="author">Jean Br&#233;fort
+				<email>jean.brefort@normalesup.org</email> </para>
+			 <para role="publisher">GNOME Documentation Project</para>
+		  </revdescription>
+		</revision>
+  		<revision> 
+		  <revnumber>&app; Manual V0.12.0</revnumber>
+		  <date>April 2010</date> 
+		  <revdescription> 
+			 <para role="author">Jean Br&#233;fort
+				<email>jean.brefort@normalesup.org</email> </para>
+			 <para role="publisher">GNOME Documentation Project</para>
+		  </revdescription>
+		</revision>
+  		<revision> 
+		  <revnumber>&app; Manual V0.10.0</revnumber>
+		  <date>October 2008</date> 
+		  <revdescription> 
+			 <para role="author">Jean Br&#233;fort
+				<email>jean.brefort@normalesup.org</email> </para>
+			 <para role="publisher">GNOME Documentation Project</para>
+		  </revdescription>
+		</revision>
+  		<revision> 
+		  <revnumber>&app; Manual V0.8.0</revnumber>
+		  <date>February 2007</date> 
+		  <revdescription> 
+			 <para role="author">Jean Br&#233;fort
+				<email>jean.brefort@normalesup.org</email> </para>
+			 <para role="publisher">GNOME Documentation Project</para>
+		  </revdescription>
+		</revision>
+	 </revhistory>
+	 <releaseinfo> This manual describes version &appversion; of &app;.
+		</releaseinfo>
+	 <legalnotice> 
+		<title>Feedback</title>
+		<para>To report a bug or make a suggestion regarding the &app; application or
+		this manual, go to the
+		<ulink url="http://savannah.nongnu.org/projects/gchemutils" type="html"><application>&app;</application> home page</ulink>. 
+      </para>
+<!-- Translators may also add here feedback address for translations -->
+	 </legalnotice>
+	<abstract role="description">
+		<para>&app; is a chemistry elements periodic table application.</para>
+	</abstract>
+  </bookinfo>  
+
+<!-- ============= Document Body ============================= -->
+
+<!-- ============= Introduction ============================= -->
+ <preface id="gchemtable-intro">
+    <title>Introduction</title>
+	<para>The <application>&app;</application> application is a chemical
+	elements periodic table application. It provides scientific information
+	on the elements and multiple table color schemes.</para>
+ </preface>
+
+<!-- ============= Getting started ============================= -->
+ <chapter id="gchemtable-getting-started">
+    <title>Getting started</title>
+	<sect1 id="gchemtable-to-start">
+		<title>To Start <application>&app;</application></title>
+		<para>You can start <application>&app;</application> in the following ways:</para>
+		<variablelist>
+    		<varlistentry>
+    		<term>Applications list</term>
+    		<listitem>
+    		<para>Choose 
+    		<quote>Periodic table of the elements</quote>. It might be listed either in the Education or
+            Science category.</para>
+    		</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    		<term>Command line</term>
+    		<listitem>
+    		<para>Type <command>gchemtable</command>, then press <keycap>Return</keycap>.
+		</para>
+    		</listitem>
+    		</varlistentry>
+    		</variablelist>
+	</sect1>
+	<sect1 id="gchemtable-when-you-start">
+		<title>When You Start <application>&app;</application></title>
+		<para>When you start <application>&app;</application>, the following window is displayed:</para>
+ 			<figure id="gchemtable-main-window"> 
+			  <title>&app; window</title>
+			  <screenshot> 
+					<mediaobject>
+						<imageobject>
+							<objectinfo> <abstract><para>Screenshot of the <application>&app;</application>window.</para></abstract>
+							</objectinfo> 
+							<imagedata fileref="figures/start.png"/>
+						</imageobject>
+					</mediaobject>
+				</screenshot>
+			</figure>
+	
+		<para>The <application>&app;</application> window contains the following
+		  elements: </para>
+		<variablelist> 
+		  <varlistentry> <term>Menubar</term> 
+			 <listitem> 
+				<para>The menus on the menubar contain all of the commands you need
+				  to work with <application>&app;</application>.</para>
+			 </listitem>
+		  </varlistentry>
+		  <varlistentry> <term>Periodic table</term> 
+			 <listitem> 
+				<para>A periodic table of the elements. The colors used for
+				the buttons are conventional colors for the elements. Other
+				color schemes are also available, as explained
+				<link linkend="gchemtable-colors">later</link>.</para>
+			 </listitem>
+		  </varlistentry>
+		</variablelist>
+		<para>When the mouse is moved over an element button, a popup window appears
+		with some data about the element:</para>
+ 			<figure id="gchemtable-tip"> 
+			  <title>&app; window with an element tip.</title>
+			  <screenshot> 
+					<mediaobject>
+						<imageobject>
+							<objectinfo> <abstract><para>Screenshot of the <application>&app;</application>window with an application tip.</para></abstract>
+							</objectinfo> 
+							<imagedata fileref="figures/tip.png"/>
+						</imageobject>
+					</mediaobject>
+				</screenshot>
+			</figure>
+	</sect1>
+</chapter>
+
+<!-- ============= Usage ============================= -->
+ <chapter id="gchemtable-usage">
+    <title>Usage</title>
+	<sect1 id="gchemtable-colors">
+		<title>Color Schemes</title>
+		<para>Several color schemes are available:</para>
+		<variablelist> 
+		  <varlistentry> <term>No colors</term> 
+			 <listitem> 
+				<para>All buttons are grey.</para>
+			 </listitem>
+		  </varlistentry>
+		  <varlistentry> <term>Default</term> 
+			 <listitem>
+				<para>Conventional colors are used.</para>
+			 </listitem>
+		  </varlistentry>
+		  <varlistentry> <term>Physical state</term> 
+			 <listitem>
+				<para>The color of the button depends on the
+				physical state (solid, liquid, or gas) of the element at a given temperature.
+				This temperature can be changed using the horizontal scale.</para>
+				<figure id="gchemtable-state"> 
+				  <title>Physical state color scheme</title>
+				  <screenshot> 
+						<mediaobject>
+							<imageobject>
+								<objectinfo> <abstract><para>Screenshot of the Main Page with Physical state color scheme.</para></abstract>
+								</objectinfo> 
+								<imagedata fileref="figures/state.png"/>
+							</imageobject>
+						</mediaobject>
+					</screenshot>
+				</figure>
+				<para>Elements with a black background indicate that the state is
+				unknown at the given temperature.</para>
+			 </listitem>
+		  </varlistentry>
+		  <varlistentry> <term>Family</term> 
+			 <listitem>
+				<para>The data used are the element family as given in the
+				<ulink type="http" url="http://www.blueobelisk.org">Blue Obelisk</ulink> Data Repository.</para>
+				<figure id="gchemtable-family"> 
+				  <title>Family color scheme</title>
+				  <screenshot> 
+						<mediaobject>
+							<imageobject>
+								<objectinfo> <abstract><para>Screenshot of the Main Page with Physical state color scheme.</para></abstract>
+								</objectinfo> 
+								<imagedata fileref="figures/family.png"/>
+							</imageobject>
+						</mediaobject>
+					</screenshot>
+				</figure>
+			<para>If a family is selected, only elements of this family
+			will be displayed with their family color used as a background. Other elements
+			will have a black background.</para>
+			</listitem>
+		  </varlistentry>
+		  <varlistentry> <term>Electronegativity</term> 
+			<listitem>
+			<para>The data used are the Pauling electronegativity as given in the
+			<ulink type="http" url="http://www.blueobelisk.org">Blue Obelisk</ulink> Data Repository.
+			Colors go from red (lowest electronegativity) to blue (highest electronegativity).
+			If no data is available in the database, the element will have a black background.</para>
+
+				<figure id="gchemtable-electronegativity"> 
+				  <title>Electronegativity color scheme</title>
+				  <screenshot> 
+						<mediaobject>
+							<imageobject>
+								<objectinfo> <abstract><para>Screenshot of the Main Page with Electronegativity color scheme.</para></abstract>
+								</objectinfo> 
+								<imagedata fileref="figures/electronegativity.png"/>
+							</imageobject>
+						</mediaobject>
+					</screenshot>
+				</figure>
+			 </listitem>
+		  </varlistentry>
+		  <varlistentry> <term>Atomic radius</term> 
+			 <listitem>
+			<para>The data used are the atomic radii as given in the
+			<ulink type="http" url="http://www.blueobelisk.org">Blue Obelisk</ulink> Data Repository.
+			Colors go from red (lowest radius) to blue (largest radius).
+			If no data is available in the database, the element will have a black background.</para>
+				<figure id="gchemtable-radius"> 
+				  <title>Atomic radius color scheme</title>
+				  <screenshot> 
+						<mediaobject>
+							<imageobject>
+								<objectinfo> <abstract><para>Screenshot of the Main Page with Atomic radius color scheme.</para></abstract>
+								</objectinfo> 
+								<imagedata fileref="figures/atomic-radii.png"/>
+							</imageobject>
+						</mediaobject>
+					</screenshot>
+				</figure>
+			 </listitem>
+		  </varlistentry>
+		  <varlistentry> <term>Block</term>
+			 <listitem>
+		     <para>Elements buttons are colored according to the block (s, p, d, or f)
+		     to which the element belongs</para>
+				<figure id="gchemtable-block"> 
+				  <title>Block color scheme</title>
+				  <screenshot> 
+						<mediaobject>
+							<imageobject>
+								<objectinfo> <abstract><para>Screenshot of the Main Page with Block color scheme.</para></abstract>
+								</objectinfo> 
+								<imagedata fileref="figures/blocs.png"/>
+							</imageobject>
+						</mediaobject>
+					</screenshot>
+				</figure>
+			 </listitem>
+		  </varlistentry>
+		</variablelist>
+		
+	</sect1>
+	<sect1 id="gchemtable-eltdlg">
+		<title>Element Window</title>
+		<para>This window shows the data for an element. To display it,
+		press the corresponding element button in the periodic table.
+		It is possible to display several element windows at once.</para>
+		<para>The data are spread over several pages, the following 
+		screenshots show the various pages for iron:</para>
+		<variablelist> 
+		  <varlistentry> <term>Main Page</term> 
+			 <listitem> 
+				<figure id="gchemtable-main-page"> 
+				  <title>Main Page</title>
+				  <screenshot> 
+						<mediaobject>
+							<imageobject>
+								<objectinfo> <abstract><para>Screenshot of the Main Page.</para></abstract>
+								</objectinfo> 
+								<imagedata fileref="figures/main.png"/>
+							</imageobject>
+						</mediaobject>
+					</screenshot>
+				</figure>
+			 </listitem>
+		  </varlistentry>
+		  <varlistentry> <term>Electronic Properties</term> 
+			 <listitem> 
+				<figure id="gchemtable-electronic"> 
+				  <title>Electronic Properties Page</title>
+				  <screenshot> 
+						<mediaobject>
+							<imageobject>
+								<objectinfo> <abstract><para>Screenshot of the Electronic Properties Page.</para></abstract>
+								</objectinfo> 
+								<imagedata fileref="figures/elec.png"/>
+							</imageobject>
+						</mediaobject>
+					</screenshot>
+				</figure>
+			 </listitem>
+		  </varlistentry>
+		  <varlistentry> <term>Radii</term> 
+			 <listitem> 
+				<figure id="gchemtable-radii"> 
+				  <title>Radii Page</title>
+				  <screenshot> 
+						<mediaobject>
+							<imageobject>
+								<objectinfo> <abstract><para>Screenshot of the Radii Page.</para></abstract>
+								</objectinfo> 
+								<imagedata fileref="figures/radii.png"/>
+							</imageobject>
+						</mediaobject>
+					</screenshot>
+				</figure>
+			 </listitem>
+		  </varlistentry>
+		  <varlistentry> <term>Thermodynamic Properties</term> 
+			 <listitem> 
+				<figure id="gchemtable-thermodynamics"> 
+				  <title>Thermodynamic Properties Page</title>
+				  <screenshot> 
+						<mediaobject>
+							<imageobject>
+								<objectinfo> <abstract><para>Screenshot of the Thermodynamic Properties Page.</para></abstract>
+								</objectinfo> 
+								<imagedata fileref="figures/thermo.png"/>
+							</imageobject>
+						</mediaobject>
+					</screenshot>
+				</figure>
+			 </listitem>
+		  </varlistentry>
+		</variablelist>
+		<para>When a <guibutton>Show curve</guibutton> button appears on the same line
+		as data, it is possible to display a <link linkend="gchemtable-pre-defined-chart">chart</link> of this data as a function
+		of the element atomic number by clicking on the button.</para>
+	</sect1>
+</chapter>
+<chapter id="gchemtable-curvedlg">
+	<title>Charts</title>
+	<sect1 id="gchemtable-pre-defined-chart">
+		<title>Pre-defined Charts</title>
+		<para>When you click on the <guibutton>Show curve</guibutton> button in the
+		<link linkend="gchemtable-eltdlg">element window</link> you obtain a chart such as:</para>
+		<figure id="gchemtable-curve"> 
+		  <title>First ionization energy curve</title>
+		  <screenshot> 
+				<mediaobject>
+					<imageobject>
+						<objectinfo> <abstract><para>Screenshot of the first ionization energy curve.</para></abstract>
+						</objectinfo> 
+						<imagedata fileref="figures/curve.png"/>
+					</imageobject>
+				</mediaobject>
+			</screenshot>
+		</figure>
+		<para>Some charts can also be displayed by selecting one of the items in
+		<menuchoice><guimenu>Edit</guimenu><guimenuitem>Element charts</guimenuitem></menuchoice>, except
+		<guimenuitem>Custom</guimenuitem> which creates a
+		<link linkend="gchemtable-user-curve">custom chart</link>.</para>
+		<para>Consecutive points are joined by a segment. The absence of a segment
+		means that at least one data point is missing.</para>
+		<para>Charts can be customized as explained in the <link linkend="gchemtable-customize-curve">next section</link>.</para>
+	</sect1>
+	<sect1 id="gchemtable-customize-curve">
+		<title>Customize Charts</title>
+		<para>To customize a chart, choose <menuchoice> <guimenu>File</guimenu>
+		<guimenuitem>Properies</guimenuitem></menuchoice> in the chart window menu.
+		The following dialog pops up:
+		</para>
+		<figure id="gchemtable-chart-guru"> 
+		  <title>Chart properties dialog.</title>
+		  <screenshot> 
+				<mediaobject>
+					<imageobject>
+						<objectinfo> <abstract><para>Screenshot of the chart properties dialog.</para></abstract>
+						</objectinfo> 
+						<imagedata fileref="figures/graph-guru.png"/>
+					</imageobject>
+				</mediaobject>
+			</screenshot>
+		</figure>
+		<para>The main elements in this dialog are:</para>
+		<variablelist> 
+		  <varlistentry> <term>The graph hierarchy tree.</term> 
+			 <listitem> 
+				<para>The graph hierarchy tree (top left) displays the current
+				graph components and their hierarchy. The hierarchy can be modified
+				using the buttons just below it.</para>
+			 </listitem>
+		  </varlistentry>
+		  <varlistentry> <term>The graph preview.</term> 
+			 <listitem> 
+				<para>The graph preview (top right) shows the result of the modifications
+				and displays a scaled version of the graph you will get when you
+				apply the changes.</para>
+			 </listitem>
+		  </varlistentry>
+		  <varlistentry> <term>The Add button.</term> 
+			 <listitem> 
+				<para>The <guibutton>Add</guibutton> button allows for insertion of new
+				components into the hierarchy. Note that the list of available components
+				to add depends on the object selected.</para>
+			 </listitem>
+		  </varlistentry>
+		  <varlistentry> <term>The arrow buttons.</term> 
+			 <listitem> 
+				<para>The arrow buttons can be used to modify the order of
+				child objects of the same parent. These buttons are only available when ordering
+				makes sense for the currently selected object. If you have, say, two
+				charts in the graph, you can change the order in the hierarchy,
+				and this will affect the order in which they are displayed.</para>
+			 </listitem>
+		  </varlistentry>
+		  <varlistentry> <term>The Delete button.</term> 
+			 <listitem> 
+				<para>Clicking the <guibutton>Delete</guibutton> button destroys
+				the selected graph component and all its children. The button is
+				not available when the component can't be removed.</para>
+				<warning><para>These deletions
+				can't be undone, so be careful.</para></warning>
+			 </listitem>
+		  </varlistentry>
+		  <varlistentry> <term>The component properties notebook.</term> 
+			 <listitem> 
+				<para>The component properties notebook (bottom) shows all the
+				properties you can set for the current component.
+				</para>
+			 </listitem>
+		  </varlistentry>
+		</variablelist>
+		<warning><para>The window title can't be changed, so if you customize a pre-defined
+		chart, the title may no longer reflect what is displayed in the window.</para>
+		<para><application>&app;</application> does not check the validity of the charts.
+		It is possible add titles and labels not corresponding to the data actually used, in which case the
+		resulting charts will not make sense.</para>
+		<para>Some features appearing in the dialog, such as error bars are not currently
+		supported by <application>&app;</application>.</para></warning>
+	</sect1>
+	<sect1 id="gchemtable-user-curve">
+		<title>User Defined Charts</title>
+		<para>A user can create a new empty plot, and then customize it as explained
+		in the <link linkend="gchemtable-customize-curve">previous section</link>.</para>
+		<para>To create a new empty plot, choose <menuchoice> <guimenu>Edit</guimenu>
+		<guimenu>Element charts</guimenu><guimenuitem>Custom</guimenuitem></menuchoice>.
+		This will open two new windows: one containing the new chart, and one
+		containing the chart properties dialog.</para>
+		<figure id="gchemtable-new-chart"> 
+		  <title>New empty chart window</title>
+		  <screenshot> 
+				<mediaobject>
+					<imageobject>
+						<objectinfo> <abstract><para>Screenshot of the new chart.</para></abstract>
+						</objectinfo> 
+						<imagedata fileref="figures/new-chart.png"/>
+					</imageobject>
+				</mediaobject>
+			</screenshot>
+		</figure>
+		<figure id="gchemtable-new-chart-guru"> 
+		  <title>New empty chart properties dialog</title>
+		  <screenshot> 
+				<mediaobject>
+					<imageobject>
+						<objectinfo> <abstract><para>Screenshot of the new chart properties dialog.</para></abstract>
+						</objectinfo> 
+						<imagedata fileref="figures/new-chart-guru.png"/>
+					</imageobject>
+				</mediaobject>
+			</screenshot>
+		</figure>
+		<para>The graph contains just one empty chart. In most cases, the first thing to 
+		do is to add a new plot using the <guibutton>Add</guibutton> button as seen in next
+		screenshot:</para>
+		<figure id="gchemtable-add-plot"> 
+		  <title>Adding a plot</title>
+		  <screenshot> 
+				<mediaobject>
+					<imageobject>
+						<objectinfo> <abstract><para>Adding a plot to the chart.</para></abstract>
+						</objectinfo> 
+						<imagedata fileref="figures/add-plot.png"/>
+					</imageobject>
+				</mediaobject>
+			</screenshot>
+		</figure>
+		<para>This adds not only a plot, but also a backplane, the two needed axes,
+		and a data series to the plot.</para>
+		<para>You can then select the data to use for the new series. Only predefined
+		data vectors can be used. If X values are not selected, an integer series
+		starting from 0 will be used; that is the atomic number minus one.</para>
+		<figure id="gchemtable-choose-data"> 
+		  <title>Data selection</title>
+		  <screenshot> 
+				<mediaobject>
+					<imageobject>
+						<objectinfo> <abstract><para>Selecting data for the series.</para></abstract>
+						</objectinfo> 
+						<imagedata fileref="figures/choose-data.png"/>
+					</imageobject>
+				</mediaobject>
+			</screenshot>
+		</figure>
+		<para>Further customization is explained in the <link linkend="gchemtable-customize-curve">previous section</link>.</para>
+	</sect1>
+	<sect1 id="gchemtable-copy-curve">
+		<title>To Copy a Chart</title>
+		<para>To copy the chart, choose
+		<menuchoice> <guimenu>Edit</guimenu> <guimenuitem>Copy</guimenuitem></menuchoice>
+		and then paste into the target application. Charts will be copied as native graphs to
+		Abiword or as svg or png data to other applications which support such formats.</para>
+	</sect1>
+	<sect1 id="gchemtable-export-curve">
+		<title>To Export a Chart as an Image</title>
+		<para>To export the displayed chart to an image, use
+		  <menuchoice> <guimenu>File</guimenu> <guimenuitem>Save As Image</guimenuitem>
+			 </menuchoice>.</para>
+		<para>Available formats are SVG, EPS, PS, PDF, and formats that support writing in GdkPixbuf.</para>
+		<para>To choose a format, you can use an appropriate file name extension,
+		or explicitly select a format in the combo box.
+		With the first method, if <application>&app;</application> does
+		not recognize an extension, the exported file will be a SVG
+		file. <application>&app;</application> will add an extension
+		to the file name if needed.</para>
+		<para>You might change the default width and height of the exported image
+		using the appropriate entries.</para>
+		<para>Postscript and PDF files can also be produced using the
+		<link linkend="gchemtable-print-curve"><menuchoice> <guimenu>File</guimenu> <guimenuitem>Print...</guimenuitem>
+			 </menuchoice> command</link>.</para>
+	</sect1>
+	<sect1 id="gchemtable-print-curve">
+		<title>To Print a Chart</title>
+		  <para>To print the chart, choose 
+		  <menuchoice> <guimenu>File</guimenu> <guimenuitem>Print...</guimenuitem>
+			 </menuchoice>.</para>
+		 <para><menuchoice> <guimenu>File</guimenu> <guimenuitem>Preview</guimenuitem>
+			 </menuchoice> opens a window with a preview of the printed output.</para>
+		<para>To tune the printed output, choose<menuchoice>
+		<guimenu>File</guimenu> <guimenuitem>Page setup...</guimenuitem>
+		 </menuchoice> as explained below.</para>
+		<sect2 id="gchemtable-print-setup">
+		  <title>The page setup dialog.</title>
+		  <para>The first tab of the dialog concerns the paper and margins setup.
+		  Headers and footers are not supported in the version of <application>&app;</application></para>
+		  <figure id="gchemtable-page-setup"> 
+			<title>The Page Setup tab.</title>
+			<screenshot> 
+			  <mediaobject>
+				<imageobject>
+				  <objectinfo> <abstract><para>Screenshot of page setup dialog.</para></abstract>
+				  </objectinfo> 
+				  <imagedata fileref="figures/page-setup.png"/>
+				</imageobject>
+			  </mediaobject>
+			</screenshot>
+		  </figure>
+		  <para>The second tab allows you to choose the scale of the output. With no scaling or
+		  scaling at 100%, the output will have the same size in points as the size in pixels on
+		  the screen. If you choose automatic scaling, you can make the output fill the available
+		  space either horizontally, vertically, or both (unchecking both options is equivalent to no scaling).</para>
+		  <para>Printing to more than one page is not supported in this version of <application>&app;</application></para>
+		  <figure id="gchemtable-print-scale"> 
+			<title>The Print Scale tab.</title>
+			<screenshot> 
+			  <mediaobject>
+				 <imageobject>
+					<objectinfo> <abstract><para>Screenshot of the printing scale page.</para></abstract>
+					</objectinfo> 
+					<imagedata fileref="figures/print-scale.png"/>
+				 </imageobject>
+			  </mediaobject>
+			</screenshot>
+		  </figure>
+	  </sect2>
+	</sect1>
+</chapter>
+
+ <chapter id="gchemtable-support">
+    <title>Support.</title>
+	<sect1 id="gchemtable-question">
+		<title>To Ask a Question</title>
+		<para>If you choose <menuchoice> <guimenu>Help</guimenu> <guimenuitem>Ask a question</guimenuitem></menuchoice>,
+		your mail client should pop up with a new message to the <ulink type="mail" url="mailto:gchemutils-main@nongnu.org">Gnome Chemistry Utils
+		mailing list</ulink>.</para>
+		<para>Another way to get some help is to connect on the <ulink url="irc://irc.gimp.net/gchemutils">#gchemutils</ulink> IRC channel
+		on the irc.gimp.net network and ask your question there (if you are not alone on the channel).</para>
+	</sect1>
+	<sect1 id="gchemtable-web">
+		<title>To Find the Gnome Chemistry Utils on the Web.</title>
+		<para>If you choose <menuchoice> <guimenu>Help</guimenu> <guimenuitem>Gnome Chemistry Utils on the web</guimenuitem></menuchoice>,
+		the default web browser should pop up and display the main page for the Gnome Chemsitry Utils.</para>
+		<para>The main page is
+		<ulink type="http" url="http://gchemutils.nongnu.org">http://gchemutils.nongnu.org</ulink> and the project
+		page at Savannah <ulink type="http" url="http://savannah.nongnu.org/projects/gchemutils">http://savannah.nongnu.org/projects/gchemutils</ulink>.</para>
+	</sect1>
+	<sect1 id="gchemtable-bug">
+		<title>To Report a Bug</title>
+		<para>To report a bug, you must use the bug page for the Gnome Chemistry
+		Utils at Savannah. You can access it by choosing
+		<menuchoice> <guimenu>Help</guimenu> <guimenuitem>Report Bugs</guimenuitem></menuchoice>
+		(hopefully you'll have only one at a time to report).</para>
+		<para>You can also use a web browser to go to the bug report page address directly. The bug repository is at
+		<ulink type="http" url="https://savannah.nongnu.org/bugs/?group=gchemutils">https://savannah.nongnu.org/bugs/?group=gchemutils</ulink></para>
+	</sect1>
+</chapter>
+
+<!-- ============= Application License ============================= -->
+
+ <chapter id="license">
+  <title>License</title>
+  <para>
+   This program is free software; you can redistribute it and/or
+   modify it under the terms of the  <ulink type="help" url="ghelp:gpl">GNU
+   General Public License</ulink> as
+   published by the Free Software Foundation; 
+   either version 3 of the License, or (at your option) any later
+   version.
+  </para>
+  <para>
+   This program is distributed in the hope that it will be useful, but
+   WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   <citetitle>GNU General Public License</citetitle> for more details.
+  </para>
+  <para>
+   A copy of the <citetitle>GNU General Public License</citetitle> is
+   included as an appendix to the <citetitle>GNOME Users
+   Guide</citetitle>.  You may also obtain a copy of the
+   <citetitle>GNU General Public License</citetitle> from the Free
+   Software Foundation by visiting <ulink type="http"
+   url="http://www.fsf.org">their Web site</ulink> or by writing to
+   <address>
+    Free Software Foundation, Inc.
+    <street>51 Franklin St</street> - Fifth Floor
+    <city>Boston</city>, <state>MA</state> <postcode>02111-1307</postcode>
+    <country>USA</country>
+   </address>
+  </para>
+ </chapter>
+
+</book>

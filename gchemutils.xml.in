@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+  <mime-type type="application/x-gcrystal">
+    <_comment>Crystalline structure model</_comment>
+    <magic priority="50">
+      <match type="string" value="&lt;crystal" offset="0:64"/>
+    </magic>
+    <magic priority="70">
+      <match type="string" value="&lt;gcry:crystal" offset="0:64"/>
+    </magic>
+    <root-XML namespaceURI="http://gcrystal.nongnu.org" localName="gcry"/>
+    <glob pattern="*.gcrystal"/>
+  </mime-type>
+  <mime-type type="application/x-gchempaint">
+    <_comment>2D Chemical structure</_comment>
+    <magic priority="50">
+      <match type="string" value="&lt;chemistry" offset="0:64"/>
+    </magic>
+    <magic priority="70">
+      <match type="string" value="&lt;gcp:chemistry" offset="0:64"/>
+    </magic>
+    <root-XML namespaceURI="http://www.nongnu.org/gchempaint" localName="gcp"/>
+    <glob pattern="*.gchempaint"/>
+  </mime-type>
+  <mime-type type="application/x-nuts">
+    <_comment>NUTS file format</_comment>
+    <magic priority="70">
+      <match type="string" value="\001\002\003\004" offset="0"/>
+    </magic>
+    <glob pattern="*.fid"/>
+    <glob pattern="*.spc"/>
+  </mime-type>
+</mime-info>

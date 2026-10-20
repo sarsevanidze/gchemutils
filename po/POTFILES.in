@@ -1,0 +1,204 @@
+[encoding: UTF-8]
+gchemutils.xml.in
+database/residues.xml.in
+database/elements.xml.in
+database/databases.xml.in
+database/elecprops.xml.in
+database/isotopes.xml.in
+database/radii.xml.in
+gnumeric/functions.cc
+gnumeric/plugin.xml.in
+goffice/plugin.xml.in
+goffice/gchemutils.cc
+goffice/gogchem3dapp.cc
+goffice/gogchem3dwin.cc
+goffice/gogcpapp.cc
+goffice/gogcpwin.cc
+goffice/gogcrystalwin.cc
+libs/gcp/about.cc
+libs/gcp/arrow.cc
+libs/gcp/application.cc
+libs/gcp/atom.cc
+libs/gcp/bond.cc
+libs/gcp/brackets.cc
+libs/gcp/docprop.cc
+libs/gcp/electron.cc
+libs/gcp/fontsel.cc
+libs/gcp/fragment.cc
+libs/gcp/mechanism-arrow.cc
+libs/gcp/mechanism-step.cc
+libs/gcp/mesomer.cc
+libs/gcp/mesomery.cc
+libs/gcp/mesomery-arrow.cc
+libs/gcp/molecule.cc
+libs/gcp/preferences.cc
+libs/gcp/reactant.cc
+libs/gcp/reaction.cc
+libs/gcp/reaction-arrow.cc
+libs/gcp/reaction-separator.cc
+libs/gcp/reaction-operator.cc
+libs/gcp/reaction-prop.cc
+libs/gcp/reaction-step.cc
+libs/gcp/scheme.cc
+libs/gcp/step.cc
+libs/gcp/step-counter.cc
+libs/gcp/text.cc
+libs/gcp/theme.cc
+libs/gcp/view.cc
+libs/gcp/window.cc
+libs/gcr/application.cc
+libs/gcr/atomsdlg.cc
+libs/gcr/celldlg.cc
+libs/gcr/cleavagesdlg.cc
+libs/gcr/docprop.cc
+libs/gcr/document.cc
+libs/gcr/grid.cc
+libs/gcr/linesdlg.cc
+libs/gcr/view.cc
+libs/gcr/window.cc
+libs/gcu/application.cc
+libs/gcu/atom.cc
+libs/gcu/bond.cc
+libs/gcu/chain.cc
+libs/gcu/cycle.cc
+libs/gcu/dialog.cc
+libs/gcu/document.cc
+libs/gcu/element.cc
+libs/gcu/formula.cc
+libs/gcu/glview.cc
+libs/gcu/loader.cc
+libs/gcu/molecule.cc
+libs/gcu/object.cc
+libs/gcu/spacegroup.cc
+libs/gcu/value.cc
+libs/gcu/xml-utils.cc
+libs/gcugtk/application.cc
+libs/gcugtk/chem3dapplication.cc
+libs/gcugtk/chem3dwindow.cc
+libs/gcugtk/dialog.cc
+libs/gcugtk/filechooser.cc
+libs/gcugtk/gcuchem3dviewer.cc
+libs/gcugtk/gcucomboperiodic.c
+libs/gcugtk/gcuperiodic.c
+libs/gcugtk/molecule.cc
+libs/gcugtk/print-setup-dlg.cc
+libs/gcugtk/printable.cc
+libs/gcugtk/spectrumdoc.cc
+libs/gcugtk/spectrumview.cc
+libs/gcugtk/stringdlg.cc
+libs/gcugtk/ui-builder.cc
+plugins/loaders/cdx/cdx.cc
+plugins/loaders/cdx/plugin.xml.in
+plugins/loaders/cdxml/cdxml.cc
+plugins/loaders/cdxml/plugin.xml.in
+plugins/loaders/cif/cif.cc
+plugins/loaders/cif/plugin.xml.in
+plugins/loaders/cml/cml.cc
+plugins/loaders/cml/plugin.xml.in
+plugins/loaders/ctfiles/ctfiles.cc
+plugins/loaders/ctfiles/plugin.xml.in
+plugins/loaders/nuts/plugin.xml.in
+plugins/paint/arrows/arrowtool.cc
+[type: gettext/glade]plugins/paint/arrows/arrowtool.ui
+[type: gettext/glade]plugins/paint/arrows/curvedarrowtool.ui
+plugins/paint/arrows/org.gnome.gchemutils.paint.plugins.arrows.gschema.xml.in.in
+plugins/paint/arrows/plugin.cc
+plugins/paint/arrows/retrosynthesis.cc
+plugins/paint/arrows/retrosynthesisarrow.cc
+plugins/paint/arrows/retrosynthesisstep.cc
+plugins/paint/atoms/chargetool.cc
+plugins/paint/atoms/electrontool.cc
+plugins/paint/atoms/orbital.cc
+[type: gettext/glade]plugins/paint/atoms/orbital.ui
+[type: gettext/glade]plugins/paint/atoms/orbital-prop.ui
+plugins/paint/atoms/plugin.cc
+[type: gettext/glade]plugins/paint/bonds/bond.ui
+plugins/paint/bonds/bondtool.cc
+[type: gettext/glade]plugins/paint/bonds/chain.ui
+plugins/paint/bonds/chaintool.cc
+[type: gettext/glade]plugins/paint/bonds/newman.ui
+plugins/paint/bonds/plugin.cc
+[type: gettext/glade]plugins/paint/cycles/cycle.ui
+[type: gettext/glade]plugins/paint/cycles/cyclen.ui
+plugins/paint/cycles/cycletool.cc
+plugins/paint/cycles/plugin.cc
+plugins/paint/residues/plugin.cc
+plugins/paint/residues/residues-dlg.cc
+[type: gettext/glade]plugins/paint/residues/residues.ui
+plugins/paint/selection/bracketstool.cc
+[type: gettext/glade]plugins/paint/selection/brackets.ui
+plugins/paint/selection/group.cc
+[type: gettext/glade]plugins/paint/selection/group.ui
+plugins/paint/selection/lassotool.cc
+plugins/paint/selection/plugin.cc
+plugins/paint/selection/selectiontool.cc
+[type: gettext/glade]plugins/paint/templates/new-template.ui
+plugins/paint/templates/plugin.cc
+[type: gettext/glade]plugins/paint/templates/templates.ui
+plugins/paint/templates/templatetool.cc
+[type: gettext/glade]plugins/paint/text/eq-props.ui
+plugins/paint/text/equation.cc
+[type: gettext/glade]plugins/paint/text/fontsel.ui
+plugins/paint/text/fragmenttool.cc
+plugins/paint/text/plugin.cc
+programs/3d/application.cc
+programs/3d/main.cc
+programs/3d/window.cc
+programs/3d/gchem3d.desktop.in
+programs/calc/gchemcalc.cc
+programs/calc/gchemcalc.desktop.in
+programs/crystal/gcrystal.desktop.in
+programs/crystal/application.cc
+programs/crystal/document.cc
+programs/crystal/main.cc
+programs/crystal/window.cc
+programs/crystal/x-gcrystal.desktop.in
+programs/paint/gchempaint.desktop.in
+programs/paint/main.cc
+programs/paint/standaloneapp.cc
+programs/paint/x-gchempaint.desktop.in
+programs/spectra/application.cc
+programs/spectra/gspectrum.desktop.in
+programs/spectra/gspectrum.cc
+programs/spectra/window.cc
+programs/table/gchemtable-app.cc
+programs/table/gchemtable-elt.cc
+programs/table/gchemtable-curve.cc
+programs/table/gchemtable-data-allocator.cc
+programs/table/gchemtable-data.cc
+programs/table/gchemtable.desktop.in
+schemas/org.gnome.gchemutils.crystal.gschema.xml.in.in
+schemas/org.gnome.gchemutils.gschema.xml.in.in
+schemas/org.gnome.gchemutils.paint.gschema.xml.in.in
+templates/paint/haworth.xml.in
+templates/paint/templates.xml.in
+[type: gettext/glade]ui/calc/gchemcalc.ui
+[type: gettext/glade]ui/crystal/bonds.ui
+[type: gettext/glade]ui/crystal/cell.ui
+[type: gettext/glade]ui/crystal/prefs.ui
+[type: gettext/glade]ui/crystal/view-settings.ui
+[type: gettext/glade]ui/crystal/atoms.ui
+[type: gettext/glade]ui/crystal/cleavages.ui
+[type: gettext/glade]ui/crystal/docprop.ui
+[type: gettext/glade]ui/crystal/lines.ui
+[type: gettext/glade]ui/crystal/size.ui
+[type: gettext/glade]ui/libgcu/gcuperiodic.ui
+[type: gettext/glade]ui/libgcu/image-size.ui
+[type: gettext/glade]ui/libgcu/image-resolution.ui
+[type: gettext/glade]ui/libgcu/print-setup.ui
+[type: gettext/glade]ui/libgcu/stringinputdlg.ui
+[type: gettext/glade]ui/paint/arrow-object.ui
+[type: gettext/glade]ui/paint/docprop.ui
+[type: gettext/glade]ui/paint/H-pos.ui
+[type: gettext/glade]ui/paint/newfiledlg.ui
+[type: gettext/glade]ui/paint/preferences.ui
+[type: gettext/glade]ui/paint/reaction-arrow-prop.ui
+[type: gettext/glade]ui/paint/tools.ui
+[type: gettext/glade]ui/paint/zoom.ui
+[type: gettext/glade]ui/table/acidity.ui
+[type: gettext/glade]ui/table/eltpage.ui
+[type: gettext/glade]ui/table/state-thermometer.ui
+[type: gettext/glade]ui/table/curve.ui
+[type: gettext/glade]ui/table/family.ui
+[type: gettext/glade]ui/table/block.ui
+libs/gcp/reaction-substractor.cc

@@ -1,0 +1,610 @@
+Version 0.15.1
+	3d viewer:
+		* Avoid empty entries in recent list.
+	GChemPaint:
+		* Make adding template work again.
+		* Add a minus sign before reaction products attached to a reaction
+		arrow.
+		* Fix CML import (also affected 3d viewer and >GCrystal).
+		* Fix BMP export.
+		* Fix drawing with Gtk+ >= 3.10.
+		* Redesign tools buttons so that they are more in line with Gtk+ theme.
+		* Support mathematical equations.
+	GCrystal:
+		* Fix test order in lines code. [#41261]
+		* Fix crash in dialogs with recent Gtk+.
+	GSpectrum:
+		* Fix access to uninitialized data.
+		* Don' double free a string.
+	GOffice component:
+		* Don't crash when editing after saving a GChemPaint object.
+	Mozilla plugin:
+		* Fix supported mime-types list. (see Debian bug #716961)
+		* Fix crashers for 2D and 3D molecules.
+	Other:
+		* Fix build on FreeBSD (Koop Mast). [#41256]
+
+Version 0.15.0
+	GChemPaint:
+		* Do not allow a mesomery destruction when inside a reaction.
+		* Fix molecule deletion inside a mesomery.
+		* Fix reactant deletion inside a reaction.
+		* Don't crash when a mesomery inside a reaction is destroyed.
+		* Check molecule consistency when loading, avoids a stack overflow.
+		* Enhanced representation of chiral molecules imported from CML and other
+		formats.
+		* Fix crash when deleting a cyclic bond.
+		* Really close the window on delete event.
+		* Don't crash when aligning ungrouped objects.
+		* Do not use a NULL atom properties. [#40194]
+		* Allow attaching several objects to a reaction arrow.
+	GCrystal:
+		* Fix row selection operations order in grids.
+	GChemTable:
+		* Fix crash when using masses in a graph.
+		* Fix graph behavior after edition.
+	Gnumeric plugin:
+		* Add monoisotopicmass function in gnumeric and more.
+	All:
+		* Make sure to not create a C++ locale from a NULL string.
+
+Version 0.14.0
+	GChemPaint:
+		* Fix reaction construction.
+		* Fix non bonding electron pairs.
+
+Version 0.13.99
+	GChemPaint:
+		* Fix squiggle bonds period.
+		* Allow brackets around a mesomery.
+		* Allow a mesomery inside a reaction.
+		* Fixed some meomory access issues.
+		* Fixed crash when loading a group.
+		* Fixed mesomery construction.
+		* Fixed crash when ungrouping.
+
+Version 0.13.98
+	GChemPaint:
+		* Don't freeze after an aborted molecules merge.
+		* Initialize the bond order for the Newman projection tool.
+		* Don't crash when adding brackets around a fragment.
+		* Fix undoing a molecule partial flip.
+		* Fix bracket stoichiometry index position after a transform.
+		* Fix explicit lone pairs count evaluation.
+
+Version 0.13.92
+	GChemCalc
+		* Updated the documentation.
+	GChemPaint:
+		* Fix View::BuildSVG() and View::BuildEPS() which were missing the
+		trailing 0.
+		* Fix misleading error message while saving.
+		* Fix loading of arrows inside a group. [#27032]
+	GCrystal:
+		* Apply element change to all selected atoms.
+		* Updated the documentation.
+	GSpectrum:
+		* Add "Response factor" as supported unit.
+		* Fixed widgets spacing.
+		* Updated the documentation.
+	GChemTable:
+		* Updated the documentation.
+
+Version 0.13.91
+	3d viewer:
+		* Show all menu items when a molecule is loaded from the command line.
+		* Updated user documentation.
+	GChemPaint:
+		* Don't crash on startup.
+	All:
+		* Fix localization issues.
+		* Fixed modal message boxes behavior.
+
+Version 0.13.90
+	3d viewer:
+		* Fix import from pdb files. [#36582]
+	GCrystal:
+		* Fix infinite loop condition. [#36583]
+		* Fix atomic radius change issue.
+	GChemTable:
+		* Fix languages translation.
+
+Version 0.13.7
+	GChemPaint:
+		* Fixed crash when selecting the alignment item inside a mechanism
+		step. [#35626]
+	GCrystal:
+		* Fixed loading CIF files using uptodate space groups descriptions.
+	Other:
+		* License is now GPL version 3 (except for the OpenBabel related code).
+		* Fix build on big endian machines (Dan Horak). [#36175]
+		* Updated API documentation.
+
+Version 0.13.6
+	GChemPaint:
+		* fixed text position serialization. [#34947]
+		* add some support for Newman projections.
+		* accept some multisteps reactions.
+	Goffice component:
+		* Add support for 3D molecular structures.
+	Other:
+		* Fixed pixmaps installation directory. [#35272]
+		* fixed build with ->l,--no-undefined. [patch #7677]
+
+Version 0.13.5
+	3d viewer:
+		* Import from InChI or SMILES.
+		* Export to GChemPaint and GChemCalc.
+		* Generates InChI, InChiKey and SMILES.
+		* Add access to databases.
+	GChemPaint:
+		* Brackets inside a molecule accept a stoichiometry coefficient.
+	GCrystal:
+		* Use multiple selection in atoms and lines dialogs.
+	GSpectrum:
+		* Allow markup in combo boxes and axes titles.
+	Goffice component:
+		* Add support for crystal structures.
+	Other:
+		* Fixed one more OpenGL related crasher.
+
+Version 0.13.4
+	All:
+		* Ported to Gtk+-3.0.
+	GCrystal:
+		* Use the new GcrGrid item in atoms, lines and cleavages dialogs.
+		* Make these and size dialogs instant apply.
+	GChemTable:
+		* Use a more complete tip window for elements.
+
+Version 0.13.3
+	GChemPaint:
+		* Fixed build with gcc-4.6. [#32363]
+		* Allow colored atomic symbols on a per-document basis.
+		* Brackets tool now working, not perfectly though.
+	Other:
+		* Don't use POLLRDHUP when not defined. [#32768]
+		* Split libgcu so that libgcu itself never calls gtk+ directly.
+
+Version 0.13.2
+	GChemPaint:
+		* Do not allow document changes using keyboard while
+		dragging the mouse. [#31812]
+		* Don't add new molecules when undoing a mechanism arrow deletion.
+		[#32433]
+		* Removed the Wikipedia tool which was obsolete.
+		* Reorganized molecule contextual menu with new 3D options
+		and databases access.
+	Other:
+		* OpenBabel support has been moved to a separate process and greatly
+		enhanced, specially for 3D export from gchempaint.
+		* A lot of bugs have been fixed.
+
+Version 0.13.1
+	GSpectrum:
+		* Loads NUTS files.
+		* Transforms FID to spectrum.
+
+Version 0.13.0
+	GChemPaint:
+		* New "lasso" tool to allow partial selections.
+		* New "brackets" tool (doesn't work yet).
+	Other:
+		* libgcr: new library for GCrystal.
+		* Fixed all bugs discovered in the 0.12 banch.
+
+Version 0.12.0
+	GChemPaint:
+		* Fixed various text related minor issues.
+		* Fixed fragment loading issues (both old and new format).
+		* Don't crash after closing a file with selected objects.
+		* Exit more cleanly.
+	Other:
+		* Add various mime types in desktop files.
+		* Fixed some API documentation issues.
+		
+Version 0.11.98
+	GCrystal:
+		* Fixed a pair of space group issues.
+		* Add CIF and CML files to recent files.
+		* Survive CIF files with no space group or invalid atoms.
+	Other:
+		* Updated API documentation.
+		* Fixed various memory leaks.
+			
+Version 0.11.91
+	GChemPaint:
+		* Don't crash when closing an orbital properties box. [#29559]
+		* Fixed several undo/redo issues.
+		* Really update the down bond tool icon when the convention is switched.
+	Gnome Crystal:
+		* Fix some space group related issues.
+		* Never end with an empty recent file entry.
+	GSpectrum:
+		* Accept more spectrum type strings such as "UV/VIS SPECTRUM".
+	GChemTable:
+		* Add menus items for all pre-defined charts.
+	Other:
+		* Use Cn and Copernicium for element 112.
+		* Updated user documentation.
+
+Version 0.11.90
+	GChemPaint:
+		* Mechanism arrows support completed. [#21340]
+		* Fixed various text related issues.
+	Gnome Crystal:
+		* Enhanced support for space groups.
+
+Version 0.11.5
+	GChemPaint:
+		* Survive forward references to atoms. [#28515]
+		* Add a menu item to hide atomic formal charge.[#26735]
+		* Orbital tool supports p and d orbitals, support now complete.
+		* More mechanism arrow support (not complete).
+		* Enhance eraser tool (pre-highlight potential target).
+	Mozilla plugin:
+		* Supports CIF data as well as ChemDraw files.
+	Other:
+		* Fixed build when using GNU gold ld. [#28479]
+
+Version 0.11.4
+	GChemCalc
+		* Fixed interpretation of strings such as Mn and Rn. [#28192]
+	GChemPaint:
+		* Allow for hash bond convention inversion. [#26810]
+		* Implement mechanism arrow tool restricted to bond to adjacent atom
+		electron move for now.
+		* New Orbital tool (restricted to s type orbitals for now).
+		* Fixed various bugs, especially atoms groups related ones.
+	GChemTable:
+		* Fix loading of ui files. [#27395]
+		* Display element name when moving the mouse over a point in a chart.
+	libgcu:
+		* Do not access a NULL document when destroying an object.
+	Other:
+		* Fixed three typos in isotopes database. [#27619]
+		* Revised Wikipedia theme (Matthias Mailänder).
+
+Version 0.11.3
+	GChemPaint:
+		* Almost fully reimplemented with new canvas.
+		* Enhanced atom groups (fragments).
+		* Initial work on ChemDraw files export, both in cdx and cdxml formats.
+	Gnome Crystal:
+		* Export both cml and cif files (at least minimally).
+	GCCV library:
+		* New canvas is now functional.
+
+Version 0.11.2
+	GChemPaint
+		* Texts now mostly work. Known regressions: multiline texts, underline
+		and strikethrough.
+	Other:
+		* Needs the latest goffice development release.
+		* Various fixes.
+
+Version 0.11.1
+	GChemPaint
+		* More reimplementation using the new canvas. Texts now
+		partially work.
+	Gnumeric plugin:
+		* New plugin, adds a molarmass function in gnumeric.
+	libgcu:
+		* Import space groups support from OpenBabel.
+	Other:
+		* The CML loader plugin now works, at least for 2d structures.
+
+Version 0.11.0
+	GChemPaint
+		* Use the new canvas (brings in some regressions).
+	GSpectrum
+		* Correctly load negative values in (XY..XY) tables. [#24720]
+		* Add a way to zoom vertically (Jordan).
+	Mozilla plugin:
+		* fix loading of spectra and 3d files.
+	GCCV library:
+		* Initial implementation of the new canvas.
+
+Version 0.10.0
+	GChemTable:
+		* Implement save as image for curves (thanks to Jordan Matha who
+		noticed that this feature was missing.
+	Other:
+		* Fixed a few API documentation issues.
+		* Fixed miscellaneous typo and style issues in help files (Jordan).
+
+Version 0.9.98
+	GChemTable
+		* Fixed display of data series with invalid values.
+		* Fixed various help related issues.
+		* Fixed a memory leak.
+		* Updated the documentation.
+
+Version 0.9.93
+	GChemCalc
+		* Updated the documentation.
+	GChemPaint
+		* Enlarge arrows when an attached object grows.
+		* Fixed molecule contextual menu issues.
+		* Fixed selection issues with atoms lacking a visible canvas item.
+	GSpectrum:
+		* Use reference point for varian nmr dx files.
+		* New documentation.
+	GOffice component:
+		* Set the object height.
+	Other:
+		* Completed API documentation for libgcu and libgchempaint.
+
+Version 0.9.92
+	* Add theme support for tools icons. [#24382]
+	* Updated GChem3d, GChemCalc, and Gnome Crystal help files.
+	* More API documentation for libgchempaint.
+
+Version 0.9.91
+	* Fixed compilation on ppc and other big endian machines.
+	* Downgraded intltool requirement to 0.37.1.
+	* Updated GChemPaint help.
+
+Version 0.9.90
+	CGhemPaint:
+		* Fixed issues about residues management.
+	Gnome Crystal:
+		* Add support for document properties.
+	GChemTable:
+		* Add Brazilian to known languages.
+	Other:
+		* Fixed some build issues (Daniel Leidert).
+
+Version 0.9.6
+	CGhemPaint:
+		* enhanced cdx and cdxml files import. [#21112]
+		* enhanced atoms and bonds drawing (no more a white rectangles
+		under the atom symbol to hide bonds).
+	GSpectrum:
+		* the variables can now be changed in some instances, as absorbance
+		to transmittance or vice versa.
+	Other:
+		* removed as much gnome-vfs code as possible and replaced it
+		by gio/gvfs calls.
+		* enhanced build system.
+
+Version 0.9.4
+	3d viewer:
+		* export more image formats (ps, pdf, eps).
+	calc:
+		* initial support for ambiguous symbols .as Ac and Pr
+	Gnome Crystal:
+		* export more image formats (ps, pdf, eps).
+		* enhanced cif files import.
+		* enhanced radii support.
+	CGhemPaint:
+		* export more image formats (ps, pdf) and enhanced eps support.
+		* no more white rectangle under atoms symbols.
+		* correctly detects the mime type, even if the file doesn't
+		exist. [#22686]
+		* accept file names with spaces for files opened using
+		OpenBabel. [#22695]
+		* enhanced cdx files import.
+	GChemTable:
+		* customizable charts.
+	Mozilla plugin:
+		* added support for GChemPaint and JCAMP-DX files.
+	GSpectrum:
+		* add support for mass spectrum.
+		* load nmr spectra using jcamp-dx 5.x NTUPPLES.
+		* made possible to change the x coordinates and to display only
+		part of the spectrum.
+		* initial support for NMR fids.
+
+Version 0.9.3
+	3d viewer:
+		* show multiple bonds as multiple cylinders
+		in ball and stick mode.
+		* prints using GtkPrint.
+		* Loads files using GIO.
+	calc:
+		* display molar and monoisotopic masses with more digits.
+		* prints isotopic pattern chart.
+	CGhemPaint:
+		* Fix loading of double reaction arrows. [#22223]
+		* prints using GtkPrint and Cairo.
+		* enhanced loaders for cdx and cdxml files.
+		* initial support for nicknames and generic symbols in
+		molecules. [#21728]
+		* Do not crash after failing to merge two molecules. [#22485]
+	Gnome Crystal:
+		* prints using GtkPrint.
+	GSpectrum:
+		* prints using GtkPrint.
+	periodic table:
+		* prints charts using GtkPrint.
+	libgcu:
+		* new classes: gcu::Printable, gcu::PrintSetupDlg for
+		GtkPrint support.
+
+Version 0.9.2
+	3d viewer:
+		* Add wireframe mode.
+		* Really implement command line options.
+	calc:
+		* support abbreviations (at least those that are
+		not ambiguous).
+	GChemPaint:
+		* SVG export does not work for radicals. [#21715]
+	Gnome Crystal:
+		* Fix print and image export [#21946] (also concernes 3d viewer).
+		* Don't crash when changing an element in the atoms dialog [#21576].
+	GSpectrum:
+		* New program.
+	Other:
+		* Fix compilation with gcc-4.3 snapshot [#21764].
+
+Version 0.9.1
+	3d viewer:
+		* Add cylinders mode.
+	GChemPaint:
+		* use keyboard to change the nature of an atom [sr #105937].
+		* use the AltGr key to change the default orientation of a
+		new bond.
+		* use the keyboard to change the default length of a new 
+		chain to some current values (2 to 10).
+		* add a new theme to support ACS standards (Takashi Suyama).
+		* new API to create residues.
+	Gnome Crystal:
+		* Initial support for CIF files (needs OpenBabel-2.2.x (svn trunk)).
+	Periodic table:
+		* graphs can be customized (a very unstable feature).
+	Library:
+		* Display of 3D models rewritten, using code from libavogadro
+		(thanks to B. Jacob).
+		* New gcu::Residue class, for use in both calc and GChemPaint.
+	Other:
+		* use Aplications|Education|Science for help files.
+
+Version 0.9.0
+	3d viewer:
+		* new icons (Jordan Mantha).
+	calc:
+		* new icons (Jordan Mantha).
+	GChemPaint:
+		* incorporated in the Gnome Chemistry Utils.
+		* new Wikipedia experimental export plugin.
+		* copy as bitmaps.
+		* a text or a molecule can be attached to a
+		reaction arrow.
+	periodic table:
+		* graphs can now be printed.
+		* new color schemes (Jordan Mantha).
+		* new icons (Jordan Mantha).
+
+Version 0.7.5
+	periodic table:
+		* add a widget to control family color scheme (Jordan Mantha).
+	Library:
+		* add a new DialogOwner class and make the Application and
+		Document classes derive from it.
+	Other:
+		* add or update API and applications documentation.
+		* fixed various issues in both the library and the applications.
+
+Version 0.7.4
+	3d viewer:
+		* add recent files support.
+		* image export at any resolution.
+	Gnome Crystal:
+		* add recent files support.
+		* image export at any resolution.
+		* share more code with the 3d molecules viewer.
+	periodic table:
+		* add new color schemes to the table (thanks to Jordan Mantha
+		for his help with this feature).
+	Library:
+		* extend color schemes mechanism in the GtkPeriodic widget.
+		* now parse all BODR data in element class.
+	Other:
+		* fixed various build issues (Daniel Leidert).
+
+Version 0.7.3
+	3d viewer: open several documents at once, and use new 3d classes
+	in the library..
+	Gnome Crystal: use the new 3d classes and macros in the library.
+	periodic table: display melting and boiling points (needs bodr-4).
+	Library: some new classes used for 3d display in both Gnome Crystal
+	and the 3d viewer; also some new macros related to get/set class
+	properties and GConf entries.
+
+Version 0.7.2
+	Fix a 32 bits compilation issue.
+
+Version 0.7.1
+	Gnome Crystal: changed the user interface for a more HIG compilant one.
+	Library: various little changes to the gcu::Application and
+	gcu::FileChooser classes.
+	Database: fixed bromine molar weight.
+
+Version 0.7.0
+	fixed --version command line option.
+	fixed some build issues.
+	include Gnome Crystal.
+
+Version 0.5.4
+	periodic table: display atomic radii, copy charts to other apps.
+	mozilla plugin and 2d viewer: support background changes
+	and spacefill model display.
+	gchemcalc: copy isotopic patterns charts to other apps.
+	
+Version 0.5.3
+	periodic table: display ionization energy and electron affinity.
+	mozilla plugin: display pdb and mol files, and support limited
+	bgcolor and display3d properties.
+	gchemcalc: accepts a formula from the command line.
+	3d viewer: new menus entries and command line options for
+	background color and display mode.
+	GtkComboPeriodic: new periodic table combo box.
+	Some minor bugs fixed.
+	New translation: ru (thanks to Valek Filippov).
+
+Version 0.5.2
+	Correct mean molecular mass for isotopic patterns of macromolecules.
+	Add a periodic table application.
+	Add a mozilla plugin skeleton.
+
+Version 0.5.1
+	Add mass composition and isotopic patterns to Calculator.
+
+Version 0.5.0
+	New Formula class.
+	New Calculator program.
+	Enhanced 3d molecular viewer.
+	The database has been split.
+	Various bugs fixed and api enhncements..
+
+Version 0.3.2
+	Several bugs fixed, essentially in Object class.
+	Changed signature of Object::OnSignal. Leads to a compatibility break.
+
+Version 0.3.1
+	Object class has been extended with new functionalities (signals and links), and
+	Object contextual menu now uses GtkAction based menus.
+	Several bugs and memory leaks have been fixed.
+	Support has been added for shared mime info but
+	mime types tree will be polluted with chemical/* types.
+
+Version 0.3.0
+	The libraries have been merged into one.
+	A new Document class.
+	The Object class has been enriched with a hierarchical rules api (for example a molecule
+	must contain at leat one atom and an atom cannot contain a molecule).
+	Several bugs fixed.
+	Default colors for some elements have changed to be compatible with a new
+	coloring scheme common to several open source projects.
+
+Version 0.1.7
+	Added a maximum number of bonds for atoms.
+	Added some documentation.
+	Some code cleaning in crystalviewer directory.
+	Some bugs fixed.
+
+Version 0.1.6
+	Added bgcolor property to GtkChem3DViewer
+	Several bugs fixed.
+
+Version 0.1.5
+	Many bugs fixed in the radii database stuff
+	Change of coordinates in GtkChem3DViewer
+
+Version 0.1.4
+	New chem3d widget and bonobo server do display 3d molecular structures
+	Atomic radii and electronegativities added to the elements database
+
+Version 0.1.3
+	Many API changes, see ChangeLog.
+	
+Version 0.1.2
+	Minor changes to the Object and Atom classes.
+	
+Version 0.1.1
+	All APIs has been thoroughly revised.
+
+Version 0.1.0
+	First release of Gnome Chemistry Utils

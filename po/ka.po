@@ -1,0 +1,5855 @@
+# Georgian translations for gnome-chemistry-utils package.
+# Copyright (C) 2026 THE gnome-chemistry-utils'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the gnome-chemistry-utils package.
+# Automatically generated, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-chemistry-utils 0.15.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-20 16:08+0000\n"
+"PO-Revision-Date: 2026-10-20 16:08+0000\n"
+"Last-Translator: Georgian localization contributors\n"
+"Language-Team: Georgian\n"
+"Language: ka\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#: ../gchemutils.xml.in.h:1 ../programs/crystal/x-gcrystal.desktop.in.h:1
+msgid "Crystalline structure model"
+msgstr "კრისტალური სტრუქტურის მოდელი"
+
+#: ../gchemutils.xml.in.h:2 ../programs/paint/x-gchempaint.desktop.in.h:1
+msgid "2D Chemical structure"
+msgstr "2D ქიმიური სტრუქტურა"
+
+#: ../gchemutils.xml.in.h:3
+msgid "NUTS file format"
+msgstr "NUTS ფაილის ფორმატი"
+
+#: ../database/residues.xml.in.h:1
+msgid "Alkyl"
+msgstr "ალკილი"
+
+#: ../database/residues.xml.in.h:2
+msgid "Aryl"
+msgstr "არილი"
+
+#: ../database/residues.xml.in.h:3
+msgid "Halogen"
+msgstr "ჰალოგენი"
+
+#: ../database/residues.xml.in.h:4
+msgid "Metal"
+msgstr "ლითონი"
+
+#: ../database/residues.xml.in.h:5
+msgid "Methyl"
+msgstr "მეთილი"
+
+#: ../database/residues.xml.in.h:6
+msgid "Ethyl"
+msgstr "ეთილი"
+
+#: ../database/residues.xml.in.h:7
+msgid "Propyl"
+msgstr "პროპილი"
+
+#: ../database/residues.xml.in.h:8
+msgid "Isopropyl"
+msgstr "იზოპროპილი"
+
+#: ../database/residues.xml.in.h:9
+msgid "Butyl"
+msgstr "ბუტილი"
+
+#: ../database/residues.xml.in.h:10
+msgid "sec-Butyl"
+msgstr "მეორეული ბუტილი"
+
+#: ../database/residues.xml.in.h:11
+msgid "Isobutyl"
+msgstr "იზობუტილი"
+
+#: ../database/residues.xml.in.h:12
+msgid "Phenyl"
+msgstr "ფენილი"
+
+#: ../database/residues.xml.in.h:13
+msgid "Acetyl"
+msgstr "აცეტილი"
+
+#: ../database/residues.xml.in.h:14
+msgid "Benzyl"
+msgstr "ბენზილი"
+
+#: ../database/residues.xml.in.h:15
+msgid "Benzoyl"
+msgstr "ბენზოილი"
+
+#: ../database/residues.xml.in.h:16
+msgid "Mesyl"
+msgstr "მეზილი"
+
+#: ../database/residues.xml.in.h:17
+msgid "Triflyl"
+msgstr "ტრიფლილი"
+
+#: ../database/residues.xml.in.h:18
+msgid "Tosyl"
+msgstr "ტოზილი"
+
+#: ../database/elements.xml.in.h:1
+msgid "Hydrogen"
+msgstr "წყალბადი"
+
+#: ../database/elements.xml.in.h:2
+msgid "Helium"
+msgstr "ჰელიუმი"
+
+#: ../database/elements.xml.in.h:3
+msgid "Lithium"
+msgstr "ლითიუმი"
+
+#: ../database/elements.xml.in.h:4
+msgid "Beryllium"
+msgstr "ბერილიუმი"
+
+#: ../database/elements.xml.in.h:5
+msgid "Boron"
+msgstr "ბორი"
+
+#: ../database/elements.xml.in.h:6
+msgid "Carbon"
+msgstr "ნახშირბადი"
+
+#: ../database/elements.xml.in.h:7
+msgid "Nitrogen"
+msgstr "აზოტი"
+
+#: ../database/elements.xml.in.h:8
+msgid "Oxygen"
+msgstr "ჟანგბადი"
+
+#: ../database/elements.xml.in.h:9
+msgid "Fluorine"
+msgstr "ფტორი"
+
+#: ../database/elements.xml.in.h:10
+msgid "Neon"
+msgstr "ნეონი"
+
+#: ../database/elements.xml.in.h:11
+msgid "Sodium"
+msgstr "ნატრიუმი"
+
+#: ../database/elements.xml.in.h:12
+msgid "Magnesium"
+msgstr "მაგნიუმი"
+
+#: ../database/elements.xml.in.h:13
+msgid "Aluminum"
+msgstr "ალუმინი"
+
+#: ../database/elements.xml.in.h:14
+msgid "Silicon"
+msgstr "სილიციუმი"
+
+#: ../database/elements.xml.in.h:15
+msgid "Phosphorus"
+msgstr "ფოსფორი"
+
+#: ../database/elements.xml.in.h:16
+msgid "Sulfur"
+msgstr "გოგირდი"
+
+#: ../database/elements.xml.in.h:17
+msgid "Chlorine"
+msgstr "ქლორი"
+
+#: ../database/elements.xml.in.h:18
+msgid "Argon"
+msgstr "არგონი"
+
+#: ../database/elements.xml.in.h:19
+msgid "Potassium"
+msgstr "კალიუმი"
+
+#: ../database/elements.xml.in.h:20
+msgid "Calcium"
+msgstr "კალციუმი"
+
+#: ../database/elements.xml.in.h:21
+msgid "Scandium"
+msgstr "სკანდიუმი"
+
+#: ../database/elements.xml.in.h:22
+msgid "Titanium"
+msgstr "ტიტანი"
+
+#: ../database/elements.xml.in.h:23
+msgid "Vanadium"
+msgstr "ვანადიუმი"
+
+#: ../database/elements.xml.in.h:24
+msgid "Chromium"
+msgstr "ქრომი"
+
+#: ../database/elements.xml.in.h:25
+msgid "Manganese"
+msgstr "მანგანუმი"
+
+#: ../database/elements.xml.in.h:26
+msgid "Iron"
+msgstr "რკინა"
+
+#: ../database/elements.xml.in.h:27
+msgid "Cobalt"
+msgstr "კობალტი"
+
+#: ../database/elements.xml.in.h:28
+msgid "Nickel"
+msgstr "ნიკელი"
+
+#: ../database/elements.xml.in.h:29
+msgid "Copper"
+msgstr "სპილენძი"
+
+#: ../database/elements.xml.in.h:30
+msgid "Zinc"
+msgstr "თუთია"
+
+#: ../database/elements.xml.in.h:31
+msgid "Gallium"
+msgstr "გალიუმი"
+
+#: ../database/elements.xml.in.h:32
+msgid "Germanium"
+msgstr "გერმანიუმი"
+
+#: ../database/elements.xml.in.h:33
+msgid "Arsenic"
+msgstr "დარიშხანი"
+
+#: ../database/elements.xml.in.h:34
+msgid "Selenium"
+msgstr "სელენი"
+
+#: ../database/elements.xml.in.h:35
+msgid "Bromine"
+msgstr "ბრომი"
+
+#: ../database/elements.xml.in.h:36
+msgid "Krypton"
+msgstr "კრიპტონი"
+
+#: ../database/elements.xml.in.h:37
+msgid "Rubidium"
+msgstr "რუბიდიუმი"
+
+#: ../database/elements.xml.in.h:38
+msgid "Strontium"
+msgstr "სტრონციუმი"
+
+#: ../database/elements.xml.in.h:39
+msgid "Yttrium"
+msgstr "ითრიუმი"
+
+#: ../database/elements.xml.in.h:40
+msgid "Zirconium"
+msgstr "ცირკონიუმი"
+
+#: ../database/elements.xml.in.h:41
+msgid "Niobium"
+msgstr "ნიობიუმი"
+
+#: ../database/elements.xml.in.h:42
+msgid "Molybdenum"
+msgstr "მოლიბდენი"
+
+#: ../database/elements.xml.in.h:43
+msgid "Technetium"
+msgstr "ტექნეციუმი"
+
+#: ../database/elements.xml.in.h:44
+msgid "Ruthenium"
+msgstr "რუთენიუმი"
+
+#: ../database/elements.xml.in.h:45
+msgid "Rhodium"
+msgstr "როდიუმი"
+
+#: ../database/elements.xml.in.h:46
+msgid "Palladium"
+msgstr "პალადიუმი"
+
+#: ../database/elements.xml.in.h:47
+msgid "Silver"
+msgstr "ვერცხლი"
+
+#: ../database/elements.xml.in.h:48
+msgid "Cadmium"
+msgstr "კადმიუმი"
+
+#: ../database/elements.xml.in.h:49
+msgid "Indium"
+msgstr "ინდიუმი"
+
+#: ../database/elements.xml.in.h:50
+msgid "Tin"
+msgstr "კალა"
+
+#: ../database/elements.xml.in.h:51
+msgid "Antimony"
+msgstr "სტიბიუმი"
+
+#: ../database/elements.xml.in.h:52
+msgid "Tellurium"
+msgstr "ტელური"
+
+#: ../database/elements.xml.in.h:53
+msgid "Iodine"
+msgstr "იოდი"
+
+#: ../database/elements.xml.in.h:54
+msgid "Xenon"
+msgstr "ქსენონი"
+
+#: ../database/elements.xml.in.h:55
+msgid "Caesium"
+msgstr "ცეზიუმი"
+
+#: ../database/elements.xml.in.h:56
+msgid "Barium"
+msgstr "ბარიუმი"
+
+#: ../database/elements.xml.in.h:57
+msgid "Lanthanum"
+msgstr "ლანთანი"
+
+#: ../database/elements.xml.in.h:58
+msgid "Cerium"
+msgstr "ცერიუმი"
+
+#: ../database/elements.xml.in.h:59
+msgid "Praseodymium"
+msgstr "პრაზეოდიმი"
+
+#: ../database/elements.xml.in.h:60
+msgid "Neodymium"
+msgstr "ნეოდიმი"
+
+#: ../database/elements.xml.in.h:61
+msgid "Promethium"
+msgstr "პრომეთიუმი"
+
+#: ../database/elements.xml.in.h:62
+msgid "Samarium"
+msgstr "სამარიუმი"
+
+#: ../database/elements.xml.in.h:63
+msgid "Europium"
+msgstr "ევროპიუმი"
+
+#: ../database/elements.xml.in.h:64
+msgid "Gadolinium"
+msgstr "გადოლინიუმი"
+
+#: ../database/elements.xml.in.h:65
+msgid "Terbium"
+msgstr "ტერბიუმი"
+
+#: ../database/elements.xml.in.h:66
+msgid "Dysprosium"
+msgstr "დისპროზიუმი"
+
+#: ../database/elements.xml.in.h:67
+msgid "Holmium"
+msgstr "ჰოლმიუმი"
+
+#: ../database/elements.xml.in.h:68
+msgid "Erbium"
+msgstr "ერბიუმი"
+
+#: ../database/elements.xml.in.h:69
+msgid "Thulium"
+msgstr "თულიუმი"
+
+#: ../database/elements.xml.in.h:70
+msgid "Ytterbium"
+msgstr "იტერბიუმი"
+
+#: ../database/elements.xml.in.h:71
+msgid "Lutetium"
+msgstr "ლუტეციუმი"
+
+#: ../database/elements.xml.in.h:72
+msgid "Hafnium"
+msgstr "ჰაფნიუმი"
+
+#: ../database/elements.xml.in.h:73
+msgid "Tantalum"
+msgstr "ტანტალი"
+
+#: ../database/elements.xml.in.h:74
+msgid "Tungsten"
+msgstr "ვოლფრამი"
+
+#: ../database/elements.xml.in.h:75
+msgid "Rhenium"
+msgstr "რენიუმი"
+
+#: ../database/elements.xml.in.h:76
+msgid "Osmium"
+msgstr "ოსმიუმი"
+
+#: ../database/elements.xml.in.h:77
+msgid "Iridium"
+msgstr "ირიდიუმი"
+
+#: ../database/elements.xml.in.h:78
+msgid "Platinum"
+msgstr "პლატინა"
+
+#: ../database/elements.xml.in.h:79
+msgid "Gold"
+msgstr "ოქრო"
+
+#: ../database/elements.xml.in.h:80
+msgid "Mercury"
+msgstr "ვერცხლისწყალი"
+
+#: ../database/elements.xml.in.h:81
+msgid "Thallium"
+msgstr "ტალიუმი"
+
+#: ../database/elements.xml.in.h:82
+msgid "Lead"
+msgstr "ტყვია"
+
+#: ../database/elements.xml.in.h:83
+msgid "Bismuth"
+msgstr "ბისმუტი"
+
+#: ../database/elements.xml.in.h:84
+msgid "Polonium"
+msgstr "პოლონიუმი"
+
+#: ../database/elements.xml.in.h:85
+msgid "Astatine"
+msgstr "ასტატი"
+
+#: ../database/elements.xml.in.h:86
+msgid "Radon"
+msgstr "რადონი"
+
+#: ../database/elements.xml.in.h:87
+msgid "Francium"
+msgstr "ფრანციუმი"
+
+#: ../database/elements.xml.in.h:88
+msgid "Radium"
+msgstr "რადიუმი"
+
+#: ../database/elements.xml.in.h:89
+msgid "Actinium"
+msgstr "აქტინიუმი"
+
+#: ../database/elements.xml.in.h:90
+msgid "Thorium"
+msgstr "თორიუმი"
+
+#: ../database/elements.xml.in.h:91
+msgid "Protactinium"
+msgstr "პროტაქტინიუმი"
+
+#: ../database/elements.xml.in.h:92
+msgid "Uranium"
+msgstr "ურანი"
+
+#: ../database/elements.xml.in.h:93
+msgid "Neptunium"
+msgstr "ნეპტუნიუმი"
+
+#: ../database/elements.xml.in.h:94
+msgid "Plutonium"
+msgstr "პლუტონიუმი"
+
+#: ../database/elements.xml.in.h:95
+msgid "Americium"
+msgstr "ამერიციუმი"
+
+#: ../database/elements.xml.in.h:96
+msgid "Curium"
+msgstr "კიურიუმი"
+
+#: ../database/elements.xml.in.h:97
+msgid "Berkelium"
+msgstr "ბერკელიუმი"
+
+#: ../database/elements.xml.in.h:98
+msgid "Californium"
+msgstr "კალიფორნიუმი"
+
+#: ../database/elements.xml.in.h:99
+msgid "Einsteinium"
+msgstr "აინშტაინიუმი"
+
+#: ../database/elements.xml.in.h:100
+msgid "Fermium"
+msgstr "ფერმიუმი"
+
+#: ../database/elements.xml.in.h:101
+msgid "Mendelevium"
+msgstr "მენდელევიუმი"
+
+#: ../database/elements.xml.in.h:102
+msgid "Nobelium"
+msgstr "ნობელიუმი"
+
+#: ../database/elements.xml.in.h:103
+msgid "Lawrencium"
+msgstr "ლოურენსიუმი"
+
+#: ../database/elements.xml.in.h:104
+msgid "Rutherfordium"
+msgstr "რეზერფორდიუმი"
+
+#: ../database/elements.xml.in.h:105
+msgid "Dubnium"
+msgstr "დუბნიუმი"
+
+#: ../database/elements.xml.in.h:106
+msgid "Seaborgium"
+msgstr "სიბორგიუმი"
+
+#: ../database/elements.xml.in.h:107
+msgid "Bohrium"
+msgstr "ბორიუმი"
+
+#: ../database/elements.xml.in.h:108
+msgid "Hassium"
+msgstr "ჰასიუმი"
+
+#: ../database/elements.xml.in.h:109
+msgid "Meitnerium"
+msgstr "მეიტნერიუმი"
+
+#: ../database/elements.xml.in.h:110
+msgid "Darmstadtium"
+msgstr "დარმშტადტიუმი"
+
+#: ../database/elements.xml.in.h:111
+msgid "Roentgenium"
+msgstr "რენტგენიუმი"
+
+#: ../database/elements.xml.in.h:112
+msgid "Copernicium"
+msgstr "კოპერნიციუმი"
+
+#: ../database/elements.xml.in.h:113
+msgid "Ununtrium"
+msgstr "უნუნტრიუმი"
+
+#: ../database/elements.xml.in.h:114
+msgid "Flerovium"
+msgstr "ფლეროვიუმი"
+
+#: ../database/elements.xml.in.h:115
+msgid "Ununpentium"
+msgstr "უნუნპენტიუმი"
+
+#: ../database/elements.xml.in.h:116
+msgid "Livermorium"
+msgstr "ლივერმორიუმი"
+
+#: ../database/elements.xml.in.h:117
+msgid "Ununseptium"
+msgstr "უნუნსეპტიუმი"
+
+#: ../database/elements.xml.in.h:118
+msgid "Ununoctium"
+msgstr "უნუნოქტიუმი"
+
+#: ../database/isotopes.xml.in.h:1
+msgid "protium"
+msgstr "პროტიუმი"
+
+#: ../database/isotopes.xml.in.h:2
+msgid "deuterium"
+msgstr "დეიტერიუმი"
+
+#: ../database/isotopes.xml.in.h:3
+msgid "tritium"
+msgstr "ტრიტიუმი"
+
+#: ../gnumeric/functions.cc:56
+msgid "MOLARMASS:molar mass of a chemical entity"
+msgstr "MOLARMASS:ქიმიური ნაწილაკის მოლური მასა"
+
+#: ../gnumeric/functions.cc:57 ../gnumeric/functions.cc:86
+#: ../gnumeric/functions.cc:121
+msgid "formula:the input chemical formula such as \"CCl4\""
+msgstr "formula:შეყვანილი ქიმიური ფორმულა, მაგალითად \"CCl4\""
+
+#: ../gnumeric/functions.cc:58
+msgid ""
+"MOLARMASS calculates a molar mass associated with the given @{formula}."
+msgstr "MOLARMASS ითვლის მოცემულ @{formula}-ს შესაბამის მოლურ მასას."
+
+#: ../gnumeric/functions.cc:59
+msgid "=molarmass(\"CCl4\")"
+msgstr ""
+
+#: ../gnumeric/functions.cc:85
+msgid "MONOISOTIPICMASS:monoisotopic mass of a chemical entity"
+msgstr "MONOISOTIPICMASS:ქიმიური ნაწილაკის მონოიზოტოპური მასა"
+
+#: ../gnumeric/functions.cc:87
+msgid ""
+"MONOISOTIPICMASS calculates a monoisotopic mass associated with the given "
+"@{formula}."
+msgstr ""
+"MONOISOTIPICMASS ითვლის მოცემულ @{formula}-ს შესაბამის მონოიზოტოპურ მასას."
+
+#: ../gnumeric/functions.cc:88
+msgid "=monoisotopicmass(\"CCl4\")"
+msgstr ""
+
+#: ../gnumeric/functions.cc:120
+msgid ""
+"CHEMCOMPOSITION: mass percent of a given element inside a chemical entity"
+msgstr "CHEMCOMPOSITION: მოცემული ელემენტის მასური პროცენტი ქიმიურ ნაწილაკში"
+
+#: ../gnumeric/functions.cc:122
+msgid "element:an element symbol \"C\""
+msgstr "element:ელემენტის სიმბოლო, მაგალითად \"C\""
+
+#: ../gnumeric/functions.cc:123
+msgid ""
+"CHEMCOMPOSITION calculates the mass percent of an element inside the given "
+"@{formula}."
+msgstr ""
+"CHEMCOMPOSITION ითვლის ელემენტის მასურ პროცენტს მოცემულ @{formula}-ში."
+
+#: ../gnumeric/functions.cc:124
+msgid "=chemcomposition(\"CCl4\",\"C\")"
+msgstr ""
+
+#: ../gnumeric/functions.cc:159
+msgid "ELEMENTNUMBER:element number"
+msgstr "ELEMENTNUMBER:ელემენტის რიგითი ნომერი"
+
+#: ../gnumeric/functions.cc:160
+msgid "symbol:an element symbol such as \"C\""
+msgstr "symbol:ელემენტის სიმბოლო, მაგალითად \"C\""
+
+#: ../gnumeric/functions.cc:161
+msgid "ELEMENTNUMBER returns the element number for the given @{symbol}."
+msgstr "ELEMENTNUMBER აბრუნებს მოცემული @{symbol}-ის შესაბამის რიგით ნომერს."
+
+#: ../gnumeric/functions.cc:162
+msgid "=elementnumber(\"C\")"
+msgstr ""
+
+#: ../gnumeric/functions.cc:177
+msgid "ELEMENTSYMBOL:symbol of an element"
+msgstr "ELEMENTSYMBOL:ელემენტის სიმბოლო"
+
+#: ../gnumeric/functions.cc:178
+msgid "number:the element number such as 12"
+msgstr "number:ელემენტის რიგითი ნომერი, მაგალითად 12"
+
+#: ../gnumeric/functions.cc:179
+msgid "ELEMENTSYMBOL returns the symbol for the given element @{number}."
+msgstr "ELEMENTSYMBOL აბრუნებს ელემენტის სიმბოლოს მოცემული @{number} ნომრით."
+
+#: ../gnumeric/functions.cc:180
+msgid "=elementsymbol(12)"
+msgstr ""
+
+#: ../gnumeric/functions.cc:197
+msgid "molarmass"
+msgstr ""
+
+#: ../gnumeric/functions.cc:200
+msgid "monoisotopicmass"
+msgstr ""
+
+#: ../gnumeric/functions.cc:203
+msgid "chemcomposition"
+msgstr ""
+
+#: ../gnumeric/functions.cc:206
+msgid "elementnumber"
+msgstr ""
+
+#: ../gnumeric/functions.cc:209
+msgid "elementsymbol"
+msgstr ""
+
+#: ../gnumeric/plugin.xml.in.h:1
+msgid "Chemical Functions"
+msgstr "ქიმიური ფუნქციები"
+
+#: ../gnumeric/plugin.xml.in.h:2
+msgid "Chemical Formula Functions"
+msgstr "ქიმიური ფორმულის ფუნქციები"
+
+#: ../gnumeric/plugin.xml.in.h:3
+msgid "Chemistry"
+msgstr "ქიმია"
+
+#: ../goffice/plugin.xml.in.h:1
+msgid "Component : GChemPaint"
+msgstr "კომპონენტი: GChemPaint"
+
+#: ../goffice/plugin.xml.in.h:2
+msgid "2D Chemical Structures Viewer/Editor"
+msgstr "2D ქიმიური სტრუქტურების მნახველი/რედაქტორი"
+
+#: ../goffice/plugin.xml.in.h:3
+msgid "Chemical structures component engine"
+msgstr "ქიმიური სტრუქტურების კომპონენტის ძრავა"
+
+#: ../goffice/plugin.xml.in.h:4
+msgid "Chemical structures"
+msgstr "ქიმიური სტრუქტურები"
+
+#: ../goffice/plugin.xml.in.h:5
+msgid "Crystal structures"
+msgstr "კრისტალური სტრუქტურები"
+
+#: ../goffice/plugin.xml.in.h:6
+msgid "CIF file"
+msgstr "CIF ფაილი"
+
+#: ../goffice/plugin.xml.in.h:7
+msgid "3D chemical structures"
+msgstr "3D ქიმიური სტრუქტურები"
+
+#: ../goffice/gchemutils.cc:347
+msgid "Content type"
+msgstr "შიგთავსის ტიპი"
+
+#: ../goffice/gchemutils.cc:348
+msgid ""
+"Whether the model should be represented in 2d, 3d, or as a crystal cell"
+msgstr "მოდელი გამოისახოს 2D-ში, 3D-ში თუ კრისტალურ უჯრედად"
+
+#: ../goffice/gchemutils.cc:351
+msgid "Psi"
+msgstr ""
+
+#: ../goffice/gchemutils.cc:352
+msgid "Value of Euler's Ψ angle"
+msgstr "ეილერის Ψ კუთხის მნიშვნელობა"
+
+#: ../goffice/gchemutils.cc:355
+msgid "Theta"
+msgstr ""
+
+#: ../goffice/gchemutils.cc:356
+msgid "Value of Euler's Θ angle"
+msgstr "ეილერის Θ კუთხის მნიშვნელობა"
+
+#: ../goffice/gchemutils.cc:359
+msgid "Phi"
+msgstr ""
+
+#: ../goffice/gchemutils.cc:360
+msgid "Value of Euler's Φ angle"
+msgstr "ეილერის Φ კუთხის მნიშვნელობა"
+
+#: ../goffice/gchemutils.cc:363
+msgid "Display mode"
+msgstr "ჩვენების რეჟიმი"
+
+#: ../goffice/gchemutils.cc:364
+msgid ""
+"The display mode for the molecule: \"ball&stick\", \"spacefill\", "
+"\"cylinders\", or \"wireframe\""
+msgstr ""
+"მოლეკულის ჩვენების რეჟიმი: \"ball&stick\", \"spacefill\", \"cylinders\" ან "
+"\"wireframe\""
+
+#: ../goffice/gogchem3dapp.cc:32 ../libs/gcugtk/chem3dapplication.cc:41
+#: ../programs/3d/application.cc:47 ../programs/3d/application.cc:54
+msgid "GChem3D Viewer"
+msgstr "GChem3D მნახველი"
+
+#: ../goffice/gogchem3dwin.cc:73
+msgid "Embedded GChem3d Object"
+msgstr "ჩაშენებული GChem3d ობიექტი"
+
+#: ../goffice/gogcpapp.cc:178 ../programs/paint/standaloneapp.cc:46
+#, c-format
+msgid "Untitled %d"
+msgstr "უსახელო %d"
+
+#: ../goffice/gogcpwin.cc:90
+msgid "Embedded GChemPaint Object"
+msgstr "ჩაშენებული GChemPaint ობიექტი"
+
+#: ../goffice/gogcrystalwin.cc:95
+msgid "Embedded GCrystal Object"
+msgstr "ჩაშენებული GCrystal ობიექტი"
+
+#. Note to translators: replace the following string with the appropriate
+#. credits for you lang
+#: ../libs/gcp/about.cc:49 ../libs/gcr/window.cc:147
+#: ../libs/gcugtk/chem3dwindow.cc:243 ../programs/calc/gchemcalc.cc:299
+#: ../programs/spectra/window.cc:130 ../programs/table/gchemtable-app.cc:411
+msgid "translator_credits"
+msgstr "თარგმანი: ქართული ლოკალიზაციის მონაწილეები"
+
+#: ../libs/gcp/about.cc:55
+msgid "GChemPaint is a 2D chemical structures editor for Gnome"
+msgstr "GChemPaint არის 2D ქიმიური სტრუქტურების რედაქტორი Gnome-ისთვის"
+
+#: ../libs/gcp/about.cc:56
+msgid "Copyright © 2001-2010 by Jean Bréfort"
+msgstr ""
+
+#: ../libs/gcp/arrow.cc:222 ../libs/gcp/reaction-arrow.cc:426
+msgid "Arrow"
+msgstr "ისარი"
+
+#: ../libs/gcp/application.cc:363
+msgid "Create a new reaction"
+msgstr "ახალი რეაქციის შექმნა"
+
+#: ../libs/gcp/application.cc:374
+msgid "Create a new mesomery relationship"
+msgstr "ახალი მეზომერიის კავშირის შექმნა"
+
+#: ../libs/gcp/application.cc:601 ../libs/gcugtk/stringdlg.cc:115
+msgid ""
+"Please enter a file name,\n"
+"not a directory"
+msgstr ""
+"გთხოვთ, შეიყვანოთ ფაილის სახელი,\n"
+"არა საქაღალდისა"
+
+#: ../libs/gcp/application.cc:644
+#, c-format
+msgid ""
+"Sorry, format %s not supported!\n"
+"Failed to save %s."
+msgstr ""
+"ბოდიში, ფორმატი %s არ არის მხარდაჭერილი!\n"
+"%s-ის შენახვა ვერ მოხერხდა."
+
+#: ../libs/gcp/application.cc:645
+#, c-format
+msgid ""
+"Sorry, format %s not supported!\n"
+"Failed to load %s."
+msgstr ""
+"ბოდიში, ფორმატი %s არ არის მხარდაჭერილი!\n"
+"%s-ის ჩატვირთვა ვერ მოხერხდა."
+
+#: ../libs/gcp/application.cc:673 ../libs/gcr/application.cc:233
+#: ../libs/gcugtk/chem3dapplication.cc:174 ../libs/gcugtk/stringdlg.cc:131
+#: ../programs/calc/gchemcalc.cc:212 ../programs/spectra/application.cc:95
+#: ../programs/table/gchemtable-app.cc:729
+#, c-format
+msgid ""
+"File %s\n"
+"exists, overwrite?"
+msgstr ""
+"ფაილი %s\n"
+"უკვე არსებობს. გადაიწეროს?"
+
+#: ../libs/gcp/application.cc:685 ../libs/gcr/application.cc:245
+#: ../libs/gcugtk/stringdlg.cc:146
+#, c-format
+msgid ""
+"Error while processing %s:\n"
+"%s"
+msgstr ""
+"შეცდომა %s-ის დამუშავებისას:\n"
+"%s"
+
+#: ../libs/gcp/application.cc:794
+msgid "Error in "
+msgstr "შეცდომა: "
+
+#. Note to translator: add a space if needed before the semicolon
+#: ../libs/gcp/application.cc:797
+msgid ":\n"
+msgstr ":\n"
+
+#: ../libs/gcp/application.cc:888
+msgid "No filename"
+msgstr "ფაილის სახელი არ არის"
+
+#: ../libs/gcp/application.cc:891 ../libs/gcr/document.cc:1653
+#, c-format
+msgid ""
+"Could not load file\n"
+"%s"
+msgstr ""
+"ფაილის ჩატვირთვა ვერ მოხერხდა\n"
+"%s"
+
+#: ../libs/gcp/application.cc:894 ../libs/gcr/document.cc:1656
+#, c-format
+msgid ""
+"%s: invalid xml file.\n"
+"Tree is empty?"
+msgstr ""
+"%s: არასწორი xml ფაილი.\n"
+"ხე ცარიელია?"
+
+#: ../libs/gcp/application.cc:897 ../libs/gcr/document.cc:1659
+#, c-format
+msgid "%s: invalid file format."
+msgstr "%s: ფაილის ფორმატი არასწორია."
+
+#: ../libs/gcp/application.cc:900
+#, c-format
+msgid "%s: parse error."
+msgstr "%s: დამუშავების შეცდომა."
+
+#: ../libs/gcp/application.cc:935 ../libs/gcr/application.cc:140
+#: ../libs/gcugtk/chem3dapplication.cc:97 ../programs/calc/gchemcalc.cc:199
+#: ../programs/spectra/application.cc:161
+#: ../programs/table/gchemtable-app.cc:717
+msgid "Save as image"
+msgstr "შენახვა სურათად"
+
+#: ../libs/gcp/atom.cc:1188 ../libs/gcp/atom.cc:1202 ../libs/gcp/atom.cc:1215
+#: ../libs/gcr/atomsdlg.cc:425 ../libs/gcu/atom.cc:401
+msgid "Atom"
+msgstr "ატომი"
+
+#: ../libs/gcp/atom.cc:1191
+msgid "Display symbol"
+msgstr "სიმბოლოს ჩვენება"
+
+#: ../libs/gcp/atom.cc:1191
+msgid "Whether to display carbon atom symbol"
+msgstr "ნახშირბადის ატომის სიმბოლო გამოჩნდეს თუ არა"
+
+#: ../libs/gcp/atom.cc:1206 ../ui/paint/H-pos.ui.h:1
+msgid "Hydrogen atoms position"
+msgstr "წყალბადის ატომების მდებარეობა"
+
+#: ../libs/gcp/atom.cc:1219
+msgid "Show charge"
+msgstr "მუხტის ჩვენება"
+
+#: ../libs/gcp/atom.cc:1219
+msgid "Whether to display atom charge"
+msgstr "ატომის მუხტი გამოჩნდეს თუ არა"
+
+#: ../libs/gcp/atom.cc:1239 ../plugins/paint/selection/plugin.cc:72
+msgid "Select"
+msgstr "მონიშვნა"
+
+#: ../libs/gcp/atom.cc:1239
+msgid "Select object"
+msgstr "ობიექტის მონიშვნა"
+
+#: ../libs/gcp/atom.cc:1243
+msgid "Delete"
+msgstr "წაშლა"
+
+#: ../libs/gcp/atom.cc:1243
+msgid "Delete object"
+msgstr "ობიექტის წაშლა"
+
+#: ../libs/gcp/atom.cc:1250 ../plugins/paint/atoms/orbital.cc:413
+msgid "Properties"
+msgstr "თვისებები"
+
+#: ../libs/gcp/atom.cc:1250
+msgid "Object properties"
+msgstr "ობიექტის თვისებები"
+
+#: ../libs/gcp/bond.cc:840 ../libs/gcu/bond.cc:342
+msgid "Bond"
+msgstr "ბმა"
+
+#: ../libs/gcp/bond.cc:844
+msgid "Move to back"
+msgstr "უკან გადატანა"
+
+#: ../libs/gcp/bond.cc:851
+msgid "Bring to front"
+msgstr "წინ გამოტანა"
+
+#: ../libs/gcp/brackets.cc:365 ../libs/gcp/brackets.cc:379
+#: ../plugins/paint/selection/brackets.ui.h:6
+#: ../plugins/paint/selection/plugin.cc:81
+#: ../plugins/paint/selection/plugin.cc:82
+#: ../plugins/paint/selection/plugin.cc:107
+msgid "Brackets"
+msgstr "ფრჩხილები"
+
+#: ../libs/gcp/brackets.cc:368
+msgid "Add stoichiometry"
+msgstr "სტექიომეტრიის დამატება"
+
+#: ../libs/gcp/brackets.cc:382
+msgid "Add superscript"
+msgstr "ზედა ინდექსის დამატება"
+
+#: ../libs/gcp/docprop.cc:128 ../libs/gcp/docprop.cc:135
+#: ../libs/gcr/docprop.cc:131 ../libs/gcr/docprop.cc:138
+msgid "%A, %B %d, %Y"
+msgstr "%A, %d %B, %Y"
+
+#: ../libs/gcp/electron.cc:334
+msgid "Electron pair"
+msgstr "ელექტრონული წყვილი"
+
+#: ../libs/gcp/electron.cc:334
+msgid "Electron"
+msgstr "ელექტრონი"
+
+#: ../libs/gcp/fontsel.cc:356 ../programs/table/gchemtable-app.cc:150
+msgid "Family"
+msgstr "ოჯახი"
+
+#: ../libs/gcp/fontsel.cc:357
+msgid "Font family"
+msgstr "შრიფტის ოჯახი"
+
+#: ../libs/gcp/fontsel.cc:360
+msgid "Style"
+msgstr "სტილი"
+
+#: ../libs/gcp/fontsel.cc:361
+msgid "The font style (normal, oblique or italic)"
+msgstr "შრიფტის სტილი (ჩვეულებრივი, დახრილი ან კურსივი)"
+
+#: ../libs/gcp/fontsel.cc:365
+msgid "Weight"
+msgstr "სისქე"
+
+#: ../libs/gcp/fontsel.cc:366
+msgid "The font weight"
+msgstr "შრიფტის სისქე"
+
+#: ../libs/gcp/fontsel.cc:370
+msgid "Variant"
+msgstr "ვარიანტი"
+
+#: ../libs/gcp/fontsel.cc:371
+msgid "The font variant"
+msgstr "შრიფტის ვარიანტი"
+
+#: ../libs/gcp/fontsel.cc:375
+msgid "Stretch"
+msgstr "გაჭიმვა"
+
+#: ../libs/gcp/fontsel.cc:376
+msgid "The font stretch (condensed, normal or expanded)"
+msgstr "შრიფტის გაჭიმვა (შეკუმშული, ჩვეულებრივი ან გაფართოებული)"
+
+#: ../libs/gcp/fontsel.cc:380
+msgid "Size"
+msgstr "ზომა"
+
+#: ../libs/gcp/fontsel.cc:381
+msgid "The font size (in pango units)"
+msgstr "შრიფტის ზომა (pango ერთეულებში)"
+
+#: ../libs/gcp/fontsel.cc:385
+msgid "Allow slanted fonts"
+msgstr "დახრილი შრიფტების დაშვება"
+
+#: ../libs/gcp/fontsel.cc:386
+msgid "Whether to allow slanted fonts"
+msgstr "დახრილი შრიფტები დაშვებული იყოს თუ არა"
+
+#: ../libs/gcp/fontsel.cc:389
+msgid "Label"
+msgstr "ჭდე"
+
+#: ../libs/gcp/fontsel.cc:390
+msgid "Preview label"
+msgstr "გადახედვის ჭდე"
+
+#: ../libs/gcp/fragment.cc:1342
+msgid "Invalid symbol."
+msgstr "არასწორი სიმბოლო."
+
+#: ../libs/gcp/fragment.cc:1371
+msgid "Invalid charge."
+msgstr "არასწორი მუხტი."
+
+#: ../libs/gcp/fragment.cc:1570
+msgid "Fragment"
+msgstr "ფრაგმენტი"
+
+#: ../libs/gcp/mechanism-arrow.cc:471
+msgid "Mechanism arrow"
+msgstr "მექანიზმის ისარი"
+
+#: ../libs/gcp/mechanism-step.cc:67 ../libs/gcp/mechanism-step.cc:188
+msgid "Mechanism step"
+msgstr "მექანიზმის საფეხური"
+
+#: ../libs/gcp/mechanism-step.cc:191
+msgid "Align using this molecule"
+msgstr "გასწორება ამ მოლეკულის მიხედვით"
+
+#: ../libs/gcp/mesomer.cc:114
+msgid "NULL argument to Mesomer constructor!"
+msgstr "NULL არგუმენტი Mesomer-ის კონსტრუქტორში!"
+
+#: ../libs/gcp/mesomer.cc:129
+msgid "Only one arrow can link two given mesomers."
+msgstr "ორ მოცემულ მეზომერს მხოლოდ ერთი ისარი შეიძლება აკავშირებდეს."
+
+#: ../libs/gcp/mesomer.cc:168
+msgid "Mesomer"
+msgstr "მეზომერი"
+
+#: ../libs/gcp/mesomery.cc:164 ../libs/gcp/mesomery.cc:558
+#: ../libs/gcp/scheme.cc:300 ../plugins/paint/arrows/retrosynthesis.cc:164
+msgid "Something wrong happened, please file a bug report."
+msgstr "რაღაც არასწორად მოხდა, გთხოვთ, გააგზავნოთ შეცდომის ანგარიში."
+
+#: ../libs/gcp/mesomery.cc:209 ../plugins/paint/arrows/retrosynthesis.cc:201
+msgid "No space left between molecule and arrow!"
+msgstr "მოლეკულასა და ისარს შორის ადგილი აღარ დარჩა!"
+
+#: ../libs/gcp/mesomery.cc:227 ../plugins/paint/arrows/retrosynthesis.cc:219
+msgid "Isolated arrows are not allowed!"
+msgstr "იზოლირებული ისრები დაუშვებელია!"
+
+#: ../libs/gcp/mesomery.cc:241 ../plugins/paint/arrows/retrosynthesis.cc:234
+msgid ""
+"Isolated molecule!\n"
+" Please add missing arrows."
+msgstr ""
+"იზოლირებული მოლეკულა!\n"
+" გთხოვთ, დაამატოთ დაკარგული ისრები."
+
+#: ../libs/gcp/mesomery.cc:246
+msgid "Please add missing arrows."
+msgstr "გთხოვთ, დაამატოთ დაკარგული ისრები."
+
+#: ../libs/gcp/mesomery.cc:781
+msgid "Destroy the mesomery relationship"
+msgstr "მეზომერიის კავშირის განადგურება"
+
+#: ../libs/gcp/mesomery.cc:824
+msgid "Mesomery"
+msgstr "მეზომერია"
+
+#: ../libs/gcp/mesomery-arrow.cc:152
+msgid "Mesomery arrow"
+msgstr "მეზომერიის ისარი"
+
+#: ../libs/gcp/molecule.cc:576 ../libs/gcu/molecule.cc:413
+msgid "Molecule"
+msgstr "მოლეკულა"
+
+#: ../libs/gcp/molecule.cc:583
+msgid "Open 3D model in"
+msgstr "3D მოდელის გახსნა პროგრამაში"
+
+#: ../libs/gcp/molecule.cc:587
+msgid "Ghemical"
+msgstr ""
+
+#: ../libs/gcp/molecule.cc:594
+msgid "GChem3D"
+msgstr ""
+
+#: ../libs/gcp/molecule.cc:601
+msgid "Avogadro"
+msgstr ""
+
+#: ../libs/gcp/molecule.cc:609
+msgid "Generate InChI"
+msgstr "InChI-ის გენერირება"
+
+#: ../libs/gcp/molecule.cc:614
+msgid "Generate InChIKey"
+msgstr "InChIKey-ის გენერირება"
+
+#: ../libs/gcp/molecule.cc:619
+msgid "Generate SMILES"
+msgstr "SMILES-ის გენერირება"
+
+#: ../libs/gcp/molecule.cc:624
+msgid "Open in Calculator"
+msgstr "კალკულატორში გახსნა"
+
+#: ../libs/gcp/molecule.cc:632
+msgid "Select alignment item"
+msgstr "გასასწორებელი ელემენტის არჩევა"
+
+#: ../libs/gcp/preferences.cc:372 ../libs/gcp/preferences.cc:391
+#: ../libs/gcp/preferences.cc:518 ../libs/gcp/theme.cc:316
+#: ../libs/gcp/theme.cc:324 ../programs/table/gchemtable-app.cc:145
+msgid "Default"
+msgstr "ნაგულისხმევი"
+
+#: ../libs/gcp/preferences.cc:410 ../libs/gcp/preferences.cc:479
+#: ../libs/gcp/preferences.cc:547
+msgid "General"
+msgstr "ზოგადი"
+
+#: ../libs/gcp/preferences.cc:416 ../libs/gcp/preferences.cc:490
+#: ../libs/gcp/preferences.cc:540
+msgid "Atoms"
+msgstr "ატომები"
+
+#: ../libs/gcp/preferences.cc:420 ../libs/gcp/preferences.cc:494
+#: ../libs/gcp/preferences.cc:549 ../plugins/paint/selection/brackets.ui.h:7
+#: ../plugins/paint/text/equation.cc:174
+msgid "Font"
+msgstr "შრიფტი"
+
+#: ../libs/gcp/preferences.cc:424 ../libs/gcp/preferences.cc:498
+#: ../libs/gcp/preferences.cc:551 ../ui/crystal/prefs.ui.h:19
+msgid "Other"
+msgstr "სხვა"
+
+#: ../libs/gcp/preferences.cc:428 ../libs/gcp/preferences.cc:502
+#: ../libs/gcp/preferences.cc:553 ../ui/crystal/bonds.ui.h:1
+msgid "Bonds"
+msgstr "ბმები"
+
+#: ../libs/gcp/preferences.cc:432 ../libs/gcp/preferences.cc:506
+#: ../libs/gcp/preferences.cc:555
+msgid "Arrows"
+msgstr "ისრები"
+
+#: ../libs/gcp/preferences.cc:436 ../libs/gcp/preferences.cc:510
+#: ../libs/gcp/preferences.cc:557 ../libs/gcp/text.cc:1068
+msgid "Text"
+msgstr "ტექსტი"
+
+#: ../libs/gcp/reactant.cc:83
+msgid "Add a stoichiometry coefficient"
+msgstr "სტექიომეტრიული კოეფიციენტის დამატება"
+
+#: ../libs/gcp/reactant.cc:277 ../libs/gcp/reaction-prop.cc:43
+msgid "Reactant"
+msgstr "რეაგენტი"
+
+#: ../libs/gcp/reaction.cc:165 ../libs/gcp/reaction.cc:174
+msgid "Error: arrow without a reactant or product."
+msgstr "შეცდომა: ისარი რეაგენტის ან პროდუქტის გარეშე."
+
+#: ../libs/gcp/reaction.cc:187
+msgid "Error: isolated molecules."
+msgstr "შეცდომა: იზოლირებული მოლეკულები."
+
+#: ../libs/gcp/reaction.cc:307
+msgid "Destroy the reaction"
+msgstr "რეაქციის განადგურება"
+
+#: ../libs/gcp/reaction.cc:337
+msgid "Reaction"
+msgstr "რეაქცია"
+
+#: ../libs/gcp/reaction-arrow.cc:430
+msgid "Properties..."
+msgstr "თვისებები..."
+
+#: ../libs/gcp/reaction-arrow.cc:430
+msgid "Arrow properties"
+msgstr "ისრის თვისებები"
+
+#: ../libs/gcp/reaction-arrow.cc:445
+msgid "Attach selection to arrow..."
+msgstr "მონიშნულის ისარზე მიმაგრება..."
+
+#: ../libs/gcp/reaction-arrow.cc:453
+msgid "Invert"
+msgstr "შებრუნება"
+
+#: ../libs/gcp/reaction-arrow.cc:453
+msgid "Invert arrow"
+msgstr "ისრის შებრუნება"
+
+#: ../libs/gcp/reaction-arrow.cc:459
+msgid "Full heads"
+msgstr "სრული ისრისთავები"
+
+#: ../libs/gcp/reaction-arrow.cc:459
+msgid "Half heads"
+msgstr "ნახევარი ისრისთავები"
+
+#: ../libs/gcp/reaction-arrow.cc:459
+msgid "Swap arrow head style between half and full"
+msgstr "ისრისთავის სტილის გადართვა ნახევარსა და სრულს შორის"
+
+#: ../libs/gcp/reaction-arrow.cc:970
+msgid "Reaction arrow"
+msgstr "რეაქციის ისარი"
+
+#: ../libs/gcp/reaction-separator.cc:137 ../libs/gcp/step-counter.cc:182
+msgid "Reaction separator"
+msgstr "რეაქციის გამყოფი"
+
+#: ../libs/gcp/reaction-operator.cc:128
+msgid "Reaction operator"
+msgstr "რეაქციის ოპერატორი"
+
+#: ../libs/gcp/reaction-prop.cc:41 ../libs/gcp/theme.cc:525
+#: ../libs/gcp/theme.cc:529 ../libs/gcr/atomsdlg.cc:97
+#: ../libs/gcr/atomsdlg.cc:214 ../libs/gcr/atomsdlg.cc:438
+#: ../libs/gcr/atomsdlg.cc:536 ../programs/table/gchemtable-elt.cc:58
+#: ../ui/crystal/atoms.ui.h:11
+msgid "Unknown"
+msgstr "უცნობი"
+
+#: ../libs/gcp/reaction-prop.cc:42
+msgid "Catalyst"
+msgstr "კატალიზატორი"
+
+#: ../libs/gcp/reaction-prop.cc:44
+msgid "Product"
+msgstr "პროდუქტი"
+
+#: ../libs/gcp/reaction-prop.cc:45
+msgid "Solvent"
+msgstr "გამხსნელი"
+
+#: ../libs/gcp/reaction-prop.cc:46
+msgid "Temperature"
+msgstr "ტემპერატურა"
+
+#: ../libs/gcp/reaction-prop.cc:47
+msgid "Pressure"
+msgstr "წნევა"
+
+#: ../libs/gcp/reaction-prop.cc:48
+msgid "Time"
+msgstr "დრო"
+
+#: ../libs/gcp/reaction-prop.cc:49
+msgid "Enthalpy"
+msgstr "ენთალპია"
+
+#: ../libs/gcp/reaction-prop.cc:160
+msgid "Reaction property"
+msgstr "რეაქციის თვისება"
+
+#: ../libs/gcp/reaction-prop.cc:183
+msgid "Role and position..."
+msgstr "როლი და მდებარეობა..."
+
+#: ../libs/gcp/reaction-prop.cc:183
+msgid "Attached object properties"
+msgstr "მიმაგრებული ობიექტის თვისებები"
+
+#: ../libs/gcp/reaction-step.cc:70 ../libs/gcp/reaction-step.cc:90
+msgid "A mechanism step must stay alone inside a reaction step"
+msgstr "მექანიზმის საფეხური რეაქციის საფეხურში მარტო უნდა იყოს"
+
+#: ../libs/gcp/reaction-step.cc:297
+msgid "Reaction step"
+msgstr "რეაქციის საფეხური"
+
+#: ../libs/gcp/step.cc:43 ../plugins/paint/arrows/retrosynthesisstep.cc:76
+msgid "Only one arrow can link two given steps."
+msgstr "ორ მოცემულ საფეხურს მხოლოდ ერთი ისარი შეიძლება აკავშირებდეს."
+
+#: ../libs/gcp/text.cc:130 ../libs/gcp/text.cc:136
+msgid "This should not have occured, please file a bug record."
+msgstr "ეს არ უნდა მომხდარიყო, გთხოვთ, გააგზავნოთ შეცდომის ანგარიში."
+
+#: ../libs/gcp/theme.cc:422
+msgid "NewTheme1"
+msgstr "ახალითემა1"
+
+#: ../libs/gcp/theme.cc:426
+#, c-format
+msgid "NewTheme%d"
+msgstr "ახალითემა%d"
+
+#: ../libs/gcp/view.cc:764 ../libs/gcp/view.cc:790
+#: ../libs/gcr/application.cc:302 ../libs/gcugtk/chem3dapplication.cc:194
+#, c-format
+msgid ""
+"Could not create stream!\n"
+"%s"
+msgstr ""
+"ნაკადის შექმნა ვერ მოხერხდა!\n"
+"%s"
+
+#: ../libs/gcp/view.cc:812 ../libs/gcu/glview.cc:119
+#, c-format
+msgid "Unable to save image file: %s\n"
+msgstr "სურათის ფაილის შენახვა ვერ მოხერხდა: %s\n"
+
+#: ../libs/gcp/window.cc:61 ../libs/gcugtk/chem3dwindow.cc:60
+msgid "Import molecule from InChI or SMILES"
+msgstr "მოლეკულის იმპორტი InChI-დან ან SMILES-იდან"
+
+#: ../libs/gcp/window.cc:346 ../libs/gcr/window.cc:282
+#: ../libs/gcugtk/chem3dwindow.cc:269 ../programs/calc/gchemcalc.cc:587
+#: ../programs/spectra/window.cc:192 ../programs/table/gchemtable-app.cc:138
+#: ../programs/table/gchemtable-curve.cc:207
+msgid "_File"
+msgstr "_ფაილი"
+
+#: ../libs/gcp/window.cc:347 ../libs/gcr/window.cc:283
+msgid "_New File"
+msgstr "_ახალი ფაილი"
+
+#: ../libs/gcp/window.cc:348 ../libs/gcr/window.cc:284
+msgid "Create a new file"
+msgstr "ახალი ფაილის შექმნა"
+
+#: ../libs/gcp/window.cc:349
+msgid "Ne_w File with Theme..."
+msgstr "ახალი ფაილი _თემით..."
+
+#: ../libs/gcp/window.cc:350
+msgid "Create a new file using a theme"
+msgstr "ახალი ფაილის შექმნა თემის გამოყენებით"
+
+#: ../libs/gcp/window.cc:351 ../libs/gcr/window.cc:285
+#: ../libs/gcugtk/chem3dwindow.cc:270 ../programs/spectra/window.cc:193
+msgid "_Open..."
+msgstr "_გახსნა..."
+
+#: ../libs/gcp/window.cc:352 ../libs/gcr/window.cc:286
+#: ../libs/gcugtk/chem3dwindow.cc:271 ../programs/spectra/window.cc:194
+msgid "Open a file"
+msgstr "ფაილის გახსნა"
+
+#: ../libs/gcp/window.cc:353 ../libs/gcr/window.cc:287
+#: ../libs/gcugtk/chem3dwindow.cc:272
+msgid "_Save"
+msgstr "_შენახვა"
+
+#: ../libs/gcp/window.cc:354 ../libs/gcr/window.cc:288
+msgid "Save the current file"
+msgstr "მიმდინარე ფაილის შენახვა"
+
+#: ../libs/gcp/window.cc:355 ../libs/gcr/window.cc:289
+msgid "Save _As..."
+msgstr "შენახვა _როგორც..."
+
+#: ../libs/gcp/window.cc:356 ../libs/gcr/window.cc:290
+msgid "Save the current file with a different name"
+msgstr "მიმდინარე ფაილის შენახვა სხვა სახელით"
+
+#: ../libs/gcp/window.cc:357 ../libs/gcr/window.cc:291
+#: ../libs/gcugtk/chem3dwindow.cc:274 ../programs/calc/gchemcalc.cc:588
+#: ../programs/spectra/window.cc:195 ../programs/table/gchemtable-curve.cc:208
+msgid "Save As _Image..."
+msgstr "შენახვა _სურათად..."
+
+#: ../libs/gcp/window.cc:358 ../libs/gcr/window.cc:292
+#: ../libs/gcugtk/chem3dwindow.cc:275 ../programs/calc/gchemcalc.cc:589
+#: ../programs/spectra/window.cc:196 ../programs/table/gchemtable-curve.cc:209
+msgid "Save the current file as an image"
+msgstr "მიმდინარე ფაილის შენახვა სურათად"
+
+#: ../libs/gcp/window.cc:359 ../libs/gcr/window.cc:293
+#: ../libs/gcugtk/chem3dwindow.cc:276 ../programs/calc/gchemcalc.cc:590
+#: ../programs/spectra/window.cc:197 ../programs/table/gchemtable-curve.cc:210
+msgid "Page Set_up..."
+msgstr "გვერდის _გამართვა..."
+
+#: ../libs/gcp/window.cc:360 ../libs/gcr/window.cc:294
+#: ../libs/gcugtk/chem3dwindow.cc:277 ../programs/calc/gchemcalc.cc:591
+#: ../programs/spectra/window.cc:198 ../programs/table/gchemtable-curve.cc:211
+msgid "Setup the page settings for your current printer"
+msgstr "გვერდის პარამეტრების გამართვა მიმდინარე პრინტერისთვის"
+
+#: ../libs/gcp/window.cc:361 ../libs/gcr/window.cc:295
+#: ../libs/gcugtk/chem3dwindow.cc:278 ../programs/calc/gchemcalc.cc:592
+#: ../programs/spectra/window.cc:199 ../programs/table/gchemtable-curve.cc:212
+msgid "Print Pre_view"
+msgstr "ბეჭდვის წინ _გადახედვა"
+
+#: ../libs/gcp/window.cc:362 ../libs/gcr/window.cc:296
+#: ../libs/gcugtk/chem3dwindow.cc:279 ../programs/calc/gchemcalc.cc:593
+#: ../programs/spectra/window.cc:200 ../programs/table/gchemtable-curve.cc:213
+msgid "Print preview"
+msgstr "ბეჭდვის წინ გადახედვა"
+
+#: ../libs/gcp/window.cc:363 ../libs/gcr/window.cc:297
+#: ../libs/gcugtk/chem3dwindow.cc:280 ../programs/calc/gchemcalc.cc:594
+#: ../programs/spectra/window.cc:201 ../programs/table/gchemtable-curve.cc:214
+msgid "_Print..."
+msgstr "_ბეჭდვა..."
+
+#: ../libs/gcp/window.cc:364 ../libs/gcr/window.cc:298
+#: ../programs/calc/gchemcalc.cc:595 ../programs/spectra/window.cc:202
+#: ../programs/table/gchemtable-curve.cc:215
+msgid "Print the current file"
+msgstr "მიმდინარე ფაილის დაბეჭდვა"
+
+#: ../libs/gcp/window.cc:365 ../libs/gcr/window.cc:299
+#: ../programs/table/gchemtable-curve.cc:216
+msgid "Prope_rties..."
+msgstr "_თვისებები..."
+
+#: ../libs/gcp/window.cc:366 ../libs/gcr/window.cc:300
+msgid "Modify the file's properties"
+msgstr "ფაილის თვისებების შეცვლა"
+
+#: ../libs/gcp/window.cc:367 ../libs/gcr/window.cc:301
+#: ../libs/gcugtk/chem3dwindow.cc:282 ../programs/spectra/window.cc:203
+#: ../programs/table/gchemtable-curve.cc:218
+msgid "_Close"
+msgstr "_დახურვა"
+
+#: ../libs/gcp/window.cc:368 ../libs/gcr/window.cc:302
+#: ../libs/gcugtk/chem3dwindow.cc:283 ../programs/spectra/window.cc:204
+#: ../programs/table/gchemtable-curve.cc:219
+msgid "Close the current file"
+msgstr "მიმდინარე ფაილის დახურვა"
+
+#: ../libs/gcp/window.cc:369 ../libs/gcr/window.cc:303
+#: ../libs/gcugtk/chem3dwindow.cc:284 ../programs/calc/gchemcalc.cc:596
+#: ../programs/spectra/window.cc:205 ../programs/table/gchemtable-app.cc:139
+#: ../programs/table/gchemtable-curve.cc:220
+msgid "_Quit"
+msgstr "_გასვლა"
+
+#: ../libs/gcp/window.cc:370
+msgid "Quit GChemPaint"
+msgstr "GChemPaint-იდან გასვლა"
+
+#: ../libs/gcp/window.cc:371 ../libs/gcr/window.cc:305
+#: ../programs/calc/gchemcalc.cc:598 ../programs/spectra/window.cc:207
+#: ../programs/table/gchemtable-curve.cc:222
+msgid "_Edit"
+msgstr "_რედაქტირება"
+
+#: ../libs/gcp/window.cc:372
+msgid "_Undo"
+msgstr "_გაუქმება"
+
+#: ../libs/gcp/window.cc:373
+msgid "Undo the last action"
+msgstr "ბოლო მოქმედების გაუქმება"
+
+#: ../libs/gcp/window.cc:374
+msgid "_Redo"
+msgstr "_გამეორება"
+
+#: ../libs/gcp/window.cc:375
+msgid "Redo the undone action"
+msgstr "გაუქმებული მოქმედების გამეორება"
+
+#: ../libs/gcp/window.cc:376
+msgid "Cu_t"
+msgstr "_ამოჭრა"
+
+#: ../libs/gcp/window.cc:377
+msgid "Cut the selection"
+msgstr "მონიშნულის ამოჭრა"
+
+#: ../libs/gcp/window.cc:378 ../programs/calc/gchemcalc.cc:599
+#: ../programs/spectra/window.cc:208 ../programs/table/gchemtable-curve.cc:223
+msgid "_Copy"
+msgstr "_კოპირება"
+
+#: ../libs/gcp/window.cc:379 ../programs/calc/gchemcalc.cc:600
+#: ../programs/spectra/window.cc:209 ../programs/table/gchemtable-curve.cc:224
+msgid "Copy the selection"
+msgstr "მონიშნულის კოპირება"
+
+#: ../libs/gcp/window.cc:380
+msgid "_Paste"
+msgstr "_ჩასმა"
+
+#: ../libs/gcp/window.cc:381
+msgid "Paste the clipboard"
+msgstr "ბუფერის ჩასმა"
+
+#: ../libs/gcp/window.cc:382
+msgid "C_lear"
+msgstr "_გასუფთავება"
+
+#: ../libs/gcp/window.cc:383
+msgid "Clear the selection"
+msgstr "მონიშნულის გასუფთავება"
+
+#: ../libs/gcp/window.cc:384
+msgid "Select _All"
+msgstr "_ყველას მონიშვნა"
+
+#: ../libs/gcp/window.cc:385
+msgid "Select everything"
+msgstr "ყველაფრის მონიშვნა"
+
+#: ../libs/gcp/window.cc:386
+msgid "Pr_eferences..."
+msgstr "_პარამეტრები..."
+
+#: ../libs/gcp/window.cc:387 ../libs/gcr/window.cc:307
+msgid "Configure the application"
+msgstr "აპლიკაციის კონფიგურაცია"
+
+#: ../libs/gcp/window.cc:388 ../libs/gcr/window.cc:319
+#: ../libs/gcugtk/chem3dwindow.cc:286 ../programs/table/gchemtable-app.cc:141
+msgid "_View"
+msgstr "_ხედი"
+
+#: ../libs/gcp/window.cc:389
+msgid "_Zoom"
+msgstr "_მასშტაბი"
+
+#: ../libs/gcp/window.cc:390
+msgid "_400%"
+msgstr ""
+
+#: ../libs/gcp/window.cc:391
+msgid "Zoom to 400%"
+msgstr "მასშტაბი 400%"
+
+#: ../libs/gcp/window.cc:392
+msgid "_300%"
+msgstr ""
+
+#: ../libs/gcp/window.cc:393
+msgid "Zoom to 300%"
+msgstr "მასშტაბი 300%"
+
+#: ../libs/gcp/window.cc:394
+msgid "_200%"
+msgstr ""
+
+#: ../libs/gcp/window.cc:395
+msgid "Zoom to 200%"
+msgstr "მასშტაბი 200%"
+
+#: ../libs/gcp/window.cc:396
+msgid "150%"
+msgstr ""
+
+#: ../libs/gcp/window.cc:397
+msgid "Zoom to 150%"
+msgstr "მასშტაბი 150%"
+
+#: ../libs/gcp/window.cc:398
+msgid "_100%"
+msgstr ""
+
+#: ../libs/gcp/window.cc:399
+msgid "Zoom to 100%"
+msgstr "მასშტაბი 100%"
+
+#: ../libs/gcp/window.cc:400
+msgid "_75%"
+msgstr ""
+
+#: ../libs/gcp/window.cc:401
+msgid "Zoom to 75%"
+msgstr "მასშტაბი 75%"
+
+#: ../libs/gcp/window.cc:402
+msgid "_50%"
+msgstr ""
+
+#: ../libs/gcp/window.cc:403
+msgid "Zoom to 50%"
+msgstr "მასშტაბი 50%"
+
+#: ../libs/gcp/window.cc:404
+msgid "25%"
+msgstr ""
+
+#: ../libs/gcp/window.cc:405
+msgid "Zoom to 25%"
+msgstr "მასშტაბი 25%"
+
+#: ../libs/gcp/window.cc:406
+msgid "_Zoom to...%"
+msgstr "_მასშტაბი...%"
+
+#: ../libs/gcp/window.cc:407
+msgid "Open Zoom Dialog Box"
+msgstr "მასშტაბის დიალოგის გახსნა"
+
+#: ../libs/gcp/window.cc:408 ../libs/gcugtk/chem3dwindow.cc:287
+msgid "_Tools"
+msgstr "_ხელსაწყოები"
+
+#: ../libs/gcp/window.cc:409 ../libs/gcugtk/chem3dwindow.cc:288
+msgid "_Import molecule..."
+msgstr "_მოლეკულის იმპორტი..."
+
+#: ../libs/gcp/window.cc:410 ../libs/gcugtk/chem3dwindow.cc:289
+msgid "Import a molecule either from InChI or SMILES"
+msgstr "მოლეკულის იმპორტი InChI-დან ან SMILES-იდან"
+
+#: ../libs/gcp/window.cc:411 ../libs/gcr/window.cc:322
+msgid "_Windows"
+msgstr "_ფანჯრები"
+
+#: ../libs/gcp/window.cc:412 ../libs/gcr/window.cc:327
+#: ../libs/gcugtk/chem3dwindow.cc:300 ../programs/calc/gchemcalc.cc:602
+#: ../programs/spectra/window.cc:210 ../programs/table/gchemtable-app.cc:188
+#: ../programs/table/gchemtable-curve.cc:225
+#: ../programs/table/gchemtable-curve.cc:228
+msgid "_Help"
+msgstr "_დახმარება"
+
+#: ../libs/gcp/window.cc:413 ../libs/gcr/window.cc:328
+#: ../libs/gcugtk/chem3dwindow.cc:301 ../programs/calc/gchemcalc.cc:603
+#: ../programs/spectra/window.cc:211 ../programs/table/gchemtable-app.cc:189
+#: ../programs/table/gchemtable-curve.cc:226
+msgid "_Contents"
+msgstr "_შინაარსი"
+
+#: ../libs/gcp/window.cc:414
+msgid "View help for GChemPaint"
+msgstr "GChemPaint-ის დახმარების ნახვა"
+
+#: ../libs/gcp/window.cc:415
+msgid "GChemPaint on the _web"
+msgstr "GChemPaint ვებ_ში"
+
+#: ../libs/gcp/window.cc:416
+msgid "Browse GChemPaint's web site"
+msgstr "GChemPaint-ის ვებსაიტზე გადასვლა"
+
+#: ../libs/gcp/window.cc:417 ../libs/gcr/window.cc:332
+#: ../libs/gcugtk/chem3dwindow.cc:305 ../programs/calc/gchemcalc.cc:607
+#: ../programs/spectra/window.cc:215 ../programs/table/gchemtable-app.cc:193
+#: ../programs/table/gchemtable-curve.cc:232
+msgid "Live assistance"
+msgstr "ცოცხალი დახმარება"
+
+#: ../libs/gcp/window.cc:418 ../libs/gcr/window.cc:333
+#: ../libs/gcugtk/chem3dwindow.cc:306 ../programs/calc/gchemcalc.cc:608
+#: ../programs/spectra/window.cc:216 ../programs/table/gchemtable-app.cc:194
+#: ../programs/table/gchemtable-curve.cc:233
+msgid "Open the Gnome Chemistry Utils IRC channel"
+msgstr "Gnome Chemistry Utils-ის IRC არხის გახსნა"
+
+#: ../libs/gcp/window.cc:419 ../libs/gcr/window.cc:334
+#: ../libs/gcugtk/chem3dwindow.cc:307 ../programs/calc/gchemcalc.cc:609
+#: ../programs/spectra/window.cc:217 ../programs/table/gchemtable-app.cc:195
+#: ../programs/table/gchemtable-curve.cc:234
+msgid "_Ask a question"
+msgstr "_შეკითხვის დასმა"
+
+#: ../libs/gcp/window.cc:420
+msgid "Ask a question about GChemPaint"
+msgstr "შეკითხვის დასმა GChemPaint-ის შესახებ"
+
+#: ../libs/gcp/window.cc:421 ../libs/gcr/window.cc:336
+#: ../libs/gcugtk/chem3dwindow.cc:309 ../programs/calc/gchemcalc.cc:611
+#: ../programs/spectra/window.cc:219 ../programs/table/gchemtable-app.cc:197
+#: ../programs/table/gchemtable-curve.cc:236
+msgid "Report _Bugs"
+msgstr "_შეცდომის შეტყობინება"
+
+#: ../libs/gcp/window.cc:422
+msgid "Submit a bug report for GChemPaint"
+msgstr "GChemPaint-ის შეცდომის ანგარიშის გაგზავნა"
+
+#: ../libs/gcp/window.cc:423 ../libs/gcr/window.cc:338
+#: ../libs/gcugtk/chem3dwindow.cc:311 ../programs/calc/gchemcalc.cc:613
+#: ../programs/spectra/window.cc:221 ../programs/table/gchemtable-app.cc:199
+#: ../programs/table/gchemtable-curve.cc:238
+msgid "_About"
+msgstr "_შესახებ"
+
+#: ../libs/gcp/window.cc:424
+msgid "About GChemPaint"
+msgstr "GChemPaint-ის შესახებ"
+
+#: ../libs/gcp/window.cc:429
+msgid "_Full Screen"
+msgstr "_სრულ ეკრანზე"
+
+#: ../libs/gcp/window.cc:430
+msgid "Switch between full screen and windowed mode"
+msgstr "გადართვა სრულ ეკრანსა და ფანჯრულ რეჟიმს შორის"
+
+#: ../libs/gcp/window.cc:584
+msgid "Open _recent"
+msgstr "_ახლახან გახსნილი"
+
+#: ../libs/gcp/window.cc:608 ../libs/gcr/window.cc:470
+msgid "Ready"
+msgstr "მზადაა"
+
+#: ../libs/gcp/window.cc:777
+msgid "GChemPaint"
+msgstr ""
+
+#: ../libs/gcp/window.cc:786 ../libs/gcr/document.cc:1386
+#, c-format
+msgid "\"%s\" has been modified.  Do you wish to save it?"
+msgstr "\"%s\" შეიცვალა. გსურთ მისი შენახვა?"
+
+#: ../libs/gcr/application.cc:346
+#, c-format
+msgid ""
+"\"%s\" has been modified since last saving. Do you wish to come back to "
+"saved version?"
+msgstr "\"%s\" შეიცვალა ბოლო შენახვის შემდეგ. გსურთ შენახულ ვერსიას დაბრუნება?"
+
+#: ../libs/gcr/atomsdlg.cc:425
+msgid "x"
+msgstr ""
+
+#: ../libs/gcr/atomsdlg.cc:425
+msgid "y"
+msgstr ""
+
+#: ../libs/gcr/atomsdlg.cc:425
+msgid "z"
+msgstr ""
+
+#. Note for translators: c.n. is for coordination number
+#: ../libs/gcr/atomsdlg.cc:497
+msgid " c.n.="
+msgstr " კოორდ. რიცხვი="
+
+#: ../libs/gcr/atomsdlg.cc:503
+msgid "low spin"
+msgstr "დაბალი სპინი"
+
+#: ../libs/gcr/atomsdlg.cc:503
+msgid "high spin"
+msgstr "მაღალი სპინი"
+
+#: ../libs/gcr/atomsdlg.cc:505
+msgid "Database"
+msgstr "მონაცემთა ბაზა"
+
+#: ../libs/gcr/celldlg.cc:177
+msgid "The sum of the three angles must be less than 360°"
+msgstr "სამი კუთხის ჯამი 360°-ზე ნაკლები უნდა იყოს"
+
+#: ../libs/gcr/cleavagesdlg.cc:140
+msgid "Planes cleaved"
+msgstr "გაპობილი სიბრტყეები"
+
+#: ../libs/gcr/document.cc:423
+msgid "Everything has been cleaved"
+msgstr "ყველაფერი გაპობილია"
+
+#: ../libs/gcr/document.cc:1650
+#, c-format
+msgid ""
+"Could not save file\n"
+"%s"
+msgstr ""
+"ფაილის შენახვა ვერ მოხერხდა\n"
+"%s"
+
+#: ../libs/gcr/grid.cc:179 ../programs/table/gchemtable-data-allocator.cc:140
+msgid "Invalid data"
+msgstr "არასწორი მონაცემები"
+
+#: ../libs/gcr/linesdlg.cc:347
+msgid "x1"
+msgstr ""
+
+#: ../libs/gcr/linesdlg.cc:347
+msgid "y1"
+msgstr ""
+
+#: ../libs/gcr/linesdlg.cc:347
+msgid "z1"
+msgstr ""
+
+#: ../libs/gcr/linesdlg.cc:348
+msgid "x2"
+msgstr ""
+
+#: ../libs/gcr/linesdlg.cc:348
+msgid "y2"
+msgstr ""
+
+#: ../libs/gcr/linesdlg.cc:348
+msgid "z2"
+msgstr ""
+
+#: ../libs/gcr/linesdlg.cc:349 ../plugins/paint/text/fontsel.ui.h:4
+msgid "Single"
+msgstr "ერთეული"
+
+#: ../libs/gcr/window.cc:150 ../libs/gcr/window.cc:404
+msgid "Gnome Crystal"
+msgstr "Gnome Crystal"
+
+#: ../libs/gcr/window.cc:153
+msgid "Gnome Crystal is a lightweight crystal structures viewer for Gnome"
+msgstr ""
+"Gnome Crystal არის კრისტალური სტრუქტურების მსუბუქი მნახველი Gnome-ისთვის"
+
+#: ../libs/gcr/window.cc:154
+msgid "Copyright © 1999-2010 by Jean Bréfort"
+msgstr ""
+
+#: ../libs/gcr/window.cc:304
+msgid "Quit Gnome Crystal"
+msgstr "Gnome Crystal-იდან გასვლა"
+
+#: ../libs/gcr/window.cc:306
+msgid "Prefere_nces..."
+msgstr "_პარამეტრები..."
+
+#: ../libs/gcr/window.cc:308
+msgid "_Crystal"
+msgstr "_კრისტალი"
+
+#: ../libs/gcr/window.cc:309
+msgid "_Lattice..."
+msgstr "_მესერი..."
+
+#: ../libs/gcr/window.cc:310
+msgid "Define the lattice"
+msgstr "მესერის განსაზღვრა"
+
+#: ../libs/gcr/window.cc:311
+msgid "_Atoms..."
+msgstr "_ატომები..."
+
+#: ../libs/gcr/window.cc:312
+msgid "Add or edit atoms"
+msgstr "ატომების დამატება ან რედაქტირება"
+
+#: ../libs/gcr/window.cc:313
+msgid "_Bonds and lines..."
+msgstr "_ბმები და ხაზები..."
+
+#: ../libs/gcr/window.cc:314
+msgid "Add or edit bonds and lines"
+msgstr "ბმებისა და ხაზების დამატება ან რედაქტირება"
+
+#: ../libs/gcr/window.cc:315
+msgid "_Size..."
+msgstr "_ზომა..."
+
+#: ../libs/gcr/window.cc:316
+msgid "Define size"
+msgstr "ზომის განსაზღვრა"
+
+#: ../libs/gcr/window.cc:317
+msgid "_Cleavages..."
+msgstr "_გაპობები..."
+
+#: ../libs/gcr/window.cc:318
+msgid "Add or edit cleavages to remove some planes"
+msgstr "გაპობების დამატება ან რედაქტირება ზოგიერთი სიბრტყის მოსაცილებლად"
+
+#: ../libs/gcr/window.cc:320
+msgid "View _settings..."
+msgstr "ხედის _პარამეტრები..."
+
+#: ../libs/gcr/window.cc:321
+msgid "Choose background color and model position"
+msgstr "ფონის ფერისა და მოდელის მდებარეობის არჩევა"
+
+#: ../libs/gcr/window.cc:323
+msgid "Create new _window"
+msgstr "ახალი _ფანჯრის შექმნა"
+
+#: ../libs/gcr/window.cc:324
+msgid "Create a new window"
+msgstr "ახალი ფანჯრის შექმნა"
+
+#: ../libs/gcr/window.cc:325
+msgid "_Close this window"
+msgstr "ამ ფანჯრის _დახურვა"
+
+#: ../libs/gcr/window.cc:326
+msgid "Close the current window"
+msgstr "მიმდინარე ფანჯრის დახურვა"
+
+#: ../libs/gcr/window.cc:329
+msgid "View help for Gnome Crystal"
+msgstr "Gnome Crystal-ის დახმარების ნახვა"
+
+#: ../libs/gcr/window.cc:330 ../libs/gcugtk/chem3dwindow.cc:303
+#: ../programs/calc/gchemcalc.cc:605 ../programs/spectra/window.cc:213
+#: ../programs/table/gchemtable-app.cc:191
+#: ../programs/table/gchemtable-curve.cc:230
+msgid "Gnome Chemistry Utils on the _web"
+msgstr "Gnome Chemistry Utils ვებ_ში"
+
+#: ../libs/gcr/window.cc:331 ../libs/gcugtk/chem3dwindow.cc:304
+#: ../programs/calc/gchemcalc.cc:606 ../programs/spectra/window.cc:214
+#: ../programs/table/gchemtable-app.cc:192
+#: ../programs/table/gchemtable-curve.cc:231
+msgid "Browse the Gnome Chemistry Utils's web site"
+msgstr "Gnome Chemistry Utils-ის ვებსაიტზე გადასვლა"
+
+#: ../libs/gcr/window.cc:335 ../libs/gcugtk/chem3dwindow.cc:308
+#: ../programs/calc/gchemcalc.cc:610 ../programs/spectra/window.cc:218
+#: ../programs/table/gchemtable-app.cc:196
+#: ../programs/table/gchemtable-curve.cc:235
+msgid "Ask a question about the Gnome Chemistry Utils"
+msgstr "შეკითხვის დასმა Gnome Chemistry Utils-ის შესახებ"
+
+#: ../libs/gcr/window.cc:337 ../libs/gcugtk/chem3dwindow.cc:310
+#: ../programs/calc/gchemcalc.cc:612 ../programs/spectra/window.cc:220
+#: ../programs/table/gchemtable-app.cc:198
+#: ../programs/table/gchemtable-curve.cc:237
+msgid "Submit a bug report for the Gnome Chemistry Utils"
+msgstr "Gnome Chemistry Utils-ის შეცდომის ანგარიშის გაგზავნა"
+
+#: ../libs/gcr/window.cc:339
+msgid "About Gnome Crystal"
+msgstr "Gnome Crystal-ის შესახებ"
+
+#: ../libs/gcr/window.cc:450 ../libs/gcugtk/chem3dwindow.cc:422
+#: ../programs/spectra/window.cc:288
+msgid "Open recent"
+msgstr "ახლახან გახსნილი"
+
+#: ../libs/gcr/window.cc:491
+#, c-format
+msgid "Space group: %u"
+msgstr "სივრცითი ჯგუფი: %u"
+
+#: ../libs/gcu/application.cc:281
+msgid "Error while processing "
+msgstr "შეცდომა დამუშავებისას: "
+
+#: ../libs/gcu/application.cc:560
+msgid "Connection failed"
+msgstr "კავშირი ვერ დამყარდა"
+
+#: ../libs/gcu/chain.cc:316
+msgid "Chain"
+msgstr "ჯაჭვი"
+
+#: ../libs/gcu/cycle.cc:243
+msgid "Cycle"
+msgstr "ციკლი"
+
+#. do we need to set m_Owner to NULL?
+#: ../libs/gcu/dialog.cc:39 ../libs/gcu/dialog.cc:58
+msgid "Could not reference the new dialog."
+msgstr "ახალ დიალოგზე მიმართვა ვერ მოხერხდა."
+
+#. Note to translators: the two strings are concatenated with the missing id
+#. between them.
+#: ../libs/gcu/document.cc:136
+msgid "The input contains a reference to object \""
+msgstr "შეყვანა შეიცავს მითითებას ობიექტზე \""
+
+#: ../libs/gcu/document.cc:136
+msgid "\" but no object with this Id is described."
+msgstr "\", მაგრამ ამ Id-ის მქონე ობიექტი აღწერილი არ არის."
+
+#: ../libs/gcu/document.cc:177
+msgid "Document"
+msgstr "დოკუმენტი"
+
+#: ../libs/gcu/element.cc:103
+msgid "German"
+msgstr "გერმანული"
+
+#: ../libs/gcu/element.cc:104
+msgid "Greek"
+msgstr "ბერძნული"
+
+#: ../libs/gcu/element.cc:105
+msgid "Spanisch"
+msgstr "ესპანური"
+
+#: ../libs/gcu/element.cc:106
+msgid "Basque"
+msgstr "ბასკური"
+
+#: ../libs/gcu/element.cc:107
+msgid "French"
+msgstr "ფრანგული"
+
+#: ../libs/gcu/element.cc:108
+msgid "Italian"
+msgstr "იტალიური"
+
+#: ../libs/gcu/element.cc:109
+msgid "Polish"
+msgstr "პოლონური"
+
+#: ../libs/gcu/element.cc:110
+msgid "Brazilian"
+msgstr "ბრაზილიური"
+
+#: ../libs/gcu/element.cc:111
+msgid "Russian"
+msgstr "რუსული"
+
+#: ../libs/gcu/element.cc:112
+msgid "Chinese (TW)"
+msgstr "ჩინური (TW)"
+
+#: ../libs/gcu/element.cc:114
+msgid "Can't find and read elements.xml"
+msgstr "elements.xml ვერ მოიძებნა ან ვერ წაიკითხა"
+
+#: ../libs/gcu/element.cc:118 ../libs/gcu/element.cc:127
+msgid "Incorrect file format: elements.xml"
+msgstr "ფაილის არასწორი ფორმატი: elements.xml"
+
+#: ../libs/gcu/element.cc:163
+msgid "English"
+msgstr "ინგლისური"
+
+#: ../libs/gcu/element.cc:423
+msgid "Can't find and read radii.xml"
+msgstr "radii.xml ვერ მოიძებნა ან ვერ წაიკითხა"
+
+#: ../libs/gcu/element.cc:427 ../libs/gcu/element.cc:440
+msgid "Incorrect file format: radii.xml"
+msgstr "ფაილის არასწორი ფორმატი: radii.xml"
+
+#: ../libs/gcu/element.cc:529
+msgid "Can't find and read elecprops.xml"
+msgstr "elecprops.xml ვერ მოიძებნა ან ვერ წაიკითხა"
+
+#: ../libs/gcu/element.cc:533 ../libs/gcu/element.cc:540
+msgid "Incorrect file format: elecprops.xml"
+msgstr "ფაილის არასწორი ფორმატი: elecprops.xml"
+
+#: ../libs/gcu/element.cc:688
+msgid "Can't find and read isotopes.xml"
+msgstr "isotopes.xml ვერ მოიძებნა ან ვერ წაიკითხა"
+
+#: ../libs/gcu/element.cc:692 ../libs/gcu/element.cc:701
+msgid "Incorrect file format: isotopes.xml"
+msgstr "ფაილის არასწორი ფორმატი: isotopes.xml"
+
+#: ../libs/gcu/formula.cc:513 ../libs/gcu/formula.cc:553
+msgid "Unmatched parenthesis"
+msgstr "დაუწყვილებელი ფრჩხილი"
+
+#: ../libs/gcu/formula.cc:541
+msgid "Could not interpret the symbol list"
+msgstr "სიმბოლოების სიის ინტერპრეტაცია ვერ მოხერხდა"
+
+#: ../libs/gcu/formula.cc:547
+msgid "Parser failed, please fill a bug report."
+msgstr "დამმუშავებელი ჩაიშალა, გთხოვთ, გააგზავნოთ შეცდომის ანგარიში."
+
+#: ../libs/gcu/formula.cc:555
+msgid "Invalid character"
+msgstr "არასწორი სიმბოლო"
+
+#: ../libs/gcu/loader.cc:103
+msgid "Chemical file loader type."
+msgstr "ქიმიური ფაილის ჩამტვირთავის ტიპი."
+
+#: ../libs/gcu/object.cc:665
+msgid "Object"
+msgstr "ობიექტი"
+
+#: ../libs/gcu/spacegroup.cc:166
+msgid "Could not find space groups definitions in "
+msgstr "სივრცითი ჯგუფების განსაზღვრებები ვერ მოიძებნა: "
+
+#: ../libs/gcu/spacegroup.cc:167
+msgid "Error is: "
+msgstr "შეცდომა: "
+
+#: ../libs/gcu/spacegroup.cc:177
+msgid " is corrupt!"
+msgstr " დაზიანებულია!"
+
+#: ../libs/gcu/spacegroup.cc:415
+msgid "Duplicated transform: "
+msgstr "გამეორებული გარდაქმნა: "
+
+#: ../libs/gcu/spacegroup.cc:429
+msgid "Invalid transform: "
+msgstr "არასწორი გარდაქმნა: "
+
+#: ../libs/gcu/spacegroup.cc:436
+msgid "Transform with no inverse: "
+msgstr "გარდაქმნა შებრუნებულის გარეშე: "
+
+#: ../libs/gcu/spacegroup.cc:453 ../libs/gcu/spacegroup.cc:474
+#: ../libs/gcu/spacegroup.cc:508
+msgid "Unknown space group error, please file a bug report."
+msgstr "სივრცითი ჯგუფის უცნობი შეცდომა, გთხოვთ, გააგზავნოთ შეცდომის ანგარიში."
+
+#. theses groups have duplicates
+#: ../libs/gcu/spacegroup.cc:458
+msgid "Space group error, please file a bug report."
+msgstr "სივრცითი ჯგუფის შეცდომა, გთხოვთ, გააგზავნოთ შეცდომის ანგარიში."
+
+#: ../libs/gcu/spacegroup.cc:483 ../libs/gcu/spacegroup.cc:495
+msgid "Ambiguous space group with incomplete definition."
+msgstr "ორაზროვანი სივრცითი ჯგუფი არასრული განსაზღვრებით."
+
+#: ../libs/gcu/spacegroup.cc:501
+msgid "Unknown space group with incomplete or wrong definition."
+msgstr "უცნობი სივრცითი ჯგუფი არასრული ან არასწორი განსაზღვრებით."
+
+#: ../libs/gcu/value.cc:146
+msgid "Attempt to add two values with different units."
+msgstr "სხვადასხვა ერთეულის მქონე ორი მნიშვნელობის შეკრების მცდელობა."
+
+#: ../libs/gcu/xml-utils.cc:421 ../libs/gcu/xml-utils.cc:423
+msgid "Error while parsing XML"
+msgstr "შეცდომა XML-ის დამუშავებისას"
+
+#: ../libs/gcugtk/application.cc:76
+msgid "Open new windows full screen"
+msgstr "ახალი ფანჯრების გახსნა სრულ ეკრანზე"
+
+#: ../libs/gcugtk/application.cc:77
+msgid "Maximize new windows"
+msgstr "ახალი ფანჯრების გაშლა"
+
+#: ../libs/gcugtk/application.cc:104
+#, c-format
+msgid "(screen resolution is %u)"
+msgstr "(ეკრანის გაფართოება არის %u)"
+
+#: ../libs/gcugtk/chem3dapplication.cc:162
+msgid "Sorry, format not supported!"
+msgstr "ბოდიში, ფორმატი არ არის მხარდაჭერილი!"
+
+#: ../libs/gcugtk/chem3dwindow.cc:225
+msgid "GChem3D is a molecular structures viewer for Gnome"
+msgstr "GChem3D არის მოლეკულური სტრუქტურების მნახველი Gnome-ისთვის"
+
+#. const gchar * documentors[] = {NULL};
+#: ../libs/gcugtk/chem3dwindow.cc:227
+msgid "Copyright © 2004-2010 Jean Bréfort\n"
+msgstr ""
+
+#: ../libs/gcugtk/chem3dwindow.cc:273
+msgid "Save the current settings"
+msgstr "მიმდინარე პარამეტრების შენახვა"
+
+#: ../libs/gcugtk/chem3dwindow.cc:281
+msgid "Print the current scene"
+msgstr "მიმდინარე სცენის დაბეჭდვა"
+
+#: ../libs/gcugtk/chem3dwindow.cc:285
+msgid "Quit GChem3D"
+msgstr "GChem3D-იდან გასვლა"
+
+#: ../libs/gcugtk/chem3dwindow.cc:290
+msgid "Open in GChemPaint"
+msgstr "GChemPaint-ში გახსნა"
+
+#: ../libs/gcugtk/chem3dwindow.cc:291
+msgid "Open a 2D model for this molecule using GChemPaint"
+msgstr "ამ მოლეკულის 2D მოდელის გახსნა GChemPaint-ში"
+
+#: ../libs/gcugtk/chem3dwindow.cc:292
+msgid "Open in GChemCalc"
+msgstr "GChemCalc-ში გახსნა"
+
+#: ../libs/gcugtk/chem3dwindow.cc:293
+msgid "Open the raw formula in the chemical calculator"
+msgstr "ნედლი ფორმულის გახსნა ქიმიურ კალკულატორში"
+
+#: ../libs/gcugtk/chem3dwindow.cc:294
+msgid "Show InChI"
+msgstr "InChI-ის ჩვენება"
+
+#: ../libs/gcugtk/chem3dwindow.cc:295
+msgid "Show the InChI for this molecule"
+msgstr "ამ მოლეკულის InChI-ის ჩვენება"
+
+#: ../libs/gcugtk/chem3dwindow.cc:296
+msgid "Show InChiKey"
+msgstr "InChIKey-ის ჩვენება"
+
+#: ../libs/gcugtk/chem3dwindow.cc:297
+msgid "Show the InChIKey for this molecule"
+msgstr "ამ მოლეკულის InChIKey-ის ჩვენება"
+
+#: ../libs/gcugtk/chem3dwindow.cc:298
+msgid "Show SMILES"
+msgstr "SMILES-ის ჩვენება"
+
+#: ../libs/gcugtk/chem3dwindow.cc:299
+msgid "Show the SMILES for this molecule"
+msgstr "ამ მოლეკულის SMILES-ის ჩვენება"
+
+#: ../libs/gcugtk/chem3dwindow.cc:302
+msgid "View help for the Molecules Viewer"
+msgstr "მოლეკულების მნახველის დახმარების ნახვა"
+
+#: ../libs/gcugtk/chem3dwindow.cc:312
+msgid "About GChem3D"
+msgstr "GChem3D-ის შესახებ"
+
+#: ../libs/gcugtk/chem3dwindow.cc:316
+msgid "Balls and sticks"
+msgstr "ბურთულები და ჩხირები"
+
+#: ../libs/gcugtk/chem3dwindow.cc:317
+msgid "Display a balls and sticks model"
+msgstr "ბურთულებისა და ჩხირების მოდელის ჩვენება"
+
+#: ../libs/gcugtk/chem3dwindow.cc:319
+msgid "Space filling"
+msgstr "სივრცის შევსება"
+
+#: ../libs/gcugtk/chem3dwindow.cc:320
+msgid "Display a space filling model"
+msgstr "სივრცის შემვსები მოდელის ჩვენება"
+
+#: ../libs/gcugtk/chem3dwindow.cc:322
+msgid "Cylinders"
+msgstr "ცილინდრები"
+
+#: ../libs/gcugtk/chem3dwindow.cc:323
+msgid "Display a cylinders model"
+msgstr "ცილინდრების მოდელის ჩვენება"
+
+#: ../libs/gcugtk/chem3dwindow.cc:325
+msgid "Wireframe"
+msgstr "მავთულის კარკასი"
+
+#: ../libs/gcugtk/chem3dwindow.cc:326
+msgid "Display a wireframe model"
+msgstr "მავთულის კარკასის მოდელის ჩვენება"
+
+#: ../libs/gcugtk/chem3dwindow.cc:393
+msgid "Background color"
+msgstr "ფონის ფერი"
+
+#: ../libs/gcugtk/chem3dwindow.cc:394
+msgid "Choose a new background color"
+msgstr "ფონის ახალი ფერის არჩევა"
+
+#: ../libs/gcugtk/dialog.cc:109
+msgid "Type a number"
+msgstr "შეიყვანეთ რიცხვი"
+
+#: ../libs/gcugtk/dialog.cc:117 ../libs/gcugtk/dialog.cc:187
+msgid "Type a number greater than or equal to "
+msgstr "შეიყვანეთ რიცხვი, რომელიც მეტია ან ტოლია "
+
+#: ../libs/gcugtk/dialog.cc:117 ../libs/gcugtk/dialog.cc:147
+msgid " and lower than "
+msgstr " და ნაკლებია "
+
+#: ../libs/gcugtk/dialog.cc:127 ../libs/gcugtk/dialog.cc:147
+#: ../libs/gcugtk/dialog.cc:167
+msgid "Type a number greater than "
+msgstr "შეიყვანეთ რიცხვი, რომელიც მეტია "
+
+#: ../libs/gcugtk/dialog.cc:127
+msgid " and lower than or equal to "
+msgstr " და ნაკლებია ან ტოლია "
+
+#: ../libs/gcugtk/dialog.cc:137
+msgid "Type a number between "
+msgstr "შეიყვანეთ რიცხვი "
+
+#: ../libs/gcugtk/dialog.cc:137
+msgid " and "
+msgstr " და "
+
+#: ../libs/gcugtk/dialog.cc:137
+msgid ", the limits are valid."
+msgstr " შორის, საზღვრების ჩათვლით."
+
+#: ../libs/gcugtk/dialog.cc:157
+msgid "Type a number lower than "
+msgstr "შეიყვანეთ რიცხვი, რომელიც ნაკლებია "
+
+#: ../libs/gcugtk/dialog.cc:177
+msgid "Type a number lower than or equal to "
+msgstr "შეიყვანეთ რიცხვი, რომელიც ნაკლებია ან ტოლია "
+
+#: ../libs/gcugtk/filechooser.cc:41 ../libs/gcugtk/stringdlg.cc:92
+msgid "Save as"
+msgstr "შენახვა როგორც"
+
+#: ../libs/gcugtk/filechooser.cc:41
+msgid "Open"
+msgstr "გახსნა"
+
+#: ../libs/gcugtk/filechooser.cc:64
+msgid "File _type:"
+msgstr "ფაილის _ტიპი:"
+
+#: ../libs/gcugtk/filechooser.cc:66 ../ui/crystal/cell.ui.h:17
+msgid "Automatic"
+msgstr "ავტომატური"
+
+#: ../libs/gcugtk/gcuchem3dviewer.cc:196
+msgid "Background Color"
+msgstr "ფონის ფერი"
+
+#: ../libs/gcugtk/gcuchem3dviewer.cc:197
+msgid "Color used to paint the background"
+msgstr "ფონის ფერი"
+
+#: ../libs/gcugtk/gcucomboperiodic.c:95
+#: ../programs/table/gchemtable-app.cc:300
+msgid "Periodic table of the elements"
+msgstr "ელემენტთა პერიოდული სისტემა"
+
+#: ../libs/gcugtk/gcuperiodic.c:143
+#, c-format
+msgid ""
+"Out of range value %d for property \"color-style\" for GcuPeriodic instance "
+"%p\n"
+msgstr ""
+
+#: ../libs/gcugtk/molecule.cc:172
+msgid "Find in databases"
+msgstr "ძებნა მონაცემთა ბაზებში"
+
+#: ../libs/gcugtk/print-setup-dlg.cc:112
+#, c-format
+msgid "%.1f %s wide by %.1f %s tall"
+msgstr "%.1f %s სიგანე, %.1f %s სიმაღლე"
+
+#: ../libs/gcugtk/print-setup-dlg.cc:112
+#, c-format
+msgid "%.0f %s wide by %.0f %s tall"
+msgstr "%.0f %s სიგანე, %.0f %s სიმაღლე"
+
+#: ../libs/gcugtk/printable.cc:34
+msgid "pixels"
+msgstr "პიქსელი"
+
+#: ../libs/gcugtk/printable.cc:35
+msgid "points"
+msgstr "პუნქტი"
+
+#: ../libs/gcugtk/printable.cc:36
+msgid "inches"
+msgstr "ინჩი"
+
+#: ../libs/gcugtk/printable.cc:37
+msgid "mm"
+msgstr "მმ"
+
+#: ../libs/gcugtk/spectrumdoc.cc:243 ../libs/gcugtk/spectrumdoc.cc:2414
+msgid "Wavenumber (cm<sup>−1</sup>)"
+msgstr "ტალღური რიცხვი (სმ<sup>−1</sup>)"
+
+#: ../libs/gcugtk/spectrumdoc.cc:244 ../libs/gcugtk/spectrumdoc.cc:2430
+msgid "Transmittance"
+msgstr "გამტარობა"
+
+#: ../libs/gcugtk/spectrumdoc.cc:245 ../libs/gcugtk/spectrumdoc.cc:2429
+msgid "Absorbance"
+msgstr "შთანთქმა"
+
+#: ../libs/gcugtk/spectrumdoc.cc:246 ../libs/gcugtk/spectrumdoc.cc:2240
+#: ../libs/gcugtk/spectrumdoc.cc:2340
+msgid "Chemical shift (ppm)"
+msgstr "ქიმიური წანაცვლება (ppm)"
+
+#: ../libs/gcugtk/spectrumdoc.cc:247
+msgid "Wavelength (nm)"
+msgstr "ტალღის სიგრძე (ნმ)"
+
+#: ../libs/gcugtk/spectrumdoc.cc:248
+msgid "Wavelength (µm)"
+msgstr "ტალღის სიგრძე (მკმ)"
+
+#: ../libs/gcugtk/spectrumdoc.cc:249
+msgid "Time (s)"
+msgstr "დრო (წმ)"
+
+#: ../libs/gcugtk/spectrumdoc.cc:250 ../libs/gcugtk/spectrumdoc.cc:2241
+#: ../libs/gcugtk/spectrumdoc.cc:2341
+msgid "Frequency (Hz)"
+msgstr "სიხშირე (ჰც)"
+
+#: ../libs/gcugtk/spectrumdoc.cc:251
+msgid "Mass/charge ratio"
+msgstr "მასისა და მუხტის შეფარდება"
+
+#: ../libs/gcugtk/spectrumdoc.cc:252
+msgid "Relative abundance"
+msgstr "ფარდობითი სიუხვე"
+
+#: ../libs/gcugtk/spectrumdoc.cc:253
+msgid "Response factor"
+msgstr "გამოხმაურების ფაქტორი"
+
+#: ../libs/gcugtk/spectrumdoc.cc:627 ../libs/gcugtk/spectrumdoc.cc:2247
+#: ../libs/gcugtk/spectrumdoc.cc:2347
+msgid "Show integral"
+msgstr "ინტეგრალის ჩვენება"
+
+#: ../libs/gcugtk/spectrumdoc.cc:627
+msgid "Hide integral"
+msgstr "ინტეგრალის დამალვა"
+
+#: ../libs/gcugtk/spectrumdoc.cc:736 ../libs/gcugtk/spectrumdoc.cc:1487
+msgid "Found too many data!"
+msgstr "ნაპოვნია ზედმეტად ბევრი მონაცემი!"
+
+#: ../libs/gcugtk/spectrumdoc.cc:1383 ../libs/gcugtk/spectrumdoc.cc:1413
+msgid "Constant too long"
+msgstr "კონსტანტა ზედმეტად გრძელია"
+
+#: ../libs/gcugtk/spectrumdoc.cc:1406
+msgid "Invalid character in data block"
+msgstr "არასწორი სიმბოლო მონაცემთა ბლოკში"
+
+#: ../libs/gcugtk/spectrumdoc.cc:1509
+msgid "Data check failed!"
+msgstr "მონაცემთა შემოწმება ჩავარდა!"
+
+#: ../libs/gcugtk/spectrumdoc.cc:1526
+msgid "Data check failed: FIRSTX!"
+msgstr "მონაცემთა შემოწმება ჩავარდა: FIRSTX!"
+
+#: ../libs/gcugtk/spectrumdoc.cc:1531
+msgid "Data check failed: FIRSTY!"
+msgstr "მონაცემთა შემოწმება ჩავარდა: FIRSTY!"
+
+#. FIXME: Throw an exception
+#: ../libs/gcugtk/spectrumdoc.cc:1535
+msgid "Found too many data"
+msgstr "ნაპოვნია ზედმეტად ბევრი მონაცემი"
+
+#: ../libs/gcugtk/spectrumdoc.cc:1854
+msgid "Integral"
+msgstr "ინტეგრალი"
+
+#: ../libs/gcugtk/spectrumdoc.cc:1977
+msgid "Real transformed data"
+msgstr "რეალური გარდაქმნილი მონაცემები"
+
+#: ../libs/gcugtk/spectrumdoc.cc:1985
+msgid "Imaginary transformed data"
+msgstr "წარმოსახვითი გარდაქმნილი მონაცემები"
+
+#: ../libs/gcugtk/spectrumdoc.cc:2206 ../libs/gcugtk/spectrumdoc.cc:2281
+msgid "Chemical shift"
+msgstr "ქიმიური წანაცვლება"
+
+#: ../libs/gcugtk/spectrumdoc.cc:2237 ../libs/gcugtk/spectrumdoc.cc:2337
+#: ../libs/gcugtk/spectrumdoc.cc:2401
+msgid "X unit:"
+msgstr "X ერთეული:"
+
+#: ../libs/gcugtk/spectrumdoc.cc:2372
+msgid "Transform to spectrum"
+msgstr "სპექტრად გარდაქმნა"
+
+#: ../libs/gcugtk/spectrumdoc.cc:2411
+msgid "Wave length (nm)"
+msgstr "ტალღის სიგრძე (ნმ)"
+
+#: ../libs/gcugtk/spectrumdoc.cc:2413
+msgid "Wave length (µm)"
+msgstr "ტალღის სიგრძე (მკმ)"
+
+#: ../libs/gcugtk/spectrumdoc.cc:2419
+msgid "Invert X Axis"
+msgstr "X ღერძის შებრუნება"
+
+#: ../libs/gcugtk/spectrumdoc.cc:2426
+msgid "Y unit:"
+msgstr "Y ერთეული:"
+
+#: ../libs/gcugtk/spectrumdoc.cc:2517
+msgid "Real data"
+msgstr "რეალური მონაცემები"
+
+#: ../libs/gcugtk/spectrumdoc.cc:2540
+msgid "Imaginary data"
+msgstr "წარმოსახვითი მონაცემები"
+
+#: ../libs/gcugtk/spectrumview.cc:111
+msgid "Minimum X value:"
+msgstr "X-ის მინიმალური მნიშვნელობა:"
+
+#: ../libs/gcugtk/spectrumview.cc:116
+msgid "Maximum X value:"
+msgstr "X-ის მაქსიმალური მნიშვნელობა:"
+
+#: ../libs/gcugtk/spectrumview.cc:126
+msgid "Minimum Y value:"
+msgstr "Y-ის მინიმალური მნიშვნელობა:"
+
+#: ../libs/gcugtk/spectrumview.cc:131
+msgid "Maximum Y value:"
+msgstr "Y-ის მაქსიმალური მნიშვნელობა:"
+
+#: ../libs/gcugtk/stringdlg.cc:161
+#, c-format
+msgid ""
+"Could not open file %s, error was:\n"
+"%s"
+msgstr ""
+"ფაილის %s გახსნა ვერ მოხერხდა, შეცდომა:\n"
+"%s"
+
+#: ../libs/gcugtk/stringdlg.cc:178
+#, c-format
+msgid ""
+"Could not write to file %s, error was:\n"
+"%s."
+msgstr ""
+"ფაილში %s ჩაწერა ვერ მოხერხდა, შეცდომა:\n"
+"%s."
+
+#: ../libs/gcugtk/stringdlg.cc:193
+#, c-format
+msgid ""
+"Could not close file %s, error was:\n"
+"%s"
+msgstr ""
+"ფაილის %s დახურვა ვერ მოხერხდა, შეცდომა:\n"
+"%s"
+
+#: ../libs/gcugtk/ui-builder.cc:43
+#, c-format
+msgid "Could not load %s."
+msgstr "%s-ის ჩატვირთვა ვერ მოხერხდა."
+
+#: ../plugins/loaders/cdx/cdx.cc:785 ../plugins/loaders/cdx/cdx.cc:789
+#: ../plugins/loaders/cdx/cdx.cc:917 ../plugins/loaders/cdx/cdx.cc:923
+msgid "Unsupported feature, please report!"
+msgstr "მხარდაუჭერელი ფუნქცია, გთხოვთ, შეგვატყობინოთ!"
+
+#: ../plugins/loaders/cdx/cdx.cc:877 ../plugins/loaders/cdxml/cdxml.cc:499
+#, c-format
+msgid "failed for %s\n"
+msgstr "ჩავარდა %s-ისთვის\n"
+
+#: ../plugins/loaders/cdx/plugin.xml.in.h:1
+msgid "Loader : cdx"
+msgstr "ჩამტვირთავი: cdx"
+
+#: ../plugins/loaders/cdx/plugin.xml.in.h:2
+msgid "Chemdraw cdx files loader."
+msgstr "Chemdraw cdx ფაილების ჩამტვირთავი."
+
+#: ../plugins/loaders/cdx/plugin.xml.in.h:3
+msgid "Chemdraw cdx files loader"
+msgstr "Chemdraw cdx ფაილების ჩამტვირთავი"
+
+#: ../plugins/loaders/cdxml/cdxml.cc:765 ../plugins/loaders/cdxml/cdxml.cc:780
+#: ../plugins/loaders/cml/cml.cc:540
+#, c-format
+msgid "'%s' is corrupt!"
+msgstr "'%s' დაზიანებულია!"
+
+#: ../plugins/loaders/cdxml/plugin.xml.in.h:1
+msgid "Loader : cdxml"
+msgstr "ჩამტვირთავი: cdxml"
+
+#: ../plugins/loaders/cdxml/plugin.xml.in.h:2
+msgid "Chemdraw XML files loader."
+msgstr "Chemdraw XML ფაილების ჩამტვირთავი."
+
+#: ../plugins/loaders/cdxml/plugin.xml.in.h:3
+msgid "Chemdraw XML files loader"
+msgstr "Chemdraw XML ფაილების ჩამტვირთავი"
+
+#: ../plugins/loaders/cif/cif.cc:181
+msgid "Invalid loop in data."
+msgstr "არასწორი ციკლი მონაცემებში."
+
+#: ../plugins/loaders/cif/cif.cc:455
+msgid "Invalid symmetry group."
+msgstr "არასწორი სიმეტრიის ჯგუფი."
+
+#: ../plugins/loaders/cif/plugin.xml.in.h:1
+msgid "Loader : cif"
+msgstr "ჩამტვირთავი: cif"
+
+#: ../plugins/loaders/cif/plugin.xml.in.h:2
+msgid "CIF files loader."
+msgstr "CIF ფაილების ჩამტვირთავი."
+
+#: ../plugins/loaders/cif/plugin.xml.in.h:3
+#: ../plugins/loaders/cml/plugin.xml.in.h:3
+msgid "CML files loader"
+msgstr "CML ფაილების ჩამტვირთავი"
+
+#: ../plugins/loaders/cml/plugin.xml.in.h:1
+msgid "Loader : cml"
+msgstr "ჩამტვირთავი: cml"
+
+#: ../plugins/loaders/cml/plugin.xml.in.h:2
+msgid "CML files loader."
+msgstr "CML ფაილების ჩამტვირთავი."
+
+#. Not sure we are able to support atoms lists at all, but we might
+#: ../plugins/loaders/ctfiles/ctfiles.cc:233
+msgid ""
+"We do not support atoms lists for now, please file a bug report and attach "
+"your file"
+msgstr ""
+"ატომების სიები ამჟამად მხარდაჭერილი არ არის, გთხოვთ, გააგზავნოთ შეცდომის "
+"ანგარიში და დაურთოთ თქვენი ფაილი"
+
+#: ../plugins/loaders/ctfiles/plugin.xml.in.h:1
+msgid "Loader : CTfiles"
+msgstr "ჩამტვირთავი: CTfiles"
+
+#: ../plugins/loaders/ctfiles/plugin.xml.in.h:2
+msgid "CTfiles loader."
+msgstr "CTfiles ჩამტვირთავი."
+
+#: ../plugins/loaders/ctfiles/plugin.xml.in.h:3
+msgid "CTfiles loader"
+msgstr "CTfiles ჩამტვირთავი"
+
+#: ../plugins/loaders/nuts/plugin.xml.in.h:1
+msgid "Loader : nuts"
+msgstr "ჩამტვირთავი: nuts"
+
+#: ../plugins/loaders/nuts/plugin.xml.in.h:2
+msgid "NUTS files loader."
+msgstr "NUTS ფაილების ჩამტვირთავი."
+
+#: ../plugins/loaders/nuts/plugin.xml.in.h:3
+msgid "NUTS files loader"
+msgstr "NUTS ფაილების ჩამტვირთავი"
+
+#: ../plugins/paint/arrows/arrowtool.cc:201
+#: ../plugins/paint/atoms/chargetool.cc:141
+#: ../plugins/paint/atoms/chargetool.cc:259
+#: ../plugins/paint/atoms/electrontool.cc:113
+#: ../plugins/paint/atoms/electrontool.cc:227
+#: ../plugins/paint/bonds/bondtool.cc:172
+#: ../plugins/paint/bonds/bondtool.cc:278
+#: ../plugins/paint/cycles/cycletool.cc:466
+#: ../plugins/paint/selection/lassotool.cc:215
+#: ../plugins/paint/selection/selectiontool.cc:159
+#, c-format
+msgid "Orientation: %g"
+msgstr "ორიენტაცია: %g"
+
+#: ../plugins/paint/arrows/arrowtool.ui.h:1
+msgid "Arrow len_gth:"
+msgstr "ისრის _სიგრძე:"
+
+#: ../plugins/paint/arrows/arrowtool.ui.h:2
+msgid "H_alf heads"
+msgstr "_ნახევარი ისრისთავები"
+
+#: ../plugins/paint/arrows/arrowtool.ui.h:3
+msgid "_Full heads"
+msgstr "_სრული ისრისთავები"
+
+#: ../plugins/paint/arrows/arrowtool.ui.h:4
+#: ../plugins/paint/arrows/curvedarrowtool.ui.h:3
+msgid "Set _default"
+msgstr "_ნაგულისხმევად დაყენება"
+
+#: ../plugins/paint/arrows/curvedarrowtool.ui.h:1
+msgid "End arrow at center of new bond."
+msgstr "ისარი ახალი ბმის ცენტრში დასრულდეს."
+
+#: ../plugins/paint/arrows/curvedarrowtool.ui.h:2
+msgid ""
+"If check, an arrow corresponding to a new bond will end at center of the new"
+" bond, otherwise, the arrow will end at the other atom."
+msgstr ""
+"თუ მონიშნულია, ახალი ბმის შესაბამისი ისარი ბმის ცენტრში დასრულდება, "
+"წინააღმდეგ შემთხვევაში ისარი მეორე ატომთან დასრულდება."
+
+#: ../plugins/paint/arrows/org.gnome.gchemutils.paint.plugins.arrows.gschema.xml.in.in.h:1
+msgid "Use full arrows heads for reversible reactions"
+msgstr "შექცევადი რეაქციებისთვის სრული ისრისთავების გამოყენება"
+
+#: ../plugins/paint/arrows/org.gnome.gchemutils.paint.plugins.arrows.gschema.xml.in.in.h:2
+msgid ""
+"If set to true, arrows for reversible reaction steps will use full arrows "
+"heads by default instead of half heads."
+msgstr ""
+"თუ ჩართულია, შექცევადი რეაქციის საფეხურების ისრები ნაგულისხმევად ნახევარის "
+"ნაცვლად სრულ ისრისთავებს გამოიყენებს."
+
+#: ../plugins/paint/arrows/org.gnome.gchemutils.paint.plugins.arrows.gschema.xml.in.in.h:3
+msgid "End mechanism arrows at center of new bonds"
+msgstr "მექანიზმის ისრები ახალი ბმების ცენტრში დასრულდეს"
+
+#: ../plugins/paint/arrows/org.gnome.gchemutils.paint.plugins.arrows.gschema.xml.in.in.h:4
+msgid ""
+"If true, a curved arrow corresponding to a new bond will end at center of "
+"the new bond, otherwise, the arrow will end at the other atom."
+msgstr ""
+"თუ ჩართულია, ახალი ბმის შესაბამისი მრუდი ისარი ბმის ცენტრში დასრულდება, "
+"წინააღმდეგ შემთხვევაში ისარი მეორე ატომთან დასრულდება."
+
+#: ../plugins/paint/arrows/plugin.cc:65
+msgid "Add an arrow for an irreversible reaction"
+msgstr "ისრის დამატება შეუქცევადი რეაქციისთვის"
+
+#: ../plugins/paint/arrows/plugin.cc:67
+msgid "Add a pair of arrows for a reversible reaction"
+msgstr "ისრების წყვილის დამატება შექცევადი რეაქციისთვის"
+
+#: ../plugins/paint/arrows/plugin.cc:69
+msgid "Add an arrow for a retrosynthesis step"
+msgstr "ისრის დამატება რეტროსინთეზის საფეხურისთვის"
+
+#: ../plugins/paint/arrows/plugin.cc:71
+msgid "Add a double headed arrow to represent mesomery"
+msgstr "ორისრისთავიანი ისრის დამატება მეზომერიის გამოსახატავად"
+
+#: ../plugins/paint/arrows/plugin.cc:73
+msgid "Add a curved arrow to represent an electron pair move"
+msgstr "მრუდი ისრის დამატება ელექტრონული წყვილის გადაადგილების გამოსახატავად"
+
+#: ../plugins/paint/arrows/plugin.cc:75
+msgid "Add a curved arrow to represent an single electron move"
+msgstr "მრუდი ისრის დამატება ერთი ელექტრონის გადაადგილების გამოსახატავად"
+
+#: ../plugins/paint/arrows/plugin.cc:83
+msgid "Create a new retrosynthesis pathway"
+msgstr "ახალი რეტროსინთეზის გზის შექმნა"
+
+#: ../plugins/paint/arrows/retrosynthesis.cc:241
+msgid "No target molecule!"
+msgstr "მიზნობრივი მოლეკულა არ არის!"
+
+#: ../plugins/paint/arrows/retrosynthesis.cc:243
+msgid "Multiple target molecules or missing arrows."
+msgstr "რამდენიმე მიზნობრივი მოლეკულა ან ისრები აკლია."
+
+#: ../plugins/paint/arrows/retrosynthesis.cc:245
+msgid "Sorry, cyclic retrosynthesis paths are not supported."
+msgstr "ბოდიში, ციკლური რეტროსინთეზის გზები მხარდაჭერილი არ არის."
+
+#: ../plugins/paint/arrows/retrosynthesis.cc:417
+msgid "Destroy the retrosynthesis path"
+msgstr "რეტროსინთეზის გზის განადგურება"
+
+#: ../plugins/paint/arrows/retrosynthesis.cc:459
+msgid "Retrosynthesis"
+msgstr "რეტროსინთეზი"
+
+#: ../plugins/paint/arrows/retrosynthesisarrow.cc:199
+msgid "Retrosynthesis arrow"
+msgstr "რეტროსინთეზის ისარი"
+
+#: ../plugins/paint/arrows/retrosynthesisstep.cc:122
+msgid "Retrosynthesis step"
+msgstr "რეტროსინთეზის საფეხური"
+
+#: ../plugins/paint/atoms/orbital.cc:398 ../plugins/paint/atoms/orbital.cc:410
+msgid "Orbital"
+msgstr "ორბიტალი"
+
+#: ../plugins/paint/atoms/orbital.cc:413
+#: ../plugins/paint/atoms/orbital-prop.ui.h:1
+msgid "Orbital properties"
+msgstr "ორბიტალის თვისებები"
+
+#: ../plugins/paint/atoms/orbital.ui.h:1
+#: ../plugins/paint/atoms/orbital-prop.ui.h:2
+#: ../plugins/paint/bonds/bond.ui.h:1 ../plugins/paint/bonds/chain.ui.h:1
+#: ../plugins/paint/bonds/newman.ui.h:1 ../plugins/paint/cycles/cycle.ui.h:1
+#: ../plugins/paint/cycles/cyclen.ui.h:1
+msgid "<b>Property</b>"
+msgstr "<b>თვისება</b>"
+
+#: ../plugins/paint/atoms/orbital.ui.h:2
+#: ../plugins/paint/atoms/orbital-prop.ui.h:6
+#: ../plugins/paint/bonds/bond.ui.h:2 ../plugins/paint/bonds/chain.ui.h:3
+#: ../plugins/paint/bonds/newman.ui.h:2 ../plugins/paint/cycles/cycle.ui.h:2
+#: ../plugins/paint/cycles/cyclen.ui.h:2
+msgid "<b>Value</b>"
+msgstr "<b>მნიშვნელობა</b>"
+
+#: ../plugins/paint/atoms/orbital.ui.h:3
+#: ../plugins/paint/atoms/orbital-prop.ui.h:3
+msgid "_Coefficient:"
+msgstr "_კოეფიციენტი:"
+
+#: ../plugins/paint/atoms/orbital.ui.h:4
+#: ../plugins/paint/atoms/orbital-prop.ui.h:4
+msgid "_Rotation:"
+msgstr "_ბრუნვა:"
+
+#: ../plugins/paint/atoms/orbital.ui.h:5
+msgid ""
+"Orbital coefficient for the current atom. The size of the representation of "
+"the orbital will be proportional to this coefficient."
+msgstr ""
+"მიმდინარე ატომის ორბიტალის კოეფიციენტი. ორბიტალის გამოსახულების ზომა ამ "
+"კოეფიციენტის პროპორციული იქნება."
+
+#: ../plugins/paint/atoms/orbital.ui.h:6
+#: ../plugins/paint/atoms/orbital-prop.ui.h:5 ../ui/crystal/atoms.ui.h:7
+msgid "<b>Type:</b>"
+msgstr "<b>ტიპი:</b>"
+
+#: ../plugins/paint/atoms/orbital.ui.h:7
+#: ../plugins/paint/atoms/orbital-prop.ui.h:7
+msgid "s"
+msgstr ""
+
+#: ../plugins/paint/atoms/orbital.ui.h:8
+#: ../plugins/paint/atoms/orbital-prop.ui.h:8
+msgid "p"
+msgstr ""
+
+#: ../plugins/paint/atoms/orbital.ui.h:9
+#: ../plugins/paint/atoms/orbital-prop.ui.h:9
+msgid "d<sub>xy</sub>"
+msgstr ""
+
+#: ../plugins/paint/atoms/orbital.ui.h:10
+#: ../plugins/paint/atoms/orbital-prop.ui.h:10
+msgid "d<sub>z<span size=\"smaller\" rise=\"0\">2</span></sub>"
+msgstr ""
+
+#: ../plugins/paint/atoms/plugin.cc:56
+msgid "Add or modify an atom"
+msgstr "ატომის დამატება ან შეცვლა"
+
+#: ../plugins/paint/atoms/plugin.cc:58
+msgid "Increment the charge of an atom"
+msgstr "ატომის მუხტის გაზრდა"
+
+#: ../plugins/paint/atoms/plugin.cc:60
+msgid "Decrement the charge of an atom"
+msgstr "ატომის მუხტის შემცირება"
+
+#: ../plugins/paint/atoms/plugin.cc:62
+msgid "Add an electron pair to an atom"
+msgstr "ატომისთვის ელექტრონული წყვილის დამატება"
+
+#: ../plugins/paint/atoms/plugin.cc:64
+msgid "Add an unpaired electron to an atom"
+msgstr "ატომისთვის დაუწყვილებელი ელექტრონის დამატება"
+
+#: ../plugins/paint/atoms/plugin.cc:66
+msgid "Add or modify an atomic orbital"
+msgstr "ატომური ორბიტალის დამატება ან შეცვლა"
+
+#: ../plugins/paint/bonds/bond.ui.h:3 ../plugins/paint/bonds/chain.ui.h:4
+#: ../plugins/paint/cycles/cycle.ui.h:3 ../plugins/paint/cycles/cyclen.ui.h:3
+msgid "Bond len_gth:"
+msgstr "ბმის _სიგრძე:"
+
+#: ../plugins/paint/bonds/bond.ui.h:4 ../plugins/paint/bonds/chain.ui.h:5
+msgid "Bond _angle:"
+msgstr "ბმის _კუთხე:"
+
+#: ../plugins/paint/bonds/bond.ui.h:5 ../plugins/paint/bonds/chain.ui.h:7
+#: ../plugins/paint/cycles/cycle.ui.h:4 ../plugins/paint/cycles/cyclen.ui.h:5
+msgid "_Merge with existing atoms"
+msgstr "არსებულ ატომებთან _შერწყმა"
+
+#: ../plugins/paint/bonds/bondtool.cc:348
+msgid "Invalid document tree, please file a bug report"
+msgstr "დოკუმენტის ხე არასწორია, გთხოვთ, გააგზავნოთ შეცდომის ანგარიში"
+
+#: ../plugins/paint/bonds/chain.ui.h:2
+msgid "<b>Auto</b>"
+msgstr "<b>ავტო</b>"
+
+#: ../plugins/paint/bonds/chain.ui.h:6
+msgid "Bonds _number:"
+msgstr "ბმების _რაოდენობა:"
+
+#: ../plugins/paint/bonds/chaintool.cc:131
+#: ../plugins/paint/bonds/chaintool.cc:244
+#, c-format
+msgid "Bonds: %d, Orientation: %g"
+msgstr "ბმები: %d, ორიენტაცია: %g"
+
+#: ../plugins/paint/bonds/newman.ui.h:3
+msgid "Bonds number:"
+msgstr "ბმების რაოდენობა:"
+
+#: ../plugins/paint/bonds/newman.ui.h:4
+msgid "Bond length:"
+msgstr "ბმის სიგრძე:"
+
+#: ../plugins/paint/bonds/newman.ui.h:5
+msgid "<b>Fore</b>"
+msgstr "<b>წინა</b>"
+
+#: ../plugins/paint/bonds/newman.ui.h:6
+msgid "Angle between bonds:"
+msgstr "კუთხე ბმებს შორის:"
+
+#: ../plugins/paint/bonds/newman.ui.h:7
+msgid "First bond angle:"
+msgstr "პირველი ბმის კუთხე:"
+
+#: ../plugins/paint/bonds/newman.ui.h:8
+msgid "<b>Rear</b>"
+msgstr "<b>უკანა</b>"
+
+#: ../plugins/paint/bonds/newman.ui.h:9
+msgid "Bond order:"
+msgstr "ბმის რიგი:"
+
+#: ../plugins/paint/bonds/plugin.cc:53
+msgid "Add a bond or change the multiplicity of an existing one"
+msgstr "ბმის დამატება ან არსებულის ჯერადობის შეცვლა"
+
+#: ../plugins/paint/bonds/plugin.cc:55
+msgid "Add a chain"
+msgstr "ჯაჭვის დამატება"
+
+#: ../plugins/paint/bonds/plugin.cc:57
+msgid "Add a wedge bond"
+msgstr "სოლისებური ბმის დამატება"
+
+#: ../plugins/paint/bonds/plugin.cc:59
+msgid "Add a hash bond"
+msgstr "ჰეშ-ბმის (წყვეტილი სოლის) დამატება"
+
+#: ../plugins/paint/bonds/plugin.cc:61
+msgid "Add a squiggle bond"
+msgstr "ტალღოვანი ბმის დამატება"
+
+#: ../plugins/paint/bonds/plugin.cc:63
+msgid "Add a fore bond"
+msgstr "წინა ბმის დამატება"
+
+#: ../plugins/paint/bonds/plugin.cc:65
+msgid "Add a delocalized bonds system"
+msgstr "დელოკალიზებული ბმების სისტემის დამატება"
+
+#: ../plugins/paint/bonds/plugin.cc:67
+msgid "Add a bond in Newman projection"
+msgstr "ბმის დამატება ნიუმენის პროექციაში"
+
+#: ../plugins/paint/cycles/cyclen.ui.h:4
+msgid "Cycle _Size"
+msgstr "ციკლის _ზომა"
+
+#: ../plugins/paint/cycles/plugin.cc:46
+msgid "Three atoms cycle"
+msgstr "სამატომიანი ციკლი"
+
+#: ../plugins/paint/cycles/plugin.cc:48
+msgid "Four atoms cycle"
+msgstr "ოთხატომიანი ციკლი"
+
+#: ../plugins/paint/cycles/plugin.cc:50
+msgid "Five atoms cycle"
+msgstr "ხუთატომიანი ციკლი"
+
+#: ../plugins/paint/cycles/plugin.cc:52
+msgid "Six atoms cycle"
+msgstr "ექვსატომიანი ციკლი"
+
+#: ../plugins/paint/cycles/plugin.cc:54
+msgid "Seven atoms cycle"
+msgstr "შვიდატომიანი ციკლი"
+
+#: ../plugins/paint/cycles/plugin.cc:56
+msgid "Eight atoms cycle"
+msgstr "რვაატომიანი ციკლი"
+
+#: ../plugins/paint/cycles/plugin.cc:58
+msgid "Variable sized cycle"
+msgstr "ცვლადი ზომის ციკლი"
+
+#: ../plugins/paint/residues/plugin.cc:72
+msgid "_Edit residues..."
+msgstr "ნარჩენების _რედაქტირება..."
+
+#: ../plugins/paint/residues/plugin.cc:73
+msgid "Create new abbreviations"
+msgstr "ახალი აბრევიატურების შექმნა"
+
+#: ../plugins/paint/residues/residues-dlg.cc:223
+msgid "Please, provide only one molecule."
+msgstr "გთხოვთ, მიუთითოთ მხოლოდ ერთი მოლეკულა."
+
+#: ../plugins/paint/residues/residues-dlg.cc:239
+msgid "Please, provide a name for the residue"
+msgstr "გთხოვთ, მიუთითოთ ნარჩენის სახელი"
+
+#. Symbols longer than 8 chars are not currently allowed
+#: ../plugins/paint/residues/residues-dlg.cc:257
+msgid "Symbols with more than eight characters are not allowed."
+msgstr "რვაზე მეტი სიმბოლოს მქონე სიმბოლოები დაუშვებელია."
+
+#: ../plugins/paint/residues/residues-dlg.cc:262
+#: ../plugins/paint/residues/residues-dlg.cc:410
+#: ../plugins/paint/residues/residues.ui.h:1
+msgid "New"
+msgstr "ახალი"
+
+#: ../plugins/paint/residues/residues-dlg.cc:263
+msgid "\"New\" is not a valid symbol"
+msgstr "\"New\" არასწორი სიმბოლოა"
+
+#: ../plugins/paint/residues/residues-dlg.cc:273
+msgid "Please provide at least one symbol"
+msgstr "გთხოვთ, მიუთითოთ მინიმუმ ერთი სიმბოლო"
+
+#: ../plugins/paint/residues/residues-dlg.cc:281
+#, c-format
+msgid "%s is already used by another residue."
+msgstr "%s უკვე გამოიყენება სხვა ნარჩენის მიერ."
+
+#: ../plugins/paint/residues/residues-dlg.cc:292
+msgid ""
+"Empty formula, this should never happen.\n"
+"Please file a bug report"
+msgstr ""
+"ცარიელი ფორმულა, ეს არასდროს არ უნდა მომხდარიყო.\n"
+"გთხოვთ, გააგზავნოთ შეცდომის ანგარიში"
+
+#: ../plugins/paint/residues/residues.ui.h:2
+msgid "Residues"
+msgstr "ნარჩენები"
+
+#: ../plugins/paint/residues/residues.ui.h:3
+msgid "_Generic"
+msgstr "_ზოგადი"
+
+#: ../plugins/paint/residues/residues.ui.h:4
+msgid "_Symbol(s):"
+msgstr "_სიმბოლო(ები):"
+
+#: ../plugins/paint/residues/residues.ui.h:5 ../ui/paint/preferences.ui.h:8
+msgid "N_ame:"
+msgstr "_სახელი:"
+
+#: ../plugins/paint/residues/residues.ui.h:6
+msgid "Identity"
+msgstr "იდენტობა"
+
+#: ../plugins/paint/residues/residues.ui.h:7
+msgid "Formula"
+msgstr "ფორმულა"
+
+#: ../plugins/paint/selection/bracketstool.cc:207
+msgid "Error loading the properties widget description:\n"
+msgstr "შეცდომა თვისებების ვიჯეტის აღწერის ჩატვირთვისას:\n"
+
+#: ../plugins/paint/selection/brackets.ui.h:1
+msgid "Brackets type:"
+msgstr "ფრჩხილების ტიპი:"
+
+#: ../plugins/paint/selection/brackets.ui.h:2
+msgid "Used brakets:"
+msgstr "გამოყენებული ფრჩხილები:"
+
+#: ../plugins/paint/selection/brackets.ui.h:3
+msgid "Opening"
+msgstr "გამხსნელი"
+
+#: ../plugins/paint/selection/brackets.ui.h:4
+msgid "Closing"
+msgstr "დამხურავი"
+
+#: ../plugins/paint/selection/brackets.ui.h:5
+msgid "Both"
+msgstr "ორივე"
+
+#: ../plugins/paint/selection/group.cc:67
+msgid "Group properties..."
+msgstr "ჯგუფის თვისებები..."
+
+#: ../plugins/paint/selection/group.cc:389
+msgid "Group"
+msgstr "ჯგუფი"
+
+#: ../plugins/paint/selection/group.ui.h:1
+msgid "Normal"
+msgstr "ჩვეულებრივი"
+
+#: ../plugins/paint/selection/group.ui.h:2 ../ui/paint/H-pos.ui.h:4
+msgid "Top"
+msgstr "ზემოთ"
+
+#: ../plugins/paint/selection/group.ui.h:3
+msgid "Mid-height"
+msgstr "შუა სიმაღლეზე"
+
+#: ../plugins/paint/selection/group.ui.h:4 ../ui/paint/H-pos.ui.h:5
+msgid "Bottom"
+msgstr "ქვემოთ"
+
+#: ../plugins/paint/selection/group.ui.h:5 ../ui/paint/H-pos.ui.h:2
+msgid "Left"
+msgstr "მარცხნივ"
+
+#: ../plugins/paint/selection/group.ui.h:6
+msgid "Center"
+msgstr "ცენტრში"
+
+#: ../plugins/paint/selection/group.ui.h:7 ../ui/paint/H-pos.ui.h:3
+msgid "Right"
+msgstr "მარჯვნივ"
+
+#: ../plugins/paint/selection/group.ui.h:8
+msgid "_Group"
+msgstr "_დაჯგუფება"
+
+#: ../plugins/paint/selection/group.ui.h:9
+msgid "A_lign"
+msgstr "_გასწორება"
+
+#: ../plugins/paint/selection/group.ui.h:10
+msgid "_Space evenly"
+msgstr "თანაბრად _განაწილება"
+
+#: ../plugins/paint/selection/group.ui.h:11
+msgid "Distance:"
+msgstr "მანძილი:"
+
+#: ../plugins/paint/selection/lassotool.cc:396
+msgid "Horizontal flip"
+msgstr "ჰორიზონტალური გადაბრუნება"
+
+#: ../plugins/paint/selection/lassotool.cc:397
+#: ../plugins/paint/selection/lassotool.cc:430
+#: ../plugins/paint/selection/selectiontool.cc:488
+msgid "Flip the selection horizontally"
+msgstr "მონიშნულის ჰორიზონტალურად გადაბრუნება"
+
+#: ../plugins/paint/selection/lassotool.cc:398
+msgid "Vertical flip"
+msgstr "ვერტიკალური გადაბრუნება"
+
+#: ../plugins/paint/selection/lassotool.cc:399
+#: ../plugins/paint/selection/lassotool.cc:435
+#: ../plugins/paint/selection/selectiontool.cc:493
+msgid "Flip the selection vertically"
+msgstr "მონიშნულის ვერტიკალურად გადაბრუნება"
+
+#: ../plugins/paint/selection/lassotool.cc:403
+msgid "_Rotate"
+msgstr "_ბრუნვა"
+
+#: ../plugins/paint/selection/lassotool.cc:404
+#: ../plugins/paint/selection/lassotool.cc:441
+#: ../plugins/paint/selection/selectiontool.cc:499
+msgid "Rotate the selection"
+msgstr "მონიშნულის მობრუნება"
+
+#: ../plugins/paint/selection/plugin.cc:73
+#: ../plugins/paint/selection/plugin.cc:101
+msgid "Select one or more objects"
+msgstr "ერთი ან მეტი ობიექტის მონიშვნა"
+
+#: ../plugins/paint/selection/plugin.cc:75
+msgid "Erase"
+msgstr "წაშლა"
+
+#: ../plugins/paint/selection/plugin.cc:76
+#: ../plugins/paint/selection/plugin.cc:105
+msgid "Eraser"
+msgstr "საშლელი"
+
+#: ../plugins/paint/selection/plugin.cc:78
+#: ../plugins/paint/selection/plugin.cc:79
+#: ../plugins/paint/selection/plugin.cc:103
+msgid "Area selection"
+msgstr "არეს მონიშვნა"
+
+#: ../plugins/paint/selection/selectiontool.cc:386
+msgid "Creation failed!"
+msgstr "შექმნა ჩავარდა!"
+
+#: ../plugins/paint/selection/selectiontool.cc:414
+msgid "Group and/or align objects"
+msgstr "ობიექტების დაჯგუფება ან/და გასწორება"
+
+#: ../plugins/paint/selection/selectiontool.cc:530
+msgid "Merge two molecules"
+msgstr "ორი მოლეკულის შერწყმა"
+
+#: ../plugins/paint/templates/new-template.ui.h:1
+msgid "_Name"
+msgstr "_სახელი"
+
+#: ../plugins/paint/templates/new-template.ui.h:2
+msgid "_Category:"
+msgstr "_კატეგორია:"
+
+#: ../plugins/paint/templates/plugin.cc:49
+msgid "Use or manage templates"
+msgstr "შაბლონების გამოყენება ან მართვა"
+
+#: ../plugins/paint/templates/plugin.cc:215
+#: ../plugins/paint/templates/plugin.cc:217
+msgid "Miscellaneous"
+msgstr "სხვადასხვა"
+
+#: ../plugins/paint/templates/templates.ui.h:1
+msgid "_Templates"
+msgstr "_შაბლონები"
+
+#: ../plugins/paint/templates/templates.ui.h:2
+msgid "No selected template"
+msgstr "შაბლონი არ არის არჩეული"
+
+#: ../plugins/paint/templates/templates.ui.h:3
+msgid "category"
+msgstr "კატეგორია"
+
+#: ../plugins/paint/templates/templatetool.cc:348
+msgid "Please provide an object."
+msgstr "გთხოვთ, მიუთითოთ ობიექტი."
+
+#: ../plugins/paint/templates/templatetool.cc:350
+msgid "Please give a name."
+msgstr "გთხოვთ, მიუთითოთ სახელი."
+
+#: ../plugins/paint/templates/templatetool.cc:352
+msgid "Please choose a category."
+msgstr "გთხოვთ, აირჩიოთ კატეგორია."
+
+#: ../plugins/paint/text/eq-props.ui.h:1
+msgid "Equation properties"
+msgstr "განტოლების თვისებები"
+
+#: ../plugins/paint/text/equation.cc:167
+msgid "ITeX string"
+msgstr "ITeX სტრიქონი"
+
+#: ../plugins/paint/text/equation.cc:340
+msgid "Equation"
+msgstr "განტოლება"
+
+#: ../plugins/paint/text/fontsel.ui.h:1
+msgid "_Family:"
+msgstr "_ოჯახი:"
+
+#: ../plugins/paint/text/fontsel.ui.h:2
+msgid "_Underline:"
+msgstr "_ხაზგასმა:"
+
+#: ../plugins/paint/text/fontsel.ui.h:3
+#: ../programs/table/gchemtable-data-allocator.cc:193
+msgid "None"
+msgstr "არცერთი"
+
+#: ../plugins/paint/text/fontsel.ui.h:5
+msgid "Double"
+msgstr "ორმაგი"
+
+#: ../plugins/paint/text/fontsel.ui.h:6
+#: ../programs/table/gchemtable-elt.cc:300
+msgid "Low"
+msgstr "დაბალი"
+
+#: ../plugins/paint/text/fontsel.ui.h:7
+msgid "_Color:"
+msgstr "_ფერი:"
+
+#: ../plugins/paint/text/fontsel.ui.h:8
+msgid "Stri_kethrough"
+msgstr "_გადახაზვა"
+
+#: ../plugins/paint/text/fontsel.ui.h:9
+msgid "_Position:"
+msgstr "_მდებარეობა:"
+
+#: ../plugins/paint/text/fontsel.ui.h:10
+msgid "_Style:"
+msgstr "_სტილი:"
+
+#: ../plugins/paint/text/fontsel.ui.h:11
+msgid "Si_ze:"
+msgstr "_ზომა:"
+
+#: ../plugins/paint/text/fragmenttool.cc:458
+msgid "Mode: "
+msgstr "რეჟიმი: "
+
+#: ../plugins/paint/text/fragmenttool.cc:461
+msgid "auto"
+msgstr "ავტომატური"
+
+#: ../plugins/paint/text/fragmenttool.cc:464
+msgid "normal"
+msgstr "ჩვეულებრივი"
+
+#: ../plugins/paint/text/fragmenttool.cc:467
+msgid "subscript"
+msgstr "ქვედა ინდექსი"
+
+#: ../plugins/paint/text/fragmenttool.cc:470
+msgid "superscript"
+msgstr "ზედა ინდექსი"
+
+#: ../plugins/paint/text/fragmenttool.cc:473
+msgid "charge"
+msgstr "მუხტი"
+
+#: ../plugins/paint/text/fragmenttool.cc:476
+msgid "stoichiometry"
+msgstr "სტექიომეტრია"
+
+#: ../plugins/paint/text/plugin.cc:56
+msgid "Add or modify a text"
+msgstr "ტექსტის დამატება ან შეცვლა"
+
+#: ../plugins/paint/text/plugin.cc:58
+msgid "Add or modify an equation"
+msgstr "განტოლების დამატება ან შეცვლა"
+
+#: ../plugins/paint/text/plugin.cc:60
+msgid "Add or modify a group of atoms"
+msgstr "ატომთა ჯგუფის დამატება ან შეცვლა"
+
+#: ../programs/3d/main.cc:37
+msgid "GChem3d Viewer version: "
+msgstr "GChem3d მნახველის ვერსია: "
+
+#: ../programs/3d/main.cc:48
+msgid "Prints GChem3d Viewer version"
+msgstr "ბეჭდავს GChem3d მნახველის ვერსიას"
+
+#: ../programs/3d/main.cc:49
+msgid "Background color: white, black or #rrggbb (default is black)"
+msgstr "ფონის ფერი: white, black ან #rrggbb (ნაგულისხმევია შავი)"
+
+#: ../programs/3d/main.cc:50
+msgid ""
+"How molecules are displayed; possible values are BallnStick (the default), "
+"SpaceFill, Cylinders, and Wireframe"
+msgstr ""
+"მოლეკულების ჩვენების რეჟიმი; შესაძლო მნიშვნელობებია BallnStick "
+"(ნაგულისხმევი), SpaceFill, Cylinders და Wireframe"
+
+#: ../programs/3d/main.cc:65 ../programs/spectra/gspectrum.cc:42
+msgid " [file]"
+msgstr ""
+
+#: ../programs/3d/main.cc:86 ../programs/crystal/main.cc:92
+#: ../programs/paint/main.cc:99 ../programs/spectra/gspectrum.cc:61
+#, c-format
+msgid "Invalid or misplaced argument: %s\n"
+msgstr "არასწორი ან არასწორ ადგილას მითითებული არგუმენტი: %s\n"
+
+#: ../programs/3d/gchem3d.desktop.in.h:1
+msgid "Molecules Viewer (0.16 unstable)"
+msgstr "მოლეკულების მნახველი (0.16 არასტაბილური)"
+
+#: ../programs/3d/gchem3d.desktop.in.h:2
+msgid "Display chemical 3D structures"
+msgstr "ქიმიური 3D სტრუქტურების ჩვენება"
+
+#: ../programs/calc/gchemcalc.cc:281
+msgid "GChemCalc is a simple calculator for chemists"
+msgstr "GChemCalc არის მარტივი კალკულატორი ქიმიკოსებისთვის"
+
+#. const gchar * documentors[] = {NULL};
+#: ../programs/calc/gchemcalc.cc:283 ../programs/table/gchemtable-app.cc:395
+msgid "Copyright © 2005-2010 Jean Bréfort"
+msgstr ""
+
+#: ../programs/calc/gchemcalc.cc:324 ../ui/calc/gchemcalc.ui.h:2
+msgid "Formula:"
+msgstr "ფორმულა:"
+
+#: ../programs/calc/gchemcalc.cc:327 ../ui/calc/gchemcalc.ui.h:3
+msgid "Raw formula:"
+msgstr "ნედლი ფორმულა:"
+
+#: ../programs/calc/gchemcalc.cc:597
+msgid "Quit GChemCalc"
+msgstr "GChemCalc-იდან გასვლა"
+
+#: ../programs/calc/gchemcalc.cc:601
+msgid "_Mode"
+msgstr "_რეჟიმი"
+
+#: ../programs/calc/gchemcalc.cc:604
+msgid "View help for the Chemical Calculator"
+msgstr "ქიმიური კალკულატორის დახმარების ნახვა"
+
+#: ../programs/calc/gchemcalc.cc:614
+msgid "About GChemCalc"
+msgstr "GChemCalc-ის შესახებ"
+
+#: ../programs/calc/gchemcalc.cc:618
+msgid "_Guess"
+msgstr "_ამოცნობა"
+
+#: ../programs/calc/gchemcalc.cc:619
+msgid "Try to guess what is correct when interpreting ambiguous symbols"
+msgstr "ორაზროვანი სიმბოლოების ინტერპრეტაციისას სწორის გამოცნობის მცდელობა"
+
+#: ../programs/calc/gchemcalc.cc:621
+msgid "_Atom"
+msgstr "_ატომი"
+
+#: ../programs/calc/gchemcalc.cc:622
+msgid "Interpreting ambiguous symbols as atoms"
+msgstr "ორაზროვანი სიმბოლოების ატომებად ინტერპრეტაცია"
+
+#: ../programs/calc/gchemcalc.cc:624
+msgid "_Nickname"
+msgstr "_მეტსახელი"
+
+#: ../programs/calc/gchemcalc.cc:625
+msgid "Interpret ambiguous symbols as atoms groups nicknames"
+msgstr "ორაზროვანი სიმბოლოების ატომთა ჯგუფის მეტსახელებად ინტერპრეტაცია"
+
+#: ../programs/calc/gchemcalc.cc:627
+msgid "As_k"
+msgstr "_კითხვა"
+
+#: ../programs/calc/gchemcalc.cc:628
+msgid "Ask user for the correct interpretation of ambiguous symbols"
+msgstr "მომხმარებლისთვის კითხვა ორაზროვანი სიმბოლოების სწორ ინტერპრეტაციაზე"
+
+#: ../programs/calc/gchemcalc.cc:666
+msgid "GChemCalc Calculator version: "
+msgstr "GChemCalc კალკულატორის ვერსია: "
+
+#: ../programs/calc/gchemcalc.cc:687
+msgid " [formula]"
+msgstr ""
+
+#: ../programs/calc/gchemcalc.cc:703
+msgid "For usage see: gchemcalc [-?|--help]"
+msgstr "გამოყენებისთვის იხილეთ: gchemcalc [-?|--help]"
+
+#: ../programs/calc/gchemcalc.cc:749
+msgid "Element"
+msgstr "ელემენტი"
+
+#: ../programs/calc/gchemcalc.cc:756
+msgid "Mass %"
+msgstr "მასა %"
+
+#: ../programs/calc/gchemcalc.desktop.in.h:1
+msgid "Chemical calculator (0.16 unstable)"
+msgstr "ქიმიური კალკულატორი (0.16 არასტაბილური)"
+
+#: ../programs/calc/gchemcalc.desktop.in.h:2
+msgid "A simple calculator for chemistry"
+msgstr "მარტივი კალკულატორი ქიმიისთვის"
+
+#: ../programs/crystal/gcrystal.desktop.in.h:1
+msgid "Gnome Crystal Crystalline Structures Viewer (0.16 unstable)"
+msgstr "Gnome Crystal კრისტალური სტრუქტურების მნახველი (0.16 არასტაბილური)"
+
+#: ../programs/crystal/gcrystal.desktop.in.h:2
+msgid "Edit and display crystalline structures"
+msgstr "კრისტალური სტრუქტურების რედაქტირება და ჩვენება"
+
+#: ../programs/crystal/application.cc:53
+#, c-format
+msgid "Untitled%d"
+msgstr "უსახელო%d"
+
+#: ../programs/crystal/main.cc:49
+msgid "Gnome Chemistry Utils version: "
+msgstr "Gnome Chemistry Utils-ის ვერსია: "
+
+#: ../programs/crystal/main.cc:69 ../programs/paint/main.cc:81
+msgid " [file...]"
+msgstr ""
+
+#: ../programs/paint/gchempaint.desktop.in.h:1
+msgid "GChemPaint Chemical Structures Editor (0.16 unstable)"
+msgstr "GChemPaint ქიმიური სტრუქტურების რედაქტორი (0.16 არასტაბილური)"
+
+#: ../programs/paint/gchempaint.desktop.in.h:2
+msgid "Edit chemical 2D structures"
+msgstr "ქიმიური 2D სტრუქტურების რედაქტირება"
+
+#: ../programs/paint/main.cc:43
+msgid "GChemPaint version: "
+msgstr "GChemPaint-ის ვერსია: "
+
+#: ../programs/spectra/application.cc:40 ../programs/spectra/application.cc:67
+msgid "GSpectrum"
+msgstr ""
+
+#: ../programs/spectra/gspectrum.desktop.in.h:1
+msgid "Spectrum viewer (0.16 unstable)"
+msgstr "სპექტრების მნახველი (0.16 არასტაბილური)"
+
+#: ../programs/spectra/gspectrum.desktop.in.h:2
+msgid "A spectrum viewer for the GNOME desktop"
+msgstr "სპექტრების მნახველი GNOME სამუშაო გარემოსთვის"
+
+#: ../programs/spectra/window.cc:112
+msgid "GSpectrum is a spectrum viewer for Gnome"
+msgstr "GSpectrum არის სპექტრების მნახველი Gnome-ისთვის"
+
+#. const gchar * documentors[] = {NULL};
+#: ../programs/spectra/window.cc:114
+msgid "Copyright © 2007-2010 Jean Bréfort\n"
+msgstr ""
+
+#: ../programs/spectra/window.cc:206
+msgid "Quit GSpectrum"
+msgstr "GSpectrum-იდან გასვლა"
+
+#: ../programs/spectra/window.cc:212
+msgid "View help for the Spectra Viewer"
+msgstr "სპექტრების მნახველის დახმარების ნახვა"
+
+#: ../programs/spectra/window.cc:222
+msgid "About GSpectrum"
+msgstr "GSpectrum-ის შესახებ"
+
+#: ../programs/table/gchemtable-app.cc:140
+#: ../programs/table/gchemtable-curve.cc:221
+msgid "Quit GChemTable"
+msgstr "GChemTable-იდან გასვლა"
+
+#: ../programs/table/gchemtable-app.cc:142
+msgid "Color scheme"
+msgstr "ფერთა სქემა"
+
+#: ../programs/table/gchemtable-app.cc:143
+msgid "No colors"
+msgstr "ფერების გარეშე"
+
+#: ../programs/table/gchemtable-app.cc:144
+msgid "Use default Gtk theme colors"
+msgstr "ნაგულისხმევი Gtk თემის ფერების გამოყენება"
+
+#: ../programs/table/gchemtable-app.cc:146
+msgid "Use default symbolic element colors"
+msgstr "ელემენტების ნაგულისხმევი სიმბოლური ფერების გამოყენება"
+
+#: ../programs/table/gchemtable-app.cc:147
+msgid "Physical states"
+msgstr "აგრეგატული მდგომარეობები"
+
+#: ../programs/table/gchemtable-app.cc:148
+msgid "Use colors to display physical state at a given temperature"
+msgstr "ფერებით მოცემულ ტემპერატურაზე აგრეგატული მდგომარეობის ჩვენება"
+
+#: ../programs/table/gchemtable-app.cc:151
+msgid "Use colors to display the family grouping of the elements"
+msgstr "ფერებით ელემენტების ოჯახებად დაჯგუფების ჩვენება"
+
+#: ../programs/table/gchemtable-app.cc:153
+msgid "Acidity"
+msgstr "მჟავიანობა"
+
+#: ../programs/table/gchemtable-app.cc:154
+msgid "Use colors to display the acidity of the elements"
+msgstr "ფერებით ელემენტების მჟავიანობის ჩვენება"
+
+#: ../programs/table/gchemtable-app.cc:156
+msgid "Electronegativity"
+msgstr "ელექტროუარყოფითობა"
+
+#: ../programs/table/gchemtable-app.cc:157
+msgid "Use colors to display the electronegativity of the elements"
+msgstr "ფერებით ელემენტების ელექტროუარყოფითობის ჩვენება"
+
+#: ../programs/table/gchemtable-app.cc:159
+msgid "Atomic radius"
+msgstr "ატომური რადიუსი"
+
+#: ../programs/table/gchemtable-app.cc:160
+msgid "Use colors to display the covalent radii of the elements"
+msgstr "ფერებით ელემენტების კოვალენტური რადიუსების ჩვენება"
+
+#: ../programs/table/gchemtable-app.cc:162
+msgid "Block"
+msgstr "ბლოკი"
+
+#: ../programs/table/gchemtable-app.cc:163
+msgid "Use colors to display the blocks elements belong to"
+msgstr "ფერებით იმ ბლოკების ჩვენება, რომლებსაც ელემენტები მიეკუთვნებიან"
+
+#: ../programs/table/gchemtable-app.cc:165
+msgid "Element charts "
+msgstr "ელემენტთა დიაგრამები "
+
+#: ../programs/table/gchemtable-app.cc:166
+msgid "Electronegativty "
+msgstr "ელექტროუარყოფითობა "
+
+#: ../programs/table/gchemtable-app.cc:167
+msgid "Create an electronegativity chart"
+msgstr "ელექტროუარყოფითობის დიაგრამის შექმნა"
+
+#: ../programs/table/gchemtable-app.cc:168
+msgid "Electon affinity"
+msgstr "ელექტრონთა სწრაფვა"
+
+#: ../programs/table/gchemtable-app.cc:169
+msgid "Create an electronic affinity chart"
+msgstr "ელექტრონთა სწრაფვის დიაგრამის შექმნა"
+
+#: ../programs/table/gchemtable-app.cc:170
+#: ../programs/table/gchemtable-curve.cc:344
+#: ../programs/table/gchemtable-data.cc:533
+msgid "First ionization energy"
+msgstr "პირველი იონიზაციის ენერგია"
+
+#: ../programs/table/gchemtable-app.cc:171
+msgid "Create an first ionization energy chart"
+msgstr "პირველი იონიზაციის ენერგიის დიაგრამის შექმნა"
+
+#: ../programs/table/gchemtable-app.cc:172
+#: ../programs/table/gchemtable-curve.cc:348
+#: ../programs/table/gchemtable-data.cc:534
+msgid "Second ionization energy"
+msgstr "მეორე იონიზაციის ენერგია"
+
+#: ../programs/table/gchemtable-app.cc:173
+msgid "Create an second ionization energy chart"
+msgstr "მეორე იონიზაციის ენერგიის დიაგრამის შექმნა"
+
+#: ../programs/table/gchemtable-app.cc:174
+#: ../programs/table/gchemtable-curve.cc:352
+#: ../programs/table/gchemtable-data.cc:535
+msgid "Third ionization energy"
+msgstr "მესამე იონიზაციის ენერგია"
+
+#: ../programs/table/gchemtable-app.cc:175
+msgid "Create an third ionization energy chart"
+msgstr "მესამე იონიზაციის ენერგიის დიაგრამის შექმნა"
+
+#: ../programs/table/gchemtable-app.cc:176
+#: ../programs/table/gchemtable-curve.cc:374
+#: ../programs/table/gchemtable-data.cc:537
+msgid "Covalent radius"
+msgstr "კოვალენტური რადიუსი"
+
+#: ../programs/table/gchemtable-app.cc:177
+msgid "Create an atomic covalent radius chart"
+msgstr "ატომური კოვალენტური რადიუსის დიაგრამის შექმნა"
+
+#: ../programs/table/gchemtable-app.cc:178
+#: ../programs/table/gchemtable-curve.cc:383
+#: ../programs/table/gchemtable-data.cc:538
+msgid "Van der Waals radius"
+msgstr "ვან დერ ვაალსის რადიუსი"
+
+#: ../programs/table/gchemtable-app.cc:179
+msgid "Create an atomic van der Waals radius chart"
+msgstr "ატომური ვან დერ ვაალსის რადიუსის დიაგრამის შექმნა"
+
+#: ../programs/table/gchemtable-app.cc:180
+#: ../programs/table/gchemtable-curve.cc:392
+#: ../programs/table/gchemtable-data.cc:539
+msgid "Metallic radius"
+msgstr "მეტალური რადიუსი"
+
+#: ../programs/table/gchemtable-app.cc:181
+msgid "Create an atomic metallic radius chart"
+msgstr "ატომური მეტალური რადიუსის დიაგრამის შექმნა"
+
+#: ../programs/table/gchemtable-app.cc:182
+msgid "Melting temperature"
+msgstr "დნობის ტემპერატურა"
+
+#: ../programs/table/gchemtable-app.cc:183
+msgid "Create an melting temperature chart"
+msgstr "დნობის ტემპერატურის დიაგრამის შექმნა"
+
+#: ../programs/table/gchemtable-app.cc:184
+#: ../programs/table/gchemtable-curve.cc:410
+#: ../programs/table/gchemtable-data.cc:541
+msgid "Ebullition temperature"
+msgstr "დუღილის ტემპერატურა"
+
+#: ../programs/table/gchemtable-app.cc:185
+msgid "Create an ebullition temperature chart"
+msgstr "დუღილის ტემპერატურის დიაგრამის შექმნა"
+
+#: ../programs/table/gchemtable-app.cc:186 ../ui/crystal/atoms.ui.h:10
+msgid "Custom"
+msgstr "მორგებული"
+
+#: ../programs/table/gchemtable-app.cc:187
+msgid "Create a custom chart"
+msgstr "მორგებული დიაგრამის შექმნა"
+
+#: ../programs/table/gchemtable-app.cc:190
+#: ../programs/table/gchemtable-curve.cc:227
+msgid "View help for the Periodic Table"
+msgstr "პერიოდული სისტემის დახმარების ნახვა"
+
+#: ../programs/table/gchemtable-app.cc:200
+#: ../programs/table/gchemtable-curve.cc:239
+msgid "About GChemTable"
+msgstr "GChemTable-ის შესახებ"
+
+#: ../programs/table/gchemtable-app.cc:393
+msgid "GChemTable is a chemical periodic table of the elements application"
+msgstr "GChemTable არის ქიმიურ ელემენტთა პერიოდული სისტემის აპლიკაცია"
+
+#. The <sup> </sup> markup at the end of the chain is there to ensure that
+#. things will be correcly aligned, add the same to the translated string
+#: ../programs/table/gchemtable-elt.cc:62
+msgid "Electronic configuration:<sup> </sup>"
+msgstr "ელექტრონული კონფიგურაცია:<sup> </sup>"
+
+#: ../programs/table/gchemtable-elt.cc:74
+msgid "Lang"
+msgstr "ენა"
+
+#: ../programs/table/gchemtable-elt.cc:81
+msgid "Name"
+msgstr "სახელი"
+
+#: ../programs/table/gchemtable-elt.cc:107
+#: ../programs/table/gchemtable-elt.cc:144
+#: ../programs/table/gchemtable-elt.cc:176
+#: ../programs/table/gchemtable-elt.cc:199
+#: ../programs/table/gchemtable-elt.cc:213
+#: ../programs/table/gchemtable-elt.cc:227
+#: ../programs/table/gchemtable-elt.cc:249
+msgid "n.a."
+msgstr "არ არის"
+
+#: ../programs/table/gchemtable-elt.cc:118
+#: ../programs/table/gchemtable-elt.cc:153
+#, c-format
+msgid "%d:"
+msgstr ""
+
+#: ../programs/table/gchemtable-elt.cc:126 ../ui/table/eltpage.ui.h:5
+msgid "Show curve"
+msgstr "მრუდის ჩვენება"
+
+#: ../programs/table/gchemtable-elt.cc:261
+msgid "Ion"
+msgstr "იონი"
+
+#. C.N. stands for coordination number
+#: ../programs/table/gchemtable-elt.cc:268
+msgid "C.N."
+msgstr "კ.რ."
+
+#: ../programs/table/gchemtable-elt.cc:273
+msgid "Spin"
+msgstr "სპინი"
+
+#: ../programs/table/gchemtable-elt.cc:280
+msgid "Value"
+msgstr "მნიშვნელობა"
+
+#: ../programs/table/gchemtable-elt.cc:303
+msgid "High"
+msgstr "მაღალი"
+
+#: ../programs/table/gchemtable-curve.cc:217
+msgid "Modify the graph properties"
+msgstr "გრაფიკის თვისებების შეცვლა"
+
+#: ../programs/table/gchemtable-curve.cc:229
+msgid "View help for the Curve Window"
+msgstr "მრუდის ფანჯრის დახმარების ნახვა"
+
+#: ../programs/table/gchemtable-curve.cc:322
+#: ../programs/table/gchemtable-curve.cc:325
+#: ../programs/table/gchemtable-curve.cc:329
+#: ../programs/table/gchemtable-data.cc:532
+msgid "Pauling electronegativity"
+msgstr "პაულინგის ელექტროუარყოფითობა"
+
+#: ../programs/table/gchemtable-curve.cc:331
+#: ../programs/table/gchemtable-data.cc:536
+msgid "Electronic affinity"
+msgstr "ელექტრონთა სწრაფვა"
+
+#: ../programs/table/gchemtable-curve.cc:334
+msgid "Electron affinity (kJ/mol)"
+msgstr "ელექტრონთა სწრაფვა (კჯ/მოლი)"
+
+#: ../programs/table/gchemtable-curve.cc:338
+msgid "Electron affinity"
+msgstr "ელექტრონთა სწრაფვა"
+
+#: ../programs/table/gchemtable-curve.cc:345
+msgid "1st. "
+msgstr "1-ლი "
+
+#: ../programs/table/gchemtable-curve.cc:349
+msgid "2nd. "
+msgstr "მე-2 "
+
+#: ../programs/table/gchemtable-curve.cc:353
+msgid "3rd. "
+msgstr "მე-3 "
+
+#: ../programs/table/gchemtable-curve.cc:356
+#, c-format
+msgid "%dth. "
+msgstr "მე-%d "
+
+#: ../programs/table/gchemtable-curve.cc:362
+msgid "ionization energy (MJ/mol)"
+msgstr "იონიზაციის ენერგია (მჯ/მოლი)"
+
+#: ../programs/table/gchemtable-curve.cc:369
+msgid "ionization energy"
+msgstr "იონიზაციის ენერგია"
+
+#: ../programs/table/gchemtable-curve.cc:377
+#: ../programs/table/gchemtable-curve.cc:381
+msgid "Covalent radii"
+msgstr "კოვალენტური რადიუსები"
+
+#: ../programs/table/gchemtable-curve.cc:386
+#: ../programs/table/gchemtable-curve.cc:390
+msgid "Van der Waals radii"
+msgstr "ვან დერ ვაალსის რადიუსები"
+
+#: ../programs/table/gchemtable-curve.cc:395
+#: ../programs/table/gchemtable-curve.cc:399
+msgid "Metallic radii"
+msgstr "მეტალური რადიუსები"
+
+#: ../programs/table/gchemtable-curve.cc:401
+#: ../programs/table/gchemtable-data.cc:540
+msgid "Fusion temperature"
+msgstr "დნობის ტემპერატურა"
+
+#: ../programs/table/gchemtable-curve.cc:404
+#: ../programs/table/gchemtable-curve.cc:408
+msgid "Melting point"
+msgstr "დნობის წერტილი"
+
+#: ../programs/table/gchemtable-curve.cc:413
+#: ../programs/table/gchemtable-curve.cc:417
+msgid "Boiling point"
+msgstr "დუღილის წერტილი"
+
+#: ../programs/table/gchemtable-curve.cc:433
+#: ../programs/table/gchemtable-data.cc:530
+msgid "Atomic number"
+msgstr "რიგითი ნომერი"
+
+#. FIXME: we might know the errors
+#: ../programs/table/gchemtable-data-allocator.cc:184
+msgid "Not supported"
+msgstr "არ არის მხარდაჭერილი"
+
+#: ../programs/table/gchemtable-data.cc:531
+msgid "Atomic mass"
+msgstr "ატომური მასა"
+
+#: ../programs/table/gchemtable.desktop.in.h:1
+msgid "Periodic table of the elements (0.16 unstable)"
+msgstr "ელემენტთა პერიოდული სისტემა (0.16 არასტაბილური)"
+
+#: ../programs/table/gchemtable.desktop.in.h:2
+msgid "A Mendeleiev table of the chemical elements"
+msgstr "ქიმიურ ელემენტთა მენდელეევის ცხრილი"
+
+#: ../schemas/org.gnome.gchemutils.crystal.gschema.xml.in.in.h:1
+msgid "Printing resolution"
+msgstr "ბეჭდვის გაფართოება"
+
+#: ../schemas/org.gnome.gchemutils.crystal.gschema.xml.in.in.h:2
+msgid "Printing resolution if not automatically detected."
+msgstr "ბეჭდვის გაფართოება, თუ ავტომატურად არ განისაზღვრა."
+
+#: ../schemas/org.gnome.gchemutils.crystal.gschema.xml.in.in.h:3
+msgid "Default field of view"
+msgstr "ნაგულისხმევი ხედვის არე"
+
+#: ../schemas/org.gnome.gchemutils.crystal.gschema.xml.in.in.h:4
+msgid "Field of view used by default for the model display."
+msgstr "მოდელის საჩვენებლად ნაგულისხმევად გამოყენებული ხედვის არე."
+
+#: ../schemas/org.gnome.gchemutils.crystal.gschema.xml.in.in.h:5
+msgid "Default precession"
+msgstr "ნაგულისხმევი პრეცესია"
+
+#: ../schemas/org.gnome.gchemutils.crystal.gschema.xml.in.in.h:6
+msgid ""
+"Default Euler's precession angle for model display. Acceptable values are "
+"-180. to + 180."
+msgstr ""
+"ეილერის ნაგულისხმევი პრეცესიის კუთხე მოდელის საჩვენებლად. დასაშვებია "
+"-180-დან +180-მდე."
+
+#: ../schemas/org.gnome.gchemutils.crystal.gschema.xml.in.in.h:7
+msgid "Default nutation"
+msgstr "ნაგულისხმევი ნუტაცია"
+
+#: ../schemas/org.gnome.gchemutils.crystal.gschema.xml.in.in.h:8
+msgid ""
+"Default Euler's nutation angle for model display. Acceptable values are 0. "
+"to + 180."
+msgstr ""
+"ეილერის ნაგულისხმევი ნუტაციის კუთხე მოდელის საჩვენებლად. დასაშვებია 0-დან "
+"+180-მდე."
+
+#: ../schemas/org.gnome.gchemutils.crystal.gschema.xml.in.in.h:9
+msgid "Default spin"
+msgstr "ნაგულისხმევი სპინი"
+
+#: ../schemas/org.gnome.gchemutils.crystal.gschema.xml.in.in.h:10
+msgid ""
+"Default Euler's spin angle for model display. Acceptable values are -180. to"
+" + 180."
+msgstr ""
+"ეილერის ნაგულისხმევი სპინის კუთხე მოდელის საჩვენებლად. დასაშვებია -180-დან "
+"+180-მდე."
+
+#: ../schemas/org.gnome.gchemutils.crystal.gschema.xml.in.in.h:11
+msgid "Background color red value"
+msgstr "ფონის ფერის წითელი მნიშვნელობა"
+
+#: ../schemas/org.gnome.gchemutils.crystal.gschema.xml.in.in.h:12
+msgid ""
+"Red value for the default background color. Acceptable values are 0. to 1."
+msgstr "ნაგულისხმევი ფონის ფერის წითელი მნიშვნელობა. დასაშვებია 0-დან 1-მდე."
+
+#: ../schemas/org.gnome.gchemutils.crystal.gschema.xml.in.in.h:13
+msgid "Background color green value"
+msgstr "ფონის ფერის მწვანე მნიშვნელობა"
+
+#: ../schemas/org.gnome.gchemutils.crystal.gschema.xml.in.in.h:14
+msgid ""
+"Green value for the default background color. Acceptable values are 0. to 1."
+msgstr "ნაგულისხმევი ფონის ფერის მწვანე მნიშვნელობა. დასაშვებია 0-დან 1-მდე."
+
+#: ../schemas/org.gnome.gchemutils.crystal.gschema.xml.in.in.h:15
+msgid "Background color blue value"
+msgstr "ფონის ფერის ლურჯი მნიშვნელობა"
+
+#: ../schemas/org.gnome.gchemutils.crystal.gschema.xml.in.in.h:16
+msgid ""
+"Blue value for the default background color. Acceptable values are 0. to 1."
+msgstr "ნაგულისხმევი ფონის ფერის ლურჯი მნიშვნელობა. დასაშვებია 0-დან 1-მდე."
+
+#: ../schemas/org.gnome.gchemutils.gschema.xml.in.in.h:1
+msgid "Preferred Display Unit"
+msgstr "სასურველი საზომი ერთეული"
+
+#: ../schemas/org.gnome.gchemutils.gschema.xml.in.in.h:2
+msgid ""
+"This string gives the default unit to be used in the page setup dialog."
+msgstr ""
+"ეს სტრიქონი განსაზღვრავს გვერდის გამართვის დიალოგში გამოსაყენებელ "
+"ნაგულისხმევ ერთეულს."
+
+#: ../schemas/org.gnome.gchemutils.gschema.xml.in.in.h:3
+msgid "Default Top Margin"
+msgstr "ნაგულისხმევი ზედა ველი"
+
+#: ../schemas/org.gnome.gchemutils.gschema.xml.in.in.h:4
+msgid ""
+"This value gives the default number of points from the top of a page to the "
+"start of the body."
+msgstr ""
+"ეს მნიშვნელობა განსაზღვრავს პუნქტების ნაგულისხმევ რაოდენობას გვერდის ზედა "
+"კიდიდან ძირითადი ტექსტის დასაწყისამდე."
+
+#: ../schemas/org.gnome.gchemutils.gschema.xml.in.in.h:5
+msgid "Default Bottom Margin"
+msgstr "ნაგულისხმევი ქვედა ველი"
+
+#: ../schemas/org.gnome.gchemutils.gschema.xml.in.in.h:6
+msgid ""
+"This value gives the default number of points from the bottom of a page to "
+"the end of the body."
+msgstr ""
+"ეს მნიშვნელობა განსაზღვრავს პუნქტების ნაგულისხმევ რაოდენობას გვერდის ქვედა "
+"კიდიდან ძირითადი ტექსტის დასასრულამდე."
+
+#: ../schemas/org.gnome.gchemutils.gschema.xml.in.in.h:7
+msgid "Footer height"
+msgstr "ქვედა კოლონტიტულის სიმაღლე"
+
+#: ../schemas/org.gnome.gchemutils.gschema.xml.in.in.h:8
+msgid "This value gives the default footer height number of points."
+msgstr ""
+"ეს მნიშვნელობა განსაზღვრავს ქვედა კოლონტიტულის ნაგულისხმევ სიმაღლეს "
+"პუნქტებში."
+
+#: ../schemas/org.gnome.gchemutils.gschema.xml.in.in.h:9
+msgid "Default Top Outside Margin"
+msgstr "ნაგულისხმევი ზედა გარე ველი"
+
+#: ../schemas/org.gnome.gchemutils.gschema.xml.in.in.h:10
+msgid "This value gives the default header height number of points."
+msgstr ""
+"ეს მნიშვნელობა განსაზღვრავს ზედა კოლონტიტულის ნაგულისხმევ სიმაღლეს "
+"პუნქტებში."
+
+#: ../schemas/org.gnome.gchemutils.gschema.xml.in.in.h:11
+msgid "Default Left Margin"
+msgstr "ნაგულისხმევი მარცხენა ველი"
+
+#: ../schemas/org.gnome.gchemutils.gschema.xml.in.in.h:12
+msgid ""
+"This value gives the default number of points from the left of a page to the"
+" left of the body."
+msgstr ""
+"ეს მნიშვნელობა განსაზღვრავს პუნქტების ნაგულისხმევ რაოდენობას გვერდის "
+"მარცხენა კიდიდან ძირითადი ტექსტის მარცხენა კიდემდე."
+
+#: ../schemas/org.gnome.gchemutils.gschema.xml.in.in.h:13
+msgid ""
+"This value gives the default number of points from the right of a page to "
+"the right of the body."
+msgstr ""
+"ეს მნიშვნელობა განსაზღვრავს პუნქტების ნაგულისხმევ რაოდენობას გვერდის "
+"მარჯვენა კიდიდან ძირითადი ტექსტის მარჯვენა კიდემდე."
+
+#: ../schemas/org.gnome.gchemutils.gschema.xml.in.in.h:14
+msgid "Paper"
+msgstr "ქაღალდი"
+
+#: ../schemas/org.gnome.gchemutils.gschema.xml.in.in.h:15
+msgid ""
+"This is the default paper specification like iso_a4 or na_letter, i.e. a PWG"
+" 5101.1-2002 paper name."
+msgstr ""
+"ეს არის ქაღალდის ნაგულისხმევი სპეციფიკაცია, მაგალითად iso_a4 ან na_letter, "
+"ანუ PWG 5101.1-2002 ქაღალდის სახელი."
+
+#: ../schemas/org.gnome.gchemutils.gschema.xml.in.in.h:16
+msgid "This is the default paper orientation."
+msgstr "ეს არის ქაღალდის ნაგულისხმევი ორიენტაცია."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:1
+msgid "Default bond length"
+msgstr "ბმის ნაგულისხმევი სიგრძე"
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:2
+msgid "Default bond length in picometers. Used in the default theme."
+msgstr ""
+"ბმის ნაგულისხმევი სიგრძე პიკომეტრებში. გამოიყენება ნაგულისხმევ თემაში."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:3
+msgid "Default angle between two bonds."
+msgstr "ორ ბმას შორის ნაგულისხმევი კუთხე."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:4
+msgid ""
+"Default angle between two consecutive bonds in a chain in degrees. Used in "
+"the default theme."
+msgstr ""
+"ჯაჭვში ორ მომდევნო ბმას შორის ნაგულისხმევი კუთხე გრადუსებში. გამოიყენება "
+"ნაგულისხმევ თემაში."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:5
+msgid "Default distance between two lines in a multiple bond."
+msgstr "ჯერად ბმაში ორ ხაზს შორის ნაგულისხმევი მანძილი."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:7
+#, no-c-format
+msgid ""
+"Default distance between two lines in pixels (at 100% zoom) in a multiple "
+"bond. Used in the default theme."
+msgstr ""
+"ჯერად ბმაში ორ ხაზს შორის ნაგულისხმევი მანძილი პიქსელებში (100% მასშტაბზე). "
+"გამოიყენება ნაგულისხმევ თემაში."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:8
+msgid "Default bond line width."
+msgstr "ბმის ხაზის ნაგულისხმევი სისქე."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:10
+#, no-c-format
+msgid ""
+"Default bond line width in pixels (at 100% zoom). Used in the default theme."
+msgstr ""
+"ბმის ხაზის ნაგულისხმევი სისქე პიქსელებში (100% მასშტაბზე). გამოიყენება "
+"ნაგულისხმევ თემაში."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:11
+msgid "Default arrow length"
+msgstr "ისრის ნაგულისხმევი სიგრძე"
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:12
+msgid "Default arrow length in picometers. Used in the default theme."
+msgstr ""
+"ისრის ნაგულისხმევი სიგრძე პიკომეტრებში. გამოიყენება ნაგულისხმევ თემაში."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:13
+msgid "Default distance between two lines for double arrows."
+msgstr "ორმაგი ისრებისთვის ორ ხაზს შორის ნაგულისხმევი მანძილი."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:15
+#, no-c-format
+msgid ""
+"Default distance between two lines in pixels (at 100% zoom) for double "
+"arrows or for retrosynthesis arrows. Used in the default theme."
+msgstr ""
+"ორმაგი ან რეტროსინთეზის ისრებისთვის ორ ხაზს შორის ნაგულისხმევი მანძილი "
+"პიქსელებში (100% მასშტაბზე). გამოიყენება ნაგულისხმევ თემაში."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:16
+msgid "Default arrow line width."
+msgstr "ისრის ხაზის ნაგულისხმევი სისქე."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:18
+#, no-c-format
+msgid ""
+"Default arrow line width in pixels (at 100% zoom). Used in the default "
+"theme."
+msgstr ""
+"ისრის ხაზის ნაგულისხმევი სისქე პიქსელებში (100% მასშტაბზე). გამოიყენება "
+"ნაგულისხმევ თემაში."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:19
+msgid "Default distance from tip of arrowhead to center."
+msgstr "ისრისთავის წვეროდან ცენტრამდე ნაგულისხმევი მანძილი."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:21
+#, no-c-format
+msgid ""
+"Default distance from tip of arrowhead to center in pixels (at 100% zoom). "
+"Used in the default theme."
+msgstr ""
+"ისრისთავის წვეროდან ცენტრამდე ნაგულისხმევი მანძილი პიქსელებში (100% "
+"მასშტაბზე). გამოიყენება ნაგულისხმევ თემაში."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:22
+msgid ""
+"Default distance from tip of arrowhead to trailing point, measured along "
+"shaft."
+msgstr ""
+"ისრისთავის წვეროდან უკანა წერტილამდე ნაგულისხმევი მანძილი, ღერძის გასწვრივ "
+"გაზომილი."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:24
+#, no-c-format
+msgid ""
+"Default distance from tip of arrowhead to trailing point, measured along "
+"shaft, in pixels (at 100% zoom). Used in the default theme."
+msgstr ""
+"ისრისთავის წვეროდან უკანა წერტილამდე ნაგულისხმევი მანძილი ღერძის გასწვრივ, "
+"პიქსელებში (100% მასშტაბზე). გამოიყენება ნაგულისხმევ თემაში."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:25
+msgid ""
+"Default distance of arrowhead trailing points from outside edge of shaft."
+msgstr ""
+"ისრისთავის უკანა წერტილების ღერძის გარე კიდიდან ნაგულისხმევი დაშორება."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:27
+#, no-c-format
+msgid ""
+"Default distance of arrowhead trailing points from outside edge of shaft in "
+"pixels (at 100% zoom). Used in the default theme."
+msgstr ""
+"ისრისთავის უკანა წერტილების ღერძის გარე კიდიდან ნაგულისხმევი დაშორება "
+"პიქსელებში (100% მასშტაბზე). გამოიყენება ნაგულისხმევ თემაში."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:28
+msgid "Default hash line width."
+msgstr "ჰეშ-ხაზის ნაგულისხმევი სისქე."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:30
+#, no-c-format
+msgid ""
+"Default line width in pixels for hash bonds (at 100% zoom). Used in the "
+"default theme."
+msgstr ""
+"ჰეშ-ბმების ხაზის ნაგულისხმევი სისქე პიქსელებში (100% მასშტაბზე). გამოიყენება"
+" ნაგულისხმევ თემაში."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:31
+msgid "Default hash lines distance."
+msgstr "ჰეშ-ხაზებს შორის ნაგულისხმევი მანძილი."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:33
+#, no-c-format
+msgid ""
+"Default distance between two lines in pixels for hash bonds (at 100% zoom). "
+"Used in the default theme."
+msgstr ""
+"ჰეშ-ბმებისთვის ორ ხაზს შორის ნაგულისხმევი მანძილი პიქსელებში (100% "
+"მასშტაბზე). გამოიყენება ნაგულისხმევ თემაში."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:34
+msgid "Default largest width for hash or wedge bonds."
+msgstr "ჰეშ- ან სოლისებური ბმების ნაგულისხმევი უდიდესი სიგანე."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:36
+#, no-c-format
+msgid ""
+"Default largest width for hash or wedge bonds (at 100% zoom). Used in the "
+"default theme."
+msgstr ""
+"ჰეშ- ან სოლისებური ბმების ნაგულისხმევი უდიდესი სიგანე (100% მასშტაბზე). "
+"გამოიყენება ნაგულისხმევ თემაში."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:37
+msgid "Scale (pm per pixel)."
+msgstr "მასშტაბი (პმ პიქსელზე)."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:39
+#, no-c-format
+msgid ""
+"Scale used to convert real distance to canvas distance expressed in pm per "
+"pixel (at 100% zoom). Used in the default theme."
+msgstr ""
+"მასშტაბი, რომლითაც რეალური მანძილი გადაიყვანება ტილოს მანძილში, გამოხატული "
+"პმ-ში პიქსელზე (100% მასშტაბზე). გამოიყენება ნაგულისხმევ თემაში."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:40
+msgid "Default padding for texts."
+msgstr "ტექსტების ნაგულისხმევი შიდა დაშორება."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:42
+#, no-c-format
+msgid ""
+"Padding used around text objects such as atoms, texts and other typographic "
+"signs in pixels (at 100% zoom). Used in the default theme."
+msgstr ""
+"ტექსტურ ობიექტებთან (ატომები, ტექსტები და სხვა ტიპოგრაფიული ნიშნები) "
+"გამოყენებული დაშორება პიქსელებში (100% მასშტაბზე). გამოიყენება ნაგულისხმევ "
+"თემაში."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:43
+msgid "Default padding around arrows."
+msgstr "ისრების გარშემო ნაგულისხმევი დაშორება."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:45
+#, no-c-format
+msgid ""
+"Default padding between arrows and associated objects in pixels (at 100% "
+"zoom). Used in the default theme."
+msgstr ""
+"ისრებსა და მათთან დაკავშირებულ ობიექტებს შორის ნაგულისხმევი დაშორება "
+"პიქსელებში (100% მასშტაბზე). გამოიყენება ნაგულისხმევ თემაში."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:46
+msgid "Default padding between a reaction arrow and an attached object."
+msgstr "რეაქციის ისარსა და მიმაგრებულ ობიექტს შორის ნაგულისხმევი დაშორება."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:48
+#, no-c-format
+msgid ""
+"Default padding between reaction arrows and attached objects in pixels (at "
+"100% zoom). Used in the default theme."
+msgstr ""
+"რეაქციის ისრებსა და მიმაგრებულ ობიექტებს შორის ნაგულისხმევი დაშორება "
+"პიქსელებში (100% მასშტაბზე). გამოიყენება ნაგულისხმევ თემაში."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:49
+msgid "Default extra padding after a stoichiometric coefficient."
+msgstr "სტექიომეტრიული კოეფიციენტის შემდეგ ნაგულისხმევი დამატებითი დაშორება."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:51
+#, no-c-format
+msgid ""
+"Default extra padding between a stoichiometric coefficient and its "
+"associated molecule in pixels (at 100% zoom). Used in the default theme."
+msgstr ""
+"სტექიომეტრიულ კოეფიციენტსა და მის მოლეკულას შორის ნაგულისხმევი დამატებითი "
+"დაშორება პიქსელებში (100% მასშტაბზე). გამოიყენება ნაგულისხმევ თემაში."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:52
+msgid "Default padding between aligned objects."
+msgstr "გასწორებულ ობიექტებს შორის ნაგულისხმევი დაშორება."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:54
+#, no-c-format
+msgid ""
+"Default padding in pixels added between consecutive objects during an "
+"alignment operation (at 100% zoom). Used in the default theme."
+msgstr ""
+"გასწორებისას მომდევნო ობიექტებს შორის დამატებული ნაგულისხმევი დაშორება "
+"პიქსელებში (100% მასშტაბზე). გამოიყენება ნაგულისხმევ თემაში."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:55
+msgid ""
+"Default padding between a '+' sign in a reaction equation and reactants "
+"symbols."
+msgstr ""
+"რეაქციის განტოლებაში '+' ნიშანსა და რეაგენტების სიმბოლოებს შორის "
+"ნაგულისხმევი დაშორება."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:57
+#, no-c-format
+msgid ""
+"Default padding between a '+' sign in a reaction equation and reactants "
+"symbols in pixels (at 100% zoom). Used in the default theme."
+msgstr ""
+"რეაქციის განტოლებაში '+' ნიშანსა და რეაგენტების სიმბოლოებს შორის "
+"ნაგულისხმევი დაშორება პიქსელებში (100% მასშტაბზე). გამოიყენება ნაგულისხმევ "
+"თემაში."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:58
+msgid "Default charge sign size."
+msgstr "მუხტის ნიშნის ნაგულისხმევი ზომა."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:60
+#, no-c-format
+msgid ""
+"Default size of the charge sign in pixels (at 100% zoom). Used in the "
+"default theme."
+msgstr ""
+"მუხტის ნიშნის ნაგულისხმევი ზომა პიქსელებში (100% მასშტაბზე). გამოიყენება "
+"ნაგულისხმევ თემაში."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:61
+msgid "Chemical formula font family."
+msgstr "ქიმიური ფორმულის შრიფტის ოჯახი."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:62
+msgid ""
+"Font family used for chemical formula such as atoms and fragments. Used in "
+"the default theme."
+msgstr ""
+"ქიმიური ფორმულებისთვის (ატომები და ფრაგმენტები) გამოყენებული შრიფტის ოჯახი. "
+"გამოიყენება ნაგულისხმევ თემაში."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:63
+msgid "Chemical formula font style."
+msgstr "ქიმიური ფორმულის შრიფტის სტილი."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:64
+msgid ""
+"Font style used for chemical formula such as atoms and fragments (0 = "
+"normal; 1 = oblique; 2 = italic). Used in the default theme."
+msgstr ""
+"ქიმიური ფორმულებისთვის (ატომები და ფრაგმენტები) გამოყენებული შრიფტის სტილი "
+"(0 = ჩვეულებრივი; 1 = დახრილი; 2 = კურსივი). გამოიყენება ნაგულისხმევ თემაში."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:65
+msgid "Chemical formula font weight."
+msgstr "ქიმიური ფორმულის შრიფტის სისქე."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:66
+msgid ""
+"Font weight used for chemical formula such as atoms and fragments (2 = "
+"ultra-light; 3 = light; 4 = normal; 6 = semi-bold; 7 = bold; 8 = ultra-bold;"
+" 9 = heavy). Used in the default theme."
+msgstr ""
+"ქიმიური ფორმულებისთვის (ატომები და ფრაგმენტები) გამოყენებული შრიფტის სისქე "
+"(2 = ულტრა-თხელი; 3 = თხელი; 4 = ჩვეულებრივი; 6 = ნახევრად მსხვილი; 7 = "
+"მსხვილი; 8 = ულტრა-მსხვილი; 9 = მძიმე). გამოიყენება ნაგულისხმევ თემაში."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:67
+msgid "Chemical formula font variant."
+msgstr "ქიმიური ფორმულის შრიფტის ვარიანტი."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:68
+msgid ""
+"Font variant used for chemical formula such as atoms and fragments (0 = "
+"normal; 1 = small caps). Used in the default theme."
+msgstr ""
+"ქიმიური ფორმულებისთვის (ატომები და ფრაგმენტები) გამოყენებული შრიფტის "
+"ვარიანტი (0 = ჩვეულებრივი; 1 = მცირე ზედა რეგისტრი). გამოიყენება ნაგულისხმევ"
+" თემაში."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:69
+msgid "Chemical formula font stretch."
+msgstr "ქიმიური ფორმულის შრიფტის გაჭიმვა."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:70
+msgid ""
+"Font stretch used for chemical formula such as atoms and fragments (0 = "
+"ultra-condensed; 1 = extra-condensed; 2 = condensed; 3 = semi-condensed; 4 ="
+" normal; 5 = semi-expanded; 6 = expanded; 7 = extra-expanded; 8 = ultra-"
+"expanded). Used in the default theme."
+msgstr ""
+"ქიმიური ფორმულებისთვის (ატომები და ფრაგმენტები) გამოყენებული შრიფტის გაჭიმვა"
+" (0 = ულტრა-შეკუმშული; 1 = ექსტრა-შეკუმშული; 2 = შეკუმშული; 3 = ნახევრად "
+"შეკუმშული; 4 = ჩვეულებრივი; 5 = ნახევრად გაფართოებული; 6 = გაფართოებული; 7 ="
+" ექსტრა-გაფართოებული; 8 = ულტრა-გაფართოებული). გამოიყენება ნაგულისხმევ "
+"თემაში."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:71
+msgid "Chemical formula font size."
+msgstr "ქიმიური ფორმულის შრიფტის ზომა."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:72
+msgid ""
+"Font size used for chemical formula such as atoms and fragments. Used in the"
+" default theme."
+msgstr ""
+"ქიმიური ფორმულებისთვის (ატომები და ფრაგმენტები) გამოყენებული შრიფტის ზომა. "
+"გამოიყენება ნაგულისხმევ თემაში."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:73
+msgid "Default text font family."
+msgstr "ტექსტის ნაგულისხმევი შრიფტის ოჯახი."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:74
+msgid "Default font family used for texts. Used in the default theme."
+msgstr ""
+"ტექსტებისთვის გამოყენებული ნაგულისხმევი შრიფტის ოჯახი. გამოიყენება "
+"ნაგულისხმევ თემაში."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:75
+msgid "Default text font style."
+msgstr "ტექსტის ნაგულისხმევი შრიფტის სტილი."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:76
+msgid ""
+"Default font style used for texts (0 = normal; 1 = oblique; 2 = italic). "
+"Used in the default theme."
+msgstr ""
+"ტექსტებისთვის გამოყენებული ნაგულისხმევი შრიფტის სტილი (0 = ჩვეულებრივი; 1 = "
+"დახრილი; 2 = კურსივი). გამოიყენება ნაგულისხმევ თემაში."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:77
+msgid "Default text font weight."
+msgstr "ტექსტის ნაგულისხმევი შრიფტის სისქე."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:78
+msgid ""
+"Default font weight used for texts (2 = ultra-light; 3 = light; 4 = normal; "
+"6 = semi-bold; 7 = bold; 8 = ultra-bold; 9 = heavy). Used in the default "
+"theme."
+msgstr ""
+"ტექსტებისთვის გამოყენებული ნაგულისხმევი შრიფტის სისქე (2 = ულტრა-თხელი; 3 = "
+"თხელი; 4 = ჩვეულებრივი; 6 = ნახევრად მსხვილი; 7 = მსხვილი; 8 = ულტრა-"
+"მსხვილი; 9 = მძიმე). გამოიყენება ნაგულისხმევ თემაში."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:79
+msgid "Default text font variant."
+msgstr "ტექსტის ნაგულისხმევი შრიფტის ვარიანტი."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:80
+msgid ""
+"Default font variant used for texts (0 = normal; 1 = small caps). Used in "
+"the default theme."
+msgstr ""
+"ტექსტებისთვის გამოყენებული ნაგულისხმევი შრიფტის ვარიანტი (0 = ჩვეულებრივი; 1"
+" = მცირე ზედა რეგისტრი). გამოიყენება ნაგულისხმევ თემაში."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:81
+msgid "Default text font stretch."
+msgstr "ტექსტის ნაგულისხმევი შრიფტის გაჭიმვა."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:82
+msgid ""
+"Default font stretch used for texts (0 = ultra-condensed; 1 = extra-"
+"condensed; 2 = condensed; 3 = semi-condensed; 4 = normal; 5 = semi-expanded;"
+" 6 = expanded; 7 = extra-expanded; 8 = ultra-expanded). Used in the default "
+"theme."
+msgstr ""
+"ტექსტებისთვის გამოყენებული ნაგულისხმევი შრიფტის გაჭიმვა (0 = ულტრა-"
+"შეკუმშული; 1 = ექსტრა-შეკუმშული; 2 = შეკუმშული; 3 = ნახევრად შეკუმშული; 4 = "
+"ჩვეულებრივი; 5 = ნახევრად გაფართოებული; 6 = გაფართოებული; 7 = ექსტრა-"
+"გაფართოებული; 8 = ულტრა-გაფართოებული). გამოიყენება ნაგულისხმევ თემაში."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:83
+msgid "Default text font size."
+msgstr "ტექსტის ნაგულისხმევი შრიფტის ზომა."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:84
+msgid "Font size used for texts. Used in the default theme."
+msgstr ""
+"ტექსტებისთვის გამოყენებული შრიფტის ზომა. გამოიყენება ნაგულისხმევ თემაში."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:85
+msgid "File compression factor."
+msgstr "ფაილის შეკუმშვის ფაქტორი."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:86
+msgid ""
+"Compression factor when saving files. Acceptable values are 0 (no "
+"compression) to 9."
+msgstr ""
+"შეკუმშვის ფაქტორი ფაილების შენახვისას. დასაშვებია 0 (შეკუმშვის გარეშე) -დან "
+"9-მდე."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:87
+msgid "Whether to export simple text when copying."
+msgstr "კოპირებისას მარტივი ტექსტი ექსპორტირდეს თუ არა."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:88
+msgid "If TRUE, STRING_UTF8 and STRING are added to the clipboard formats."
+msgstr "თუ TRUE, STRING_UTF8 და STRING ემატება ბუფერის ფორმატებს."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:89
+msgid "Default theme."
+msgstr "ნაგულისხმევი თემა."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:90
+msgid "Default theme used when creating a new file."
+msgstr "ახალი ფაილის შექმნისას გამოყენებული ნაგულისხმევი თემა."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:91
+msgid "Whether the hashed wedge bonds should be inverted."
+msgstr "ჰეშ-სოლისებური ბმები შებრუნებული იყოს თუ არა."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:92
+msgid ""
+"Hashed bonds are normally represented with the large side nearest, which is "
+"the opposite of what many people want. Setting this key to TRUE will change "
+"this behavior. Default is FALSE."
+msgstr ""
+"ჰეშ-ბმები ჩვეულებრივ ისე გამოისახება, რომ დიდი მხარე უახლოესია, რაც ბევრის "
+"სურვილის საპირისპიროა. ამ გასაღების TRUE-ზე დაყენება ამ ქცევას შეცვლის. "
+"ნაგულისხმევია FALSE."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:93
+msgid "Whether to use colored atomic symbols."
+msgstr "ფერადი ატომური სიმბოლოები გამოიყენებოდეს თუ არა."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:94
+msgid ""
+"GChempaint displays black atomic symbols by default. When this key is set "
+"TRUE, atoms in new documents will be displayed using symbolic colors."
+msgstr ""
+"GChempaint ნაგულისხმევად შავ ატომურ სიმბოლოებს აჩვენებს. როცა ეს გასაღები "
+"TRUE-ზეა, ახალ დოკუმენტებში ატომები სიმბოლური ფერებით გამოისახება."
+
+#: ../templates/paint/haworth.xml.in.h:1
+msgid "Saccharides"
+msgstr "საქარიდები"
+
+#: ../templates/paint/haworth.xml.in.h:2
+msgid "α-D-fructofuranose"
+msgstr "α-D-ფრუქტოფურანოზა"
+
+#: ../templates/paint/haworth.xml.in.h:3
+msgid "α-D-galactopyranose"
+msgstr "α-D-გალაქტოპირანოზა"
+
+#: ../templates/paint/haworth.xml.in.h:4
+msgid "α-D-glucopyranose"
+msgstr "α-D-გლუკოპირანოზა"
+
+#: ../templates/paint/haworth.xml.in.h:5
+msgid "α-D-ribofuranose"
+msgstr "α-D-რიბოფურანოზა"
+
+#: ../templates/paint/haworth.xml.in.h:6
+msgid "α-D-deoxyribofuranose"
+msgstr "α-D-დეზოქსირიბოფურანოზა"
+
+#: ../templates/paint/haworth.xml.in.h:7
+msgid "β-D-fructofuranose"
+msgstr "β-D-ფრუქტოფურანოზა"
+
+#: ../templates/paint/haworth.xml.in.h:8
+msgid "β-D-galactopyranose"
+msgstr "β-D-გალაქტოპირანოზა"
+
+#: ../templates/paint/haworth.xml.in.h:9
+msgid "β-D-glucopyranose"
+msgstr "β-D-გლუკოპირანოზა"
+
+#: ../templates/paint/haworth.xml.in.h:10
+msgid "β-D-ribofuranose"
+msgstr "β-D-რიბოფურანოზა"
+
+#: ../templates/paint/haworth.xml.in.h:11
+msgid "β-D-deoxyribofuranose"
+msgstr "β-D-დეზოქსირიბოფურანოზა"
+
+#: ../templates/paint/templates.xml.in.h:1
+msgid "Benzene"
+msgstr "ბენზოლი"
+
+#: ../templates/paint/templates.xml.in.h:2
+msgid "Aromatic hydrocarbons"
+msgstr "არომატული ნახშირწყალბადები"
+
+#: ../templates/paint/templates.xml.in.h:3
+msgid "Naphtalene"
+msgstr "ნაფთალინი"
+
+#: ../templates/paint/templates.xml.in.h:4
+msgid "Anthracene"
+msgstr "ანტრაცენი"
+
+#: ../templates/paint/templates.xml.in.h:5
+msgid "Phenanthrene"
+msgstr "ფენანტრენი"
+
+#: ../templates/paint/templates.xml.in.h:6
+msgid "Pyrene"
+msgstr "პირენი"
+
+#: ../templates/paint/templates.xml.in.h:7
+msgid "Azulene"
+msgstr "აზულენი"
+
+#: ../templates/paint/templates.xml.in.h:8
+msgid "Amino acids"
+msgstr "ამინომჟავები"
+
+#: ../templates/paint/templates.xml.in.h:9
+msgid "Glycine"
+msgstr "გლიცინი"
+
+#: ../templates/paint/templates.xml.in.h:10
+msgid "Alanine"
+msgstr "ალანინი"
+
+#: ../templates/paint/templates.xml.in.h:11
+msgid "Serine"
+msgstr "სერინი"
+
+#: ../templates/paint/templates.xml.in.h:12
+msgid "Leucine"
+msgstr "ლეიცინი"
+
+#: ../templates/paint/templates.xml.in.h:13
+msgid "Valine"
+msgstr "ვალინი"
+
+#: ../templates/paint/templates.xml.in.h:14
+msgid "Isoleucine"
+msgstr "იზოლეიცინი"
+
+#: ../templates/paint/templates.xml.in.h:15
+msgid "Methionine"
+msgstr "მეთიონინი"
+
+#: ../templates/paint/templates.xml.in.h:16
+msgid "Proline"
+msgstr "პროლინი"
+
+#: ../templates/paint/templates.xml.in.h:17
+msgid "Phenylalanine"
+msgstr "ფენილალანინი"
+
+#: ../templates/paint/templates.xml.in.h:18
+msgid "Tryptophan"
+msgstr "ტრიპტოფანი"
+
+#: ../templates/paint/templates.xml.in.h:19
+msgid "Threonine"
+msgstr "თრეონინი"
+
+#: ../templates/paint/templates.xml.in.h:20
+msgid "Asparagine"
+msgstr "ასპარაგინი"
+
+#: ../templates/paint/templates.xml.in.h:21
+msgid "Glutamine"
+msgstr "გლუტამინი"
+
+#: ../templates/paint/templates.xml.in.h:22
+msgid "Tyrosine"
+msgstr "ტიროზინი"
+
+#: ../templates/paint/templates.xml.in.h:23
+msgid "Cysteine"
+msgstr "ცისტეინი"
+
+#: ../templates/paint/templates.xml.in.h:24
+msgid "Aspartic acid"
+msgstr "ასპარაგინის მჟავა"
+
+#: ../templates/paint/templates.xml.in.h:25
+msgid "Lysine"
+msgstr "ლიზინი"
+
+#: ../templates/paint/templates.xml.in.h:26
+msgid "Arginine"
+msgstr "არგინინი"
+
+#: ../templates/paint/templates.xml.in.h:27
+msgid "Histidine"
+msgstr "ჰისტიდინი"
+
+#: ../templates/paint/templates.xml.in.h:28
+msgid "Glutamic acid"
+msgstr "გლუტამინის მჟავა"
+
+#: ../templates/paint/templates.xml.in.h:29
+msgid "Nucleic bases"
+msgstr "ნუკლეინის ფუძეები"
+
+#: ../templates/paint/templates.xml.in.h:30
+msgid "Thymine"
+msgstr "თიმინი"
+
+#: ../templates/paint/templates.xml.in.h:31
+msgid "Uracil"
+msgstr "ურაცილი"
+
+#: ../templates/paint/templates.xml.in.h:32
+msgid "Cytosine"
+msgstr "ციტოზინი"
+
+#: ../templates/paint/templates.xml.in.h:33
+msgid "Adenine"
+msgstr "ადენინი"
+
+#: ../templates/paint/templates.xml.in.h:34
+msgid "Guanine"
+msgstr "გუანინი"
+
+#: ../templates/paint/templates.xml.in.h:35
+msgid "Nucleosides"
+msgstr "ნუკლეოზიდები"
+
+#: ../templates/paint/templates.xml.in.h:36
+msgid "Uridine"
+msgstr "ურიდინი"
+
+#: ../templates/paint/templates.xml.in.h:37
+msgid "Cytidine"
+msgstr "ციტიდინი"
+
+#: ../templates/paint/templates.xml.in.h:38
+msgid "Deoxythymidine"
+msgstr "დეზოქსითიმიდინი"
+
+#: ../templates/paint/templates.xml.in.h:39
+msgid "Deoxycytidine"
+msgstr "დეზოქსიციტიდინი"
+
+#: ../templates/paint/templates.xml.in.h:40
+msgid "Adenosine"
+msgstr "ადენოზინი"
+
+#: ../templates/paint/templates.xml.in.h:41
+msgid "Guanosine"
+msgstr "გუანოზინი"
+
+#: ../templates/paint/templates.xml.in.h:42
+msgid "Deoxyadenosine"
+msgstr "დეზოქსიადენოზინი"
+
+#: ../templates/paint/templates.xml.in.h:43
+msgid "Deoxyguanosine"
+msgstr "დეზოქსიგუანოზინი"
+
+#: ../ui/calc/gchemcalc.ui.h:1
+msgid "Chemical calculator"
+msgstr "ქიმიური კალკულატორი"
+
+#: ../ui/calc/gchemcalc.ui.h:4
+msgid "Molecular weight:"
+msgstr "მოლეკულური მასა:"
+
+#: ../ui/calc/gchemcalc.ui.h:5
+msgid "Composition"
+msgstr "შედგენილობა"
+
+#: ../ui/calc/gchemcalc.ui.h:6
+msgid "Monoisotopic mass:"
+msgstr "მონოიზოტოპური მასა:"
+
+#: ../ui/calc/gchemcalc.ui.h:7
+msgid "Isotopic Pattern"
+msgstr "იზოტოპური სურათი"
+
+#: ../ui/crystal/cell.ui.h:1
+msgid "<b>Lattice:</b>"
+msgstr "<b>მესერი:</b>"
+
+#: ../ui/crystal/cell.ui.h:2
+msgid "Simple cubic"
+msgstr "მარტივი კუბური"
+
+#: ../ui/crystal/cell.ui.h:3
+msgid "Body-centered cubic"
+msgstr "მოცულობაცენტრირებული კუბური"
+
+#: ../ui/crystal/cell.ui.h:4
+msgid "Face-centered-cubic"
+msgstr "წახნაგცენტრირებული კუბური"
+
+#: ../ui/crystal/cell.ui.h:5
+msgid "Hexagonal"
+msgstr "ჰექსაგონალური"
+
+#: ../ui/crystal/cell.ui.h:6
+msgid "Tetragonal"
+msgstr "ტეტრაგონალური"
+
+#: ../ui/crystal/cell.ui.h:7
+msgid "Body-centered tetragonal"
+msgstr "მოცულობაცენტრირებული ტეტრაგონალური"
+
+#: ../ui/crystal/cell.ui.h:8
+msgid "Orthorhombic"
+msgstr "რომბული"
+
+#: ../ui/crystal/cell.ui.h:9
+msgid "Base-centered orthorhombic"
+msgstr "ფუძეცენტრირებული რომბული"
+
+#: ../ui/crystal/cell.ui.h:10
+msgid "Body-centered orthorhombic"
+msgstr "მოცულობაცენტრირებული რომბული"
+
+#: ../ui/crystal/cell.ui.h:11
+msgid "Face-centered orthorhombic"
+msgstr "წახნაგცენტრირებული რომბული"
+
+#: ../ui/crystal/cell.ui.h:12
+msgid "Rhombohedral"
+msgstr "რომბოედრული"
+
+#: ../ui/crystal/cell.ui.h:13
+msgid "Monoclinic"
+msgstr "მონოკლინური"
+
+#: ../ui/crystal/cell.ui.h:14
+msgid "Base-centered monoclinic"
+msgstr "ფუძეცენტრირებული მონოკლინური"
+
+#: ../ui/crystal/cell.ui.h:15
+msgid "Triclinic"
+msgstr "ტრიკლინური"
+
+#: ../ui/crystal/cell.ui.h:16
+msgid "<b>Space group:</b>"
+msgstr "<b>სივრცითი ჯგუფი:</b>"
+
+#: ../ui/crystal/cell.ui.h:18
+msgid "<b>Cell parameters</b>"
+msgstr "<b>უჯრედის პარამეტრები</b>"
+
+#: ../ui/crystal/cell.ui.h:19
+msgid "a (pm): "
+msgstr "a (პმ): "
+
+#: ../ui/crystal/cell.ui.h:20
+msgid "b (pm):"
+msgstr "b (პმ):"
+
+#: ../ui/crystal/cell.ui.h:21
+msgid "c (pm):"
+msgstr "c (პმ):"
+
+#: ../ui/crystal/cell.ui.h:22
+msgid "α (°):"
+msgstr ""
+
+#: ../ui/crystal/cell.ui.h:23
+msgid "β (°):"
+msgstr ""
+
+#: ../ui/crystal/cell.ui.h:24
+msgid "γ (°):"
+msgstr ""
+
+#: ../ui/crystal/prefs.ui.h:1 ../ui/crystal/view-settings.ui.h:2
+msgid "<b><i>ψ</i> (°):</b>"
+msgstr ""
+
+#: ../ui/crystal/prefs.ui.h:2 ../ui/crystal/view-settings.ui.h:3
+msgid "<b><i>θ</i> (°):</b>"
+msgstr ""
+
+#: ../ui/crystal/prefs.ui.h:3 ../ui/crystal/view-settings.ui.h:4
+msgid "<b><i>φ</i> (°):</b>"
+msgstr ""
+
+#: ../ui/crystal/prefs.ui.h:4 ../ui/crystal/view-settings.ui.h:5
+msgid "<b>Model orientation in space (Euler's angles):</b>"
+msgstr "<b>მოდელის ორიენტაცია სივრცეში (ეილერის კუთხეები):</b>"
+
+#: ../ui/crystal/prefs.ui.h:5 ../ui/crystal/view-settings.ui.h:6
+msgid "<b>Field of view (°):</b>"
+msgstr "<b>ხედვის არე (°):</b>"
+
+#: ../ui/crystal/prefs.ui.h:6 ../ui/crystal/view-settings.ui.h:7
+msgid ""
+"Acceptable values for the field of view are in the range from 0° to 45°. If "
+"0, no perspective effect will be used."
+msgstr ""
+"ხედვის არის დასაშვები მნიშვნელობებია 0°-დან 45°-მდე. თუ 0-ია, პერსპექტივის "
+"ეფექტი არ გამოიყენება."
+
+#: ../ui/crystal/prefs.ui.h:7 ../ui/crystal/view-settings.ui.h:8
+msgid "<b>Background color:</b>"
+msgstr "<b>ფონის ფერი:</b>"
+
+#: ../ui/crystal/prefs.ui.h:8
+msgid "Default views settings"
+msgstr "ხედის ნაგულისხმევი პარამეტრები"
+
+#: ../ui/crystal/prefs.ui.h:9
+msgid "<b>Printer resolution:</b>"
+msgstr "<b>პრინტერის გაფართოება:</b>"
+
+#: ../ui/crystal/prefs.ui.h:10
+msgid ""
+"A printer resolution of 300 dpi generally gives a quite acceptable result. "
+"Changing to a higher value can lead to a much longer processing time."
+msgstr ""
+"300 dpi პრინტერის გაფართოება ჩვეულებრივ საკმაოდ მისაღებ შედეგს იძლევა. უფრო "
+"მაღალ მნიშვნელობაზე გადასვლამ შეიძლება დამუშავების დრო მნიშვნელოვნად "
+"გაზარდოს."
+
+#: ../ui/crystal/prefs.ui.h:11
+msgid "300"
+msgstr ""
+
+#: ../ui/crystal/prefs.ui.h:12
+msgid "360"
+msgstr ""
+
+#: ../ui/crystal/prefs.ui.h:13
+msgid "600"
+msgstr ""
+
+#: ../ui/crystal/prefs.ui.h:14
+msgid "720"
+msgstr ""
+
+#: ../ui/crystal/prefs.ui.h:15
+msgid "1200"
+msgstr ""
+
+#: ../ui/crystal/prefs.ui.h:16
+msgid "1440"
+msgstr ""
+
+#: ../ui/crystal/prefs.ui.h:17
+msgid "2400"
+msgstr ""
+
+#: ../ui/crystal/prefs.ui.h:18
+msgid "2880"
+msgstr ""
+
+#: ../ui/crystal/prefs.ui.h:20
+msgid "Printing"
+msgstr "ბეჭდვა"
+
+#: ../ui/crystal/view-settings.ui.h:1
+msgid "View settings"
+msgstr "ხედის პარამეტრები"
+
+#: ../ui/crystal/atoms.ui.h:1 ../ui/crystal/cleavages.ui.h:4
+#: ../ui/crystal/lines.ui.h:4
+msgid "_Add"
+msgstr "_დამატება"
+
+#: ../ui/crystal/atoms.ui.h:2 ../ui/crystal/cleavages.ui.h:3
+#: ../ui/crystal/lines.ui.h:5
+msgid "_Delete"
+msgstr "_წაშლა"
+
+#: ../ui/crystal/atoms.ui.h:3 ../ui/crystal/cleavages.ui.h:6
+#: ../ui/crystal/lines.ui.h:6
+msgid "Dele_te all"
+msgstr "_ყველას წაშლა"
+
+#: ../ui/crystal/atoms.ui.h:4 ../ui/crystal/lines.ui.h:7
+msgid "Select _all"
+msgstr "_ყველას მონიშვნა"
+
+#: ../ui/crystal/atoms.ui.h:5
+msgid "Select _element"
+msgstr "_ელემენტის არჩევა"
+
+#: ../ui/crystal/atoms.ui.h:6
+msgid "<b>Charge: </b>"
+msgstr "<b>მუხტი: </b>"
+
+#: ../ui/crystal/atoms.ui.h:8
+msgid "<b>Scale factor:</b>"
+msgstr "<b>მასშტაბის კოეფიციენტი:</b>"
+
+#: ../ui/crystal/atoms.ui.h:9
+msgid "<b>Value (pm):</b>"
+msgstr "<b>მნიშვნელობა (პმ):</b>"
+
+#: ../ui/crystal/atoms.ui.h:12
+msgid "Ionic"
+msgstr "იონური"
+
+#: ../ui/crystal/atoms.ui.h:13
+msgid "Metallic"
+msgstr "მეტალური"
+
+#: ../ui/crystal/atoms.ui.h:14
+msgid "Covalent"
+msgstr "კოვალენტური"
+
+#: ../ui/crystal/atoms.ui.h:15
+msgid "Van der Waals"
+msgstr "ვან დერ ვაალსი"
+
+#: ../ui/crystal/atoms.ui.h:16
+msgid "<b>Radius</b>"
+msgstr "<b>რადიუსი</b>"
+
+#: ../ui/crystal/atoms.ui.h:17
+msgid "<b>Custom color:</b>"
+msgstr "<b>მორგებული ფერი:</b>"
+
+#: ../ui/crystal/atoms.ui.h:18
+msgid "<b>Periodic table of the elements</b>"
+msgstr "<b>ელემენტთა პერიოდული სისტემა</b>"
+
+#: ../ui/crystal/cleavages.ui.h:1
+msgid "Cleavages"
+msgstr "გაპობები"
+
+#: ../ui/crystal/cleavages.ui.h:2
+msgid "List of defined cleavages (h, k, and l are the Miller indices)"
+msgstr "განსაზღვრული გაპობების სია (h, k და l არის მილერის ინდექსები)"
+
+#: ../ui/crystal/cleavages.ui.h:5
+msgid "Fixed model size"
+msgstr "მოდელის ფიქსირებული ზომა"
+
+#: ../ui/crystal/docprop.ui.h:1 ../ui/paint/docprop.ui.h:1
+msgid "Document properties"
+msgstr "დოკუმენტის თვისებები"
+
+#: ../ui/crystal/docprop.ui.h:2 ../ui/paint/docprop.ui.h:2
+msgid "_Title:"
+msgstr "_სათაური:"
+
+#: ../ui/crystal/docprop.ui.h:3 ../ui/paint/docprop.ui.h:12
+msgid "<b>_Comments:</b>"
+msgstr "<b>_კომენტარები:</b>"
+
+#: ../ui/crystal/docprop.ui.h:4 ../ui/paint/docprop.ui.h:6
+msgid "<b>History</b>"
+msgstr "<b>ისტორია</b>"
+
+#: ../ui/crystal/docprop.ui.h:5 ../ui/paint/docprop.ui.h:3
+msgid "<b>Author:</b>"
+msgstr "<b>ავტორი:</b>"
+
+#: ../ui/crystal/docprop.ui.h:6 ../ui/paint/docprop.ui.h:7
+msgid "Creation date:"
+msgstr "შექმნის თარიღი:"
+
+#: ../ui/crystal/docprop.ui.h:7 ../ui/paint/docprop.ui.h:8
+msgid "Revision date:"
+msgstr "ცვლილების თარიღი:"
+
+#: ../ui/crystal/docprop.ui.h:8 ../ui/paint/docprop.ui.h:5
+msgid "E-_mail:"
+msgstr "ელ-_ფოსტა:"
+
+#: ../ui/crystal/docprop.ui.h:9 ../ui/paint/docprop.ui.h:4
+msgid "_Name:"
+msgstr "_სახელი:"
+
+#: ../ui/crystal/lines.ui.h:1
+msgid "Cell edges"
+msgstr "უჯრედის წიბოები"
+
+#: ../ui/crystal/lines.ui.h:2
+msgid "Diagonals"
+msgstr "დიაგონალები"
+
+#: ../ui/crystal/lines.ui.h:3
+msgid "Medians"
+msgstr "მედიანები"
+
+#: ../ui/crystal/lines.ui.h:8
+msgid "radius (pm):"
+msgstr "რადიუსი (პმ):"
+
+#: ../ui/crystal/lines.ui.h:9
+msgid "color:"
+msgstr "ფერი:"
+
+#: ../ui/crystal/lines.ui.h:10
+msgid "<b>Other lines</b>"
+msgstr "<b>სხვა ხაზები</b>"
+
+#: ../ui/crystal/size.ui.h:1
+msgid "Crystal size"
+msgstr "კრისტალის ზომა"
+
+#: ../ui/crystal/size.ui.h:2
+msgid "<b>Give minimum and maximum coordinates in cell units</b>"
+msgstr ""
+"<b>მიუთითეთ მინიმალური და მაქსიმალური კოორდინატები უჯრედის ერთეულებში</b>"
+
+#: ../ui/crystal/size.ui.h:3
+msgid "<b>Minimum</b>"
+msgstr "<b>მინიმუმი</b>"
+
+#: ../ui/crystal/size.ui.h:4
+msgid "<b>Maximum</b>"
+msgstr "<b>მაქსიმუმი</b>"
+
+#: ../ui/crystal/size.ui.h:5
+msgid "<b><i>x</i></b>"
+msgstr ""
+
+#: ../ui/crystal/size.ui.h:6
+msgid "<b><i>y</i></b>"
+msgstr ""
+
+#: ../ui/crystal/size.ui.h:7
+msgid "<b><i>z</i></b>"
+msgstr ""
+
+#: ../ui/libgcu/gcuperiodic.ui.h:1
+msgid "Uus"
+msgstr ""
+
+#: ../ui/libgcu/gcuperiodic.ui.h:2
+msgid "Uuo"
+msgstr ""
+
+#: ../ui/libgcu/gcuperiodic.ui.h:3
+msgid "Lanthanides"
+msgstr "ლანთანოიდები"
+
+#: ../ui/libgcu/gcuperiodic.ui.h:4
+msgid "Actinides"
+msgstr "აქტინოიდები"
+
+#: ../ui/libgcu/image-size.ui.h:1
+msgid "Width:"
+msgstr "სიგანე:"
+
+#: ../ui/libgcu/image-size.ui.h:2
+msgid "Height:"
+msgstr "სიმაღლე:"
+
+#: ../ui/libgcu/image-size.ui.h:3 ../ui/libgcu/image-resolution.ui.h:1
+msgid "Tr_ansparent background"
+msgstr "გამჭვირვალე _ფონი"
+
+#: ../ui/libgcu/image-resolution.ui.h:2
+msgid "Image _resolution:"
+msgstr "სურათის _გაფართოება:"
+
+#: ../ui/libgcu/print-setup.ui.h:1
+msgid "Page Setup"
+msgstr "გვერდის გამართვა"
+
+#: ../ui/libgcu/print-setup.ui.h:2
+msgid "Reload defaults"
+msgstr "ნაგულისხმევის თავიდან ჩატვირთვა"
+
+#: ../ui/libgcu/print-setup.ui.h:3
+msgid "Save as defaults"
+msgstr "ნაგულისხმევად შენახვა"
+
+#: ../ui/libgcu/print-setup.ui.h:4
+msgid "<b>Paper:</b>"
+msgstr "<b>ქაღალდი:</b>"
+
+#: ../ui/libgcu/print-setup.ui.h:5
+msgid "Change Paper Type"
+msgstr "ქაღალდის ტიპის შეცვლა"
+
+#: ../ui/libgcu/print-setup.ui.h:6
+msgid "Top margin:"
+msgstr "ზედა ველი:"
+
+#: ../ui/libgcu/print-setup.ui.h:7
+msgid "Header:"
+msgstr "ზედა კოლონტიტული:"
+
+#: ../ui/libgcu/print-setup.ui.h:8
+msgid "Left margin:"
+msgstr "მარცხენა ველი:"
+
+#: ../ui/libgcu/print-setup.ui.h:9
+msgid "Right margin:"
+msgstr "მარჯვენა ველი:"
+
+#: ../ui/libgcu/print-setup.ui.h:10
+msgid "Footer:"
+msgstr "ქვედა კოლონტიტული:"
+
+#: ../ui/libgcu/print-setup.ui.h:11
+msgid "Bottom margin:"
+msgstr "ქვედა ველი:"
+
+#: ../ui/libgcu/print-setup.ui.h:12
+msgid "Unit:"
+msgstr "ერთეული:"
+
+#: ../ui/libgcu/print-setup.ui.h:13
+msgid "<b>Center on page:</b>"
+msgstr "<b>გვერდზე ცენტრირება:</b>"
+
+#: ../ui/libgcu/print-setup.ui.h:14
+msgid "<b>O_rientation:</b>"
+msgstr "<b>_ორიენტაცია:</b>"
+
+#: ../ui/libgcu/print-setup.ui.h:15
+msgid "_Horizontally"
+msgstr "_ჰორიზონტალურად"
+
+#: ../ui/libgcu/print-setup.ui.h:16
+msgid "_Vertically"
+msgstr "_ვერტიკალურად"
+
+#: ../ui/libgcu/print-setup.ui.h:17
+msgid "Print background"
+msgstr "ფონის დაბეჭდვა"
+
+#: ../ui/libgcu/print-setup.ui.h:18
+msgid "Page"
+msgstr "გვერდი"
+
+#: ../ui/libgcu/print-setup.ui.h:19
+msgid "<b>Scale</b>"
+msgstr "<b>მასშტაბი</b>"
+
+#: ../ui/libgcu/print-setup.ui.h:20
+msgid "_No scaling"
+msgstr "_მასშტაბირების გარეშე"
+
+#: ../ui/libgcu/print-setup.ui.h:21
+msgid "_Fixed scaling:"
+msgstr "_ფიქსირებული მასშტაბი:"
+
+#: ../ui/libgcu/print-setup.ui.h:22
+msgid "_Automatic scaling:"
+msgstr "_ავტომატური მასშტაბი:"
+
+#: ../ui/libgcu/print-setup.ui.h:23
+msgid "Scale to fit _horizontally on"
+msgstr "_ჰორიზონტალურად ჩატევა:"
+
+#: ../ui/libgcu/print-setup.ui.h:24
+msgid "Scale to fit _vertically on"
+msgstr "_ვერტიკალურად ჩატევა:"
+
+#: ../ui/libgcu/print-setup.ui.h:26
+#, no-c-format
+msgid "% of normal size"
+msgstr "% ნორმალური ზომიდან"
+
+#: ../ui/libgcu/print-setup.ui.h:27
+msgid "page(s)"
+msgstr "გვერდზე"
+
+#: ../ui/libgcu/print-setup.ui.h:28
+msgid "Scale"
+msgstr "მასშტაბი"
+
+#: ../ui/libgcu/print-setup.ui.h:29
+msgid "_Header:"
+msgstr "_ზედა კოლონტიტული:"
+
+#: ../ui/libgcu/print-setup.ui.h:30
+msgid "_Footer:"
+msgstr "_ქვედა კოლონტიტული:"
+
+#: ../ui/libgcu/print-setup.ui.h:31
+msgid "Fi_rst page number:"
+msgstr "_პირველი გვერდის ნომერი:"
+
+#: ../ui/libgcu/print-setup.ui.h:32
+msgid "Configure"
+msgstr "კონფიგურაცია"
+
+#: ../ui/libgcu/print-setup.ui.h:33
+msgid "Headers and Footers"
+msgstr "კოლონტიტულები"
+
+#: ../ui/libgcu/stringinputdlg.ui.h:1
+msgid "Type InChI or SMILES"
+msgstr "შეიყვანეთ InChI ან SMILES"
+
+#: ../ui/paint/arrow-object.ui.h:1
+msgid "Arrow associated object"
+msgstr "ისართან დაკავშირებული ობიექტი"
+
+#: ../ui/paint/arrow-object.ui.h:2
+msgid "_Role:"
+msgstr "_როლი:"
+
+#: ../ui/paint/arrow-object.ui.h:3
+msgid "Step:"
+msgstr "საფეხური:"
+
+#: ../ui/paint/arrow-object.ui.h:4
+msgid "Numbered reaction step for this object."
+msgstr "ამ ობიექტის დანომრილი რეაქციის საფეხური."
+
+#: ../ui/paint/arrow-object.ui.h:5
+msgid "Line:"
+msgstr "ხაზი:"
+
+#: ../ui/paint/arrow-object.ui.h:6
+msgid "Position:"
+msgstr "მდებარეობა:"
+
+#: ../ui/paint/arrow-object.ui.h:7
+msgid "Line where this object should appear inside the step."
+msgstr "ხაზი, სადაც ეს ობიექტი უნდა გამოჩნდეს საფეხურის შიგნით."
+
+#: ../ui/paint/arrow-object.ui.h:8
+msgid "Position inside the line."
+msgstr "მდებარეობა ხაზის შიგნით."
+
+#: ../ui/paint/docprop.ui.h:9
+msgid "<b>Theme</b>"
+msgstr "<b>თემა</b>"
+
+#: ../ui/paint/docprop.ui.h:10 ../ui/paint/newfiledlg.ui.h:2
+msgid "Theme:"
+msgstr "თემა:"
+
+#: ../ui/paint/docprop.ui.h:11
+msgid "_Use colored atomic symbols"
+msgstr "_ფერადი ატომური სიმბოლოების გამოყენება"
+
+#: ../ui/paint/H-pos.ui.h:6
+msgid "Auto"
+msgstr "ავტო"
+
+#: ../ui/paint/newfiledlg.ui.h:1
+msgid "New file with theme"
+msgstr "ახალი ფაილი თემით"
+
+#: ../ui/paint/preferences.ui.h:1
+msgid "GChemPaint Preferences"
+msgstr "GChemPaint-ის პარამეტრები"
+
+#: ../ui/paint/preferences.ui.h:2
+msgid "Default compression _level for GChemPaint files:"
+msgstr "GChemPaint-ის ფაილების ნაგულისხმევი შეკუმშვის _დონე:"
+
+#: ../ui/paint/preferences.ui.h:3
+msgid "_Invert wedge hashes"
+msgstr "სოლის ჰეშების _შებრუნება"
+
+#: ../ui/paint/preferences.ui.h:4
+msgid ""
+"Hashed bonds are normally represented with the large side nearest, which is "
+"the opposite of what many people want. If checked, this behavior will be "
+"reversed."
+msgstr ""
+"ჰეშ-ბმები ჩვეულებრივ ისე გამოისახება, რომ დიდი მხარე უახლოესია, რაც ბევრის "
+"სურვილის საპირისპიროა. თუ მონიშნულია, ეს ქცევა შეიცვლება."
+
+#: ../ui/paint/preferences.ui.h:5
+msgid "_Use colored atomic symbols in new documents"
+msgstr "ახალ დოკუმენტებში _ფერადი ატომური სიმბოლოების გამოყენება"
+
+#: ../ui/paint/preferences.ui.h:6
+msgid "_Default theme:"
+msgstr "_ნაგულისხმევი თემა:"
+
+#: ../ui/paint/preferences.ui.h:7
+msgid "<b>Themes</b>"
+msgstr "<b>თემები</b>"
+
+#: ../ui/paint/preferences.ui.h:9
+msgid "_Scale:"
+msgstr "_მასშტაბი:"
+
+#: ../ui/paint/preferences.ui.h:10
+msgid "General _padding:"
+msgstr "ზოგადი _დაშორება:"
+
+#: ../ui/paint/preferences.ui.h:11
+msgid "_Object padding:"
+msgstr "_ობიექტის დაშორება:"
+
+#: ../ui/paint/preferences.ui.h:12
+msgid "Stoichio_metry padding:"
+msgstr "სტექიო_მეტრიის დაშორება:"
+
+#: ../ui/paint/preferences.ui.h:13
+msgid "Si_gn padding:"
+msgstr "_ნიშნის დაშორება:"
+
+#: ../ui/paint/preferences.ui.h:14
+msgid ""
+"Scale used to convert real distance to canvas distance expressed in pm per "
+"pixel."
+msgstr ""
+"მასშტაბი, რომლითაც რეალური მანძილი გადაიყვანება ტილოს მანძილში, გამოხატული "
+"პმ-ში პიქსელზე."
+
+#: ../ui/paint/preferences.ui.h:15
+msgid ""
+"Padding used around text objects such as atoms, texts and other typographic "
+"signs in pixels."
+msgstr ""
+"ტექსტურ ობიექტებთან (ატომები, ტექსტები და სხვა ტიპოგრაფიული ნიშნები) "
+"გამოყენებული დაშორება პიქსელებში."
+
+#: ../ui/paint/preferences.ui.h:16
+msgid ""
+"Default padding in pixels added between consecutive objects during an "
+"alignment operation."
+msgstr ""
+"გასწორებისას მომდევნო ობიექტებს შორის დამატებული ნაგულისხმევი დაშორება "
+"პიქსელებში."
+
+#: ../ui/paint/preferences.ui.h:17
+msgid ""
+"Extra padding between a stoichiometric coefficient and its associated "
+"molecule in pixels."
+msgstr ""
+"სტექიომეტრიულ კოეფიციენტსა და მის მოლეკულას შორის დამატებითი დაშორება "
+"პიქსელებში."
+
+#: ../ui/paint/preferences.ui.h:18
+msgid ""
+"Padding between a &apos;+&apos; sign in a reaction equation and reactants "
+"symbols in pixels."
+msgstr ""
+"რეაქციის განტოლებაში &apos;+&apos; ნიშანსა და რეაგენტების სიმბოლოებს შორის "
+"დაშორება პიქსელებში."
+
+#: ../ui/paint/preferences.ui.h:19
+msgid ""
+"Padding between a '+' sign in a reaction equation and reactants symbols in "
+"pixels."
+msgstr ""
+"რეაქციის განტოლებაში '+' ნიშანსა და რეაგენტების სიმბოლოებს შორის დაშორება "
+"პიქსელებში."
+
+#: ../ui/paint/preferences.ui.h:20
+msgid "<b>Normal bonds</b>"
+msgstr "<b>ჩვეულებრივი ბმები</b>"
+
+#: ../ui/paint/preferences.ui.h:21
+msgid "<b>Stereochemical bonds</b>"
+msgstr "<b>სტერეოქიმიური ბმები</b>"
+
+#: ../ui/paint/preferences.ui.h:22
+msgid "Len_gth:"
+msgstr "_სიგრძე:"
+
+#: ../ui/paint/preferences.ui.h:23
+msgid "Angl_e:"
+msgstr "_კუთხე:"
+
+#: ../ui/paint/preferences.ui.h:24
+msgid "_Width:"
+msgstr "_სიგანე:"
+
+#: ../ui/paint/preferences.ui.h:25
+msgid "_Distance:"
+msgstr "_მანძილი:"
+
+#: ../ui/paint/preferences.ui.h:26
+msgid "Wid_th"
+msgstr "_სიგანე"
+
+#: ../ui/paint/preferences.ui.h:27
+msgid "Ha_sh width:"
+msgstr "_ჰეშის სიგანე:"
+
+#: ../ui/paint/preferences.ui.h:28
+msgid "Dist_ance:"
+msgstr "_მანძილი:"
+
+#: ../ui/paint/preferences.ui.h:29
+msgid "Default bond length (pm)."
+msgstr "ბმის ნაგულისხმევი სიგრძე (პმ)."
+
+#: ../ui/paint/preferences.ui.h:30
+msgid "Default angle between two consecutive bonds in a chain."
+msgstr "ჯაჭვში ორ მომდევნო ბმას შორის ნაგულისხმევი კუთხე."
+
+#: ../ui/paint/preferences.ui.h:31
+msgid "Bond line width (in pixels)."
+msgstr "ბმის ხაზის სისქე (პიქსელებში)."
+
+#: ../ui/paint/preferences.ui.h:32
+msgid "Distance in pixels between two lines representing a multiple bond."
+msgstr "მანძილი პიქსელებში ჯერად ბმას გამომსახველ ორ ხაზს შორის."
+
+#: ../ui/paint/preferences.ui.h:33
+msgid "Width in pixels at the largest end."
+msgstr "სიგანე პიქსელებში ყველაზე ფართო ბოლოში."
+
+#: ../ui/paint/preferences.ui.h:34
+msgid "Width of hashes in pixels."
+msgstr "ჰეშების სიგანე პიქსელებში."
+
+#: ../ui/paint/preferences.ui.h:35
+msgid "Distance between hashes in pixels."
+msgstr "ჰეშებს შორის მანძილი პიქსელებში."
+
+#: ../ui/paint/preferences.ui.h:36
+msgid "_Padding:"
+msgstr "_დაშორება:"
+
+#: ../ui/paint/preferences.ui.h:37
+msgid "A:"
+msgstr ""
+
+#: ../ui/paint/preferences.ui.h:38
+msgid "<b>Arrow heads</b>"
+msgstr "<b>ისრისთავები</b>"
+
+#: ../ui/paint/preferences.ui.h:39
+msgid "B:"
+msgstr ""
+
+#: ../ui/paint/preferences.ui.h:40
+msgid "C:"
+msgstr ""
+
+#: ../ui/paint/preferences.ui.h:41
+msgid "Default arrow length (in pm just like bond lengths)."
+msgstr "ისრის ნაგულისხმევი სიგრძე (პმ-ში, ბმის სიგრძეების მსგავსად)."
+
+#: ../ui/paint/preferences.ui.h:42
+msgid "Arrow line width (in pixels)."
+msgstr "ისრის ხაზის სისქე (პიქსელებში)."
+
+#: ../ui/paint/preferences.ui.h:43
+msgid ""
+"Distance in pixels between two parallel lines (either two arrows or one "
+"arrow with two lines)."
+msgstr ""
+"ორ პარალელურ ხაზს შორის მანძილი პიქსელებში (ორი ისარი ან ერთი ისარი ორი "
+"ხაზით)."
+
+#: ../ui/paint/preferences.ui.h:44
+msgid "Padding added at each end of an arrow (in pixels)."
+msgstr "ისრის თითოეულ ბოლოში დამატებული დაშორება (პიქსელებში)."
+
+#: ../ui/paint/preferences.ui.h:45
+msgid "Distance in pixels from tip of arrowhead to center."
+msgstr "მანძილი პიქსელებში ისრისთავის წვეროდან ცენტრამდე."
+
+#: ../ui/paint/preferences.ui.h:46
+msgid ""
+"Distance in pixels from tip of arrowhead to trailing point, measured along "
+"shaft."
+msgstr ""
+"მანძილი პიქსელებში ისრისთავის წვეროდან უკანა წერტილამდე, ღერძის გასწვრივ "
+"გაზომილი."
+
+#: ../ui/paint/preferences.ui.h:47
+msgid ""
+"Distance in pixels of arrowhead trailing points from outside edge of shaft."
+msgstr "ისრისთავის უკანა წერტილების დაშორება ღერძის გარე კიდიდან პიქსელებში."
+
+#: ../ui/paint/preferences.ui.h:48
+msgid "Charge _sign size:"
+msgstr "მუხტის _ნიშნის ზომა:"
+
+#: ../ui/paint/preferences.ui.h:49
+msgid "Size of the charge sign in pixels."
+msgstr "მუხტის ნიშნის ზომა პიქსელებში."
+
+#: ../ui/paint/reaction-arrow-prop.ui.h:1
+msgid "Maximum lines above the arrow:"
+msgstr "ხაზების მაქსიმალური რაოდენობა ისრის ზემოთ:"
+
+#: ../ui/paint/reaction-arrow-prop.ui.h:2
+msgid ""
+"When objects are attached to the arrow, they are arranged in lines. This is "
+"the maximum number of lines that should lie above the arrow (when the arrow "
+"is horizontal and goes from left to right)."
+msgstr ""
+"როცა ობიექტები ისარზე მაგრდება, ისინი ხაზებად განლაგდება. ეს არის ხაზების "
+"მაქსიმალური რაოდენობა, რომელიც ისრის ზემოთ უნდა იყოს (როცა ისარი "
+"ჰორიზონტალურია და მარცხნიდან მარჯვნივ მიდის)."
+
+#: ../ui/paint/reaction-arrow-prop.ui.h:3
+msgid "Steps numbering scheme:"
+msgstr "საფეხურების დანომვრის სქემა:"
+
+#: ../ui/paint/reaction-arrow-prop.ui.h:4
+msgid ""
+"Steps numbering scheme used when the arrow represents several reactions at "
+"once."
+msgstr ""
+"საფეხურების დანომვრის სქემა, რომელიც გამოიყენება, როცა ისარი ერთდროულად "
+"რამდენიმე რეაქციას წარმოადგენს."
+
+#: ../ui/paint/reaction-arrow-prop.ui.h:5
+msgid "1., 2., 3., 4."
+msgstr ""
+
+#: ../ui/paint/reaction-arrow-prop.ui.h:6
+msgid "I., II., III. IV."
+msgstr ""
+
+#: ../ui/paint/reaction-arrow-prop.ui.h:7
+msgid "i., ii., iii., iv."
+msgstr ""
+
+#: ../ui/paint/tools.ui.h:1
+msgid "_Current element:"
+msgstr "_მიმდინარე ელემენტი:"
+
+#: ../ui/paint/zoom.ui.h:1
+msgid "Zoom"
+msgstr "მასშტაბი"
+
+#: ../ui/paint/zoom.ui.h:3
+#, no-c-format
+msgid "Zoom factor (%):"
+msgstr "მასშტაბის კოეფიციენტი (%):"
+
+#: ../ui/table/acidity.ui.h:1
+msgid "<span background=\"red\"><b>Acidic</b></span>"
+msgstr "<span background=\"red\"><b>მჟავე</b></span>"
+
+#: ../ui/table/acidity.ui.h:2
+msgid "<span background=\"green\"><b>Neutral</b></span>"
+msgstr "<span background=\"green\"><b>ნეიტრალური</b></span>"
+
+#: ../ui/table/acidity.ui.h:3
+msgid "<span background=\"blue\"><b>Basic</b></span>"
+msgstr "<span background=\"blue\"><b>ფუძე</b></span>"
+
+#: ../ui/table/acidity.ui.h:4
+msgid "<span background=\"magenta\"><b>Amphoteric</b></span>"
+msgstr "<span background=\"magenta\"><b>ამფოტერული</b></span>"
+
+#: ../ui/table/eltpage.ui.h:1
+msgid "Atomic number:"
+msgstr "რიგითი ნომერი:"
+
+#: ../ui/table/eltpage.ui.h:2
+msgid "Atomic weight:"
+msgstr "ატომური მასა:"
+
+#: ../ui/table/eltpage.ui.h:3
+msgid "Main"
+msgstr "ძირითადი"
+
+#: ../ui/table/eltpage.ui.h:4
+msgid "Pauling electronegativity:"
+msgstr "პაულინგის ელექტროუარყოფითობა:"
+
+#: ../ui/table/eltpage.ui.h:6
+msgid "Ionization energies:"
+msgstr "იონიზაციის ენერგიები:"
+
+#: ../ui/table/eltpage.ui.h:7
+msgid "1:"
+msgstr ""
+
+#: ../ui/table/eltpage.ui.h:8
+msgid "Electronic affinities:"
+msgstr "ელექტრონთა სწრაფვა:"
+
+#: ../ui/table/eltpage.ui.h:9
+msgid "Electronic properties"
+msgstr "ელექტრონული თვისებები"
+
+#: ../ui/table/eltpage.ui.h:10
+msgid "Isotopes"
+msgstr "იზოტოპები"
+
+#: ../ui/table/eltpage.ui.h:11
+msgid "Covalent:"
+msgstr "კოვალენტური:"
+
+#: ../ui/table/eltpage.ui.h:12
+msgid "Van der Waals:"
+msgstr "ვან დერ ვაალსი:"
+
+#: ../ui/table/eltpage.ui.h:13
+msgid "Metallic:"
+msgstr "მეტალური:"
+
+#: ../ui/table/eltpage.ui.h:14
+msgid "Ionic radii (Shannon and Prewitt):"
+msgstr "იონური რადიუსები (შენონი და პრიუიტი):"
+
+#: ../ui/table/eltpage.ui.h:15
+msgid "Radii"
+msgstr "რადიუსები"
+
+#: ../ui/table/eltpage.ui.h:16
+msgid "Melting point:"
+msgstr "დნობის წერტილი:"
+
+#: ../ui/table/eltpage.ui.h:17
+msgid "Boiling point:"
+msgstr "დუღილის წერტილი:"
+
+#: ../ui/table/eltpage.ui.h:18
+msgid "Thermodynamics"
+msgstr "თერმოდინამიკა"
+
+#: ../ui/table/state-thermometer.ui.h:1
+msgid "Temperature (K):"
+msgstr "ტემპერატურა (K):"
+
+#: ../ui/table/state-thermometer.ui.h:2
+msgid "<span background=\"blue\"> <b>Solid</b> </span>"
+msgstr "<span background=\"blue\"> <b>მყარი</b> </span>"
+
+#: ../ui/table/state-thermometer.ui.h:3
+msgid "<span background=\"green\"> <b>Liquid</b> </span>"
+msgstr "<span background=\"green\"> <b>თხევადი</b> </span>"
+
+#: ../ui/table/state-thermometer.ui.h:4
+msgid "<span background=\"red\"> <b>Gas</b> </span>"
+msgstr "<span background=\"red\"> <b>აირი</b> </span>"
+
+#: ../ui/table/curve.ui.h:1
+msgid "GChemTable Graph"
+msgstr "GChemTable გრაფიკი"
+
+#: ../ui/table/family.ui.h:1
+msgid "Selected Family:"
+msgstr "არჩეული ოჯახი:"
+
+#: ../ui/table/family.ui.h:2
+msgid "All"
+msgstr "ყველა"
+
+#: ../ui/table/family.ui.h:3
+msgid "Alkali Metals"
+msgstr "ტუტე ლითონები"
+
+#: ../ui/table/family.ui.h:4
+msgid "Alkaline Earths Metals"
+msgstr "ტუტემიწა ლითონები"
+
+#: ../ui/table/family.ui.h:5
+msgid "Halogenes"
+msgstr "ჰალოგენები"
+
+#: ../ui/table/family.ui.h:6
+msgid "Metalloids"
+msgstr "მეტალოიდები"
+
+#: ../ui/table/family.ui.h:7
+msgid "Noble Gases"
+msgstr "კეთილშობილი აირები"
+
+#: ../ui/table/family.ui.h:8
+msgid "Non-Metals"
+msgstr "არალითონები"
+
+#: ../ui/table/family.ui.h:9
+msgid "Rare Earths Metals"
+msgstr "იშვიათმიწა ლითონები"
+
+#: ../ui/table/family.ui.h:10
+msgid "Transition Metals"
+msgstr "გარდამავალი ლითონები"
+
+#: ../ui/table/family.ui.h:11
+msgid "Other Metals"
+msgstr "სხვა ლითონები"
+
+#: ../ui/table/block.ui.h:1
+msgid ""
+"<span background=\"#00008e\" foreground=\"white\" size=\"larger\" "
+"weight=\"bold\"> s block </span>"
+msgstr ""
+"<span background=\"#00008e\" foreground=\"white\" size=\"larger\" "
+"weight=\"bold\"> s ბლოკი </span>"
+
+#: ../ui/table/block.ui.h:2
+msgid ""
+"<span background=\"#008e00\" foreground=\"white\" size=\"larger\" "
+"weight=\"bold\"> d block </span>"
+msgstr ""
+"<span background=\"#008e00\" foreground=\"white\" size=\"larger\" "
+"weight=\"bold\"> d ბლოკი </span>"
+
+#: ../ui/table/block.ui.h:3
+msgid ""
+"<span background=\"#8e0000\" foreground=\"white\" size=\"larger\" "
+"weight=\"bold\"> p block </span>"
+msgstr ""
+"<span background=\"#8e0000\" foreground=\"white\" size=\"larger\" "
+"weight=\"bold\"> p ბლოკი </span>"
+
+#: ../ui/table/block.ui.h:4
+msgid ""
+"<span background=\"#8e008e\" foreground=\"white\" size=\"larger\" "
+"weight=\"bold\"> f block </span>"
+msgstr ""
+"<span background=\"#8e008e\" foreground=\"white\" size=\"larger\" "
+"weight=\"bold\"> f ბლოკი </span>"
+
+#: ../libs/gcp/reaction-substractor.cc:55
+msgid "Reaction substrator"
+msgstr "რეაქციის სუბსტრატი"

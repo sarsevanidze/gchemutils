@@ -1,0 +1,5948 @@
+# Greek translations for gnome-chemistry-utils package.
+# Copyright (C) 2010 THE gnome-chemistry-utils'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the gnome-chemistry-utils package.
+# ms <mstefanis@hotmail.com>, 2010.
+# Dimitris Spingos (Δημήτρης Σπίγγος) <dmtrs32@gmail.com>, 2012, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-chemistry-utils 0.12.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-11 14:26+0200\n"
+"PO-Revision-Date: 2014-02-13 11:14+0300\n"
+"Last-Translator: Dimitris Spingos (Δημήτρης Σπίγγος) <dmtrs32@gmail.com>\n"
+"Language-Team: team@lists.gnome.gr\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.0\n"
+"X-Project-Style: gnome\n"
+
+#: ../gchemutils.xml.in.h:1 ../programs/crystal/x-gcrystal.desktop.in.h:1
+msgid "Crystalline structure model"
+msgstr "Πρότυπο κρυσταλλικής δομής"
+
+#: ../gchemutils.xml.in.h:2 ../programs/paint/x-gchempaint.desktop.in.h:1
+msgid "2D Chemical structure"
+msgstr "2Δ χημική δομή"
+
+#: ../gchemutils.xml.in.h:3
+msgid "NUTS file format"
+msgstr "Μορφή αρχείου NUTS"
+
+#: ../database/residues.xml.in.h:1
+msgid "Alkyl"
+msgstr "Άλκυλο"
+
+#: ../database/residues.xml.in.h:2
+msgid "Aryl"
+msgstr "Άρυλο"
+
+#: ../database/residues.xml.in.h:3
+msgid "Halogen"
+msgstr "Αλογόνο"
+
+#: ../database/residues.xml.in.h:4
+msgid "Metal"
+msgstr "Μέταλλο"
+
+#: ../database/residues.xml.in.h:5
+msgid "Methyl"
+msgstr "Μέθυλο"
+
+#: ../database/residues.xml.in.h:6
+msgid "Ethyl"
+msgstr "Αίθυλο"
+
+#: ../database/residues.xml.in.h:7
+msgid "Propyl"
+msgstr "Πρόπυλο"
+
+#: ../database/residues.xml.in.h:8
+msgid "Isopropyl"
+msgstr "Ισοπρόπυλο"
+
+#: ../database/residues.xml.in.h:9
+msgid "Butyl"
+msgstr "Βούτυλο"
+
+#: ../database/residues.xml.in.h:10
+msgid "sec-Butyl"
+msgstr "sec-Βούτυλο"
+
+#: ../database/residues.xml.in.h:11
+msgid "Isobutyl"
+msgstr "Ισοβούτυλο"
+
+#: ../database/residues.xml.in.h:12
+msgid "Phenyl"
+msgstr "Φαίνυλο"
+
+#: ../database/residues.xml.in.h:13
+msgid "Acetyl"
+msgstr "Ακέτυλο"
+
+#: ../database/residues.xml.in.h:14
+msgid "Benzyl"
+msgstr "Βένζυλο"
+
+#: ../database/residues.xml.in.h:15
+msgid "Benzoyl"
+msgstr "Βενζόϋλο"
+
+#: ../database/residues.xml.in.h:16
+msgid "Mesyl"
+msgstr "Μεσιτυλο"
+
+#: ../database/residues.xml.in.h:17
+msgid "Triflyl"
+msgstr "Τριφλυλο"
+
+#: ../database/residues.xml.in.h:18
+msgid "Tosyl"
+msgstr "Τοσυλο"
+
+#: ../database/elements.xml.in.h:1
+msgid "Hydrogen"
+msgstr "Υδρογόνο"
+
+#: ../database/elements.xml.in.h:2
+msgid "Helium"
+msgstr "Ήλιο"
+
+#: ../database/elements.xml.in.h:3
+msgid "Lithium"
+msgstr "Λίθιο"
+
+#: ../database/elements.xml.in.h:4
+msgid "Beryllium"
+msgstr "Βηρύλλιο"
+
+#: ../database/elements.xml.in.h:5
+msgid "Boron"
+msgstr "Βόριο"
+
+#: ../database/elements.xml.in.h:6
+msgid "Carbon"
+msgstr "Άνθρακας"
+
+#: ../database/elements.xml.in.h:7
+msgid "Nitrogen"
+msgstr "Άζωτο"
+
+#: ../database/elements.xml.in.h:8
+msgid "Oxygen"
+msgstr "Οξυγόνο"
+
+#: ../database/elements.xml.in.h:9
+msgid "Fluorine"
+msgstr "Φθόριο"
+
+#: ../database/elements.xml.in.h:10
+msgid "Neon"
+msgstr "Νέον"
+
+#: ../database/elements.xml.in.h:11
+msgid "Sodium"
+msgstr "Νάτριο"
+
+#: ../database/elements.xml.in.h:12
+msgid "Magnesium"
+msgstr "Μαγνήσιο"
+
+#: ../database/elements.xml.in.h:13
+msgid "Aluminum"
+msgstr "Αργίλιο"
+
+#: ../database/elements.xml.in.h:14
+msgid "Silicon"
+msgstr "Πυρίτιο"
+
+#: ../database/elements.xml.in.h:15
+msgid "Phosphorus"
+msgstr "Φώσφορος"
+
+#: ../database/elements.xml.in.h:16
+msgid "Sulfur"
+msgstr "Θείο"
+
+#: ../database/elements.xml.in.h:17
+msgid "Chlorine"
+msgstr "Χλώριο"
+
+#: ../database/elements.xml.in.h:18
+msgid "Argon"
+msgstr "Αργό"
+
+#: ../database/elements.xml.in.h:19
+msgid "Potassium"
+msgstr "Κάλιο"
+
+#: ../database/elements.xml.in.h:20
+msgid "Calcium"
+msgstr "Ασβέστιο"
+
+#: ../database/elements.xml.in.h:21
+msgid "Scandium"
+msgstr "Σκάνδιο"
+
+#: ../database/elements.xml.in.h:22
+msgid "Titanium"
+msgstr "Τιτάνιο"
+
+#: ../database/elements.xml.in.h:23
+msgid "Vanadium"
+msgstr "Βανάδιο"
+
+#: ../database/elements.xml.in.h:24
+msgid "Chromium"
+msgstr "Χρώμιο"
+
+#: ../database/elements.xml.in.h:25
+msgid "Manganese"
+msgstr "Μαγγάνιο"
+
+#: ../database/elements.xml.in.h:26
+msgid "Iron"
+msgstr "Σίδηρος"
+
+#: ../database/elements.xml.in.h:27
+msgid "Cobalt"
+msgstr "Κοβάλτιο"
+
+#: ../database/elements.xml.in.h:28
+msgid "Nickel"
+msgstr "Νικέλιο"
+
+#: ../database/elements.xml.in.h:29
+msgid "Copper"
+msgstr "Χαλκός"
+
+#: ../database/elements.xml.in.h:30
+msgid "Zinc"
+msgstr "Ψευδάργυρος"
+
+#: ../database/elements.xml.in.h:31
+msgid "Gallium"
+msgstr "Γάλλιο"
+
+#: ../database/elements.xml.in.h:32
+msgid "Germanium"
+msgstr "Γερμάνιο"
+
+#: ../database/elements.xml.in.h:33
+msgid "Arsenic"
+msgstr "Αρσενικό"
+
+#: ../database/elements.xml.in.h:34
+msgid "Selenium"
+msgstr "Σελήνιο"
+
+#: ../database/elements.xml.in.h:35
+msgid "Bromine"
+msgstr "Βρώμιο"
+
+#: ../database/elements.xml.in.h:36
+msgid "Krypton"
+msgstr "Κρυπτόν"
+
+#: ../database/elements.xml.in.h:37
+msgid "Rubidium"
+msgstr "Ρουβίδιο"
+
+#: ../database/elements.xml.in.h:38
+msgid "Strontium"
+msgstr "Στρόντιο"
+
+#: ../database/elements.xml.in.h:39
+msgid "Yttrium"
+msgstr "Ύτριο"
+
+#: ../database/elements.xml.in.h:40
+msgid "Zirconium"
+msgstr "Ζιρκόνιο"
+
+#: ../database/elements.xml.in.h:41
+msgid "Niobium"
+msgstr "Νιόβιο"
+
+#: ../database/elements.xml.in.h:42
+msgid "Molybdenum"
+msgstr "Μολυβδαίνιο"
+
+#: ../database/elements.xml.in.h:43
+msgid "Technetium"
+msgstr "Τεχνήτιο"
+
+#: ../database/elements.xml.in.h:44
+msgid "Ruthenium"
+msgstr "Ρουθήνιο"
+
+#: ../database/elements.xml.in.h:45
+msgid "Rhodium"
+msgstr "Ρόδιο"
+
+#: ../database/elements.xml.in.h:46
+msgid "Palladium"
+msgstr "Παλλάδιο"
+
+#: ../database/elements.xml.in.h:47
+msgid "Silver"
+msgstr "Άργυρος"
+
+#: ../database/elements.xml.in.h:48
+msgid "Cadmium"
+msgstr "Κάδμιο"
+
+#: ../database/elements.xml.in.h:49
+msgid "Indium"
+msgstr "Ίνδιο"
+
+#: ../database/elements.xml.in.h:50
+msgid "Tin"
+msgstr "Μόλυβδος"
+
+#: ../database/elements.xml.in.h:51
+msgid "Antimony"
+msgstr "Αντιμόνιο"
+
+#: ../database/elements.xml.in.h:52
+msgid "Tellurium"
+msgstr "Τελλούριο"
+
+#: ../database/elements.xml.in.h:53
+msgid "Iodine"
+msgstr "Ιώδιο"
+
+#: ../database/elements.xml.in.h:54
+msgid "Xenon"
+msgstr "Ξένο"
+
+#: ../database/elements.xml.in.h:55
+msgid "Caesium"
+msgstr "Καίσιο"
+
+#: ../database/elements.xml.in.h:56
+msgid "Barium"
+msgstr "Βάριο"
+
+#: ../database/elements.xml.in.h:57
+msgid "Lanthanum"
+msgstr "Λανθάνιο"
+
+#: ../database/elements.xml.in.h:58
+msgid "Cerium"
+msgstr "Δημήτριο"
+
+#: ../database/elements.xml.in.h:59
+msgid "Praseodymium"
+msgstr "Πρασινοδύμιο"
+
+#: ../database/elements.xml.in.h:60
+msgid "Neodymium"
+msgstr "Νεοδύμιο"
+
+#: ../database/elements.xml.in.h:61
+msgid "Promethium"
+msgstr "Προμήθειο"
+
+#: ../database/elements.xml.in.h:62
+msgid "Samarium"
+msgstr "Σαμάριο"
+
+#: ../database/elements.xml.in.h:63
+msgid "Europium"
+msgstr "Ευρώπιο"
+
+#: ../database/elements.xml.in.h:64
+msgid "Gadolinium"
+msgstr "Γαδολίνιο"
+
+#: ../database/elements.xml.in.h:65
+msgid "Terbium"
+msgstr "Τέρβιο"
+
+#: ../database/elements.xml.in.h:66
+msgid "Dysprosium"
+msgstr "Δυσπρόσιο"
+
+#: ../database/elements.xml.in.h:67
+msgid "Holmium"
+msgstr "Όλμιο"
+
+#: ../database/elements.xml.in.h:68
+msgid "Erbium"
+msgstr "Έρβιο"
+
+#: ../database/elements.xml.in.h:69
+msgid "Thulium"
+msgstr "Θούλιο"
+
+#: ../database/elements.xml.in.h:70
+msgid "Ytterbium"
+msgstr "Υττέρβιο"
+
+#: ../database/elements.xml.in.h:71
+msgid "Lutetium"
+msgstr "Λουτήτιο"
+
+#: ../database/elements.xml.in.h:72
+msgid "Hafnium"
+msgstr "Άφνιο"
+
+#: ../database/elements.xml.in.h:73
+msgid "Tantalum"
+msgstr "Ταντάλιο"
+
+#: ../database/elements.xml.in.h:74
+msgid "Tungsten"
+msgstr "Βολφράμιο"
+
+#: ../database/elements.xml.in.h:75
+msgid "Rhenium"
+msgstr "Ρήνιο"
+
+#: ../database/elements.xml.in.h:76
+msgid "Osmium"
+msgstr "Όσμιο"
+
+#: ../database/elements.xml.in.h:77
+msgid "Iridium"
+msgstr "Ιρίδιο"
+
+#: ../database/elements.xml.in.h:78
+msgid "Platinum"
+msgstr "Λευκόχρυσος"
+
+#: ../database/elements.xml.in.h:79
+msgid "Gold"
+msgstr "Χρυσός"
+
+#: ../database/elements.xml.in.h:80
+msgid "Mercury"
+msgstr "Υδράργυρος"
+
+#: ../database/elements.xml.in.h:81
+msgid "Thallium"
+msgstr "Θάλλιο"
+
+#: ../database/elements.xml.in.h:82
+msgid "Lead"
+msgstr "Μόλυβδος"
+
+#: ../database/elements.xml.in.h:83
+msgid "Bismuth"
+msgstr "Βισμούθιο"
+
+#: ../database/elements.xml.in.h:84
+msgid "Polonium"
+msgstr "Πολώνιο"
+
+#: ../database/elements.xml.in.h:85
+msgid "Astatine"
+msgstr "Αστάτιο"
+
+#: ../database/elements.xml.in.h:86
+msgid "Radon"
+msgstr "Ραδόνιο"
+
+#: ../database/elements.xml.in.h:87
+msgid "Francium"
+msgstr "Φράνκιο"
+
+#: ../database/elements.xml.in.h:88
+msgid "Radium"
+msgstr "Ράδιο"
+
+#: ../database/elements.xml.in.h:89
+msgid "Actinium"
+msgstr "Ακτίνιο"
+
+#: ../database/elements.xml.in.h:90
+msgid "Thorium"
+msgstr "Θόριο"
+
+#: ../database/elements.xml.in.h:91
+msgid "Protactinium"
+msgstr "Πρωτακτίνιο"
+
+#: ../database/elements.xml.in.h:92
+msgid "Uranium"
+msgstr "Ουράνιο"
+
+#: ../database/elements.xml.in.h:93
+msgid "Neptunium"
+msgstr "Ποσειδώνιο"
+
+#: ../database/elements.xml.in.h:94
+msgid "Plutonium"
+msgstr "Πλουτώνιο"
+
+#: ../database/elements.xml.in.h:95
+msgid "Americium"
+msgstr "Αμερίκιο"
+
+#: ../database/elements.xml.in.h:96
+msgid "Curium"
+msgstr "Κιούριο"
+
+#: ../database/elements.xml.in.h:97
+msgid "Berkelium"
+msgstr "Μπερκέλιο"
+
+#: ../database/elements.xml.in.h:98
+msgid "Californium"
+msgstr "Καλιφόρνιο"
+
+#: ../database/elements.xml.in.h:99
+msgid "Einsteinium"
+msgstr "Αϊνσταΐνιο"
+
+#: ../database/elements.xml.in.h:100
+msgid "Fermium"
+msgstr "Φέρμιο"
+
+#: ../database/elements.xml.in.h:101
+msgid "Mendelevium"
+msgstr "Μεντελέβιο"
+
+#: ../database/elements.xml.in.h:102
+msgid "Nobelium"
+msgstr "Νομπέλιο"
+
+#: ../database/elements.xml.in.h:103
+msgid "Lawrencium"
+msgstr "Λωρένσιο"
+
+#: ../database/elements.xml.in.h:104
+msgid "Rutherfordium"
+msgstr "Ραδερφόρντιο"
+
+#: ../database/elements.xml.in.h:105
+msgid "Dubnium"
+msgstr "Ντούμπνιο"
+
+#: ../database/elements.xml.in.h:106
+msgid "Seaborgium"
+msgstr "Σιμπόργκιο"
+
+#: ../database/elements.xml.in.h:107
+msgid "Bohrium"
+msgstr "Μπόριο"
+
+#: ../database/elements.xml.in.h:108
+msgid "Hassium"
+msgstr "Χάσιο"
+
+#: ../database/elements.xml.in.h:109
+msgid "Meitnerium"
+msgstr "Μαϊτνέριο"
+
+#: ../database/elements.xml.in.h:110
+msgid "Darmstadtium"
+msgstr "Νταρμστάντιο"
+
+#: ../database/elements.xml.in.h:111
+msgid "Roentgenium"
+msgstr "Ρεντγκένιο"
+
+#: ../database/elements.xml.in.h:112
+msgid "Copernicium"
+msgstr "Κοπερνίκιο"
+
+#: ../database/elements.xml.in.h:113
+msgid "Ununtrium"
+msgstr "Ουνούντριο"
+
+#: ../database/elements.xml.in.h:114
+msgid "Flerovium"
+msgstr "Φλερόβιο"
+
+#: ../database/elements.xml.in.h:115
+msgid "Ununpentium"
+msgstr "Ουνουπέντιο"
+
+#: ../database/elements.xml.in.h:116
+msgid "Livermorium"
+msgstr "Λιβερμόριο"
+
+#: ../database/elements.xml.in.h:117
+msgid "Ununseptium"
+msgstr "Ουνουσέπτιο"
+
+#: ../database/elements.xml.in.h:118
+msgid "Ununoctium"
+msgstr "Ουνουνόκτιο"
+
+#: ../database/isotopes.xml.in.h:1
+msgid "protium"
+msgstr "πρώτιο"
+
+#: ../database/isotopes.xml.in.h:2
+msgid "deuterium"
+msgstr "δευτέριο"
+
+#: ../database/isotopes.xml.in.h:3
+msgid "tritium"
+msgstr "τρίτιο"
+
+#: ../gnumeric/functions.cc:52
+msgid "MOLARMASS:molar mass of a chemical entity"
+msgstr "MOLARMASS:η γραμμομοριακή μάζα μιας χημικής οντότητας"
+
+#: ../gnumeric/functions.cc:53
+msgid "formula:the input chemical formula such as \"CCl4\""
+msgstr "τύπος:χημικός τύπος εισόδου όπως ο \"CCl4\""
+
+#: ../gnumeric/functions.cc:54
+msgid "MOLARMASS calculates a molar mass associated with the given @{formula}."
+msgstr ""
+"Το MOLARMASS υπολογίζει μια γραμμομοριακή μάζα σχετική με τον δοθέντα @"
+"{τύπο}."
+
+#: ../gnumeric/functions.cc:55
+msgid "=molarmass(\"CCl4\")"
+msgstr "=molarmass(\"CCl4\")"
+
+#: ../gnumeric/functions.cc:82
+msgid "molarmass"
+msgstr "molarmass"
+
+#: ../gnumeric/plugin.xml.in.h:1
+msgid "Chemical Functions"
+msgstr "Χημικές Συναρτήσεις"
+
+#: ../gnumeric/plugin.xml.in.h:2
+msgid "Chemical Formula Functions"
+msgstr "Συναρτήσεις Χημικών Τύπων"
+
+#: ../gnumeric/plugin.xml.in.h:3
+msgid "Chemistry"
+msgstr "Χημεία"
+
+#: ../goffice/plugin.xml.in.h:1
+msgid "Component : GChemPaint"
+msgstr "Συστατικό: GChemPaint"
+
+#: ../goffice/plugin.xml.in.h:2
+msgid "2D Chemical Structures Viewer/Editor"
+msgstr "Προβολέας/Επεξεργαστής 2Δ χημικών δομών"
+
+#: ../goffice/plugin.xml.in.h:3
+msgid "Chemical structures component engine"
+msgstr "Μηχανή σύστασης χημικών δομών"
+
+#: ../goffice/plugin.xml.in.h:4
+msgid "Chemical structures"
+msgstr "Χημικές δομές"
+
+#: ../goffice/plugin.xml.in.h:5
+msgid "Crystal structures"
+msgstr "Κρυσταλλικές δομές"
+
+#: ../goffice/plugin.xml.in.h:6
+msgid "CIF file"
+msgstr "Αρχείο CIF"
+
+#: ../goffice/plugin.xml.in.h:7
+msgid "3D chemical structures"
+msgstr "3Δ χημική δομή"
+
+#: ../goffice/gchemutils.cc:347
+msgid "Content type"
+msgstr "Τύπος περιεχομένου"
+
+#: ../goffice/gchemutils.cc:348
+msgid "Whether the model should be represented in 2d, 3d, or as a crystal cell"
+msgstr "Εάν το πρότυπο πρέπει να αναπαρασταθεί σε 2δ, 3δ ή κρυσταλλικό κελί"
+
+#: ../goffice/gchemutils.cc:351
+msgid "Psi"
+msgstr "Ψι"
+
+#: ../goffice/gchemutils.cc:352
+msgid "Value of Euler's Ψ angle"
+msgstr "Γωνία Ψ της τιμής του Όιλερ"
+
+#: ../goffice/gchemutils.cc:355
+msgid "Theta"
+msgstr "Θήτα"
+
+#: ../goffice/gchemutils.cc:356
+msgid "Value of Euler's Θ angle"
+msgstr "Γωνία Θ της τιμής του Όιλερ"
+
+#: ../goffice/gchemutils.cc:359
+msgid "Phi"
+msgstr "Φι"
+
+#: ../goffice/gchemutils.cc:360
+msgid "Value of Euler's Φ angle"
+msgstr "Γωνία Φ της τιμής του Όιλερ"
+
+#: ../goffice/gchemutils.cc:363
+msgid "Display mode"
+msgstr "Κατάσταση εμφάνισης"
+
+#: ../goffice/gchemutils.cc:364
+msgid ""
+"The display mode for the molecule: \"ball&stick\", \"spacefill\", \"cylinders"
+"\", or \"wireframe\""
+msgstr ""
+"Η κατάσταση εμφάνισης για το μόριο: \"σφαίρες&ράβδοι\", \"πλήρωση χώρου\", "
+"\"κύλινδροι\", ή \"πλέγμα\""
+
+#: ../goffice/gogchem3dapp.cc:32 ../libs/gcugtk/chem3dapplication.cc:41
+#: ../programs/3d/application.cc:47 ../programs/3d/application.cc:54
+msgid "GChem3D Viewer"
+msgstr "Προβολέας GChem3D"
+
+#: ../goffice/gogchem3dwin.cc:73
+msgid "Embedded GChem3d Object"
+msgstr "Ενσωμάτωση αντικειμένου GChem3d"
+
+#: ../goffice/gogcpapp.cc:178 ../programs/paint/standaloneapp.cc:46
+#, c-format
+msgid "Untitled %d"
+msgstr "Ανώνυμο %d"
+
+#: ../goffice/gogcpwin.cc:90
+msgid "Embedded GChemPaint Object"
+msgstr "Ενσωμάτωση αντικειμένου GChemPaint"
+
+#: ../goffice/gogcrystalwin.cc:95
+msgid "Embedded GCrystal Object"
+msgstr "Ενσωμάτωση αντικειμένου GCrystal"
+
+#. Note to translators: replace the following string with the appropriate credits for you lang
+#: ../libs/gcp/about.cc:49 ../libs/gcr/window.cc:147
+#: ../libs/gcugtk/chem3dwindow.cc:243 ../programs/calc/gchemcalc.cc:299
+#: ../programs/spectra/window.cc:130 ../programs/table/gchemtable-app.cc:411
+msgid "translator_credits"
+msgstr ""
+"Σπίγγος Δημήτρης\n"
+"Μανόλης Στεφανής"
+
+#: ../libs/gcp/about.cc:55
+msgid "GChemPaint is a 2D chemical structures editor for Gnome"
+msgstr "Το GChemPaint είναι ένας επεξεργαστής 2Δ χημικών δομών για το Gnome"
+
+#: ../libs/gcp/about.cc:56
+msgid "Copyright © 2001-2010 by Jean Bréfort"
+msgstr "Πνευματικά δικαιώματα © 2001-2010 Jean Bréfort"
+
+#: ../libs/gcp/arrow.cc:221 ../libs/gcp/reaction-arrow.cc:255
+msgid "Arrow"
+msgstr "Βέλος"
+
+#: ../libs/gcp/application.cc:352
+msgid "Create a new reaction"
+msgstr "Δημιουργία νέας αντίδρασης"
+
+#: ../libs/gcp/application.cc:360
+msgid "Create a new mesomery relationship"
+msgstr "Δημιουργία νέας σχέσης μεσομέρειας"
+
+#: ../libs/gcp/application.cc:582 ../libs/gcugtk/stringdlg.cc:115
+msgid ""
+"Please enter a file name,\n"
+"not a directory"
+msgstr ""
+"Παρακαλώ εισάγετε ένα όνομα αρχείου,\n"
+"όχι ενός καταλόγου"
+
+#: ../libs/gcp/application.cc:625
+#, c-format
+msgid ""
+"Sorry, format %s not supported!\n"
+"Failed to save %s."
+msgstr ""
+"Συγγνώμη, ο τύπος %s δεν υποστηρίζεται!\n"
+"Αποτυχία αποθήκευσης του %s."
+
+#: ../libs/gcp/application.cc:626
+#, c-format
+msgid ""
+"Sorry, format %s not supported!\n"
+"Failed to load %s."
+msgstr ""
+"Συγγνώμη, ο τύπος %s δεν υποστηρίζεται!\n"
+"Αποτυχία φόρτωσης %s."
+
+#: ../libs/gcp/application.cc:654 ../libs/gcr/application.cc:233
+#: ../libs/gcugtk/chem3dapplication.cc:174 ../libs/gcugtk/stringdlg.cc:131
+#: ../programs/calc/gchemcalc.cc:212 ../programs/spectra/application.cc:95
+#: ../programs/table/gchemtable-app.cc:729
+#, c-format
+msgid ""
+"File %s\n"
+"exists, overwrite?"
+msgstr ""
+"Το αρχείο %s\n"
+"υπάρχει ήδη, να αντικατασταθεί;"
+
+#: ../libs/gcp/application.cc:666 ../libs/gcr/application.cc:245
+#: ../libs/gcugtk/stringdlg.cc:146
+#, c-format
+msgid ""
+"Error while processing %s:\n"
+"%s"
+msgstr ""
+"Σφάλμα κατά τη διαδικασία %s:\n"
+"%s"
+
+#: ../libs/gcp/application.cc:775
+msgid "Error in "
+msgstr "Σφάλμα στο "
+
+#. Note to translator: add a space if needed before the semicolon
+#: ../libs/gcp/application.cc:778
+msgid ":\n"
+msgstr ":\n"
+
+#: ../libs/gcp/application.cc:889
+msgid "No filename"
+msgstr "Δεν υπάρχει όνομα αρχείου"
+
+#: ../libs/gcp/application.cc:892 ../libs/gcr/document.cc:1653
+#, c-format
+msgid ""
+"Could not load file\n"
+"%s"
+msgstr ""
+"Αδυναμία φόρτωσης του αρχείου\n"
+"%s"
+
+#: ../libs/gcp/application.cc:895 ../libs/gcr/document.cc:1656
+#, c-format
+msgid ""
+"%s: invalid xml file.\n"
+"Tree is empty?"
+msgstr ""
+"%s: άκυρο αρχείο xml.\n"
+"Το δένδρο είναι άδειο;"
+
+#: ../libs/gcp/application.cc:898 ../libs/gcr/document.cc:1659
+#, c-format
+msgid "%s: invalid file format."
+msgstr "%s: άκυρος τύπος αρχείου."
+
+#: ../libs/gcp/application.cc:901
+#, c-format
+msgid "%s: parse error."
+msgstr "%s: σφάλμα ανάλυσης."
+
+#: ../libs/gcp/application.cc:936 ../libs/gcr/application.cc:140
+#: ../libs/gcugtk/chem3dapplication.cc:97 ../programs/calc/gchemcalc.cc:199
+#: ../programs/spectra/application.cc:161
+#: ../programs/table/gchemtable-app.cc:717
+msgid "Save as image"
+msgstr "Αποθήκευση ως εικόνα"
+
+#: ../libs/gcp/atom.cc:1186 ../libs/gcp/atom.cc:1200 ../libs/gcp/atom.cc:1213
+#: ../libs/gcr/atomsdlg.cc:425 ../libs/gcu/atom.cc:394
+#: ../plugins/paint/atoms/plugin.cc:63
+msgid "Atom"
+msgstr "Άτομο"
+
+#: ../libs/gcp/atom.cc:1189
+msgid "Display symbol"
+msgstr "Προβολή συμβόλου"
+
+#: ../libs/gcp/atom.cc:1189
+msgid "Whether to display carbon atom symbol"
+msgstr "Αν θα εμφανίζεται το σύμβολο του ατόμου άνθρακα"
+
+#: ../libs/gcp/atom.cc:1204 ../ui/paint/H-pos.ui.h:1
+msgid "Hydrogen atoms position"
+msgstr "Θέση ατόμων υδρογόνου"
+
+#: ../libs/gcp/atom.cc:1217
+msgid "Show charge"
+msgstr "Προβολή φορτίου"
+
+#: ../libs/gcp/atom.cc:1217
+msgid "Whether to display atom charge"
+msgstr "Αν θα εμφανίζεται το φορτίο του ατόμου"
+
+#: ../libs/gcp/atom.cc:1237 ../plugins/paint/selection/plugin.cc:69
+msgid "Select"
+msgstr "Επιλογή"
+
+#: ../libs/gcp/atom.cc:1237
+msgid "Select object"
+msgstr "Επιλογή αντικειμένου"
+
+#: ../libs/gcp/atom.cc:1241
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: ../libs/gcp/atom.cc:1241
+msgid "Delete object"
+msgstr "Διαγραφή αντικειμένου"
+
+#: ../libs/gcp/atom.cc:1248 ../plugins/paint/atoms/orbital.cc:413
+msgid "Properties"
+msgstr "Ιδιότητες"
+
+#: ../libs/gcp/atom.cc:1248
+msgid "Object properties"
+msgstr "Ιδιότητες αντικειμένου"
+
+#: ../libs/gcp/bond.cc:838 ../libs/gcu/bond.cc:338
+#: ../plugins/paint/bonds/plugin.cc:64
+msgid "Bond"
+msgstr "Δεσμός"
+
+#: ../libs/gcp/bond.cc:842
+msgid "Move to back"
+msgstr "Μετακίνηση πίσω"
+
+#: ../libs/gcp/bond.cc:849
+msgid "Bring to front"
+msgstr "Μετακίνηση εμπρός"
+
+#: ../libs/gcp/brackets.cc:347 ../libs/gcp/brackets.cc:361
+#: ../plugins/paint/selection/brackets.ui.h:6
+#: ../plugins/paint/selection/plugin.cc:78
+#: ../plugins/paint/selection/plugin.cc:79
+msgid "Brackets"
+msgstr "Αγκύλες"
+
+#: ../libs/gcp/brackets.cc:350
+msgid "Add stoichiometry"
+msgstr "Προσθήκη στοιχειομετρίας"
+
+#: ../libs/gcp/brackets.cc:364
+msgid "Add superscript"
+msgstr "Προσθήκη εκθέτη"
+
+#: ../libs/gcp/docprop.cc:128 ../libs/gcp/docprop.cc:135
+#: ../libs/gcr/docprop.cc:131 ../libs/gcr/docprop.cc:138
+msgid "%A, %B %d, %Y"
+msgstr "%A, %B %d, %Y"
+
+#: ../libs/gcp/electron.cc:334
+msgid "Electron pair"
+msgstr "Ζεύγος ηλεκτρονίων"
+
+#: ../libs/gcp/electron.cc:334
+msgid "Electron"
+msgstr "Ηλεκτρόνιο"
+
+#: ../libs/gcp/fontsel.cc:356 ../programs/table/gchemtable-app.cc:150
+msgid "Family"
+msgstr "Οικογένεια"
+
+#: ../libs/gcp/fontsel.cc:357
+msgid "Font family"
+msgstr "Οικογένεια γραμματοσειράς"
+
+#: ../libs/gcp/fontsel.cc:360
+msgid "Style"
+msgstr "Τεχνοτροπία"
+
+#: ../libs/gcp/fontsel.cc:361
+msgid "The font style (normal, oblique or italic)"
+msgstr "Η τεχνοτροπία της γραμματοσειράς (κανονική, λοξή ή πλάγια γραφή)"
+
+#: ../libs/gcp/fontsel.cc:365
+msgid "Weight"
+msgstr "Βάρος"
+
+#: ../libs/gcp/fontsel.cc:366
+msgid "The font weight"
+msgstr "Το πάχος της γραμματοσειράς"
+
+#: ../libs/gcp/fontsel.cc:370
+msgid "Variant"
+msgstr "Παραλλαγή"
+
+#: ../libs/gcp/fontsel.cc:371
+msgid "The font variant"
+msgstr "Η παραλλαγή της γραμματοσειράς"
+
+#: ../libs/gcp/fontsel.cc:375
+msgid "Stretch"
+msgstr "Έκταση"
+
+#: ../libs/gcp/fontsel.cc:376
+msgid "The font stretch (condensed, normal or expanded)"
+msgstr "Η έκταση της γραμματοσειράς (συμπυκνωμένη, κανονική ή εκτεταμένη)"
+
+#: ../libs/gcp/fontsel.cc:380
+msgid "Size"
+msgstr "Μέγεθος"
+
+#: ../libs/gcp/fontsel.cc:381
+msgid "The font size (in pango units)"
+msgstr "Το μέγεθος της γραμματοσειράς (σε μονάδες pango)"
+
+#: ../libs/gcp/fontsel.cc:385
+msgid "Allow slanted fonts"
+msgstr "Να επιτρέπονται λοξές γραμματοσειρές"
+
+#: ../libs/gcp/fontsel.cc:386
+msgid "Whether to allow slanted fonts"
+msgstr "Εάν θα επιτρέπονται λοξές γραμματοσειρές"
+
+#: ../libs/gcp/fontsel.cc:389
+msgid "Label"
+msgstr "Ετικέτα"
+
+#: ../libs/gcp/fontsel.cc:390
+msgid "Preview label"
+msgstr "Προεπισκόπηση ετικέτας"
+
+#: ../libs/gcp/fragment.cc:1347
+msgid "Invalid symbol."
+msgstr "Άκυρο σύμβολο."
+
+#: ../libs/gcp/fragment.cc:1376
+msgid "Invalid charge."
+msgstr "Άκυρο φορτίο."
+
+#: ../libs/gcp/fragment.cc:1555
+msgid "Fragment"
+msgstr "Κλάσμα"
+
+#: ../libs/gcp/mechanism-arrow.cc:471
+msgid "Mechanism arrow"
+msgstr "Βέλος μηχανισμού"
+
+#: ../libs/gcp/mechanism-step.cc:67 ../libs/gcp/mechanism-step.cc:187
+msgid "Mechanism step"
+msgstr "Βήμα μηχανισμού"
+
+#: ../libs/gcp/mechanism-step.cc:190
+msgid "Align using this molecule"
+msgstr "Στοίχιση χρησιμοποιώντας αυτό το μόριο"
+
+#: ../libs/gcp/mesomer.cc:114
+msgid "NULL argument to Mesomer constructor!"
+msgstr "ΚΕΝΟ όρισμα στον κατασκευαστή μεσομερών!"
+
+#: ../libs/gcp/mesomer.cc:129
+msgid "Only one arrow can link two given mesomers."
+msgstr "Μόνο ένα βέλος μπορεί να συνδέσει δύο δοθέντα μεσομερή."
+
+#: ../libs/gcp/mesomer.cc:170
+msgid "Mesomer"
+msgstr "Μεσομερές"
+
+#: ../libs/gcp/mesomery.cc:163 ../libs/gcp/mesomery.cc:553
+#: ../libs/gcp/scheme.cc:300 ../plugins/paint/arrows/retrosynthesis.cc:164
+msgid "Something wrong happened, please file a bug report."
+msgstr "Συνέβη κάποιο λάθος, παρακαλώ δημιουργήστε μια αναφορά σφάλματος."
+
+#: ../libs/gcp/mesomery.cc:208 ../plugins/paint/arrows/retrosynthesis.cc:201
+msgid "No space left between molecule and arrow!"
+msgstr "Δεν υπάρχει κενό μεταξύ μορίου και βέλους!"
+
+#: ../libs/gcp/mesomery.cc:226 ../plugins/paint/arrows/retrosynthesis.cc:219
+msgid "Isolated arrows are not allowed!"
+msgstr "Δεν επιτρέπονται απομονωμένα βέλη!"
+
+#: ../libs/gcp/mesomery.cc:240 ../plugins/paint/arrows/retrosynthesis.cc:234
+msgid ""
+"Isolated molecule!\n"
+" Please add missing arrows."
+msgstr ""
+"Απομονωμένο μόριο!\n"
+" Παρακαλώ προσθέστε τα βέλη που λείπουν."
+
+#: ../libs/gcp/mesomery.cc:245
+msgid "Please add missing arrows."
+msgstr "Παρακαλώ προσθέστε τα βέλη που λείπουν."
+
+#: ../libs/gcp/mesomery.cc:774
+msgid "Destroy the mesomery relationship"
+msgstr "Καταστροφή της σχέσης μεσομέρειας"
+
+#: ../libs/gcp/mesomery.cc:817
+msgid "Mesomery"
+msgstr "Μεσομέρεια"
+
+#: ../libs/gcp/mesomery-arrow.cc:152 ../plugins/paint/arrows/plugin.cc:81
+msgid "Mesomery arrow"
+msgstr "Βέλος μεσομέρειας"
+
+#: ../libs/gcp/molecule.cc:576 ../libs/gcu/molecule.cc:413
+msgid "Molecule"
+msgstr "Μόριο"
+
+#: ../libs/gcp/molecule.cc:583
+msgid "Open 3D model in"
+msgstr "Άνοιγμα 3Δ προτύπου σε"
+
+#: ../libs/gcp/molecule.cc:587
+msgid "Ghemical"
+msgstr "Χημικό"
+
+#: ../libs/gcp/molecule.cc:594
+msgid "GChem3D"
+msgstr "GChem3D"
+
+#: ../libs/gcp/molecule.cc:601
+msgid "Avogadro"
+msgstr "Αβογκάντρο"
+
+#: ../libs/gcp/molecule.cc:609
+msgid "Generate InChI"
+msgstr "Δημιουργία InChl"
+
+#: ../libs/gcp/molecule.cc:614
+msgid "Generate InChIKey"
+msgstr "Δημιουργία InChIKey"
+
+#: ../libs/gcp/molecule.cc:619
+msgid "Generate SMILES"
+msgstr "Δημιουργία SMILES"
+
+#: ../libs/gcp/molecule.cc:624
+msgid "Open in Calculator"
+msgstr "Άνοιγμα στην αριθμομηχανή"
+
+#: ../libs/gcp/molecule.cc:632
+msgid "Select alignment item"
+msgstr "Επιλέξτε αντικείμενο για ευθυγράμμιση"
+
+#: ../libs/gcp/preferences.cc:372 ../libs/gcp/preferences.cc:391
+#: ../libs/gcp/preferences.cc:518 ../libs/gcp/theme.cc:317
+#: ../libs/gcp/theme.cc:325 ../programs/table/gchemtable-app.cc:145
+msgid "Default"
+msgstr "Προεπιλογή"
+
+#: ../libs/gcp/preferences.cc:410 ../libs/gcp/preferences.cc:479
+#: ../libs/gcp/preferences.cc:547
+msgid "General"
+msgstr "Γενικά"
+
+#: ../libs/gcp/preferences.cc:416 ../libs/gcp/preferences.cc:490
+#: ../libs/gcp/preferences.cc:540
+msgid "Atoms"
+msgstr "Άτομα"
+
+#: ../libs/gcp/preferences.cc:420 ../libs/gcp/preferences.cc:494
+#: ../libs/gcp/preferences.cc:549 ../plugins/paint/selection/brackets.ui.h:7
+msgid "Font"
+msgstr "Γραμματοσειρά"
+
+#: ../libs/gcp/preferences.cc:424 ../libs/gcp/preferences.cc:498
+#: ../libs/gcp/preferences.cc:551 ../ui/crystal/prefs.ui.h:19
+msgid "Other"
+msgstr "Άλλα"
+
+#: ../libs/gcp/preferences.cc:428 ../libs/gcp/preferences.cc:502
+#: ../libs/gcp/preferences.cc:553 ../ui/crystal/bonds.ui.h:1
+msgid "Bonds"
+msgstr "Δεσμοί"
+
+#: ../libs/gcp/preferences.cc:432 ../libs/gcp/preferences.cc:506
+#: ../libs/gcp/preferences.cc:555
+msgid "Arrows"
+msgstr "Βέλη"
+
+#: ../libs/gcp/preferences.cc:436 ../libs/gcp/preferences.cc:510
+#: ../libs/gcp/preferences.cc:557 ../libs/gcp/text.cc:1062
+#: ../plugins/paint/text/plugin.cc:52
+msgid "Text"
+msgstr "Κείμενο"
+
+#: ../libs/gcp/reactant.cc:83
+msgid "Add a stoichiometry coefficient"
+msgstr "Προσθήκη συντελεστή στοιχειομετρίας"
+
+#: ../libs/gcp/reactant.cc:273 ../libs/gcp/reaction-prop.cc:41
+msgid "Reactant"
+msgstr "Αντιδρόν"
+
+#: ../libs/gcp/reaction.cc:162 ../libs/gcp/reaction.cc:171
+msgid "Error: arrow without a reactant or product."
+msgstr "Σφάλμα: βέλος χωρίς αντιδρόν ή προϊόν."
+
+#: ../libs/gcp/reaction.cc:184
+msgid "Error: isolated molecules."
+msgstr "Σφάλμα: απομονωμένα μόρια."
+
+#: ../libs/gcp/reaction.cc:364
+msgid "Destroy the reaction"
+msgstr "Καταστροφή αντίδρασης"
+
+#: ../libs/gcp/reaction.cc:394
+msgid "Reaction"
+msgstr "Αντίδραση"
+
+#: ../libs/gcp/reaction-arrow.cc:261
+msgid "Attach selection to arrow..."
+msgstr "Επισύναψη επιλογής στο βέλος..."
+
+#: ../libs/gcp/reaction-arrow.cc:394
+msgid "Reaction arrow"
+msgstr "Βέλος αντίδρασης"
+
+#: ../libs/gcp/reaction-operator.cc:128
+msgid "Reaction operator"
+msgstr "Τελεστής αντίδρασης"
+
+#: ../libs/gcp/reaction-prop.cc:39 ../libs/gcp/theme.cc:526
+#: ../libs/gcp/theme.cc:530 ../libs/gcr/atomsdlg.cc:97
+#: ../libs/gcr/atomsdlg.cc:214 ../libs/gcr/atomsdlg.cc:438
+#: ../libs/gcr/atomsdlg.cc:536 ../programs/table/gchemtable-elt.cc:58
+#: ../ui/crystal/atoms.ui.h:11
+msgid "Unknown"
+msgstr "Άγνωστο"
+
+#: ../libs/gcp/reaction-prop.cc:40
+msgid "Catalyst"
+msgstr "Καταλύτης"
+
+#: ../libs/gcp/reaction-prop.cc:42
+msgid "Product"
+msgstr "Προϊόν"
+
+#: ../libs/gcp/reaction-prop.cc:43
+msgid "Solvent"
+msgstr "Διαλύτης"
+
+#: ../libs/gcp/reaction-prop.cc:44
+msgid "Temperature"
+msgstr "Θερμοκρασία"
+
+#: ../libs/gcp/reaction-prop.cc:45
+msgid "Pressure"
+msgstr "Πίεση"
+
+#: ../libs/gcp/reaction-prop.cc:46
+msgid "Time"
+msgstr "Χρόνος"
+
+#: ../libs/gcp/reaction-prop.cc:47
+msgid "Enthalpy"
+msgstr "Ενθαλπία"
+
+#: ../libs/gcp/reaction-prop.cc:110
+msgid "Reaction property"
+msgstr "Ιδιότητα αντίδρασης"
+
+#: ../libs/gcp/reaction-step.cc:70 ../libs/gcp/reaction-step.cc:90
+msgid "A mechanism step must stay alone inside a reaction step"
+msgstr ""
+"Ένα βήμα μηχανισμού θα πρέπει να παραμένει μόνο του μέσα σε ένα βήμα "
+"αντίδρασης"
+
+#: ../libs/gcp/reaction-step.cc:290
+msgid "Reaction step"
+msgstr "Βήμα αντίδρασης"
+
+#: ../libs/gcp/step.cc:43 ../plugins/paint/arrows/retrosynthesisstep.cc:76
+msgid "Only one arrow can link two given steps."
+msgstr "Μόνο ένα βέλος μπορεί να συνδέσει δύο δοθέντα βήματα."
+
+#: ../libs/gcp/text.cc:130 ../libs/gcp/text.cc:136
+msgid "This should not have occured, please file a bug record."
+msgstr ""
+"Αυτό δεν έπρεπε να συμβεί, παρακαλώ δημιουργήστε μία αναφορά σφάλματος."
+
+#: ../libs/gcp/theme.cc:423
+msgid "NewTheme1"
+msgstr "ΝέοΘέμα1"
+
+#: ../libs/gcp/theme.cc:427
+#, c-format
+msgid "NewTheme%d"
+msgstr "ΝέοΘέμα%d"
+
+#: ../libs/gcp/view.cc:755 ../libs/gcp/view.cc:781
+#: ../libs/gcr/application.cc:302 ../libs/gcugtk/chem3dapplication.cc:194
+#, c-format
+msgid ""
+"Could not create stream!\n"
+"%s"
+msgstr ""
+"Αδυναμία δημιουργία ροής!\n"
+"%s"
+
+#: ../libs/gcp/view.cc:803 ../libs/gcu/glview.cc:119
+#, c-format
+msgid "Unable to save image file: %s\n"
+msgstr "Αδυναμία αποθήκευσης του αρχείου εικόνας: %s\n"
+
+#: ../libs/gcp/window.cc:61 ../libs/gcugtk/chem3dwindow.cc:60
+msgid "Import molecule from InChI or SMILES"
+msgstr "Εισαγωγή μορίου από InChI ή SMILES"
+
+#: ../libs/gcp/window.cc:346 ../libs/gcr/window.cc:282
+#: ../libs/gcugtk/chem3dwindow.cc:269 ../programs/calc/gchemcalc.cc:587
+#: ../programs/spectra/window.cc:192 ../programs/table/gchemtable-app.cc:138
+#: ../programs/table/gchemtable-curve.cc:207
+msgid "_File"
+msgstr "_Αρχείο"
+
+#: ../libs/gcp/window.cc:347 ../libs/gcr/window.cc:283
+msgid "_New File"
+msgstr "_Νέο Αρχείο"
+
+#: ../libs/gcp/window.cc:348 ../libs/gcr/window.cc:284
+msgid "Create a new file"
+msgstr "Δημιουργία νέου αρχείου"
+
+#: ../libs/gcp/window.cc:349
+msgid "Ne_w File with Theme..."
+msgstr "Νέ_ο αρχείο με θέμα..."
+
+#: ../libs/gcp/window.cc:350
+msgid "Create a new file using a theme"
+msgstr "Δημιουργία νέου αρχείου χρησιμοποιώντας ένα θέμα"
+
+#: ../libs/gcp/window.cc:351 ../libs/gcr/window.cc:285
+#: ../libs/gcugtk/chem3dwindow.cc:270 ../programs/spectra/window.cc:193
+msgid "_Open..."
+msgstr "Ά_νοιγμα..."
+
+#: ../libs/gcp/window.cc:352 ../libs/gcr/window.cc:286
+#: ../libs/gcugtk/chem3dwindow.cc:271 ../programs/spectra/window.cc:194
+msgid "Open a file"
+msgstr "Άνοιγμα αρχείου"
+
+#: ../libs/gcp/window.cc:353 ../libs/gcr/window.cc:287
+#: ../libs/gcugtk/chem3dwindow.cc:272
+msgid "_Save"
+msgstr "_Αποθήκευση"
+
+#: ../libs/gcp/window.cc:354 ../libs/gcr/window.cc:288
+msgid "Save the current file"
+msgstr "Αποθήκευση του τρέχοντος αρχείου"
+
+#: ../libs/gcp/window.cc:355 ../libs/gcr/window.cc:289
+msgid "Save _As..."
+msgstr "Αποθήκευση _Ως..."
+
+#: ../libs/gcp/window.cc:356 ../libs/gcr/window.cc:290
+msgid "Save the current file with a different name"
+msgstr "Αποθήκευση τρέχοντος αρχείου με διαφορετικό όνομα"
+
+#: ../libs/gcp/window.cc:357 ../libs/gcr/window.cc:291
+#: ../libs/gcugtk/chem3dwindow.cc:274 ../programs/calc/gchemcalc.cc:588
+#: ../programs/spectra/window.cc:195 ../programs/table/gchemtable-curve.cc:208
+msgid "Save As _Image..."
+msgstr "Αποθήκευση ως _εικόνα..."
+
+#: ../libs/gcp/window.cc:358 ../libs/gcr/window.cc:292
+#: ../libs/gcugtk/chem3dwindow.cc:275 ../programs/calc/gchemcalc.cc:589
+#: ../programs/spectra/window.cc:196 ../programs/table/gchemtable-curve.cc:209
+msgid "Save the current file as an image"
+msgstr "Αποθήκευση τρέχοντος αρχείου ως εικόνα"
+
+#: ../libs/gcp/window.cc:359 ../libs/gcr/window.cc:293
+#: ../libs/gcugtk/chem3dwindow.cc:276 ../programs/calc/gchemcalc.cc:590
+#: ../programs/spectra/window.cc:197 ../programs/table/gchemtable-curve.cc:210
+msgid "Page Set_up..."
+msgstr "Δια_μόρφωση σελίδας..."
+
+#: ../libs/gcp/window.cc:360 ../libs/gcr/window.cc:294
+#: ../libs/gcugtk/chem3dwindow.cc:277 ../programs/calc/gchemcalc.cc:591
+#: ../programs/spectra/window.cc:198 ../programs/table/gchemtable-curve.cc:211
+msgid "Setup the page settings for your current printer"
+msgstr "Εγκατάσταση των ρυθμίσεων σελίδας για τον τρέχοντα εκτυπωτή σας"
+
+#: ../libs/gcp/window.cc:361 ../libs/gcr/window.cc:295
+#: ../libs/gcugtk/chem3dwindow.cc:278 ../programs/calc/gchemcalc.cc:592
+#: ../programs/spectra/window.cc:199 ../programs/table/gchemtable-curve.cc:212
+msgid "Print Pre_view"
+msgstr "Προ_επισκόπηση εκτύπωσης"
+
+#: ../libs/gcp/window.cc:362 ../libs/gcr/window.cc:296
+#: ../libs/gcugtk/chem3dwindow.cc:279 ../programs/calc/gchemcalc.cc:593
+#: ../programs/spectra/window.cc:200 ../programs/table/gchemtable-curve.cc:213
+msgid "Print preview"
+msgstr "Προεπισκόπηση εκτύπωσης"
+
+#: ../libs/gcp/window.cc:363 ../libs/gcr/window.cc:297
+#: ../libs/gcugtk/chem3dwindow.cc:280 ../programs/calc/gchemcalc.cc:594
+#: ../programs/spectra/window.cc:201 ../programs/table/gchemtable-curve.cc:214
+msgid "_Print..."
+msgstr "_Εκτύπωση..."
+
+#: ../libs/gcp/window.cc:364 ../libs/gcr/window.cc:298
+#: ../programs/calc/gchemcalc.cc:595 ../programs/spectra/window.cc:202
+#: ../programs/table/gchemtable-curve.cc:215
+msgid "Print the current file"
+msgstr "Εκτύπωση του τρέχοντος αρχείου"
+
+#: ../libs/gcp/window.cc:365 ../libs/gcr/window.cc:299
+#: ../programs/table/gchemtable-curve.cc:216
+msgid "Prope_rties..."
+msgstr "Ιδιό_τητες..."
+
+#: ../libs/gcp/window.cc:366 ../libs/gcr/window.cc:300
+msgid "Modify the file's properties"
+msgstr "Τροποποίηση ιδιοτήτων του αρχείου"
+
+#: ../libs/gcp/window.cc:367 ../libs/gcr/window.cc:301
+#: ../libs/gcugtk/chem3dwindow.cc:282 ../programs/spectra/window.cc:203
+#: ../programs/table/gchemtable-curve.cc:218
+msgid "_Close"
+msgstr "_Κλείσιμο"
+
+#: ../libs/gcp/window.cc:368 ../libs/gcr/window.cc:302
+#: ../libs/gcugtk/chem3dwindow.cc:283 ../programs/spectra/window.cc:204
+#: ../programs/table/gchemtable-curve.cc:219
+msgid "Close the current file"
+msgstr "Κλείσιμο του τρέχοντος αρχείου"
+
+#: ../libs/gcp/window.cc:369 ../libs/gcr/window.cc:303
+#: ../libs/gcugtk/chem3dwindow.cc:284 ../programs/calc/gchemcalc.cc:596
+#: ../programs/spectra/window.cc:205 ../programs/table/gchemtable-app.cc:139
+#: ../programs/table/gchemtable-curve.cc:220
+msgid "_Quit"
+msgstr "Έ_ξοδος"
+
+#: ../libs/gcp/window.cc:370
+msgid "Quit GChemPaint"
+msgstr "Έξοδος από το GChemPaint"
+
+#: ../libs/gcp/window.cc:371 ../libs/gcr/window.cc:305
+#: ../programs/calc/gchemcalc.cc:598 ../programs/spectra/window.cc:207
+#: ../programs/table/gchemtable-curve.cc:222
+msgid "_Edit"
+msgstr "_Επεξεργασία"
+
+#: ../libs/gcp/window.cc:372
+msgid "_Undo"
+msgstr "_Αναίρεση"
+
+#: ../libs/gcp/window.cc:373
+msgid "Undo the last action"
+msgstr "Αναίρεση της τελευταίας ενέργειας"
+
+#: ../libs/gcp/window.cc:374
+msgid "_Redo"
+msgstr "_Επανάληψη"
+
+#: ../libs/gcp/window.cc:375
+msgid "Redo the undone action"
+msgstr "Επανάληψη της ενέργειας αναίρεσης"
+
+#: ../libs/gcp/window.cc:376
+msgid "Cu_t"
+msgstr "Α_ποκοπή"
+
+#: ../libs/gcp/window.cc:377
+msgid "Cut the selection"
+msgstr "Αποκοπή της επιλογής"
+
+#: ../libs/gcp/window.cc:378 ../programs/calc/gchemcalc.cc:599
+#: ../programs/spectra/window.cc:208 ../programs/table/gchemtable-curve.cc:223
+msgid "_Copy"
+msgstr "_Αντιγραφή"
+
+#: ../libs/gcp/window.cc:379 ../programs/calc/gchemcalc.cc:600
+#: ../programs/spectra/window.cc:209 ../programs/table/gchemtable-curve.cc:224
+msgid "Copy the selection"
+msgstr "Αντιγραφή της επιλογής"
+
+#: ../libs/gcp/window.cc:380
+msgid "_Paste"
+msgstr "_Επικόλληση"
+
+#: ../libs/gcp/window.cc:381
+msgid "Paste the clipboard"
+msgstr "Επικόλληση του πρόχειρου"
+
+#: ../libs/gcp/window.cc:382
+msgid "C_lear"
+msgstr "Ε_κκαθάριση"
+
+#: ../libs/gcp/window.cc:383
+msgid "Clear the selection"
+msgstr "Εκκαθάριση της επιλογής"
+
+#: ../libs/gcp/window.cc:384
+msgid "Select _All"
+msgstr "Επιλογή ό_λων"
+
+#: ../libs/gcp/window.cc:385
+msgid "Select everything"
+msgstr "Επιλογή όλων"
+
+#: ../libs/gcp/window.cc:386
+msgid "Pr_eferences..."
+msgstr "Π_ροτιμήσεις..."
+
+#: ../libs/gcp/window.cc:387 ../libs/gcr/window.cc:307
+msgid "Configure the application"
+msgstr "Ρύθμιση της εφαρμογής"
+
+#: ../libs/gcp/window.cc:388 ../libs/gcr/window.cc:319
+#: ../libs/gcugtk/chem3dwindow.cc:286 ../programs/table/gchemtable-app.cc:141
+msgid "_View"
+msgstr "_Προβολή"
+
+#: ../libs/gcp/window.cc:389
+msgid "_Zoom"
+msgstr "_Εστίαση"
+
+#: ../libs/gcp/window.cc:390
+msgid "_400%"
+msgstr "_400%"
+
+#: ../libs/gcp/window.cc:391
+msgid "Zoom to 400%"
+msgstr "Εστίαση στο 400%"
+
+#: ../libs/gcp/window.cc:392
+msgid "_300%"
+msgstr "_300%"
+
+#: ../libs/gcp/window.cc:393
+msgid "Zoom to 300%"
+msgstr "Εστίαση στο 300%"
+
+#: ../libs/gcp/window.cc:394
+msgid "_200%"
+msgstr "_200%"
+
+#: ../libs/gcp/window.cc:395
+msgid "Zoom to 200%"
+msgstr "Εστίαση στο 200%"
+
+#: ../libs/gcp/window.cc:396
+msgid "150%"
+msgstr "150%"
+
+#: ../libs/gcp/window.cc:397
+msgid "Zoom to 150%"
+msgstr "Εστίαση στο 150%"
+
+#: ../libs/gcp/window.cc:398
+msgid "_100%"
+msgstr "_100%"
+
+#: ../libs/gcp/window.cc:399
+msgid "Zoom to 100%"
+msgstr "Εστίαση στο 100%"
+
+#: ../libs/gcp/window.cc:400
+msgid "_75%"
+msgstr "_75%"
+
+#: ../libs/gcp/window.cc:401
+msgid "Zoom to 75%"
+msgstr "Εστίαση στο 75%"
+
+#: ../libs/gcp/window.cc:402
+msgid "_50%"
+msgstr "_50%"
+
+#: ../libs/gcp/window.cc:403
+msgid "Zoom to 50%"
+msgstr "Εστίαση στο 50%"
+
+#: ../libs/gcp/window.cc:404
+msgid "25%"
+msgstr "25%"
+
+#: ../libs/gcp/window.cc:405
+msgid "Zoom to 25%"
+msgstr "Εστίαση στο 25%"
+
+#: ../libs/gcp/window.cc:406
+msgid "_Zoom to...%"
+msgstr "_Εστίαση...%"
+
+#: ../libs/gcp/window.cc:407
+msgid "Open Zoom Dialog Box"
+msgstr "Άνοιγμα πλαισίου διαλόγου εστίασης"
+
+#: ../libs/gcp/window.cc:408 ../libs/gcugtk/chem3dwindow.cc:287
+msgid "_Tools"
+msgstr "_Εργαλεία"
+
+#: ../libs/gcp/window.cc:409 ../libs/gcugtk/chem3dwindow.cc:288
+msgid "_Import molecule..."
+msgstr "_Εισαγωγή μορίου..."
+
+#: ../libs/gcp/window.cc:410 ../libs/gcugtk/chem3dwindow.cc:289
+msgid "Import a molecule either from InChI or SMILES"
+msgstr "Εισαγωγή μορίου είτε από InChI ή από SMILES"
+
+#: ../libs/gcp/window.cc:411 ../libs/gcr/window.cc:322
+msgid "_Windows"
+msgstr "_Παράθυρα"
+
+#: ../libs/gcp/window.cc:412 ../libs/gcr/window.cc:327
+#: ../libs/gcugtk/chem3dwindow.cc:300 ../programs/calc/gchemcalc.cc:602
+#: ../programs/spectra/window.cc:210 ../programs/table/gchemtable-app.cc:188
+#: ../programs/table/gchemtable-curve.cc:225
+#: ../programs/table/gchemtable-curve.cc:228
+msgid "_Help"
+msgstr "_Βοήθεια"
+
+#: ../libs/gcp/window.cc:413 ../libs/gcr/window.cc:328
+#: ../libs/gcugtk/chem3dwindow.cc:301 ../programs/calc/gchemcalc.cc:603
+#: ../programs/spectra/window.cc:211 ../programs/table/gchemtable-app.cc:189
+#: ../programs/table/gchemtable-curve.cc:226
+msgid "_Contents"
+msgstr "_Περιεχόμενα"
+
+#: ../libs/gcp/window.cc:414
+msgid "View help for GChemPaint"
+msgstr "Προβολή βοήθειας για το GChemPaint"
+
+#: ../libs/gcp/window.cc:415
+msgid "GChemPaint on the _web"
+msgstr "Το GChemPaint στον _ιστό"
+
+#: ../libs/gcp/window.cc:416
+msgid "Browse GChemPaint's web site"
+msgstr "Περιήγηση στην ιστοσελίδα του GChemPaint"
+
+#: ../libs/gcp/window.cc:417 ../libs/gcr/window.cc:332
+#: ../libs/gcugtk/chem3dwindow.cc:305 ../programs/calc/gchemcalc.cc:607
+#: ../programs/spectra/window.cc:215 ../programs/table/gchemtable-app.cc:193
+#: ../programs/table/gchemtable-curve.cc:232
+msgid "Live assistance"
+msgstr "Ζωντανή βοήθεια"
+
+#: ../libs/gcp/window.cc:418 ../libs/gcr/window.cc:333
+#: ../libs/gcugtk/chem3dwindow.cc:306 ../programs/calc/gchemcalc.cc:608
+#: ../programs/spectra/window.cc:216 ../programs/table/gchemtable-app.cc:194
+#: ../programs/table/gchemtable-curve.cc:233
+msgid "Open the Gnome Chemistry Utils IRC channel"
+msgstr "Άνοιγμα του καναλιού IRC των Βοηθητικών Προγραμμάτων Gnome Chemistry"
+
+#: ../libs/gcp/window.cc:419 ../libs/gcr/window.cc:334
+#: ../libs/gcugtk/chem3dwindow.cc:307 ../programs/calc/gchemcalc.cc:609
+#: ../programs/spectra/window.cc:217 ../programs/table/gchemtable-app.cc:195
+#: ../programs/table/gchemtable-curve.cc:234
+msgid "_Ask a question"
+msgstr "_Κάντε μια ερώτηση"
+
+#: ../libs/gcp/window.cc:420
+msgid "Ask a question about GChemPaint"
+msgstr "Κάντε μια ερώτηση για το GChemPaint"
+
+#: ../libs/gcp/window.cc:421 ../libs/gcr/window.cc:336
+#: ../libs/gcugtk/chem3dwindow.cc:309 ../programs/calc/gchemcalc.cc:611
+#: ../programs/spectra/window.cc:219 ../programs/table/gchemtable-app.cc:197
+#: ../programs/table/gchemtable-curve.cc:236
+msgid "Report _Bugs"
+msgstr "Αναφορά _Σφαλμάτων"
+
+#: ../libs/gcp/window.cc:422
+msgid "Submit a bug report for GChemPaint"
+msgstr "Υποβολή αναφοράς σφάλματος για το GChemPaint"
+
+#: ../libs/gcp/window.cc:423 ../libs/gcr/window.cc:338
+#: ../libs/gcugtk/chem3dwindow.cc:311 ../programs/calc/gchemcalc.cc:613
+#: ../programs/spectra/window.cc:221 ../programs/table/gchemtable-app.cc:199
+#: ../programs/table/gchemtable-curve.cc:238
+msgid "_About"
+msgstr "_Περί"
+
+#: ../libs/gcp/window.cc:424
+msgid "About GChemPaint"
+msgstr "Περί του GChemPaint"
+
+#: ../libs/gcp/window.cc:429
+msgid "_Full Screen"
+msgstr "_Πλήρης Οθόνη"
+
+#: ../libs/gcp/window.cc:430
+msgid "Switch between full screen and windowed mode"
+msgstr "Εναλλαγή μεταξύ πλήρους οθόνης και λειτουργίας παραθύρων"
+
+#: ../libs/gcp/window.cc:584
+msgid "Open _recent"
+msgstr "Άνοιγμα _πρόσφατων"
+
+#: ../libs/gcp/window.cc:608 ../libs/gcr/window.cc:470
+msgid "Ready"
+msgstr "Έτοιμο"
+
+#: ../libs/gcp/window.cc:777
+msgid "GChemPaint"
+msgstr "GChemPaint"
+
+#: ../libs/gcp/window.cc:786 ../libs/gcr/document.cc:1386
+#, c-format
+msgid "\"%s\" has been modified.  Do you wish to save it?"
+msgstr "Το \"%s\" έχει τροποποιηθεί.  Θέλετε να το αποθηκεύσετε;"
+
+#: ../libs/gcr/application.cc:346
+#, c-format
+msgid ""
+"\"%s\" has been modified since last saving. Do you wish to come back to "
+"saved version?"
+msgstr ""
+"Το \"%s\" έχει τροποποιηθεί μετά την τελευταία αποθήκευση. Θέλετε να "
+"επιστρέψετε στην αποθηκευμένη έκδοση;"
+
+#: ../libs/gcr/atomsdlg.cc:425
+msgid "x"
+msgstr "x"
+
+#: ../libs/gcr/atomsdlg.cc:425
+msgid "y"
+msgstr "y"
+
+#: ../libs/gcr/atomsdlg.cc:425
+msgid "z"
+msgstr "z"
+
+#. Note for translators: c.n. is for coordination number
+#: ../libs/gcr/atomsdlg.cc:497
+msgid " c.n.="
+msgstr " αριθμός συνδιάταξης="
+
+#: ../libs/gcr/atomsdlg.cc:503
+msgid "low spin"
+msgstr "χαμηλή ιδιοστροφορμή"
+
+#: ../libs/gcr/atomsdlg.cc:503
+msgid "high spin"
+msgstr "υψηλή ιδιοστροφορμή"
+
+#: ../libs/gcr/atomsdlg.cc:505
+msgid "Database"
+msgstr "Βάση δεδομένων"
+
+#: ../libs/gcr/celldlg.cc:177
+msgid "The sum of the three angles must be less than 360°"
+msgstr "Το άθροισμα των τριών γωνιών πρέπει να είναι μικρότερο από 360°"
+
+#: ../libs/gcr/cleavagesdlg.cc:140
+msgid "Planes cleaved"
+msgstr "Επίπεδα σχάσης"
+
+#: ../libs/gcr/document.cc:423
+msgid "Everything has been cleaved"
+msgstr "Τα πάντα έχουν διαιρεθεί"
+
+#: ../libs/gcr/document.cc:1650
+#, c-format
+msgid ""
+"Could not save file\n"
+"%s"
+msgstr ""
+"Αδυναμία αποθήκευσης του αρχείου\n"
+"%s"
+
+#: ../libs/gcr/grid.cc:179 ../programs/table/gchemtable-data-allocator.cc:140
+msgid "Invalid data"
+msgstr "Άκυρα δεδομένα"
+
+#: ../libs/gcr/linesdlg.cc:347
+msgid "x1"
+msgstr "x1"
+
+#: ../libs/gcr/linesdlg.cc:347
+msgid "y1"
+msgstr "y1"
+
+#: ../libs/gcr/linesdlg.cc:347
+msgid "z1"
+msgstr "z1"
+
+#: ../libs/gcr/linesdlg.cc:348
+msgid "x2"
+msgstr "x2"
+
+#: ../libs/gcr/linesdlg.cc:348
+msgid "y2"
+msgstr "y2"
+
+#: ../libs/gcr/linesdlg.cc:348
+msgid "z2"
+msgstr "z2"
+
+#: ../libs/gcr/linesdlg.cc:349 ../plugins/paint/text/fontsel.ui.h:4
+msgid "Single"
+msgstr "Απλή"
+
+#: ../libs/gcr/window.cc:150 ../libs/gcr/window.cc:404
+msgid "Gnome Crystal"
+msgstr "Gnome Crystal"
+
+#: ../libs/gcr/window.cc:153
+msgid "Gnome Crystal is a lightweight crystal structures viewer for Gnome"
+msgstr ""
+"Το Gnome Crystal είναι ένα ελαφρύ πρόγραμμα προβολής κρυσταλλικών δομών για "
+"το Gnome"
+
+#: ../libs/gcr/window.cc:154
+msgid "Copyright © 1999-2010 by Jean Bréfort"
+msgstr "Πνευματικά δικαιώματα © 1999-2010 Jean Bréfort"
+
+#: ../libs/gcr/window.cc:304
+msgid "Quit Gnome Crystal"
+msgstr "Έξοδος από το Gnome Crystal"
+
+#: ../libs/gcr/window.cc:306
+msgid "Prefere_nces..."
+msgstr "Προτιμή_σεις..."
+
+#: ../libs/gcr/window.cc:308
+msgid "_Crystal"
+msgstr "_Κρύσταλλος"
+
+#: ../libs/gcr/window.cc:309
+msgid "_Lattice..."
+msgstr "_Πλέγμα..."
+
+#: ../libs/gcr/window.cc:310
+msgid "Define the lattice"
+msgstr "Ορισμός του πλέγματος"
+
+#: ../libs/gcr/window.cc:311
+msgid "_Atoms..."
+msgstr "Ά_τομα..."
+
+#: ../libs/gcr/window.cc:312
+msgid "Add or edit atoms"
+msgstr "Προσθήκη ή επεξεργασία ατόμων"
+
+#: ../libs/gcr/window.cc:313
+msgid "_Bonds and lines..."
+msgstr "_Δεσμοί και γραμμές..."
+
+#: ../libs/gcr/window.cc:314
+msgid "Add or edit bonds and lines"
+msgstr "Προσθήκη ή επεξεργασία δεσμών ή γραμμών"
+
+#: ../libs/gcr/window.cc:315
+msgid "_Size..."
+msgstr "_Μέγεθος..."
+
+#: ../libs/gcr/window.cc:316
+msgid "Define size"
+msgstr "Προσδιορισμός μεγέθους"
+
+#: ../libs/gcr/window.cc:317
+msgid "_Cleavages..."
+msgstr "_Σχάσεις..."
+
+#: ../libs/gcr/window.cc:318
+msgid "Add or edit cleavages to remove some planes"
+msgstr "Προσθήκη ή επεξεργασία σχάσεων για την απομάκρυνση μερικών επιπέδων"
+
+#: ../libs/gcr/window.cc:320
+msgid "View _settings..."
+msgstr "_Ρυθμίσεις προβολής..."
+
+#: ../libs/gcr/window.cc:321
+msgid "Choose background color and model position"
+msgstr "Επιλογή χρώματος παρασκηνίου και θέσης προτύπου"
+
+#: ../libs/gcr/window.cc:323
+msgid "Create new _window"
+msgstr "Δημιουργία νέου _παραθύρου"
+
+#: ../libs/gcr/window.cc:324
+msgid "Create a new window"
+msgstr "Δημιουργία νέου παραθύρου"
+
+#: ../libs/gcr/window.cc:325
+msgid "_Close this window"
+msgstr "_Κλείσιμο αυτού του παραθύρου"
+
+#: ../libs/gcr/window.cc:326
+msgid "Close the current window"
+msgstr "Κλείσιμο του τρέχοντος παραθύρου"
+
+#: ../libs/gcr/window.cc:329
+msgid "View help for Gnome Crystal"
+msgstr "Προβολή βοήθειας για το Gnome Crystal"
+
+#: ../libs/gcr/window.cc:330 ../libs/gcugtk/chem3dwindow.cc:303
+#: ../programs/calc/gchemcalc.cc:605 ../programs/spectra/window.cc:213
+#: ../programs/table/gchemtable-app.cc:191
+#: ../programs/table/gchemtable-curve.cc:230
+msgid "Gnome Chemistry Utils on the _web"
+msgstr "Βοηθητικά προγράμματα Gnome Chemistry στο _διαδίκτυο"
+
+#: ../libs/gcr/window.cc:331 ../libs/gcugtk/chem3dwindow.cc:304
+#: ../programs/calc/gchemcalc.cc:606 ../programs/spectra/window.cc:214
+#: ../programs/table/gchemtable-app.cc:192
+#: ../programs/table/gchemtable-curve.cc:231
+msgid "Browse the Gnome Chemistry Utils's web site"
+msgstr "Περιήγηση στην ιστοσελίδα βοηθητικών προγραμμάτων Gnome Chemistry"
+
+#: ../libs/gcr/window.cc:335 ../libs/gcugtk/chem3dwindow.cc:308
+#: ../programs/calc/gchemcalc.cc:610 ../programs/spectra/window.cc:218
+#: ../programs/table/gchemtable-app.cc:196
+#: ../programs/table/gchemtable-curve.cc:235
+msgid "Ask a question about the Gnome Chemistry Utils"
+msgstr "Υποβολή ερώτησης για τα βοηθητικά προγράμματα Gnome Chemistry"
+
+#: ../libs/gcr/window.cc:337 ../libs/gcugtk/chem3dwindow.cc:310
+#: ../programs/calc/gchemcalc.cc:612 ../programs/spectra/window.cc:220
+#: ../programs/table/gchemtable-app.cc:198
+#: ../programs/table/gchemtable-curve.cc:237
+msgid "Submit a bug report for the Gnome Chemistry Utils"
+msgstr ""
+"Υποβολή αναφοράς σφάλματος για τα βοηθητικά προγράμματα Gnome Chemistry"
+
+#: ../libs/gcr/window.cc:339
+msgid "About Gnome Crystal"
+msgstr "Περί του Gnome Crystal"
+
+#: ../libs/gcr/window.cc:450 ../libs/gcugtk/chem3dwindow.cc:422
+#: ../programs/spectra/window.cc:288
+msgid "Open recent"
+msgstr "Άνοιγμα πρόσφατου"
+
+#: ../libs/gcr/window.cc:491
+#, c-format
+msgid "Space group: %u"
+msgstr "Ομάδα χώρου: %u"
+
+#: ../libs/gcu/application.cc:277
+msgid "Error while processing "
+msgstr "Σφάλμα διεργασίας "
+
+#: ../libs/gcu/application.cc:554
+msgid "Connection failed"
+msgstr "Αποτυχία σύνδεσης"
+
+#: ../libs/gcu/chain.cc:301 ../plugins/paint/bonds/plugin.cc:67
+msgid "Chain"
+msgstr "Αλυσίδα"
+
+#: ../libs/gcu/cycle.cc:222
+msgid "Cycle"
+msgstr "Κύκλος"
+
+#. do we need to set m_Owner to NULL?
+#: ../libs/gcu/dialog.cc:39 ../libs/gcu/dialog.cc:58
+msgid "Could not reference the new dialog."
+msgstr "Αδυναμία αναφοράς του νέου διαλόγου."
+
+#. Note to translators: the two strings are concatenated with the missing id between them.
+#: ../libs/gcu/document.cc:128
+msgid "The input contains a reference to object \""
+msgstr "Η είσοδος περιέχει αναφορά στο αντικείμενο \""
+
+#: ../libs/gcu/document.cc:128
+msgid "\" but no object with this Id is described."
+msgstr "\" ωστόσο δεν περιγράφεται κανένα αντικείμενο με αυτή την ταυτότητα."
+
+#: ../libs/gcu/document.cc:169
+msgid "Document"
+msgstr "Έγγραφο"
+
+#: ../libs/gcu/element.cc:103
+msgid "German"
+msgstr "Γερμανικά"
+
+#: ../libs/gcu/element.cc:104
+msgid "Greek"
+msgstr "Ελληνικά"
+
+#: ../libs/gcu/element.cc:105
+msgid "Spanisch"
+msgstr "Ισπανικά"
+
+#: ../libs/gcu/element.cc:106
+msgid "Basque"
+msgstr "Βασκικά"
+
+#: ../libs/gcu/element.cc:107
+msgid "French"
+msgstr "Γαλλικά"
+
+#: ../libs/gcu/element.cc:108
+msgid "Italian"
+msgstr "Ιταλικά"
+
+#: ../libs/gcu/element.cc:109
+msgid "Polish"
+msgstr "Πολωνικά"
+
+#: ../libs/gcu/element.cc:110
+msgid "Brazilian"
+msgstr "Βραζιλιάνικα"
+
+#: ../libs/gcu/element.cc:111
+msgid "Russian"
+msgstr "Ρώσικα"
+
+#: ../libs/gcu/element.cc:112
+msgid "Chinese (TW)"
+msgstr "Κινέζικα (TW)"
+
+#: ../libs/gcu/element.cc:114
+msgid "Can't find and read elements.xml"
+msgstr "Αδυναμία εύρεσης και ανάγνωσης αρχείου elements.xml"
+
+#: ../libs/gcu/element.cc:118 ../libs/gcu/element.cc:127
+msgid "Incorrect file format: elements.xml"
+msgstr "Λανθασμένος τύπος αρχείου: elements.xml"
+
+#: ../libs/gcu/element.cc:163
+msgid "English"
+msgstr "Αγγλικά"
+
+#: ../libs/gcu/element.cc:423
+msgid "Can't find and read radii.xml"
+msgstr "Αδυναμία εύρεσης και ανάγνωσης αρχείου radii.xml"
+
+#: ../libs/gcu/element.cc:427 ../libs/gcu/element.cc:440
+msgid "Incorrect file format: radii.xml"
+msgstr "Λανθασμένος τύπος αρχείου: radii.xml"
+
+#: ../libs/gcu/element.cc:529
+msgid "Can't find and read elecprops.xml"
+msgstr "Αδυναμία εύρεσης και ανάγνωσης αρχείου elecprops.xml"
+
+#: ../libs/gcu/element.cc:533 ../libs/gcu/element.cc:540
+msgid "Incorrect file format: elecprops.xml"
+msgstr "Λανθασμένος τύπος αρχείου: elecprops.xml"
+
+#: ../libs/gcu/element.cc:688
+msgid "Can't find and read isotopes.xml"
+msgstr "Αδυναμία εύρεσης και ανάγνωσης αρχείου isotopes.xml"
+
+#: ../libs/gcu/element.cc:692 ../libs/gcu/element.cc:701
+msgid "Incorrect file format: isotopes.xml"
+msgstr "Λανθασμένος τύπος αρχείου: isotopes.xml"
+
+#: ../libs/gcu/formula.cc:513 ../libs/gcu/formula.cc:553
+msgid "Unmatched parenthesis"
+msgstr "Ασύμφωνη παρένθεση"
+
+#: ../libs/gcu/formula.cc:541
+msgid "Could not interpret the symbol list"
+msgstr "Αδυναμία ερμηνείας της λίστας συμβόλων"
+
+#: ../libs/gcu/formula.cc:547
+msgid "Parser failed, please fill a bug report."
+msgstr "Ο αναλυτής απέτυχε, παρακαλώ συμπληρώστε μια αναφορά σφάλματος."
+
+#: ../libs/gcu/formula.cc:555
+msgid "Invalid character"
+msgstr "Άκυρος χαρακτήρας"
+
+#: ../libs/gcu/loader.cc:103
+msgid "Chemical file loader type."
+msgstr "Τύπος φορτωτή χημικού αρχείου."
+
+#: ../libs/gcu/object.cc:656
+msgid "Object"
+msgstr "Αντικείμενο"
+
+#: ../libs/gcu/spacegroup.cc:166
+msgid "Could not find space groups definitions in "
+msgstr "Αδυναμία εύρεσης των ορισμών των ομάδων χώρου σε "
+
+#: ../libs/gcu/spacegroup.cc:167
+msgid "Error is: "
+msgstr "Το σφάλμα είναι: "
+
+#: ../libs/gcu/spacegroup.cc:177
+msgid " is corrupt!"
+msgstr " είναι φθαρμένο!"
+
+#: ../libs/gcu/spacegroup.cc:415
+msgid "Duplicated transform: "
+msgstr "Διπλότυπο μετασχηματισμού: "
+
+#: ../libs/gcu/spacegroup.cc:429
+msgid "Invalid transform: "
+msgstr "Άκυρος μετασχηματισμός: "
+
+#: ../libs/gcu/spacegroup.cc:436
+msgid "Transform with no inverse: "
+msgstr "Μετασχηματισμός χωρίς αντιστροφή: "
+
+#: ../libs/gcu/spacegroup.cc:453 ../libs/gcu/spacegroup.cc:474
+#: ../libs/gcu/spacegroup.cc:508
+msgid "Unknown space group error, please file a bug report."
+msgstr ""
+"Άγνωστο σφάλμα ομάδας χώρου, παρακαλώ δημιουργήστε μια αναφορά σφάλματος."
+
+#. theses groups have duplicates
+#: ../libs/gcu/spacegroup.cc:458
+msgid "Space group error, please file a bug report."
+msgstr "Σφάλμα ομάδας χώρου, παρακαλώ δημιουργήστε μια αναφορά σφάλματος."
+
+#: ../libs/gcu/spacegroup.cc:483 ../libs/gcu/spacegroup.cc:495
+msgid "Ambiguous space group with incomplete definition."
+msgstr "Αμφιλεγόμενη ομάδα χώρου με ελλιπή ορισμό."
+
+#: ../libs/gcu/spacegroup.cc:501
+msgid "Unknown space group with incomplete or wrong definition."
+msgstr "Άγνωστη ομάδα χώρου με ελλιπή ή λανθασμένο ορισμό."
+
+#: ../libs/gcu/value.cc:146
+msgid "Attempt to add two values with different units."
+msgstr "Απόπειρα προσθήκης δύο τιμών με διαφορετικές μονάδες."
+
+#: ../libs/gcugtk/application.cc:75
+msgid "Open new windows full screen"
+msgstr "Άνοιγμα νέων παραθύρων σε πλήρη οθόνη"
+
+#: ../libs/gcugtk/application.cc:76
+msgid "Maximize new windows"
+msgstr "Μεγιστοποίηση των νέων παραθύρων"
+
+#: ../libs/gcugtk/application.cc:103
+#, c-format
+msgid "(screen resolution is %u)"
+msgstr "(η ανάλυση της οθόνης είναι %u)"
+
+#: ../libs/gcugtk/chem3dapplication.cc:162
+msgid "Sorry, format not supported!"
+msgstr "Συγγνώμη, ο τύπος δεν υποστηρίζεται!"
+
+#: ../libs/gcugtk/chem3dwindow.cc:225
+msgid "GChem3D is a molecular structures viewer for Gnome"
+msgstr "Το GChem3D είναι ένας προβολέας μοριακών δομών για το Gnome"
+
+#. const gchar * documentors[] = {NULL};
+#: ../libs/gcugtk/chem3dwindow.cc:227
+msgid "Copyright © 2004-2010 Jean Bréfort\n"
+msgstr "Πνευματικά δικαιώματα © 2004-2010 Jean Bréfort\n"
+
+#: ../libs/gcugtk/chem3dwindow.cc:273
+msgid "Save the current settings"
+msgstr "Αποθήκευση των τρεχουσών ρυθμίσεων"
+
+#: ../libs/gcugtk/chem3dwindow.cc:281
+msgid "Print the current scene"
+msgstr "Εκτύπωση της τρέχουσας σκηνής"
+
+#: ../libs/gcugtk/chem3dwindow.cc:285
+msgid "Quit GChem3D"
+msgstr "Έξοδος από το GChem3D"
+
+#: ../libs/gcugtk/chem3dwindow.cc:290
+msgid "Open in GChemPaint"
+msgstr "Άνοιγμα σε GChemPaint"
+
+#: ../libs/gcugtk/chem3dwindow.cc:291
+msgid "Open a 2D model for this molecule using GChemPaint"
+msgstr "Άνοιγμα 2Δ προτύπου για αυτό το μόριο χρησιμοποιώντας GChemPaint"
+
+#: ../libs/gcugtk/chem3dwindow.cc:292
+msgid "Open in GChemCalc"
+msgstr "Άνοιγμα σε GChemCalc"
+
+#: ../libs/gcugtk/chem3dwindow.cc:293
+msgid "Open the raw formula in the chemical calculator"
+msgstr "Άνοιγμα του ακατέργαστου τύπου στη χημική αριθμομηχανή"
+
+#: ../libs/gcugtk/chem3dwindow.cc:294
+msgid "Show InChI"
+msgstr "Εμφάνιση InChI"
+
+#: ../libs/gcugtk/chem3dwindow.cc:295
+msgid "Show the InChI for this molecule"
+msgstr "Εμφάνιση του InChI για αυτό το μόριο"
+
+#: ../libs/gcugtk/chem3dwindow.cc:296
+msgid "Show InChiKey"
+msgstr "Εμφάνιση InChiKey"
+
+#: ../libs/gcugtk/chem3dwindow.cc:297
+msgid "Show the InChIKey for this molecule"
+msgstr "Εμφάνιση του InChIKey για αυτό το μόριο"
+
+#: ../libs/gcugtk/chem3dwindow.cc:298
+msgid "Show SMILES"
+msgstr "Εμφάνιση SMILES"
+
+#: ../libs/gcugtk/chem3dwindow.cc:299
+msgid "Show the SMILES for this molecule"
+msgstr "Εμφάνιση του SMILES για αυτό το μόριο"
+
+#: ../libs/gcugtk/chem3dwindow.cc:302
+msgid "View help for the Molecules Viewer"
+msgstr "Προβολή βοήθειας για την εφαρμογή προβολής μορίων"
+
+#: ../libs/gcugtk/chem3dwindow.cc:312
+msgid "About GChem3D"
+msgstr "Περί του GChem3D"
+
+#: ../libs/gcugtk/chem3dwindow.cc:316
+msgid "Balls and sticks"
+msgstr "Σφαίρες και ράβδοι"
+
+#: ../libs/gcugtk/chem3dwindow.cc:317
+msgid "Display a balls and sticks model"
+msgstr "Εμφάνιση προτύπου σφαιρών και ράβδων"
+
+#: ../libs/gcugtk/chem3dwindow.cc:319
+msgid "Space filling"
+msgstr "Πλήρωση χώρου"
+
+#: ../libs/gcugtk/chem3dwindow.cc:320
+msgid "Display a space filling model"
+msgstr "Εμφάνιση προτύπου πλήρωσης χώρου"
+
+#: ../libs/gcugtk/chem3dwindow.cc:322
+msgid "Cylinders"
+msgstr "Κύλινδροι"
+
+#: ../libs/gcugtk/chem3dwindow.cc:323
+msgid "Display a cylinders model"
+msgstr "Εμφάνιση προτύπου κυλίνδρων"
+
+#: ../libs/gcugtk/chem3dwindow.cc:325
+msgid "Wireframe"
+msgstr "Πλέγμα"
+
+#: ../libs/gcugtk/chem3dwindow.cc:326
+msgid "Display a wireframe model"
+msgstr "Εμφάνιση προτύπου πλέγματος"
+
+#: ../libs/gcugtk/chem3dwindow.cc:393
+msgid "Background color"
+msgstr "Χρώμα παρασκηνίου"
+
+#: ../libs/gcugtk/chem3dwindow.cc:394
+msgid "Choose a new background color"
+msgstr "Επιλογή νέου χρώματος παρασκηνίου"
+
+#: ../libs/gcugtk/dialog.cc:109
+msgid "Type a number"
+msgstr "Πληκτρολογήστε έναν αριθμό"
+
+#: ../libs/gcugtk/dialog.cc:117 ../libs/gcugtk/dialog.cc:187
+msgid "Type a number greater than or equal to "
+msgstr "Πληκτρολογήστε έναν αριθμό μεγαλύτερο ή ίσο με "
+
+#: ../libs/gcugtk/dialog.cc:117 ../libs/gcugtk/dialog.cc:147
+msgid " and lower than "
+msgstr " και μικρότερο από "
+
+#: ../libs/gcugtk/dialog.cc:127 ../libs/gcugtk/dialog.cc:147
+#: ../libs/gcugtk/dialog.cc:167
+msgid "Type a number greater than "
+msgstr "Πληκτρολογήστε έναν αριθμό μεγαλύτερο από "
+
+#: ../libs/gcugtk/dialog.cc:127
+msgid " and lower than or equal to "
+msgstr " και μικρότερο ή ίσο από "
+
+#: ../libs/gcugtk/dialog.cc:137
+msgid "Type a number between "
+msgstr "Πληκτρολογήστε έναν αριθμό μεταξύ "
+
+#: ../libs/gcugtk/dialog.cc:137
+msgid " and "
+msgstr " και "
+
+#: ../libs/gcugtk/dialog.cc:137
+msgid ", the limits are valid."
+msgstr ", τα όρια είναι έγκυρα."
+
+#: ../libs/gcugtk/dialog.cc:157
+msgid "Type a number lower than "
+msgstr "Πληκτρολογήστε έναν αριθμό μικρότερο από "
+
+#: ../libs/gcugtk/dialog.cc:177
+msgid "Type a number lower than or equal to "
+msgstr "Πληκτρολογήστε έναν αριθμό μικρότερο ή ίσο από "
+
+#: ../libs/gcugtk/filechooser.cc:41 ../libs/gcugtk/stringdlg.cc:92
+msgid "Save as"
+msgstr "Αποθήκευση ως"
+
+#: ../libs/gcugtk/filechooser.cc:41
+msgid "Open"
+msgstr "Άνοιγμα"
+
+#: ../libs/gcugtk/filechooser.cc:64
+msgid "File _type:"
+msgstr "_Τύπος αρχείου:"
+
+#: ../libs/gcugtk/filechooser.cc:66 ../ui/crystal/cell.ui.h:17
+msgid "Automatic"
+msgstr "Αυτόματα"
+
+#: ../libs/gcugtk/gcuchem3dviewer.cc:195
+msgid "Background Color"
+msgstr "Χρώμα παρασκηνίου"
+
+#: ../libs/gcugtk/gcuchem3dviewer.cc:196
+msgid "Color used to paint the background"
+msgstr "Το χρώμα που χρησιμοποιείται για τη ζωγραφική του φόντου"
+
+#: ../libs/gcugtk/gcucomboperiodic.c:95
+#: ../programs/table/gchemtable-app.cc:300
+#: ../programs/table/gchemtable.desktop.in.h:1
+msgid "Periodic table of the elements"
+msgstr "Περιοδικός πίνακας των στοιχείων"
+
+#: ../libs/gcugtk/gcuperiodic.c:143
+#, c-format
+msgid ""
+"Out of range value %d for property \"color-style\" for GcuPeriodic instance "
+"%p\n"
+msgstr ""
+"Τιμή %d εκτός ορίων για την ιδιότητα \"τεχνοτροπία-χρώματος\" στην περίπτωση "
+"%p της εφαρμογής GcuPeriodic\n"
+
+#: ../libs/gcugtk/molecule.cc:172
+msgid "Find in databases"
+msgstr "Εύρεση στις βάσεις δεδομένων"
+
+#: ../libs/gcugtk/print-setup-dlg.cc:112
+#, c-format
+msgid "%.1f %s wide by %.1f %s tall"
+msgstr "Πλάτος %.1f %s επί ύψος %.1f %s"
+
+#: ../libs/gcugtk/print-setup-dlg.cc:112
+#, c-format
+msgid "%.0f %s wide by %.0f %s tall"
+msgstr "Πλάτος %.0f %s επί ύψος %.0f %s"
+
+#: ../libs/gcugtk/printable.cc:34
+msgid "pixels"
+msgstr "εικονοστοιχεία"
+
+#: ../libs/gcugtk/printable.cc:35
+msgid "points"
+msgstr "σημεία"
+
+#: ../libs/gcugtk/printable.cc:36
+msgid "inches"
+msgstr "ίντσες"
+
+#: ../libs/gcugtk/printable.cc:37
+msgid "mm"
+msgstr "χιλιοστά"
+
+#: ../libs/gcugtk/spectrumdoc.cc:243 ../libs/gcugtk/spectrumdoc.cc:2410
+msgid "Wavenumber (cm<sup>−1</sup>)"
+msgstr "Κυματαριθμός (cm<sup>−1</sup>)"
+
+#: ../libs/gcugtk/spectrumdoc.cc:244 ../libs/gcugtk/spectrumdoc.cc:2426
+msgid "Transmittance"
+msgstr "Διαπερατότητα"
+
+#: ../libs/gcugtk/spectrumdoc.cc:245 ../libs/gcugtk/spectrumdoc.cc:2425
+msgid "Absorbance"
+msgstr "Απορρόφηση"
+
+#: ../libs/gcugtk/spectrumdoc.cc:246 ../libs/gcugtk/spectrumdoc.cc:2236
+#: ../libs/gcugtk/spectrumdoc.cc:2336
+msgid "Chemical shift (ppm)"
+msgstr "Χημική μετατόπιση (ppm)"
+
+#: ../libs/gcugtk/spectrumdoc.cc:247
+msgid "Wavelength (nm)"
+msgstr "Μήκος κύματος (nm)"
+
+#: ../libs/gcugtk/spectrumdoc.cc:248
+msgid "Wavelength (µm)"
+msgstr "Μήκος κύματος (nm)"
+
+#: ../libs/gcugtk/spectrumdoc.cc:249
+msgid "Time (s)"
+msgstr "Χρόνος (s)"
+
+#: ../libs/gcugtk/spectrumdoc.cc:250 ../libs/gcugtk/spectrumdoc.cc:2237
+#: ../libs/gcugtk/spectrumdoc.cc:2337
+msgid "Frequency (Hz)"
+msgstr "Συχνότητα (Hz)"
+
+#: ../libs/gcugtk/spectrumdoc.cc:251
+msgid "Mass/charge ratio"
+msgstr "Αναλογία μάζας/φορτίου"
+
+#: ../libs/gcugtk/spectrumdoc.cc:252
+msgid "Relative abundance"
+msgstr "Σχετική αφθονία"
+
+#: ../libs/gcugtk/spectrumdoc.cc:253
+msgid "Response factor"
+msgstr "Συντελεστής απόκρισης"
+
+#: ../libs/gcugtk/spectrumdoc.cc:623 ../libs/gcugtk/spectrumdoc.cc:2243
+#: ../libs/gcugtk/spectrumdoc.cc:2343
+msgid "Show integral"
+msgstr "Προβολή ακέραιου"
+
+#: ../libs/gcugtk/spectrumdoc.cc:623
+msgid "Hide integral"
+msgstr "Απόκρυψη ακέραιου"
+
+#: ../libs/gcugtk/spectrumdoc.cc:732 ../libs/gcugtk/spectrumdoc.cc:1483
+msgid "Found too many data!"
+msgstr "Βρέθηκαν υπερβολικά πολλά δεδομένα!"
+
+#: ../libs/gcugtk/spectrumdoc.cc:1379 ../libs/gcugtk/spectrumdoc.cc:1409
+msgid "Constant too long"
+msgstr "Πολύ μεγάλο μήκος σταθεράς"
+
+#: ../libs/gcugtk/spectrumdoc.cc:1402
+msgid "Invalid character in data block"
+msgstr "Άκυρος χαρακτήρας στην ομάδα δεδομένων"
+
+#: ../libs/gcugtk/spectrumdoc.cc:1505
+msgid "Data check failed!"
+msgstr "Ο έλεγχος δεδομένων απέτυχε!"
+
+#: ../libs/gcugtk/spectrumdoc.cc:1522
+msgid "Data check failed: FIRSTX!"
+msgstr "Αποτυχία ελέγχου δεδομένων: FIRSTX!"
+
+#: ../libs/gcugtk/spectrumdoc.cc:1527
+msgid "Data check failed: FIRSTY!"
+msgstr "Αποτυχία ελέγχου δεδομένων: FIRSTY!"
+
+#. FIXME: Throw an exception
+#: ../libs/gcugtk/spectrumdoc.cc:1531
+msgid "Found too many data"
+msgstr "Βρέθηκαν υπερβολικά πολλά δεδομένα"
+
+#: ../libs/gcugtk/spectrumdoc.cc:1850
+msgid "Integral"
+msgstr "Ακέραιο"
+
+#: ../libs/gcugtk/spectrumdoc.cc:1973
+msgid "Real transformed data"
+msgstr "Πραγματικά μετασχηματισμένα δεδομένα"
+
+#: ../libs/gcugtk/spectrumdoc.cc:1981
+msgid "Imaginary transformed data"
+msgstr "Φανταστικά μετασχηματισμένα δεδομένα"
+
+#: ../libs/gcugtk/spectrumdoc.cc:2202 ../libs/gcugtk/spectrumdoc.cc:2277
+msgid "Chemical shift"
+msgstr "Χημική μετατόπιση"
+
+#: ../libs/gcugtk/spectrumdoc.cc:2233 ../libs/gcugtk/spectrumdoc.cc:2333
+#: ../libs/gcugtk/spectrumdoc.cc:2397
+msgid "X unit:"
+msgstr "Μονάδα άξονα Χ:"
+
+#: ../libs/gcugtk/spectrumdoc.cc:2368
+msgid "Transform to spectrum"
+msgstr "Μετασχηματισμός σε φάσμα"
+
+#: ../libs/gcugtk/spectrumdoc.cc:2407
+msgid "Wave length (nm)"
+msgstr "Μήκος κύματος (nm)"
+
+#: ../libs/gcugtk/spectrumdoc.cc:2409
+msgid "Wave length (µm)"
+msgstr "Μήκος κύματος (μm)"
+
+#: ../libs/gcugtk/spectrumdoc.cc:2415
+msgid "Invert X Axis"
+msgstr "Αντιστροφή του Άξονα των Χ"
+
+#: ../libs/gcugtk/spectrumdoc.cc:2422
+msgid "Y unit:"
+msgstr "Μονάδα άξονα Υ:"
+
+#: ../libs/gcugtk/spectrumdoc.cc:2513
+msgid "Real data"
+msgstr "Πραγματικά δεδομένα"
+
+#: ../libs/gcugtk/spectrumdoc.cc:2536
+msgid "Imaginary data"
+msgstr "Φανταστικά δεδομένα"
+
+#: ../libs/gcugtk/spectrumview.cc:111
+msgid "Minimum X value:"
+msgstr "Ελάχιστη τιμή Χ:"
+
+#: ../libs/gcugtk/spectrumview.cc:116
+msgid "Maximum X value:"
+msgstr "Μέγιστη τιμή Χ:"
+
+#: ../libs/gcugtk/spectrumview.cc:126
+msgid "Minimum Y value:"
+msgstr "Ελάχιστη τιμή Υ:"
+
+#: ../libs/gcugtk/spectrumview.cc:131
+msgid "Maximum Y value:"
+msgstr "Μέγιστη τιμή Υ:"
+
+#: ../libs/gcugtk/stringdlg.cc:161
+#, c-format
+msgid ""
+"Could not open file %s, error was:\n"
+"%s"
+msgstr ""
+"Αδυναμία ανοίγματος του αρχείου %s, το σφάλμα ήταν:\n"
+"%s"
+
+#: ../libs/gcugtk/stringdlg.cc:178
+#, c-format
+msgid ""
+"Could not write to file %s, error was:\n"
+"%s."
+msgstr ""
+"Αδυναμία εγγραφής στο αρχείο %s, το σφάλμα ήταν:\n"
+"%s."
+
+#: ../libs/gcugtk/stringdlg.cc:193
+#, c-format
+msgid ""
+"Could not close file %s, error was:\n"
+"%s"
+msgstr ""
+"Αδυναμία κλεισίματος του αρχείου %s, το σφάλμα ήταν:\n"
+"%s"
+
+#: ../libs/gcugtk/ui-builder.cc:37
+#, c-format
+msgid "Could not load %s."
+msgstr "Αδυναμία φόρτωσης του %s."
+
+#: ../plugins/loaders/cdx/cdx.cc:785 ../plugins/loaders/cdx/cdx.cc:789
+#: ../plugins/loaders/cdx/cdx.cc:917 ../plugins/loaders/cdx/cdx.cc:923
+msgid "Unsupported feature, please report!"
+msgstr "Μη υποστηριζόμενο χαρακτηριστικό, παρακαλώ αναφέρετε!"
+
+#: ../plugins/loaders/cdx/cdx.cc:877 ../plugins/loaders/cdxml/cdxml.cc:499
+#, c-format
+msgid "failed for %s\n"
+msgstr "απέτυχε για το %s\n"
+
+#: ../plugins/loaders/cdx/plugin.xml.in.h:1
+msgid "Loader : cdx"
+msgstr "Φορτωτής : cdx"
+
+#: ../plugins/loaders/cdx/plugin.xml.in.h:2
+msgid "Chemdraw cdx files loader."
+msgstr "Φορτωτής αρχείων Chemdraw cdx."
+
+#: ../plugins/loaders/cdx/plugin.xml.in.h:3
+msgid "Chemdraw cdx files loader"
+msgstr "Φορτωτής αρχείων Chemdraw cdx"
+
+#: ../plugins/loaders/cdxml/cdxml.cc:765 ../plugins/loaders/cdxml/cdxml.cc:780
+#: ../plugins/loaders/cml/cml.cc:539
+#, c-format
+msgid "'%s' is corrupt!"
+msgstr "'%s' είναι φθαρμένο!"
+
+#: ../plugins/loaders/cdxml/plugin.xml.in.h:1
+msgid "Loader : cdxml"
+msgstr "Φορτωτής : cdxml"
+
+#: ../plugins/loaders/cdxml/plugin.xml.in.h:2
+msgid "Chemdraw XML files loader."
+msgstr "Φορτωτής αρχείων Chemdraw XML."
+
+#: ../plugins/loaders/cdxml/plugin.xml.in.h:3
+msgid "Chemdraw XML files loader"
+msgstr "Φορτωτής αρχείων Chemdraw XML"
+
+#: ../plugins/loaders/cif/cif.cc:181
+msgid "Invalid loop in data."
+msgstr "Άκυρος βρόχος στα δεδομένα."
+
+#: ../plugins/loaders/cif/cif.cc:455
+msgid "Invalid symmetry group."
+msgstr "Άκυρη ομάδα συμμετρίας."
+
+#: ../plugins/loaders/cif/plugin.xml.in.h:1
+msgid "Loader : cif"
+msgstr "Φορτωτής : cif"
+
+#: ../plugins/loaders/cif/plugin.xml.in.h:2
+msgid "CIF files loader."
+msgstr "Φορτωτής αρχείων CIF."
+
+#: ../plugins/loaders/cif/plugin.xml.in.h:3
+#: ../plugins/loaders/cml/plugin.xml.in.h:3
+msgid "CML files loader"
+msgstr "Φορτωτής αρχείων CML"
+
+#: ../plugins/loaders/cml/plugin.xml.in.h:1
+msgid "Loader : cml"
+msgstr "Φορτωτής : cml"
+
+#: ../plugins/loaders/cml/plugin.xml.in.h:2
+msgid "CML files loader."
+msgstr "Φορτωτής αρχείων CML."
+
+#: ../plugins/loaders/ctfiles/plugin.xml.in.h:1
+msgid "Loader : CTfiles"
+msgstr "Φορτωτής : CTfiles"
+
+#: ../plugins/loaders/ctfiles/plugin.xml.in.h:2
+msgid "CTfiles loader."
+msgstr "Φορτωτής CTfiles."
+
+#: ../plugins/loaders/ctfiles/plugin.xml.in.h:3
+msgid "CTfiles loader"
+msgstr "Φορτωτής CTfiles"
+
+#: ../plugins/loaders/nuts/plugin.xml.in.h:1
+msgid "Loader : nuts"
+msgstr "Φορτωτής : nuts"
+
+#: ../plugins/loaders/nuts/plugin.xml.in.h:2
+msgid "NUTS files loader."
+msgstr "Φορτωτής αρχείων NUTS."
+
+#: ../plugins/loaders/nuts/plugin.xml.in.h:3
+msgid "NUTS files loader"
+msgstr "Φορτωτής αρχείων NUTS"
+
+#: ../plugins/paint/arrows/arrowtool.cc:201
+#: ../plugins/paint/atoms/chargetool.cc:141
+#: ../plugins/paint/atoms/chargetool.cc:259
+#: ../plugins/paint/atoms/electrontool.cc:113
+#: ../plugins/paint/atoms/electrontool.cc:227
+#: ../plugins/paint/bonds/bondtool.cc:172
+#: ../plugins/paint/bonds/bondtool.cc:278
+#: ../plugins/paint/cycles/cycletool.cc:466
+#: ../plugins/paint/selection/lassotool.cc:215
+#: ../plugins/paint/selection/selectiontool.cc:164
+#, c-format
+msgid "Orientation: %g"
+msgstr "Προσανατολισμός: %g"
+
+#: ../plugins/paint/arrows/arrowtool.ui.h:1
+msgid "Arrow len_gth:"
+msgstr "Μήκος βέλ_ους:"
+
+#: ../plugins/paint/arrows/arrowtool.ui.h:2
+msgid "H_alf heads"
+msgstr "Μ_ισές κεφαλές"
+
+#: ../plugins/paint/arrows/arrowtool.ui.h:3
+msgid "_Full heads"
+msgstr "_Πλήρεις κεφαλές"
+
+#: ../plugins/paint/arrows/arrowtool.ui.h:4
+#: ../plugins/paint/arrows/curvedarrowtool.ui.h:3
+msgid "Set _default"
+msgstr "Ορισμός _προεπιλογής"
+
+#: ../plugins/paint/arrows/curvedarrowtool.ui.h:1
+msgid "End arrow at center of new bond."
+msgstr "Τέλος βέλους στο κέντρο του νέου δεσμού."
+
+#: ../plugins/paint/arrows/curvedarrowtool.ui.h:2
+msgid ""
+"If check, an arrow corresponding to a new bond will end at center of the new "
+"bond, otherwise, the arrow will end at the other atom."
+msgstr ""
+"Εάν ελεγχθεί, ένα βέλος που αντιστοιχεί σε νέο δεσμό θα καταλήγει στο κέντρο "
+"του νέου δεσμού, αλλιώς το βέλος θα καταλήγει στο άλλο άτομο."
+
+#: ../plugins/paint/arrows/org.gnome.gchemutils.paint.plugins.arrows.gschema.xml.in.in.h:1
+msgid "Use full arrows heads for reversible reactions"
+msgstr "Χρήση πλήρων βελών για αντιστρέψιμες αντιδράσεις"
+
+#: ../plugins/paint/arrows/org.gnome.gchemutils.paint.plugins.arrows.gschema.xml.in.in.h:2
+msgid ""
+"If set to true, arrows for reversible reaction steps will use full arrows "
+"heads by default instead of half heads."
+msgstr ""
+"Εάν επιλεγεί, τα βέλη για τα βήματα αντιστρεπτής αντίδρασης θα χρησιμοποιούν "
+"από προεπιλογή πλήρεις κεφαλές, αντί για μισές κεφαλές."
+
+#: ../plugins/paint/arrows/org.gnome.gchemutils.paint.plugins.arrows.gschema.xml.in.in.h:3
+msgid "End mechanism arrows at center of new bonds"
+msgstr "Τέλος βελών μηχανισμού στο κέντρο των νέων δεσμών"
+
+#: ../plugins/paint/arrows/org.gnome.gchemutils.paint.plugins.arrows.gschema.xml.in.in.h:4
+msgid ""
+"If true, a curved arrow corresponding to a new bond will end at center of "
+"the new bond, otherwise, the arrow will end at the other atom."
+msgstr ""
+"Εάν επιλεγεί, ένα καμπύλο βέλος που αντιστοιχεί σε νέο δεσμό θα καταλήγει "
+"στο κέντρο του νέου δεσμού, αλλιώς το βέλος θα καταλήγει στο άλλο άτομο."
+
+#: ../plugins/paint/arrows/plugin.cc:72
+msgid "Simple arrow"
+msgstr "Απλό βέλος"
+
+#: ../plugins/paint/arrows/plugin.cc:73
+msgid "Add an arrow for an irreversible reaction"
+msgstr "Προσθήκη βέλους για μια μη αντιστρέψιμη αντίδραση"
+
+#: ../plugins/paint/arrows/plugin.cc:75
+msgid "Double arrow"
+msgstr "Διπλό βέλος"
+
+#: ../plugins/paint/arrows/plugin.cc:76
+msgid "Add a pair of arrows for a reversible reaction"
+msgstr "Προσθήκη ζεύγους βελών για μια αντιστρέψιμη αντίδραση"
+
+#: ../plugins/paint/arrows/plugin.cc:78
+#: ../plugins/paint/arrows/retrosynthesisarrow.cc:199
+msgid "Retrosynthesis arrow"
+msgstr "Βέλος ρετροσύνθεσης"
+
+#: ../plugins/paint/arrows/plugin.cc:79
+msgid "Add an arrow for a retrosynthesis step"
+msgstr "Προσθήκη βέλους για ένα βήμα ρετροσύνθεσης"
+
+#: ../plugins/paint/arrows/plugin.cc:82
+msgid "Add a double headed arrow to represent mesomery"
+msgstr "Προσθήκη βέλους με διπλή κεφαλή για να συμβολιστεί η μεσομέρεια"
+
+#: ../plugins/paint/arrows/plugin.cc:84
+msgid "Electron pair move arrow"
+msgstr "Βέλος μετακίνησης ζεύγους ηλεκτρονίων"
+
+#: ../plugins/paint/arrows/plugin.cc:85
+msgid "Add a curved arrow to represent an electron pair move"
+msgstr ""
+"Προσθήκη καμπύλου βέλους που αντιπροσωπεύει τη μετακίνηση ζεύγους ηλεκτρονίων"
+
+#: ../plugins/paint/arrows/plugin.cc:87
+msgid "Single electron move arrow"
+msgstr "Βέλος μετακίνησης απλού ηλεκτρονίου"
+
+#: ../plugins/paint/arrows/plugin.cc:88
+msgid "Add a curved arrow to represent an single electron move"
+msgstr ""
+"Προσθήκη καμπύλου βέλους που αντιπροσωπεύει τη μετακίνηση απλού ηλεκτρονίου"
+
+#: ../plugins/paint/arrows/plugin.cc:107
+msgid "Create a new retrosynthesis pathway"
+msgstr "Δημιουργία ενός νέου μηχανισμού ρετροσύνθεσης"
+
+#: ../plugins/paint/arrows/retrosynthesis.cc:241
+msgid "No target molecule!"
+msgstr "Δεν υπάρχει μόριο-στόχος!"
+
+#: ../plugins/paint/arrows/retrosynthesis.cc:243
+msgid "Multiple target molecules or missing arrows."
+msgstr "Πολλαπλά μόρια-στόχοι ή απουσία βελών."
+
+#: ../plugins/paint/arrows/retrosynthesis.cc:245
+msgid "Sorry, cyclic retrosynthesis paths are not supported."
+msgstr "Συγγνώμη, δεν υποστηρίζονται βήματα κυκλικής ρετροσύνθεσης."
+
+#: ../plugins/paint/arrows/retrosynthesis.cc:417
+msgid "Destroy the retrosynthesis path"
+msgstr "Καταστροφή του βήματος ρετροσύνθεσης"
+
+#: ../plugins/paint/arrows/retrosynthesis.cc:459
+msgid "Retrosynthesis"
+msgstr "Ρετροσύνθεση"
+
+#: ../plugins/paint/arrows/retrosynthesisstep.cc:122
+msgid "Retrosynthesis step"
+msgstr "Βήμα ρετροσύνθεσης"
+
+#: ../plugins/paint/atoms/orbital.cc:398 ../plugins/paint/atoms/orbital.cc:410
+#: ../plugins/paint/atoms/plugin.cc:78
+msgid "Orbital"
+msgstr "Τροχιακό"
+
+#: ../plugins/paint/atoms/orbital.cc:413
+#: ../plugins/paint/atoms/orbital-prop.ui.h:1
+msgid "Orbital properties"
+msgstr "Ιδιότητες τροχιακού"
+
+#: ../plugins/paint/atoms/orbital.ui.h:1
+#: ../plugins/paint/atoms/orbital-prop.ui.h:2
+#: ../plugins/paint/bonds/bond.ui.h:1 ../plugins/paint/bonds/chain.ui.h:1
+#: ../plugins/paint/bonds/newman.ui.h:1 ../plugins/paint/cycles/cycle.ui.h:1
+#: ../plugins/paint/cycles/cyclen.ui.h:1
+msgid "<b>Property</b>"
+msgstr "<b>Ιδιότητα</b>"
+
+#: ../plugins/paint/atoms/orbital.ui.h:2
+#: ../plugins/paint/atoms/orbital-prop.ui.h:6
+#: ../plugins/paint/bonds/bond.ui.h:2 ../plugins/paint/bonds/chain.ui.h:3
+#: ../plugins/paint/bonds/newman.ui.h:2 ../plugins/paint/cycles/cycle.ui.h:2
+#: ../plugins/paint/cycles/cyclen.ui.h:2
+msgid "<b>Value</b>"
+msgstr "<b>Τιμή:</b>"
+
+#: ../plugins/paint/atoms/orbital.ui.h:3
+#: ../plugins/paint/atoms/orbital-prop.ui.h:3
+msgid "_Coefficient:"
+msgstr "_Συντελεστής:"
+
+#: ../plugins/paint/atoms/orbital.ui.h:4
+#: ../plugins/paint/atoms/orbital-prop.ui.h:4
+msgid "_Rotation:"
+msgstr "_Περιστροφή:"
+
+#: ../plugins/paint/atoms/orbital.ui.h:5
+msgid ""
+"Orbital coefficient for the current atom. The size of the representation of "
+"the orbital will be proportional to this coefficient."
+msgstr ""
+"Συντελεστής τροχιακού για το τρέχον άτομο. Το μέγεθος της εκπροσώπησης του "
+"τροχιακού θα είναι ανάλογο αυτού του συντελεστή."
+
+#: ../plugins/paint/atoms/orbital.ui.h:6
+#: ../plugins/paint/atoms/orbital-prop.ui.h:5 ../ui/crystal/atoms.ui.h:7
+msgid "<b>Type:</b>"
+msgstr "<b>Τύπος:</b>"
+
+#: ../plugins/paint/atoms/orbital.ui.h:7
+#: ../plugins/paint/atoms/orbital-prop.ui.h:7
+msgid "s"
+msgstr "s"
+
+#: ../plugins/paint/atoms/orbital.ui.h:8
+#: ../plugins/paint/atoms/orbital-prop.ui.h:8
+msgid "p"
+msgstr "p"
+
+#: ../plugins/paint/atoms/orbital.ui.h:9
+#: ../plugins/paint/atoms/orbital-prop.ui.h:9
+msgid "d<sub>xy</sub>"
+msgstr "d<sub>xy</sub>"
+
+#: ../plugins/paint/atoms/orbital.ui.h:10
+#: ../plugins/paint/atoms/orbital-prop.ui.h:10
+msgid "d<sub>z<span size=\"smaller\" rise=\"0\">2</span></sub>"
+msgstr "d<sub>z<span size=\"smaller\" rise=\"0\">2</span></sub>"
+
+#: ../plugins/paint/atoms/plugin.cc:64
+msgid "Add or modify an atom"
+msgstr "Προσθήκη ή τροποποίηση ατόμου"
+
+#: ../plugins/paint/atoms/plugin.cc:66
+msgid "Positive Charge"
+msgstr "Θετικό Φορτίο"
+
+#: ../plugins/paint/atoms/plugin.cc:67
+msgid "Increment the charge of an atom"
+msgstr "Αύξηση φορτίου του ατόμου"
+
+#: ../plugins/paint/atoms/plugin.cc:69
+msgid "Negative Charge"
+msgstr "Αρνητικό Φορτίο"
+
+#: ../plugins/paint/atoms/plugin.cc:70
+msgid "Decrement the charge of an atom"
+msgstr "Μείωση φορτίου του ατόμου"
+
+#: ../plugins/paint/atoms/plugin.cc:72
+msgid "Electron Pair"
+msgstr "Ζεύγος ηλεκτρονίων"
+
+#: ../plugins/paint/atoms/plugin.cc:73
+msgid "Add an electron pair to an atom"
+msgstr "Προσθήκη ζεύγους ηλεκτρονίων σε άτομο"
+
+#: ../plugins/paint/atoms/plugin.cc:75
+msgid "Unpaired Electron"
+msgstr "Ασύζευκτο Ηλεκτρόνιο"
+
+#: ../plugins/paint/atoms/plugin.cc:76
+msgid "Add an unpaired electron to an atom"
+msgstr "Προσθήκη ασύζευκτου ηλεκτρονίου σε ένα άτομο"
+
+#: ../plugins/paint/atoms/plugin.cc:79
+msgid "Add or modify an atomic orbital"
+msgstr "Προσθήκη ή τροποποίηση ατομικού τροχιακού"
+
+#: ../plugins/paint/bonds/bond.ui.h:3 ../plugins/paint/bonds/chain.ui.h:4
+#: ../plugins/paint/cycles/cycle.ui.h:3 ../plugins/paint/cycles/cyclen.ui.h:3
+msgid "Bond len_gth:"
+msgstr "Μήκ_ος δεσμού:"
+
+#: ../plugins/paint/bonds/bond.ui.h:4 ../plugins/paint/bonds/chain.ui.h:5
+msgid "Bond _angle:"
+msgstr "_Γωνία δεσμού:"
+
+#: ../plugins/paint/bonds/bond.ui.h:5 ../plugins/paint/bonds/chain.ui.h:7
+#: ../plugins/paint/cycles/cycle.ui.h:4 ../plugins/paint/cycles/cyclen.ui.h:5
+msgid "_Merge with existing atoms"
+msgstr "_Συγχώνευση με υπάρχοντα άτομα"
+
+#: ../plugins/paint/bonds/bondtool.cc:348
+msgid "Invalid document tree, please file a bug report"
+msgstr "Άκυρο δένδρο εγγράφων, παρακαλώ δημιουργήστε μια αναφορά σφάλματος"
+
+#: ../plugins/paint/bonds/chain.ui.h:2
+msgid "<b>Auto</b>"
+msgstr "<b>Αυτόματο</b>"
+
+#: ../plugins/paint/bonds/chain.ui.h:6
+msgid "Bonds _number:"
+msgstr "_Αριθμός δεσμών:"
+
+#: ../plugins/paint/bonds/chaintool.cc:131
+#: ../plugins/paint/bonds/chaintool.cc:244
+#, c-format
+msgid "Bonds: %d, Orientation: %g"
+msgstr "Δεσμοί: %d, Προσανατολισμός: %g"
+
+#: ../plugins/paint/bonds/newman.ui.h:3
+msgid "Bonds number:"
+msgstr "Αριθμός δεσμών:"
+
+#: ../plugins/paint/bonds/newman.ui.h:4
+msgid "Bond length:"
+msgstr "Μήκος δεσμού:"
+
+#: ../plugins/paint/bonds/newman.ui.h:5
+msgid "<b>Fore</b>"
+msgstr "<b>Μπροστά</b>"
+
+#: ../plugins/paint/bonds/newman.ui.h:6
+msgid "Angle between bonds:"
+msgstr "Γωνία μεταξύ δεσμών:"
+
+#: ../plugins/paint/bonds/newman.ui.h:7
+msgid "First bond angle:"
+msgstr "Πρώτη γωνία δεσμού:"
+
+#: ../plugins/paint/bonds/newman.ui.h:8
+msgid "<b>Rear</b>"
+msgstr "<b>Πίσω</b>"
+
+#: ../plugins/paint/bonds/newman.ui.h:9
+msgid "Bond order:"
+msgstr "Σειρά δεσμών:"
+
+#: ../plugins/paint/bonds/plugin.cc:65
+msgid "Add a bond or change the multiplicity of an existing one"
+msgstr "Προσθήκη δεσμού ή αλλαγή της πολλαπλότητας ενός υπάρχοντος"
+
+#: ../plugins/paint/bonds/plugin.cc:68
+msgid "Add a chain"
+msgstr "Προσθήκη αλυσίδας"
+
+#: ../plugins/paint/bonds/plugin.cc:70
+msgid "Wedge bond tool"
+msgstr "Εργαλείο σφηνοειδών δεσμών"
+
+#: ../plugins/paint/bonds/plugin.cc:71
+msgid "Add a wedge bond"
+msgstr "Προσθήκη σφηνοειδούς δεσμού"
+
+#: ../plugins/paint/bonds/plugin.cc:73
+msgid "Hash bond tool"
+msgstr "Εργαλείο διακεκομμένων δεσμών"
+
+#: ../plugins/paint/bonds/plugin.cc:74
+msgid "Add a hash bond"
+msgstr "Προσθήκη διακεκομμένου δεσμού"
+
+#: ../plugins/paint/bonds/plugin.cc:76
+msgid "Squiggle bond tool"
+msgstr "Εργαλείο συνεστραμμένου δεσμού"
+
+#: ../plugins/paint/bonds/plugin.cc:77
+msgid "Add a squiggle bond"
+msgstr "Προσθήκη συνεστραμμένου δεσμού"
+
+#: ../plugins/paint/bonds/plugin.cc:79
+msgid "Fore bond tool"
+msgstr "Εργαλείο εμπρόσθιου δεσμού"
+
+#: ../plugins/paint/bonds/plugin.cc:80
+msgid "Add a fore bond"
+msgstr "Προσθήκη εμπρόσθιου δεσμού"
+
+#: ../plugins/paint/bonds/plugin.cc:82
+msgid "Delocalized bond tool"
+msgstr "Εργαλείο διεσπαρμένου δεσμού"
+
+#: ../plugins/paint/bonds/plugin.cc:83
+msgid "Add a delocalized bonds system"
+msgstr "Προσθήκη συστήματος διεσπαρμένων δεσμών"
+
+#: ../plugins/paint/bonds/plugin.cc:85
+msgid "Newman projection"
+msgstr "Προβολή Νιούμαν"
+
+#: ../plugins/paint/bonds/plugin.cc:86
+msgid "Add a bond in Newman projection"
+msgstr "Προσθήκη δεσμού σε προβολή Νιούμαν"
+
+#: ../plugins/paint/cycles/cyclen.ui.h:4
+msgid "Cycle _Size"
+msgstr "_Μέγεθος κυκλικού δακτυλίου"
+
+#: ../plugins/paint/cycles/plugin.cc:54
+msgid "Three atoms cycle"
+msgstr "Κυκλικός δακτύλιος τριών ατόμων"
+
+#: ../plugins/paint/cycles/plugin.cc:55
+msgid "Add a three membered cycle"
+msgstr "Προσθήκη τριμελούς κυκλικού δακτυλίου"
+
+#: ../plugins/paint/cycles/plugin.cc:57
+msgid "Four atoms cycle"
+msgstr "Κυκλικός δακτύλιος τεσσάρων ατόμων"
+
+#: ../plugins/paint/cycles/plugin.cc:58
+msgid "Add a four membered cycle"
+msgstr "Προσθήκη τετραμελούς κυκλικού δακτυλίου"
+
+#: ../plugins/paint/cycles/plugin.cc:60
+msgid "Five atoms cycle"
+msgstr "Κυκλικός δακτύλιος πέντε ατόμων"
+
+#: ../plugins/paint/cycles/plugin.cc:61
+msgid "Add a five membered cycle"
+msgstr "Προσθήκη πενταμελούς κυκλικού δακτυλίου"
+
+#: ../plugins/paint/cycles/plugin.cc:63
+msgid "Six atoms cycle"
+msgstr "Κυκλικός δακτύλιος έξι ατόμων"
+
+#: ../plugins/paint/cycles/plugin.cc:64
+msgid "Add a six membered cycle"
+msgstr "Προσθήκη εξαμελούς κυκλικού δακτυλίου"
+
+#: ../plugins/paint/cycles/plugin.cc:66
+msgid "Seven atoms cycle"
+msgstr "Κυκλικός δακτύλιος επτά ατόμων"
+
+#: ../plugins/paint/cycles/plugin.cc:67
+msgid "Add a seven membered cycle"
+msgstr "Προσθήκη επταμελούς κυκλικού δακτυλίου"
+
+#: ../plugins/paint/cycles/plugin.cc:69
+msgid "Eight atoms cycle"
+msgstr "Κυκλικός δακτύλιος οκτώ ατόμων"
+
+#: ../plugins/paint/cycles/plugin.cc:70
+msgid "Add an eight membered cycle"
+msgstr "Προσθήκη οκταμελούς κυκλικού δακτυλίου"
+
+#: ../plugins/paint/cycles/plugin.cc:72
+msgid "Variable sized cycle"
+msgstr "Κυκλικός δακτύλιος μεταβλητού μεγέθους"
+
+#: ../plugins/paint/cycles/plugin.cc:73
+msgid "Add a cycle"
+msgstr "Προσθήκη κυκλικού δακτυλίου"
+
+#: ../plugins/paint/residues/plugin.cc:72
+msgid "_Edit residues..."
+msgstr "_Επεξεργασία υπολοίπων..."
+
+#: ../plugins/paint/residues/plugin.cc:73
+msgid "Create new abbreviations"
+msgstr "Δημιουργία νέων συντμήσεων"
+
+#: ../plugins/paint/residues/residues-dlg.cc:223
+msgid "Please, provide only one molecule."
+msgstr "Παρακαλώ, δώστε μόνο ένα μόριο."
+
+#: ../plugins/paint/residues/residues-dlg.cc:239
+msgid "Please, provide a name for the residue"
+msgstr "Παρακαλώ, δώστε ένα όνομα για το υπόλοιπο"
+
+#. Symbols longer than 8 chars are not currently allowed
+#: ../plugins/paint/residues/residues-dlg.cc:257
+msgid "Symbols with more than eight characters are not allowed."
+msgstr "Σύμβολα με περισσότερους από οκτώ χαρακτήρες δεν επιτρέπονται."
+
+#: ../plugins/paint/residues/residues-dlg.cc:262
+#: ../plugins/paint/residues/residues-dlg.cc:410
+#: ../plugins/paint/residues/residues.ui.h:1
+msgid "New"
+msgstr "Νέο"
+
+#: ../plugins/paint/residues/residues-dlg.cc:263
+msgid "\"New\" is not a valid symbol"
+msgstr "Το \"Νέο\" δεν είναι έγκυρο σύμβολο"
+
+#: ../plugins/paint/residues/residues-dlg.cc:273
+msgid "Please provide at least one symbol"
+msgstr "Παρακαλώ, δώστε τουλάχιστον ένα σύμβολο"
+
+#: ../plugins/paint/residues/residues-dlg.cc:281
+#, c-format
+msgid "%s is already used by another residue."
+msgstr "To %s χρησιμοποιείται ήδη από άλλο υπόλοιπο."
+
+#: ../plugins/paint/residues/residues-dlg.cc:292
+msgid ""
+"Empty formula, this should never happen.\n"
+"Please file a bug report"
+msgstr ""
+"Κενός τύπος, αυτό δεν θα έπρεπε ποτέ να συμβαίνει.\n"
+"Παρακαλώ δημιουργήστε μια αναφορά σφάλματος"
+
+#: ../plugins/paint/residues/residues.ui.h:2
+msgid "Residues"
+msgstr "Υπόλοιπα"
+
+#: ../plugins/paint/residues/residues.ui.h:3
+msgid "_Generic"
+msgstr "_Γενικά"
+
+#: ../plugins/paint/residues/residues.ui.h:4
+msgid "_Symbol(s):"
+msgstr "_Σύμβολο(α):"
+
+#: ../plugins/paint/residues/residues.ui.h:5 ../ui/paint/preferences.ui.h:8
+msgid "N_ame:"
+msgstr "Ό_νομα:"
+
+#: ../plugins/paint/residues/residues.ui.h:6
+msgid "Identity"
+msgstr "Ταυτότητα"
+
+#: ../plugins/paint/residues/residues.ui.h:7
+msgid "Formula"
+msgstr "Τύπος"
+
+#: ../plugins/paint/selection/bracketstool.cc:202
+msgid "Error loading the properties widget description:\n"
+msgstr "Σφάλμα φόρτωσης της περιγραφής γραφικού συστατικού ιδιοτήτων:\n"
+
+#: ../plugins/paint/selection/brackets.ui.h:1
+msgid "Brackets type:"
+msgstr "Τύπος αγκυλών:"
+
+#: ../plugins/paint/selection/brackets.ui.h:2
+msgid "Used brakets:"
+msgstr "Χρησιμοποιούμενες αγκύλες:"
+
+#: ../plugins/paint/selection/brackets.ui.h:3
+msgid "Opening"
+msgstr "Άνοιγμα"
+
+#: ../plugins/paint/selection/brackets.ui.h:4
+msgid "Closing"
+msgstr "Κλείσιμο"
+
+#: ../plugins/paint/selection/brackets.ui.h:5
+msgid "Both"
+msgstr "Και τα δύο"
+
+#: ../plugins/paint/selection/group.cc:67
+msgid "Group properties..."
+msgstr "Ιδιότητες ομάδας..."
+
+#: ../plugins/paint/selection/group.cc:392
+msgid "Group"
+msgstr "Ομάδα"
+
+#: ../plugins/paint/selection/group.ui.h:1
+msgid "Normal"
+msgstr "Κανονικό"
+
+#: ../plugins/paint/selection/group.ui.h:2 ../ui/paint/H-pos.ui.h:4
+msgid "Top"
+msgstr "Κορυφή"
+
+#: ../plugins/paint/selection/group.ui.h:3
+msgid "Mid-height"
+msgstr "Μέσου ύψους"
+
+#: ../plugins/paint/selection/group.ui.h:4 ../ui/paint/H-pos.ui.h:5
+msgid "Bottom"
+msgstr "Κάτω"
+
+#: ../plugins/paint/selection/group.ui.h:5 ../ui/paint/H-pos.ui.h:2
+msgid "Left"
+msgstr "Αριστερά"
+
+#: ../plugins/paint/selection/group.ui.h:6
+msgid "Center"
+msgstr "Κέντρο"
+
+#: ../plugins/paint/selection/group.ui.h:7 ../ui/paint/H-pos.ui.h:3
+msgid "Right"
+msgstr "Δεξιά"
+
+#: ../plugins/paint/selection/group.ui.h:8
+msgid "_Group"
+msgstr "_Ομάδα"
+
+#: ../plugins/paint/selection/group.ui.h:9
+msgid "A_lign"
+msgstr "Σ_τοίχιση"
+
+#: ../plugins/paint/selection/group.ui.h:10
+msgid "_Space evenly"
+msgstr "_Ομοιόμορφος χώρος"
+
+#: ../plugins/paint/selection/group.ui.h:11
+msgid "Distance:"
+msgstr "Απόσταση:"
+
+#: ../plugins/paint/selection/lassotool.cc:389
+#: ../plugins/paint/selection/selectiontool.cc:453
+msgid "Horizontal flip"
+msgstr "Οριζόντια αναστροφή"
+
+#: ../plugins/paint/selection/lassotool.cc:390
+#: ../plugins/paint/selection/selectiontool.cc:454
+msgid "Flip the selection horizontally"
+msgstr "Οριζόντια αναστροφή της επιλογής"
+
+#: ../plugins/paint/selection/lassotool.cc:391
+#: ../plugins/paint/selection/selectiontool.cc:455
+msgid "Vertical flip"
+msgstr "Κατακόρυφη αναστροφή"
+
+#: ../plugins/paint/selection/lassotool.cc:392
+#: ../plugins/paint/selection/selectiontool.cc:456
+msgid "Flip the selection vertically"
+msgstr "Κάθετη αναστροφή της επιλογής"
+
+#: ../plugins/paint/selection/lassotool.cc:396
+#: ../plugins/paint/selection/selectiontool.cc:462
+msgid "_Rotate"
+msgstr "_Περιστροφή"
+
+#: ../plugins/paint/selection/lassotool.cc:397
+#: ../plugins/paint/selection/selectiontool.cc:463
+msgid "Rotate the selection"
+msgstr "Περιστροφή της επιλογής"
+
+#: ../plugins/paint/selection/plugin.cc:70
+msgid "Select one or more objects"
+msgstr "Επιλογή ενός ή περισσότερων αντικειμένων"
+
+#: ../plugins/paint/selection/plugin.cc:72 ../plugins/paint/text/plugin.cc:55
+msgid "Erase"
+msgstr "Σβήσιμο"
+
+#: ../plugins/paint/selection/plugin.cc:73
+msgid "Eraser"
+msgstr "Σβήστρα"
+
+#: ../plugins/paint/selection/plugin.cc:75
+#: ../plugins/paint/selection/plugin.cc:76
+msgid "Area selection"
+msgstr "Επιλογή περιοχής"
+
+#: ../plugins/paint/selection/selectiontool.cc:387
+msgid "Creation failed!"
+msgstr "Η δημιουργία απέτυχε!"
+
+#: ../plugins/paint/selection/selectiontool.cc:415
+msgid "Group and/or align objects"
+msgstr "Ομαδοποίηση και/ή στοίχιση αντικειμένων"
+
+#: ../plugins/paint/selection/selectiontool.cc:457
+msgid "Merge"
+msgstr "Συγχώνευση"
+
+#: ../plugins/paint/selection/selectiontool.cc:458
+msgid "Merge two molecules"
+msgstr "Συγχώνευση δύο μορίων"
+
+#: ../plugins/paint/templates/new-template.ui.h:1
+msgid "_Name"
+msgstr "Ό_νομα"
+
+#: ../plugins/paint/templates/new-template.ui.h:2
+msgid "_Category:"
+msgstr "_Κατηγορία:"
+
+#: ../plugins/paint/templates/plugin.cc:47
+msgid "Templates"
+msgstr "Πρότυπα"
+
+#: ../plugins/paint/templates/plugin.cc:48
+msgid "Use or manage templates"
+msgstr "Χρήση ή διαχείριση προτύπων"
+
+#: ../plugins/paint/templates/plugin.cc:224
+#: ../plugins/paint/templates/plugin.cc:226
+msgid "Miscellaneous"
+msgstr "Διάφορα"
+
+#: ../plugins/paint/templates/templates.ui.h:1
+msgid "_Templates"
+msgstr "_Πρότυπα"
+
+#: ../plugins/paint/templates/templates.ui.h:2
+msgid "No selected template"
+msgstr "Δεν επιλέχτηκε πρότυπο"
+
+#: ../plugins/paint/templates/templates.ui.h:3
+msgid "category"
+msgstr "κατηγορία"
+
+#: ../plugins/paint/templates/templatetool.cc:348
+msgid "Please provide an object."
+msgstr "Παρακαλώ δώστε ένα αντικείμενο."
+
+#: ../plugins/paint/templates/templatetool.cc:350
+msgid "Please give a name."
+msgstr "Παρακαλώ δώστε ένα όνομα."
+
+#: ../plugins/paint/templates/templatetool.cc:352
+msgid "Please choose a category."
+msgstr "Παρακαλώ επιλέξτε κατηγορία."
+
+#: ../plugins/paint/text/fontsel.ui.h:1
+msgid "_Family:"
+msgstr "_Οικογένεια:"
+
+#: ../plugins/paint/text/fontsel.ui.h:2
+msgid "_Underline:"
+msgstr "_Υπογράμμιση:"
+
+#: ../plugins/paint/text/fontsel.ui.h:3
+#: ../programs/table/gchemtable-data-allocator.cc:193
+msgid "None"
+msgstr "Καμία"
+
+#: ../plugins/paint/text/fontsel.ui.h:5
+msgid "Double"
+msgstr "Διπλή"
+
+#: ../plugins/paint/text/fontsel.ui.h:6
+#: ../programs/table/gchemtable-elt.cc:300
+msgid "Low"
+msgstr "Χαμηλό"
+
+#: ../plugins/paint/text/fontsel.ui.h:7
+msgid "_Color:"
+msgstr "_Χρώμα:"
+
+#: ../plugins/paint/text/fontsel.ui.h:8
+msgid "Stri_kethrough"
+msgstr "Διακ_ριτή διαγραφή"
+
+#: ../plugins/paint/text/fontsel.ui.h:9
+msgid "_Position:"
+msgstr "_Θέση:"
+
+#: ../plugins/paint/text/fontsel.ui.h:10
+msgid "_Style:"
+msgstr "_Τεχνοτροπία:"
+
+#: ../plugins/paint/text/fontsel.ui.h:11
+msgid "Si_ze:"
+msgstr "Μέ_γεθος:"
+
+#: ../plugins/paint/text/fragmenttool.cc:458
+msgid "Mode: "
+msgstr "Λειτουργία: "
+
+#: ../plugins/paint/text/fragmenttool.cc:461
+msgid "auto"
+msgstr "αυτόματη"
+
+#: ../plugins/paint/text/fragmenttool.cc:464
+msgid "normal"
+msgstr "κανονική"
+
+#: ../plugins/paint/text/fragmenttool.cc:467
+msgid "subscript"
+msgstr "δείκτης"
+
+#: ../plugins/paint/text/fragmenttool.cc:470
+msgid "superscript"
+msgstr "εκθέτης"
+
+#: ../plugins/paint/text/fragmenttool.cc:473
+msgid "charge"
+msgstr "φορτίο"
+
+#: ../plugins/paint/text/fragmenttool.cc:476
+msgid "stoichiometry"
+msgstr "στοιχειομετρία"
+
+#: ../plugins/paint/text/plugin.cc:53
+msgid "Add or modify a text"
+msgstr "Προσθήκη ή τροποποίηση κειμένου"
+
+#: ../plugins/paint/text/plugin.cc:56
+msgid "Add or modify a group of atoms"
+msgstr "Προσθήκη ή τροποποίηση ομάδας ατόμων"
+
+#: ../programs/3d/main.cc:37
+msgid "GChem3d Viewer version: "
+msgstr "Έκδοση προβολέα GChem3D: "
+
+#: ../programs/3d/main.cc:48
+msgid "Prints GChem3d Viewer version"
+msgstr "Τυπώνει την έκδοση του προβολέα GChem3d"
+
+#: ../programs/3d/main.cc:49
+msgid "Background color: white, black or #rrggbb (default is black)"
+msgstr "Χρώμα παρασκηνίου: λευκό, μαύρο ή #rrggbb (προεπιλεγμένο το μαύρο)"
+
+#: ../programs/3d/main.cc:50
+msgid ""
+"How molecules are displayed; possible values are BallnStick (the default), "
+"SpaceFill, Cylinders, and Wireframe"
+msgstr ""
+"Ο τρόπος με τον οποίο εμφανίζονται τα μόρια· Οι πιθανές τιμές είναι "
+"σφαίρες&ράβδοι (προεπιλογή), πλήρωσης χώρου, κύλινδροι και πλέγματος"
+
+#: ../programs/3d/main.cc:65 ../programs/spectra/gspectrum.cc:42
+msgid " [file]"
+msgstr " [αρχείο]"
+
+#: ../programs/3d/main.cc:86 ../programs/crystal/main.cc:92
+#: ../programs/paint/main.cc:99 ../programs/spectra/gspectrum.cc:61
+#, c-format
+msgid "Invalid or misplaced argument: %s\n"
+msgstr "Άκυρο ή άστοχο όρισμα: %s\n"
+
+#: ../programs/3d/gchem3d.desktop.in.h:1
+msgid "Molecules Viewer"
+msgstr "Προβολέας μορίων"
+
+#: ../programs/3d/gchem3d.desktop.in.h:2
+msgid "Display chemical 3D structures"
+msgstr "Εμφάνιση 3Δ χημικών δομών"
+
+#: ../programs/calc/gchemcalc.cc:281
+msgid "GChemCalc is a simple calculator for chemists"
+msgstr "Το GChemCalc είναι μια απλή αριθμομηχανή για χημικούς"
+
+#. const gchar * documentors[] = {NULL};
+#: ../programs/calc/gchemcalc.cc:283 ../programs/table/gchemtable-app.cc:395
+msgid "Copyright © 2005-2010 Jean Bréfort"
+msgstr "Πνευματικά δικαιώματα © 2005-2010 Jean Bréfort"
+
+#: ../programs/calc/gchemcalc.cc:324 ../ui/calc/gchemcalc.ui.h:2
+msgid "Formula:"
+msgstr "Τύπος:"
+
+#: ../programs/calc/gchemcalc.cc:327 ../ui/calc/gchemcalc.ui.h:3
+msgid "Raw formula:"
+msgstr "Εμπειρικός τύπος:"
+
+#: ../programs/calc/gchemcalc.cc:597
+msgid "Quit GChemCalc"
+msgstr "Έξοδος από το GChemCalc"
+
+#: ../programs/calc/gchemcalc.cc:601
+msgid "_Mode"
+msgstr "_Λειτουργία"
+
+#: ../programs/calc/gchemcalc.cc:604
+msgid "View help for the Chemical Calculator"
+msgstr "Προβολή βοήθειας για τη χημική αριθμομηχανή"
+
+#: ../programs/calc/gchemcalc.cc:614
+msgid "About GChemCalc"
+msgstr "Περί του GChemCalc"
+
+#: ../programs/calc/gchemcalc.cc:618
+msgid "_Guess"
+msgstr "_Υπόθεση"
+
+#: ../programs/calc/gchemcalc.cc:619
+msgid "Try to guess what is correct when interpreting ambiguous symbols"
+msgstr ""
+"Προσπάθεια υπόθεσης τι είναι σωστό όταν γίνεται ερμηνεία αμφιλεγόμενων "
+"συμβόλων"
+
+#: ../programs/calc/gchemcalc.cc:621
+msgid "_Atom"
+msgstr "Ά_τομο"
+
+#: ../programs/calc/gchemcalc.cc:622
+msgid "Interpreting ambiguous symbols as atoms"
+msgstr "Ερμηνεία αμφιλεγόμενων συμβόλων ως άτομα"
+
+#: ../programs/calc/gchemcalc.cc:624
+msgid "_Nickname"
+msgstr "_Παρωνύμιο"
+
+#: ../programs/calc/gchemcalc.cc:625
+msgid "Interpret ambiguous symbols as atoms groups nicknames"
+msgstr "Ερμηνεία αμφιλεγόμενων συμβόλων ως ομάδες ατόμων"
+
+#: ../programs/calc/gchemcalc.cc:627
+msgid "As_k"
+msgstr "Ε_ρώτηση"
+
+#: ../programs/calc/gchemcalc.cc:628
+msgid "Ask user for the correct interpretation of ambiguous symbols"
+msgstr "Να ζητείται από το χρήστη η σωστή ερμηνεία των αμφιλεγόμενων συμβόλων"
+
+#: ../programs/calc/gchemcalc.cc:666
+msgid "GChemCalc Calculator version: "
+msgstr "Έκδοση αριθμομηχανής GChemCalc: "
+
+#: ../programs/calc/gchemcalc.cc:687
+msgid " [formula]"
+msgstr " [τύπος]"
+
+#: ../programs/calc/gchemcalc.cc:703
+msgid "For usage see: gchemcalc [-?|--help]"
+msgstr "Για τη χρήση δείτε: gchemcalc [-?|--βοήθεια]"
+
+#: ../programs/calc/gchemcalc.cc:749
+msgid "Element"
+msgstr "Στοιχείο"
+
+#: ../programs/calc/gchemcalc.cc:756
+msgid "Mass %"
+msgstr "Μάζα %"
+
+#: ../programs/calc/gchemcalc.desktop.in.h:1 ../ui/calc/gchemcalc.ui.h:1
+msgid "Chemical calculator"
+msgstr "Χημική αριθμομηχανή"
+
+#: ../programs/calc/gchemcalc.desktop.in.h:2
+msgid "A simple calculator for chemistry"
+msgstr "Μια απλή αριθμομηχανή για χημεία"
+
+#: ../programs/crystal/gcrystal.desktop.in.h:1
+msgid "Gnome Crystal Crystalline Structures Viewer"
+msgstr "Προβολέας κρυσταλλικών δομών Gnome Crystal"
+
+#: ../programs/crystal/gcrystal.desktop.in.h:2
+msgid "Edit and display crystalline structures"
+msgstr "Επεξεργασία και εμφάνιση κρυσταλλικών δομών"
+
+#: ../programs/crystal/application.cc:53
+#, c-format
+msgid "Untitled%d"
+msgstr "Ανώνυμο%d"
+
+#: ../programs/crystal/main.cc:49
+msgid "Gnome Chemistry Utils version: "
+msgstr "Έκδοση βοηθητικών προγραμμάτων Gnome Chemistry: "
+
+#: ../programs/crystal/main.cc:69 ../programs/paint/main.cc:81
+msgid " [file...]"
+msgstr " [αρχείο...]"
+
+#: ../programs/paint/gchempaint.desktop.in.h:1
+msgid "GChemPaint Chemical Structures Editor"
+msgstr "Επεξεργαστής χημικών δομών GChemPaint"
+
+#: ../programs/paint/gchempaint.desktop.in.h:2
+msgid "Edit chemical 2D structures"
+msgstr "Επεξεργασία 2Δ χημικών δομών"
+
+#: ../programs/paint/main.cc:43
+msgid "GChemPaint version: "
+msgstr "Έκδοση GChemPaint: "
+
+#: ../programs/spectra/application.cc:40 ../programs/spectra/application.cc:67
+msgid "GSpectrum"
+msgstr "GSpectrum"
+
+#: ../programs/spectra/gspectrum.desktop.in.h:1
+msgid "Spectrum viewer"
+msgstr "Προβολέας φασμάτων"
+
+#: ../programs/spectra/gspectrum.desktop.in.h:2
+msgid "A spectrum viewer for the GNOME desktop"
+msgstr "Ένας προβολέας φασμάτων για την επιφάνεια εργασίας GNOME"
+
+#: ../programs/spectra/window.cc:112
+msgid "GSpectrum is a spectrum viewer for Gnome"
+msgstr "To GSpectrum είναι ένας προβολέας φασμάτων για το GNOME"
+
+#. const gchar * documentors[] = {NULL};
+#: ../programs/spectra/window.cc:114
+msgid "Copyright © 2007-2010 Jean Bréfort\n"
+msgstr "Πνευματικά δικαιώματα © 2007-2010 Jean Bréfort\n"
+
+#: ../programs/spectra/window.cc:206
+msgid "Quit GSpectrum"
+msgstr "Έξοδος από το GSpectrum"
+
+#: ../programs/spectra/window.cc:212
+msgid "View help for the Spectra Viewer"
+msgstr "Προβολή βοήθειας για τον προβολέα φασμάτων"
+
+#: ../programs/spectra/window.cc:222
+msgid "About GSpectrum"
+msgstr "Περί του GSpectrum"
+
+#: ../programs/table/gchemtable-app.cc:140
+#: ../programs/table/gchemtable-curve.cc:221
+msgid "Quit GChemTable"
+msgstr "Έξοδος από το GChemTable"
+
+#: ../programs/table/gchemtable-app.cc:142
+msgid "Color scheme"
+msgstr "Συνδυασμός χρωμάτων"
+
+#: ../programs/table/gchemtable-app.cc:143
+msgid "No colors"
+msgstr "Χωρίς χρώματα"
+
+#: ../programs/table/gchemtable-app.cc:144
+msgid "Use default Gtk theme colors"
+msgstr "Χρήση προεπιλεγμένων χρωμάτων θέματος Gtk"
+
+#: ../programs/table/gchemtable-app.cc:146
+msgid "Use default symbolic element colors"
+msgstr "Χρήση προεπιλεγμένων χρωμάτων συμβολισμού των στοιχείων"
+
+#: ../programs/table/gchemtable-app.cc:147
+msgid "Physical states"
+msgstr "Φυσικές καταστάσεις"
+
+#: ../programs/table/gchemtable-app.cc:148
+msgid "Use colors to display physical state at a given temperature"
+msgstr ""
+"Χρήση χρωμάτων για την εμφάνιση της φυσικής κατάστασης σε μια δοθείσα "
+"θερμοκρασία"
+
+#: ../programs/table/gchemtable-app.cc:151
+msgid "Use colors to display the family grouping of the elements"
+msgstr ""
+"Χρήση χρωμάτων για την εμφάνιση της κατάταξης των στοιχείων ανά οικογένεια"
+
+#: ../programs/table/gchemtable-app.cc:153
+msgid "Acidity"
+msgstr "Οξύτητα"
+
+#: ../programs/table/gchemtable-app.cc:154
+msgid "Use colors to display the acidity of the elements"
+msgstr "Χρήση χρωμάτων για την εμφάνιση της οξύτητας των στοιχείων"
+
+#: ../programs/table/gchemtable-app.cc:156
+msgid "Electronegativity"
+msgstr "Ηλεκτραρνητικότητα"
+
+#: ../programs/table/gchemtable-app.cc:157
+msgid "Use colors to display the electronegativity of the elements"
+msgstr "Χρήση χρωμάτων για την εμφάνιση της ηλεκτραρνητικότητας των στοιχείων"
+
+#: ../programs/table/gchemtable-app.cc:159
+msgid "Atomic radius"
+msgstr "Ατομική ακτίνα"
+
+#: ../programs/table/gchemtable-app.cc:160
+msgid "Use colors to display the covalent radii of the elements"
+msgstr "Χρήση χρωμάτων για την εμφάνιση των ομοιοπολικών ακτίνων των στοιχείων"
+
+#: ../programs/table/gchemtable-app.cc:162
+msgid "Block"
+msgstr "Ομάδα"
+
+#: ../programs/table/gchemtable-app.cc:163
+msgid "Use colors to display the blocks elements belong to"
+msgstr ""
+"Χρήση χρωμάτων για την εμφάνιση των ομάδων στις οποίες ανήκουν τα στοιχεία"
+
+#: ../programs/table/gchemtable-app.cc:165
+msgid "Element charts "
+msgstr "Διαγράμματα στοιχείων "
+
+#: ../programs/table/gchemtable-app.cc:166
+msgid "Electronegativty "
+msgstr "Ηλεκτραρνητικότητα "
+
+#: ../programs/table/gchemtable-app.cc:167
+msgid "Create an electronegativity chart"
+msgstr "Δημιουργία διαγράμματος ηλεκτραρνητικότητας"
+
+#: ../programs/table/gchemtable-app.cc:168
+msgid "Electon affinity"
+msgstr "Ηλεκτρονιακή συγγένεια"
+
+#: ../programs/table/gchemtable-app.cc:169
+msgid "Create an electronic affinity chart"
+msgstr "Δημιουργία διαγράμματος ηλεκτρονιακής συγγένειας"
+
+#: ../programs/table/gchemtable-app.cc:170
+#: ../programs/table/gchemtable-curve.cc:344
+#: ../programs/table/gchemtable-data.cc:529
+msgid "First ionization energy"
+msgstr "Ενέργεια πρώτου ιονισμού"
+
+#: ../programs/table/gchemtable-app.cc:171
+msgid "Create an first ionization energy chart"
+msgstr "Δημιουργία διαγράμματος ενέργειας πρώτου ιονισμού"
+
+#: ../programs/table/gchemtable-app.cc:172
+#: ../programs/table/gchemtable-curve.cc:348
+#: ../programs/table/gchemtable-data.cc:530
+msgid "Second ionization energy"
+msgstr "Ενέργεια δεύτερου ιονισμού"
+
+#: ../programs/table/gchemtable-app.cc:173
+msgid "Create an second ionization energy chart"
+msgstr "Δημιουργία διαγράμματος ενέργειας δεύτερου ιονισμού"
+
+#: ../programs/table/gchemtable-app.cc:174
+#: ../programs/table/gchemtable-curve.cc:352
+#: ../programs/table/gchemtable-data.cc:531
+msgid "Third ionization energy"
+msgstr "Ενέργεια τρίτου ιονισμού"
+
+#: ../programs/table/gchemtable-app.cc:175
+msgid "Create an third ionization energy chart"
+msgstr "Δημιουργία διαγράμματος ενέργειας τρίτου ιονισμού"
+
+#: ../programs/table/gchemtable-app.cc:176
+#: ../programs/table/gchemtable-curve.cc:374
+#: ../programs/table/gchemtable-data.cc:533
+msgid "Covalent radius"
+msgstr "Ομοιοπολική ακτίνα"
+
+#: ../programs/table/gchemtable-app.cc:177
+msgid "Create an atomic covalent radius chart"
+msgstr "Δημιουργία διαγράμματος ατομικής ομοιοπολικής ακτίνας"
+
+#: ../programs/table/gchemtable-app.cc:178
+#: ../programs/table/gchemtable-curve.cc:383
+#: ../programs/table/gchemtable-data.cc:534
+msgid "Van der Waals radius"
+msgstr "Ακτίνα Βαν ντερ Βάαλς"
+
+#: ../programs/table/gchemtable-app.cc:179
+msgid "Create an atomic van der Waals radius chart"
+msgstr "Δημιουργία διαγράμματος ατομικής ακτίνας βαν ντερ Βάαλς"
+
+#: ../programs/table/gchemtable-app.cc:180
+#: ../programs/table/gchemtable-curve.cc:392
+#: ../programs/table/gchemtable-data.cc:535
+msgid "Metallic radius"
+msgstr "Μεταλλική ακτίνα"
+
+#: ../programs/table/gchemtable-app.cc:181
+msgid "Create an atomic metallic radius chart"
+msgstr "Δημιουργία διαγράμματος ατομικής μεταλλικής ακτίνας"
+
+#: ../programs/table/gchemtable-app.cc:182
+msgid "Melting temperature"
+msgstr "Θερμοκρασία τήξης"
+
+#: ../programs/table/gchemtable-app.cc:183
+msgid "Create an melting temperature chart"
+msgstr "Δημιουργία διαγράμματος θερμοκρασίας τήξης"
+
+#: ../programs/table/gchemtable-app.cc:184
+#: ../programs/table/gchemtable-curve.cc:410
+#: ../programs/table/gchemtable-data.cc:537
+msgid "Ebullition temperature"
+msgstr "Θερμοκρασία βρασμού"
+
+#: ../programs/table/gchemtable-app.cc:185
+msgid "Create an ebullition temperature chart"
+msgstr "Δημιουργία διαγράμματος θερμοκρασίας βρασμού"
+
+#: ../programs/table/gchemtable-app.cc:186 ../ui/crystal/atoms.ui.h:10
+msgid "Custom"
+msgstr "Προσαρμοσμένο"
+
+#: ../programs/table/gchemtable-app.cc:187
+msgid "Create a custom chart"
+msgstr "Δημιουργία προσαρμοσμένου διαγράμματος"
+
+#: ../programs/table/gchemtable-app.cc:190
+#: ../programs/table/gchemtable-curve.cc:227
+msgid "View help for the Periodic Table"
+msgstr "Προβολή βοήθειας για τον περιοδικό πίνακα"
+
+#: ../programs/table/gchemtable-app.cc:200
+#: ../programs/table/gchemtable-curve.cc:239
+msgid "About GChemTable"
+msgstr "Περί του GChemTable"
+
+#: ../programs/table/gchemtable-app.cc:393
+msgid "GChemTable is a chemical periodic table of the elements application"
+msgstr ""
+"Το GChemTable είναι μια χημική εφαρμογή του περιοδικού πίνακα των στοιχείων"
+
+#. The <sup> </sup> markup at the end of the chain is there to ensure that
+#. things will be correcly aligned, add the same to the translated string
+#: ../programs/table/gchemtable-elt.cc:62
+msgid "Electronic configuration:<sup> </sup>"
+msgstr "Ηλεκτρονιακή δομή:<sup> </sup>"
+
+#: ../programs/table/gchemtable-elt.cc:74
+msgid "Lang"
+msgstr "Γλώσσα"
+
+#: ../programs/table/gchemtable-elt.cc:81
+msgid "Name"
+msgstr "Όνομα"
+
+#: ../programs/table/gchemtable-elt.cc:107
+#: ../programs/table/gchemtable-elt.cc:144
+#: ../programs/table/gchemtable-elt.cc:176
+#: ../programs/table/gchemtable-elt.cc:199
+#: ../programs/table/gchemtable-elt.cc:213
+#: ../programs/table/gchemtable-elt.cc:227
+#: ../programs/table/gchemtable-elt.cc:249
+msgid "n.a."
+msgstr "μη διαθέσιμη"
+
+#: ../programs/table/gchemtable-elt.cc:118
+#: ../programs/table/gchemtable-elt.cc:153
+#, c-format
+msgid "%d:"
+msgstr "%d:"
+
+#: ../programs/table/gchemtable-elt.cc:126 ../ui/table/eltpage.ui.h:5
+msgid "Show curve"
+msgstr "Προβολή καμπύλης"
+
+#: ../programs/table/gchemtable-elt.cc:261
+msgid "Ion"
+msgstr "Ιόν"
+
+#. C.N. stands for coordination number
+#: ../programs/table/gchemtable-elt.cc:268
+msgid "C.N."
+msgstr "Αριθμός συνδιάταξης"
+
+#: ../programs/table/gchemtable-elt.cc:273
+msgid "Spin"
+msgstr "Ιδιοστροφορμή"
+
+#: ../programs/table/gchemtable-elt.cc:280
+msgid "Value"
+msgstr "Τιμή"
+
+#: ../programs/table/gchemtable-elt.cc:303
+msgid "High"
+msgstr "Υψηλό"
+
+#: ../programs/table/gchemtable-curve.cc:217
+msgid "Modify the graph properties"
+msgstr "Τροποποίηση ιδιοτήτων γραφήματος"
+
+#: ../programs/table/gchemtable-curve.cc:229
+msgid "View help for the Curve Window"
+msgstr "Προβολή βοήθειας για το παράθυρο καμπύλης"
+
+#: ../programs/table/gchemtable-curve.cc:322
+#: ../programs/table/gchemtable-curve.cc:325
+#: ../programs/table/gchemtable-curve.cc:329
+#: ../programs/table/gchemtable-data.cc:528
+msgid "Pauling electronegativity"
+msgstr "Ηλεκτραρνητικότητα Πάουλινγκ"
+
+#: ../programs/table/gchemtable-curve.cc:331
+#: ../programs/table/gchemtable-data.cc:532
+msgid "Electronic affinity"
+msgstr "Ηλεκτρονιακή συγγένεια"
+
+#: ../programs/table/gchemtable-curve.cc:334
+msgid "Electron affinity (kJ/mol)"
+msgstr "Ηλεκτρονιακή συγγένεια (kJ/mol)"
+
+#: ../programs/table/gchemtable-curve.cc:338
+msgid "Electron affinity"
+msgstr "Ηλεκτρονιακή συγγένεια"
+
+#: ../programs/table/gchemtable-curve.cc:345
+msgid "1st. "
+msgstr "1η "
+
+#: ../programs/table/gchemtable-curve.cc:349
+msgid "2nd. "
+msgstr "2η"
+
+#: ../programs/table/gchemtable-curve.cc:353
+msgid "3rd. "
+msgstr "3η "
+
+#: ../programs/table/gchemtable-curve.cc:356
+#, c-format
+msgid "%dth. "
+msgstr "%dη"
+
+#: ../programs/table/gchemtable-curve.cc:362
+msgid "ionization energy (MJ/mol)"
+msgstr "ενέργεια ιονισμού (MJ/mol)"
+
+#: ../programs/table/gchemtable-curve.cc:369
+msgid "ionization energy"
+msgstr "ενέργεια ιονισμού"
+
+#: ../programs/table/gchemtable-curve.cc:377
+#: ../programs/table/gchemtable-curve.cc:381
+msgid "Covalent radii"
+msgstr "Ομοιοπολικές ακτίνες"
+
+#: ../programs/table/gchemtable-curve.cc:386
+#: ../programs/table/gchemtable-curve.cc:390
+msgid "Van der Waals radii"
+msgstr "Ακτίνες Βαν ντερ Βάαλς"
+
+#: ../programs/table/gchemtable-curve.cc:395
+#: ../programs/table/gchemtable-curve.cc:399
+msgid "Metallic radii"
+msgstr "Μεταλλικές ακτίνες"
+
+#: ../programs/table/gchemtable-curve.cc:401
+#: ../programs/table/gchemtable-data.cc:536
+msgid "Fusion temperature"
+msgstr "Θερμοκρασία σύντηξης"
+
+#: ../programs/table/gchemtable-curve.cc:404
+#: ../programs/table/gchemtable-curve.cc:408
+msgid "Melting point"
+msgstr "Σημείο τήξης"
+
+#: ../programs/table/gchemtable-curve.cc:413
+#: ../programs/table/gchemtable-curve.cc:417
+msgid "Boiling point"
+msgstr "Σημείο βρασμού"
+
+#: ../programs/table/gchemtable-curve.cc:433
+#: ../programs/table/gchemtable-data.cc:526
+msgid "Atomic number"
+msgstr "Ατομικός αριθμός"
+
+#. FIXME: we might know the errors
+#: ../programs/table/gchemtable-data-allocator.cc:184
+msgid "Not supported"
+msgstr "Δεν υποστηρίζεται"
+
+#: ../programs/table/gchemtable-data.cc:527
+msgid "Atomic mass"
+msgstr "Ατομικό βάρος"
+
+#: ../programs/table/gchemtable.desktop.in.h:2
+msgid "A Mendeleiev table of the chemical elements"
+msgstr "Ένας πίνακας Μεντελέγιεφ των χημικών στοιχείων"
+
+#: ../schemas/org.gnome.gchemutils.crystal.gschema.xml.in.in.h:1
+msgid "Printing resolution"
+msgstr "Ανάλυση εκτύπωσης"
+
+#: ../schemas/org.gnome.gchemutils.crystal.gschema.xml.in.in.h:2
+msgid "Printing resolution if not automatically detected."
+msgstr "Ανάλυση εκτύπωσης εάν δεν ανιχνεύεται αυτόματα."
+
+#: ../schemas/org.gnome.gchemutils.crystal.gschema.xml.in.in.h:3
+msgid "Default field of view"
+msgstr "Προεπιλεγμένο οπτικό πεδίο"
+
+#: ../schemas/org.gnome.gchemutils.crystal.gschema.xml.in.in.h:4
+msgid "Field of view used by default for the model display."
+msgstr ""
+"Οπτικό πεδίο που χρησιμοποιείται από προεπιλογή για την εμφάνιση του "
+"προτύπου."
+
+#: ../schemas/org.gnome.gchemutils.crystal.gschema.xml.in.in.h:5
+msgid "Default precession"
+msgstr "Προεπιλεγμένη μετάπτωση"
+
+#: ../schemas/org.gnome.gchemutils.crystal.gschema.xml.in.in.h:6
+msgid ""
+"Default Euler's precession angle for model display. Acceptable values are "
+"-180. to + 180."
+msgstr ""
+"Προεπιλεγμένη γωνία μετάπτωσης του Όιλερ για την εμφάνιση του προτύπου. Οι "
+"αποδεκτές τιμές είναι από -180 έως +180."
+
+#: ../schemas/org.gnome.gchemutils.crystal.gschema.xml.in.in.h:7
+msgid "Default nutation"
+msgstr "Προεπιλεγμένη κλόνιση"
+
+#: ../schemas/org.gnome.gchemutils.crystal.gschema.xml.in.in.h:8
+msgid ""
+"Default Euler's nutation angle for model display. Acceptable values are 0. "
+"to + 180."
+msgstr ""
+"Προεπιλεγμένη γωνία κλόνισης Όιλερ για την εμφάνιση του προτύπου. Οι "
+"αποδεκτές τιμές είναι από 0 έως +180."
+
+#: ../schemas/org.gnome.gchemutils.crystal.gschema.xml.in.in.h:9
+msgid "Default spin"
+msgstr "Προεπιλεγμένη ιδιοστροφορμή"
+
+#: ../schemas/org.gnome.gchemutils.crystal.gschema.xml.in.in.h:10
+msgid ""
+"Default Euler's spin angle for model display. Acceptable values are -180. to "
+"+ 180."
+msgstr ""
+"Προεπιλεγμένη γωνία στροφορμής του Όιλερ για την εμφάνιση του προτύπου. Οι "
+"αποδεκτές τιμές είναι από -180 έως +180."
+
+#: ../schemas/org.gnome.gchemutils.crystal.gschema.xml.in.in.h:11
+msgid "Background color red value"
+msgstr "Τιμή κόκκινου για το χρώμα παρασκηνίου"
+
+#: ../schemas/org.gnome.gchemutils.crystal.gschema.xml.in.in.h:12
+msgid ""
+"Red value for the default background color. Acceptable values are 0. to 1."
+msgstr ""
+"Τιμή κόκκινου για το προεπιλεγμένο χρώμα παρασκηνίου. Οι αποδεκτές τιμές "
+"είναι από 0 έως 1."
+
+#: ../schemas/org.gnome.gchemutils.crystal.gschema.xml.in.in.h:13
+msgid "Background color green value"
+msgstr "Τιμή πράσινου για το χρώμα παρασκηνίου"
+
+#: ../schemas/org.gnome.gchemutils.crystal.gschema.xml.in.in.h:14
+msgid ""
+"Green value for the default background color. Acceptable values are 0. to 1."
+msgstr ""
+"Τιμή πράσινου για το προεπιλεγμένο χρώμα παρασκηνίου. Οι αποδεκτές τιμές "
+"είναι από 0 έως 1."
+
+#: ../schemas/org.gnome.gchemutils.crystal.gschema.xml.in.in.h:15
+msgid "Background color blue value"
+msgstr "Τιμή γαλάζιου για το χρώμα παρασκηνίου"
+
+#: ../schemas/org.gnome.gchemutils.crystal.gschema.xml.in.in.h:16
+msgid ""
+"Blue value for the default background color. Acceptable values are 0. to 1."
+msgstr ""
+"Τιμή γαλάζιου για το προεπιλεγμένο χρώμα παρασκηνίου. Οι αποδεκτές τιμές "
+"είναι από 0 έως 1."
+
+#: ../schemas/org.gnome.gchemutils.gschema.xml.in.in.h:1
+msgid "Preferred Display Unit"
+msgstr "Προτιμώμενη μονάδα εμφάνισης"
+
+#: ../schemas/org.gnome.gchemutils.gschema.xml.in.in.h:2
+msgid "This string gives the default unit to be used in the page setup dialog."
+msgstr ""
+"Αυτή η συμβολοσειρά δίνει την προεπιλεγμένη μονάδα που θα χρησιμοποιηθεί "
+"στον διάλογο διαμόρφωσης σελίδας."
+
+#: ../schemas/org.gnome.gchemutils.gschema.xml.in.in.h:3
+msgid "Default Top Margin"
+msgstr "Προεπιλεγμένο επάνω περιθώριο"
+
+#: ../schemas/org.gnome.gchemutils.gschema.xml.in.in.h:4
+msgid ""
+"This value gives the default number of points from the top of a page to the "
+"start of the body."
+msgstr ""
+"Αυτή η τιμή δίνει τον προεπιλεγμένο αριθμό σημείων από το πάνω μέρος της "
+"σελίδας έως την αρχή του σώματος."
+
+#: ../schemas/org.gnome.gchemutils.gschema.xml.in.in.h:5
+msgid "Default Bottom Margin"
+msgstr "Προεπιλεγμένο κάτω περιθώριο"
+
+#: ../schemas/org.gnome.gchemutils.gschema.xml.in.in.h:6
+msgid ""
+"This value gives the default number of points from the bottom of a page to "
+"the end of the body."
+msgstr ""
+"Αυτή η τιμή δίνει τον προεπιλεγμένο αριθμό σημείων από το κάτω μέρος της "
+"σελίδας έως το τέλος του σώματος."
+
+#: ../schemas/org.gnome.gchemutils.gschema.xml.in.in.h:7
+msgid "Footer height"
+msgstr "Ύψος υποσέλιδου"
+
+#: ../schemas/org.gnome.gchemutils.gschema.xml.in.in.h:8
+msgid "This value gives the default footer height number of points."
+msgstr ""
+"Αυτή η τιμή δίνει τον προεπιλεγμένο αριθμό σημείων του ύψους υποσέλιδου."
+
+#: ../schemas/org.gnome.gchemutils.gschema.xml.in.in.h:9
+msgid "Default Top Outside Margin"
+msgstr "Προεπιλεγμένο επάνω εξωτερικό περιθώριο"
+
+#: ../schemas/org.gnome.gchemutils.gschema.xml.in.in.h:10
+msgid "This value gives the default header height number of points."
+msgstr ""
+"Αυτή η τιμή δίνει τον προεπιλεγμένο αριθμό σημείων του ύψους κεφαλίδας."
+
+#: ../schemas/org.gnome.gchemutils.gschema.xml.in.in.h:11
+msgid "Default Left Margin"
+msgstr "Προεπιλεγμένο αριστερό περιθώριο"
+
+#: ../schemas/org.gnome.gchemutils.gschema.xml.in.in.h:12
+msgid ""
+"This value gives the default number of points from the left of a page to the "
+"left of the body."
+msgstr ""
+"Αυτή η τιμή δίνει τον προεπιλεγμένο αριθμό σημείων από το αριστερό μέρος της "
+"σελίδας έως το αριστερό μέρος του σώματος."
+
+#: ../schemas/org.gnome.gchemutils.gschema.xml.in.in.h:13
+msgid ""
+"This value gives the default number of points from the right of a page to "
+"the right of the body."
+msgstr ""
+"Αυτή η τιμή δίνει τον προεπιλεγμένο αριθμό σημείων από το δεξιό μέρος της "
+"σελίδας έως το δεξιό μέρος του σώματος."
+
+#: ../schemas/org.gnome.gchemutils.gschema.xml.in.in.h:14
+msgid "Paper"
+msgstr "Χαρτί"
+
+#: ../schemas/org.gnome.gchemutils.gschema.xml.in.in.h:15
+msgid ""
+"This is the default paper specification like iso_a4 or na_letter, i.e. a PWG "
+"5101.1-2002 paper name."
+msgstr ""
+"Αυτή είναι η προεπιλεγμένη προδιαγραφή χαρτιού, όπως η iso_a4 ή η na_letter, "
+"για παράδειγμα ένα όνομα χαρτιού PWG 5101.1-2002."
+
+#: ../schemas/org.gnome.gchemutils.gschema.xml.in.in.h:16
+msgid "This is the default paper orientation."
+msgstr "Αυτός είναι ο προεπιλεγμένος προσανατολισμός του χαρτιού."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:1
+msgid "Default bond length"
+msgstr "Προεπιλεγμένο μήκος δεσμού"
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:2
+msgid "Default bond length in picometers. Used in the default theme."
+msgstr ""
+"Προεπιλεγμένο μήκος δεσμού σε pm. Χρησιμοποιείται στο προεπιλεγμένο θέμα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:3
+msgid "Default angle between two bonds."
+msgstr "Προεπιλεγμένη γωνία μεταξύ δύο δεσμών."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:4
+msgid ""
+"Default angle between two consecutive bonds in a chain in degrees. Used in "
+"the default theme."
+msgstr ""
+"Προεπιλεγμένη γωνία μεταξύ δύο διαδοχικών δεσμών σε μια αλυσίδα σε μοίρες. "
+"Χρησιμοποιείται στο προεπιλεγμένο θέμα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:5
+msgid "Default distance between two lines in a multiple bond."
+msgstr "Προεπιλεγμένη απόσταση μεταξύ δύο γραμμών σε πολλαπλό δεσμό."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:7
+#, no-c-format
+msgid ""
+"Default distance between two lines in pixels (at 100% zoom) in a multiple "
+"bond. Used in the default theme."
+msgstr ""
+"Προεπιλεγμένη απόσταση μεταξύ δύο γραμμών σε εικονοστοιχεία (στην εστίαση "
+"100%) σε πολλαπλό δεσμό. Χρησιμοποιείται στο προεπιλεγμένο θέμα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:8
+msgid "Default bond line width."
+msgstr "Προεπιλεγμένο πλάτος γραμμής δεσμού."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:10
+#, no-c-format
+msgid ""
+"Default bond line width in pixels (at 100% zoom). Used in the default theme."
+msgstr ""
+"Προεπιλεγμένο πλάτος γραμμής δεσμού σε εικονοστοιχεία (στην εστίαση 100%). "
+"Χρησιμοποιείται στο προεπιλεγμένο θέμα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:11
+msgid "Default arrow length"
+msgstr "Προεπιλεγμένο μήκος βέλους"
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:12
+msgid "Default arrow length in picometers. Used in the default theme."
+msgstr ""
+"Προεπιλεγμένο μήκος βέλους σε pm. Χρησιμοποιείται στο προεπιλεγμένο θέμα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:13
+msgid "Default distance between two lines for double arrows."
+msgstr "Προεπιλεγμένη απόσταση μεταξύ δύο γραμμών για διπλά βέλη."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:15
+#, no-c-format
+msgid ""
+"Default distance between two lines in pixels (at 100% zoom) for double "
+"arrows or for retrosynthesis arrows. Used in the default theme."
+msgstr ""
+"Προεπιλεγμένη απόσταση μεταξύ δύο γραμμών σε εικονοστοιχεία (στην εστίαση "
+"100%) για διπλά βέλη ή για βέλη ρετροσύνθεσης. Χρησιμοποιείται στο "
+"προεπιλεγμένο θέμα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:16
+msgid "Default arrow line width."
+msgstr "Προεπιλεγμένο πλάτος γραμμής βέλους."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:18
+#, no-c-format
+msgid ""
+"Default arrow line width in pixels (at 100% zoom). Used in the default theme."
+msgstr ""
+"Προεπιλεγμένο πλάτος γραμμής βέλους σε εικονοστοιχεία (στην εστίαση 100%). "
+"Χρησιμοποιείται στο προεπιλεγμένο θέμα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:19
+msgid "Default distance from tip of arrowhead to center."
+msgstr ""
+"Προεπιλεγμένη απόσταση από την απόληξη της κεφαλής του βέλους έως το κέντρο "
+"της."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:21
+#, no-c-format
+msgid ""
+"Default distance from tip of arrowhead to center in pixels (at 100% zoom). "
+"Used in the default theme."
+msgstr ""
+"Προεπιλεγμένη απόσταση από την απόληξη της κεφαλής του βέλους έως το κέντρο "
+"της σε εικονοστοιχεία (στην εστίαση 100%). Χρησιμοποιείται στο προεπιλεγμένο "
+"θέμα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:22
+msgid ""
+"Default distance from tip of arrowhead to trailing point, measured along "
+"shaft."
+msgstr ""
+"Προεπιλεγμένη απόσταση από την κορυφή της κεφαλής του βέλους ως το σημείο "
+"κατάληξης της κεφαλής, μετρημένη κατά το μήκος του άξονα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:24
+#, no-c-format
+msgid ""
+"Default distance from tip of arrowhead to trailing point, measured along "
+"shaft, in pixels (at 100% zoom). Used in the default theme."
+msgstr ""
+"Προεπιλεγμένη απόσταση από την κορυφή της κεφαλής του βέλους ως το σημείο "
+"κατάληξης της κεφαλής, μετρημένη κατά το μήκος του άξονα, σε εικονοστοιχεία "
+"(στην εστίαση 100%). Χρησιμοποιείται στο προεπιλεγμένο θέμα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:25
+msgid ""
+"Default distance of arrowhead trailing points from outside edge of shaft."
+msgstr ""
+"Προεπιλεγμένη απόσταση των σημείων κατάληξης της κεφαλής του βέλους από την "
+"εξωτερική πλευρά του άξονα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:27
+#, no-c-format
+msgid ""
+"Default distance of arrowhead trailing points from outside edge of shaft in "
+"pixels (at 100% zoom). Used in the default theme."
+msgstr ""
+"Προεπιλεγμένη απόσταση των σημείων κατάληξης της κεφαλής του βέλους από την "
+"εξωτερική πλευρά του άξονα σε εικονοστοιχεία (στην εστίαση 100%). "
+"Χρησιμοποιείται στο προεπιλεγμένο θέμα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:28
+msgid "Default hash line width."
+msgstr "Προεπιλεγμένο πλάτος των γραμμών κατακερματισμού."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:30
+#, no-c-format
+msgid ""
+"Default line width in pixels for hash bonds (at 100% zoom). Used in the "
+"default theme."
+msgstr ""
+"Προεπιλεγμένο πλάτος γραμμής σε εικονοστοιχεία για τους διακεκομμένους "
+"δεσμούς (στην εστίαση 100%). Χρησιμοποιείται στο προεπιλεγμένο θέμα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:31
+msgid "Default hash lines distance."
+msgstr "Προεπιλεγμένη απόσταση των διακεκομμένων γραμμών."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:33
+#, no-c-format
+msgid ""
+"Default distance between two lines in pixels for hash bonds (at 100% zoom). "
+"Used in the default theme."
+msgstr ""
+"Προεπιλεγμένη απόσταση μεταξύ δύο γραμμών σε εικονοστοιχεία για "
+"διακεκομμένους δεσμούς (στην εστίαση 100%). Χρησιμοποιείται στο "
+"προεπιλεγμένο θέμα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:34
+msgid "Default largest width for hash or wedge bonds."
+msgstr "Προεπιλεγμένο μέγιστο πλάτος για διακεκομμένους ή σφηνοειδείς δεσμούς."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:36
+#, no-c-format
+msgid ""
+"Default largest width for hash or wedge bonds (at 100% zoom). Used in the "
+"default theme."
+msgstr ""
+"Προεπιλεγμένο μέγιστο πλάτος για διακεκομμένους ή σφηνοειδείς δεσμούς (στην "
+"εστίαση 100%). Χρησιμοποιείται στο προεπιλεγμένο θέμα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:37
+msgid "Scale (pm per pixel)."
+msgstr "Κλίμακα (pm ανά εικονοστοιχείο)."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:39
+#, no-c-format
+msgid ""
+"Scale used to convert real distance to canvas distance expressed in pm per "
+"pixel (at 100% zoom). Used in the default theme."
+msgstr ""
+"Κλίμακα που χρησιμοποιείται για τη μετατροπή της πραγματικής απόστασης σε "
+"απόσταση πάνω στον καμβά, εκφρασμένη σε pm ανά εικονοστοιχείο (στην εστίαση "
+"100%). Χρησιμοποιείται στο προεπιλεγμένο θέμα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:40
+msgid "Default padding for texts."
+msgstr "Προεπιλεγμένη συμπλήρωση για κείμενα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:42
+#, no-c-format
+msgid ""
+"Padding used around text objects such as atoms, texts and other typographic "
+"signs in pixels (at 100% zoom). Used in the default theme."
+msgstr ""
+"Συμπλήρωση που χρησιμοποιείται γύρω από αντικείμενα κειμένου όπως άτομα, "
+"κείμενα ή άλλα τυπογραφικά σύμβολα σε εικονοστοιχεία (στην εστίαση 100%). "
+"Χρησιμοποιείται στο προεπιλεγμένο θέμα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:43
+msgid "Default padding around arrows."
+msgstr "Προεπιλεγμένη συμπλήρωση γύρω από βέλη."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:45
+#, no-c-format
+msgid ""
+"Default padding between arrows and associated objects in pixels (at 100% "
+"zoom). Used in the default theme."
+msgstr ""
+"Προεπιλεγμένη συμπλήρωση μεταξύ βελών και σχετικών αντικειμένων σε "
+"εικονοστοιχεία (στην εστίαση 100%). Χρησιμοποιείται στο προεπιλεγμένο θέμα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:46
+msgid "Default padding between a reaction arrow and an attached object."
+msgstr ""
+"Προεπιλεγμένη συμπλήρωση μεταξύ βέλους αντίδρασης και ενός προσαρτημένου "
+"αντικειμένου."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:48
+#, no-c-format
+msgid ""
+"Default padding between reaction arrows and attached objects in pixels (at "
+"100% zoom). Used in the default theme."
+msgstr ""
+"Προεπιλεγμένη συμπλήρωση μεταξύ βελών αντίδρασης και προσαρτημένων "
+"αντικειμένων σε εικονοστοιχεία (εστίαση 100%). Χρησιμοποιείται στο "
+"προεπιλεγμένο θέμα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:49
+msgid "Default extra padding after a stoichiometric coefficient."
+msgstr ""
+"Προεπιλεγμένη επιπρόσθετη συμπλήρωση μετά από στοιχειομετρικό συντελεστή."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:51
+#, no-c-format
+msgid ""
+"Default extra padding between a stoichiometric coefficient and its "
+"associated molecule in pixels (at 100% zoom). Used in the default theme."
+msgstr ""
+"Προεπιλεγμένη επιπρόσθετη συμπλήρωση μεταξύ ενός στοιχειομετρικού συντελεστή "
+"και του σχετικού με αυτόν μορίου σε εικονοστοιχεία (στην εστίαση 100%). "
+"Χρησιμοποιείται στο προεπιλεγμένο θέμα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:52
+msgid "Default padding between aligned objects."
+msgstr "Προεπιλεγμένη συμπλήρωση μεταξύ στοιχισμένων αντικειμένων."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:54
+#, no-c-format
+msgid ""
+"Default padding in pixels added between consecutive objects during an "
+"alignment operation (at 100% zoom). Used in the default theme."
+msgstr ""
+"Προεπιλεγμένη συμπλήρωση που προστίθεται μεταξύ διαδοχικών αντικειμένων κατά "
+"τη διάρκεια μιας λειτουργίας ευθυγράμμισης (στην εστίαση 100%). "
+"Χρησιμοποιείται στο προεπιλεγμένο θέμα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:55
+msgid ""
+"Default padding between a '+' sign in a reaction equation and reactants "
+"symbols."
+msgstr ""
+"Προεπιλεγμένη συμπλήρωση μεταξύ ενός συμβόλου '+' σε μια χημική εξίσωση και "
+"των συμβόλων των αντιδρώντων."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:57
+#, no-c-format
+msgid ""
+"Default padding between a '+' sign in a reaction equation and reactants "
+"symbols in pixels (at 100% zoom). Used in the default theme."
+msgstr ""
+"Προεπιλεγμένη συμπλήρωση μεταξύ ενός συμβόλου '+' σε μια χημική εξίσωση και "
+"των συμβόλων των αντιδρώντων σε εικονοστοιχεία (στην εστίαση 100%). "
+"Χρησιμοποιείται στο προεπιλεγμένο θέμα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:58
+msgid "Default charge sign size."
+msgstr "Προεπιλεγμένο μέγεθος συμβόλου φορτίου."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:60
+#, no-c-format
+msgid ""
+"Default size of the charge sign in pixels (at 100% zoom). Used in the "
+"default theme."
+msgstr ""
+"Προεπιλεγμένο μέγεθος του συμβόλου φορτίου σε εικονοστοιχεία (στην εστίαση "
+"100%). Χρησιμοποιείται στο προεπιλεγμένο θέμα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:61
+msgid "Chemical formula font family."
+msgstr "Οικογένεια γραμματοσειράς χημικών τύπων."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:62
+msgid ""
+"Font family used for chemical formula such as atoms and fragments. Used in "
+"the default theme."
+msgstr ""
+"Οικογένεια γραμματοσειράς που χρησιμοποιείται για χημικούς τύπους, όπως και "
+"για άτομα ή θραύσματα. Χρησιμοποιείται στο προεπιλεγμένο θέμα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:63
+msgid "Chemical formula font style."
+msgstr "Τεχνοτροπία γραμματοσειράς χημικών τύπων."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:64
+msgid ""
+"Font style used for chemical formula such as atoms and fragments (0 = "
+"normal; 1 = oblique; 2 = italic). Used in the default theme."
+msgstr ""
+"Τεχνοτροπία γραμματοσειράς για χρήση σε χημικούς τύπους, όπως και για άτομα "
+"ή τμήματα (0 = κανονική· 1 = λοξή· 2 = πλάγια γραφή). Χρησιμοποιείται στο "
+"προεπιλεγμένο θέμα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:65
+msgid "Chemical formula font weight."
+msgstr "Πάχος γραμματοσειράς χημικού τύπου."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:66
+msgid ""
+"Font weight used for chemical formula such as atoms and fragments (2 = ultra-"
+"light; 3 = light; 4 = normal; 6 = semi-bold; 7 = bold; 8 = ultra-bold; 9 = "
+"heavy). Used in the default theme."
+msgstr ""
+"Πάχος γραμματοσειράς που χρησιμοποιείται για χημικούς τύπους, όπως και για "
+"άτομα ή θραύσματα (2 = πολύ ελαφριά· 3 = ελαφριά· 4 = κανονική· 6 = ημι-"
+"έντονη· 7 = έντονη· 8 = πολύ έντονη· 9 = βαριά). Χρησιμοποιείται στο "
+"προεπιλεγμένο θέμα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:67
+msgid "Chemical formula font variant."
+msgstr "Παραλλαγή γραμματοσειράς χημικών τύπων."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:68
+msgid ""
+"Font variant used for chemical formula such as atoms and fragments (0 = "
+"normal; 1 = small caps). Used in the default theme."
+msgstr ""
+"Παραλλαγή γραμματοσειράς που χρησιμοποιείται για χημικούς τύπους, όπως και "
+"για άτομα ή θραύσματα (0 = κανονική· 1 = μικρά κεφαλαία). Χρησιμοποιείται "
+"στο προεπιλεγμένο θέμα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:69
+msgid "Chemical formula font stretch."
+msgstr "Έκταση γραμματοσειράς χημικού τύπου."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:70
+msgid ""
+"Font stretch used for chemical formula such as atoms and fragments (0 = "
+"ultra-condensed; 1 = extra-condensed; 2 = condensed; 3 = semi-condensed; 4 = "
+"normal; 5 = semi-expanded; 6 = expanded; 7 = extra-expanded; 8 = ultra-"
+"expanded). Used in the default theme."
+msgstr ""
+"Έκταση γραμματοσειράς που χρησιμοποιείται για χημικούς τύπους, όπως και για "
+"άτομα ή θραύσματα (0 = πάρα πολύ στενή· 1 = πολύ στενή· 2 = στενή· 3 = ημι-"
+"στενή· 4 = κανονική; 5 = ημι-εκτεταμένη· 6 = εκτεταμένη· 7 = πολύ "
+"εκτεταμένη· 8 = πάρα πολύ εκτεταμένη). Χρησιμοποιείται στο προεπιλεγμένο "
+"θέμα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:71
+msgid "Chemical formula font size."
+msgstr "Μέγεθος γραμματοσειράς χημικών τύπων."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:72
+msgid ""
+"Font size used for chemical formula such as atoms and fragments. Used in the "
+"default theme."
+msgstr ""
+"Μέγεθος γραμματοσειράς που χρησιμοποιείται για χημικούς τύπους, όπως και για "
+"άτομα ή θραύσματα. Χρησιμοποιείται στο προεπιλεγμένο θέμα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:73
+msgid "Default text font family."
+msgstr "Προεπιλεγμένη οικογένεια γραμματοσειράς κειμένου."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:74
+msgid "Default font family used for texts. Used in the default theme."
+msgstr ""
+"Προεπιλεγμένη οικογένεια γραμματοσειράς που χρησιμοποιείται για κείμενα. "
+"Χρησιμοποιείται στο προεπιλεγμένο θέμα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:75
+msgid "Default text font style."
+msgstr "Προεπιλεγμένη τεχνοτροπία γραμματοσειράς κειμένου."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:76
+msgid ""
+"Default font style used for texts (0 = normal; 1 = oblique; 2 = italic). "
+"Used in the default theme."
+msgstr ""
+"Προεπιλεγμένη τεχνοτροπία γραμματοσειράς που χρησιμοποιείται για κείμενα (0 "
+"= κανονική· 1 = λοξή· 2 = πλάγια γραφή). Χρησιμοποιείται στο προεπιλεγμένο "
+"θέμα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:77
+msgid "Default text font weight."
+msgstr "Πάχος γραμματοσειράς προεπιλεγμένου κειμένου."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:78
+msgid ""
+"Default font weight used for texts (2 = ultra-light; 3 = light; 4 = normal; "
+"6 = semi-bold; 7 = bold; 8 = ultra-bold; 9 = heavy). Used in the default "
+"theme."
+msgstr ""
+"Προεπιλεγμένο πάχος γραμματοσειράς που χρησιμοποιείται για κείμενα (2 = πολύ "
+"ελαφριά· 3 = ελαφριά· 4 = κανονική· 6 = ημι-έντονη· 7 = έντονη· 8 = πολύ "
+"έντονη· 9 = βαριά). Χρησιμοποιείται στο προεπιλεγμένο θέμα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:79
+msgid "Default text font variant."
+msgstr "Παραλλαγή γραμματοσειράς προεπιλεγμένου κειμένου."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:80
+msgid ""
+"Default font variant used for texts (0 = normal; 1 = small caps). Used in "
+"the default theme."
+msgstr ""
+"Προεπιλεγμένη παραλλαγή γραμματοσειράς που χρησιμοποιείται για κείμενα (0 = "
+"κανονική· 1 = μικρά κεφαλαία). Χρησιμοποιείται στο προεπιλεγμένο θέμα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:81
+msgid "Default text font stretch."
+msgstr "Προεπιλεγμένη έκταση γραμματοσειράς κειμένου."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:82
+msgid ""
+"Default font stretch used for texts (0 = ultra-condensed; 1 = extra-"
+"condensed; 2 = condensed; 3 = semi-condensed; 4 = normal; 5 = semi-expanded; "
+"6 = expanded; 7 = extra-expanded; 8 = ultra-expanded). Used in the default "
+"theme."
+msgstr ""
+"Προεπιλεγμένη έκταση γραμματοσειράς που χρησιμοποιείται για κείμενα (0 = "
+"πάρα πολύ στενή· 1 = πολύ στενή· 2 = στενή· 3 = ημι-στενή· 4 = κανονική; 5 = "
+"ημι-εκτεταμένη· 6 = εκτεταμένη· 7 = πολύ εκτεταμένη· 8 = πάρα πολύ "
+"εκτεταμένη). Χρησιμοποιείται στο προεπιλεγμένο θέμα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:83
+msgid "Default text font size."
+msgstr "Προεπιλεγμένο μέγεθος γραμματοσειράς κειμένου."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:84
+msgid "Font size used for texts. Used in the default theme."
+msgstr ""
+"Μέγεθος γραμματοσειράς που χρησιμοποιείται για κείμενα. Χρησιμοποιείται στο "
+"προεπιλεγμένο θέμα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:85
+msgid "File compression factor."
+msgstr "Συντελεστής συμπίεσης αρχείου."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:86
+msgid ""
+"Compression factor when saving files. Acceptable values are 0 (no "
+"compression) to 9."
+msgstr ""
+"Συντελεστής συμπίεσης κατά την αποθήκευση αρχείων. Οι αποδεκτές τιμές είναι "
+"από 0 (καμία συμπίεση) έως 9."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:87
+msgid "Whether to export simple text when copying."
+msgstr "Αν θα εξάγεται απλό κείμενο κατά την αντιγραφή."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:88
+msgid "If TRUE, STRING_UTF8 and STRING are added to the clipboard formats."
+msgstr ""
+"Εάν ΑΛΗΘΕΣ, τα STRING_UTF8 και STRING προστίθενται στους τύπους του "
+"προχείρου."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:89
+msgid "Default theme."
+msgstr "Προεπιλεγμένο θέμα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:90
+msgid "Default theme used when creating a new file."
+msgstr ""
+"Προεπιλεγμένο θέμα που χρησιμοποιείται όταν δημιουργείται ένα νέο αρχείο."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:91
+msgid "Whether the hashed wedge bonds should be inverted."
+msgstr "Αν πρέπει να αντιστραφούν οι σφηνοειδείς διακεκομμένοι δεσμοί."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:92
+msgid ""
+"Hashed bonds are normally represented with the large side nearest, which is "
+"the opposite of what many people want. Setting this key to TRUE will change "
+"this behavior. Default is FALSE."
+msgstr ""
+"Οι διακεκομμένοι δεσμοί κανονικά απεικονίζονται με κοντινότερη τη μεγάλη "
+"τους πλευρά, το οποίο είναι αντίθετο με αυτό που πολλοί θέλουν. Η επιλογή "
+"αυτού του κλειδιού αλλάζει αυτή τη συμπεριφορά. Το κλειδί από προεπιλογή "
+"είναι μη επιλεγμένο."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:93
+msgid "Whether to use colored atomic symbols."
+msgstr "Αν θα χρησιμοποιηθούν χρωματιστά ατομικά σύμβολα."
+
+#: ../schemas/org.gnome.gchemutils.paint.gschema.xml.in.in.h:94
+msgid ""
+"GChempaint displays black atomic symbols by default. When this key is set "
+"TRUE, atoms in new documents will be displayed using symbolic colors."
+msgstr ""
+"Το GChempaint εμφανίζει μαύρα ατομικά σύμβολα από προεπιλογή. Όταν αυτό το "
+"κλειδί ορίζεται ΑΛΗΘΕΣ, τα άτομα σε νέα έγγραφα θα εμφανίζονται "
+"χρησιμοποιώντας συμβολικά χρώματα."
+
+#: ../templates/paint/haworth.xml.in.h:1
+msgid "Saccharides"
+msgstr "Σακχαρίτες"
+
+#: ../templates/paint/haworth.xml.in.h:2
+msgid "α-D-fructofuranose"
+msgstr "α-D-φρουκτοφουρανόζη"
+
+#: ../templates/paint/haworth.xml.in.h:3
+msgid "α-D-galactopyranose"
+msgstr "α-D-γαλακτοπυρανόζη"
+
+#: ../templates/paint/haworth.xml.in.h:4
+msgid "α-D-glucopyranose"
+msgstr "α-D-γλυκοπυρανόζη"
+
+#: ../templates/paint/haworth.xml.in.h:5
+msgid "α-D-ribofuranose"
+msgstr "α-D-ριβοφουρανόζη"
+
+#: ../templates/paint/haworth.xml.in.h:6
+msgid "α-D-deoxyribofuranose"
+msgstr "α-D-δεοξυριβοφουρανόζη"
+
+#: ../templates/paint/haworth.xml.in.h:7
+msgid "β-D-fructofuranose"
+msgstr "β-D-φρουκτοφουρανόζη"
+
+#: ../templates/paint/haworth.xml.in.h:8
+msgid "β-D-galactopyranose"
+msgstr "β-D-γαλακτοπυρανόζη"
+
+#: ../templates/paint/haworth.xml.in.h:9
+msgid "β-D-glucopyranose"
+msgstr "β-D-γλυκοπυρανόζη"
+
+#: ../templates/paint/haworth.xml.in.h:10
+msgid "β-D-ribofuranose"
+msgstr "α-D-ριβοφουρανόζη"
+
+#: ../templates/paint/haworth.xml.in.h:11
+msgid "β-D-deoxyribofuranose"
+msgstr "β-D-δεοξυριβοφουρανόζη"
+
+#: ../templates/paint/templates.xml.in.h:1
+msgid "Benzene"
+msgstr "Βενζόλιο"
+
+#: ../templates/paint/templates.xml.in.h:2
+msgid "Aromatic hydrocarbons"
+msgstr "Αρωματικοί υδρογονάνθρακες"
+
+#: ../templates/paint/templates.xml.in.h:3
+msgid "Naphtalene"
+msgstr "Ναφθαλένιο"
+
+#: ../templates/paint/templates.xml.in.h:4
+msgid "Anthracene"
+msgstr "Ανθρακένιο"
+
+#: ../templates/paint/templates.xml.in.h:5
+msgid "Phenanthrene"
+msgstr "Φαινανθρένιο"
+
+#: ../templates/paint/templates.xml.in.h:6
+msgid "Pyrene"
+msgstr "Πυρένιο"
+
+#: ../templates/paint/templates.xml.in.h:7
+msgid "Azulene"
+msgstr "Αζουλένιο"
+
+#: ../templates/paint/templates.xml.in.h:8
+msgid "Amino acids"
+msgstr "Αμινοξέα"
+
+#: ../templates/paint/templates.xml.in.h:9
+msgid "Glycine"
+msgstr "Γλυκίνη"
+
+#: ../templates/paint/templates.xml.in.h:10
+msgid "Alanine"
+msgstr "Αλανίνη"
+
+#: ../templates/paint/templates.xml.in.h:11
+msgid "Serine"
+msgstr "Σερίνη"
+
+#: ../templates/paint/templates.xml.in.h:12
+msgid "Leucine"
+msgstr "Λευκίνη"
+
+#: ../templates/paint/templates.xml.in.h:13
+msgid "Valine"
+msgstr "Βαλίνη"
+
+#: ../templates/paint/templates.xml.in.h:14
+msgid "Isoleucine"
+msgstr "Ισολευκίνη"
+
+#: ../templates/paint/templates.xml.in.h:15
+msgid "Methionine"
+msgstr "Μεθειονίνη"
+
+#: ../templates/paint/templates.xml.in.h:16
+msgid "Proline"
+msgstr "Προλίνη"
+
+#: ../templates/paint/templates.xml.in.h:17
+msgid "Phenylalanine"
+msgstr "Φαινυλαλανίνη"
+
+#: ../templates/paint/templates.xml.in.h:18
+msgid "Tryptophan"
+msgstr "Τρυπτοφάνη"
+
+#: ../templates/paint/templates.xml.in.h:19
+msgid "Threonine"
+msgstr "Θρεονίνη"
+
+#: ../templates/paint/templates.xml.in.h:20
+msgid "Asparagine"
+msgstr "Ασπαραγίνη"
+
+#: ../templates/paint/templates.xml.in.h:21
+msgid "Glutamine"
+msgstr "Γλουταμίνη"
+
+#: ../templates/paint/templates.xml.in.h:22
+msgid "Tyrosine"
+msgstr "Τυροσίνη"
+
+#: ../templates/paint/templates.xml.in.h:23
+msgid "Cysteine"
+msgstr "Κυστεΐνη"
+
+#: ../templates/paint/templates.xml.in.h:24
+msgid "Aspartic acid"
+msgstr "Ασπαρτικό οξύ"
+
+#: ../templates/paint/templates.xml.in.h:25
+msgid "Lysine"
+msgstr "Λυσίνη"
+
+#: ../templates/paint/templates.xml.in.h:26
+msgid "Arginine"
+msgstr "Αργινίνη"
+
+#: ../templates/paint/templates.xml.in.h:27
+msgid "Histidine"
+msgstr "Ιστιδίνη"
+
+#: ../templates/paint/templates.xml.in.h:28
+msgid "Glutamic acid"
+msgstr "Γλουταμινικό οξύ"
+
+#: ../templates/paint/templates.xml.in.h:29
+msgid "Nucleic bases"
+msgstr "Νουκλεϊκές βάσεις"
+
+#: ../templates/paint/templates.xml.in.h:30
+msgid "Thymine"
+msgstr "Θυμίνη"
+
+#: ../templates/paint/templates.xml.in.h:31
+msgid "Uracil"
+msgstr "Ουρακίλη"
+
+#: ../templates/paint/templates.xml.in.h:32
+msgid "Cytosine"
+msgstr "Κυτοσίνη"
+
+#: ../templates/paint/templates.xml.in.h:33
+msgid "Adenine"
+msgstr "Αδενίνη"
+
+#: ../templates/paint/templates.xml.in.h:34
+msgid "Guanine"
+msgstr "Γουανίνη"
+
+#: ../templates/paint/templates.xml.in.h:35
+msgid "Nucleosides"
+msgstr "Νουκλεοτίδια"
+
+#: ../templates/paint/templates.xml.in.h:36
+msgid "Uridine"
+msgstr "Ουριδίνη"
+
+#: ../templates/paint/templates.xml.in.h:37
+msgid "Cytidine"
+msgstr "Κυτιδίνη"
+
+#: ../templates/paint/templates.xml.in.h:38
+msgid "Deoxythymidine"
+msgstr "Δεοξυθυμιδίνη"
+
+#: ../templates/paint/templates.xml.in.h:39
+msgid "Deoxycytidine"
+msgstr "Δεοξυκυτιδίνη"
+
+#: ../templates/paint/templates.xml.in.h:40
+msgid "Adenosine"
+msgstr "Αδενοσίνη"
+
+#: ../templates/paint/templates.xml.in.h:41
+msgid "Guanosine"
+msgstr "Γουανοσίνη"
+
+#: ../templates/paint/templates.xml.in.h:42
+msgid "Deoxyadenosine"
+msgstr "Δεοξυαδενοσίνη"
+
+#: ../templates/paint/templates.xml.in.h:43
+msgid "Deoxyguanosine"
+msgstr "Δεοξυγουανοσίνη"
+
+#: ../ui/calc/gchemcalc.ui.h:4
+msgid "Molecular weight:"
+msgstr "Μοριακό βάρος:"
+
+#: ../ui/calc/gchemcalc.ui.h:5
+msgid "Composition"
+msgstr "Σύσταση"
+
+#: ../ui/calc/gchemcalc.ui.h:6
+msgid "Monoisotopic mass:"
+msgstr "Μονοϊσοτοπική μάζα:"
+
+#: ../ui/calc/gchemcalc.ui.h:7
+msgid "Isotopic Pattern"
+msgstr "Ισοτοπικό Πρότυπο"
+
+#: ../ui/crystal/cell.ui.h:1
+msgid "<b>Lattice:</b>"
+msgstr "<b>Πλέγμα:</b>"
+
+#: ../ui/crystal/cell.ui.h:2
+msgid "Simple cubic"
+msgstr "Απλό κυβικό"
+
+#: ../ui/crystal/cell.ui.h:3
+msgid "Body-centered cubic"
+msgstr "Χωροκεντρωμένο κυβικό"
+
+#: ../ui/crystal/cell.ui.h:4
+msgid "Face-centered-cubic"
+msgstr "Εδροκεντρωμένο κυβικό"
+
+#: ../ui/crystal/cell.ui.h:5
+msgid "Hexagonal"
+msgstr "Εξαγωνικό"
+
+#: ../ui/crystal/cell.ui.h:6
+msgid "Tetragonal"
+msgstr "Τετραγωνικό"
+
+#: ../ui/crystal/cell.ui.h:7
+msgid "Body-centered tetragonal"
+msgstr "Χωροκεντρωμένο τετραγωνικό"
+
+#: ../ui/crystal/cell.ui.h:8
+msgid "Orthorhombic"
+msgstr "Ορθορομβικό"
+
+#: ../ui/crystal/cell.ui.h:9
+msgid "Base-centered orthorhombic"
+msgstr "Βασοκεντρωμένο ορθορομβικό"
+
+#: ../ui/crystal/cell.ui.h:10
+msgid "Body-centered orthorhombic"
+msgstr "Χωροκεντρωμένο ορθορομβικό"
+
+#: ../ui/crystal/cell.ui.h:11
+msgid "Face-centered orthorhombic"
+msgstr "Εδροκεντρωμένο ορθορομβικό"
+
+#: ../ui/crystal/cell.ui.h:12
+msgid "Rhombohedral"
+msgstr "Ρομβοεδρικό"
+
+#: ../ui/crystal/cell.ui.h:13
+msgid "Monoclinic"
+msgstr "Μονοκλινές"
+
+#: ../ui/crystal/cell.ui.h:14
+msgid "Base-centered monoclinic"
+msgstr "Βασοκεντρωμένο μονοκλινές"
+
+#: ../ui/crystal/cell.ui.h:15
+msgid "Triclinic"
+msgstr "Τρικλινές"
+
+#: ../ui/crystal/cell.ui.h:16
+msgid "<b>Space group:</b>"
+msgstr "<b>Ομάδα χώρου:</b>"
+
+#: ../ui/crystal/cell.ui.h:18
+msgid "<b>Cell parameters</b>"
+msgstr "<b>Παράμετροι κελιού</b>"
+
+#: ../ui/crystal/cell.ui.h:19
+msgid "a (pm): "
+msgstr "a (pm): "
+
+#: ../ui/crystal/cell.ui.h:20
+msgid "b (pm):"
+msgstr "b (pm):"
+
+#: ../ui/crystal/cell.ui.h:21
+msgid "c (pm):"
+msgstr "c (pm):"
+
+#: ../ui/crystal/cell.ui.h:22
+msgid "α (°):"
+msgstr "α (°):"
+
+#: ../ui/crystal/cell.ui.h:23
+msgid "β (°):"
+msgstr "β (°):"
+
+#: ../ui/crystal/cell.ui.h:24
+msgid "γ (°):"
+msgstr "γ (°):"
+
+#: ../ui/crystal/prefs.ui.h:1 ../ui/crystal/view-settings.ui.h:2
+msgid "<b><i>ψ</i> (°):</b>"
+msgstr "<b><i>ψ</i> (°):</b>"
+
+#: ../ui/crystal/prefs.ui.h:2 ../ui/crystal/view-settings.ui.h:3
+msgid "<b><i>θ</i> (°):</b>"
+msgstr "<b><i>θ</i> (°):</b>"
+
+#: ../ui/crystal/prefs.ui.h:3 ../ui/crystal/view-settings.ui.h:4
+msgid "<b><i>φ</i> (°):</b>"
+msgstr "<b><i>φ</i> (°):</b>"
+
+#: ../ui/crystal/prefs.ui.h:4 ../ui/crystal/view-settings.ui.h:5
+msgid "<b>Model orientation in space (Euler's angles):</b>"
+msgstr "<b>Προσανατολισμός προτύπου στον χώρο (γωνίες του Όιλερ):</b>"
+
+#: ../ui/crystal/prefs.ui.h:5 ../ui/crystal/view-settings.ui.h:6
+msgid "<b>Field of view (°):</b>"
+msgstr "<b>Οπτικό πεδίο (°):</b>"
+
+#: ../ui/crystal/prefs.ui.h:6 ../ui/crystal/view-settings.ui.h:7
+msgid ""
+"Acceptable values for the field of view are in the range from 0° to 45°. If "
+"0, no perspective effect will be used."
+msgstr ""
+"Αποδεκτές τιμές για το οπτικό πεδίο είναι στην περιοχή από 0° έως 45°. Εάν "
+"είναι 0, δεν θα χρησιμοποιηθεί προοπτικό αποτέλεσμα."
+
+#: ../ui/crystal/prefs.ui.h:7 ../ui/crystal/view-settings.ui.h:8
+msgid "<b>Background color:</b>"
+msgstr "<b>Χρώμα παρασκηνίου:</b>"
+
+#: ../ui/crystal/prefs.ui.h:8
+msgid "Default views settings"
+msgstr "Προεπιλεγμένες ρυθμίσεις προβολών"
+
+#: ../ui/crystal/prefs.ui.h:9
+msgid "<b>Printer resolution:</b>"
+msgstr "<b>Ανάλυση εκτυπωτή:</b>"
+
+#: ../ui/crystal/prefs.ui.h:10
+msgid ""
+"A printer resolution of 300 dpi generally gives a quite acceptable result. "
+"Changing to a higher value can lead to a much longer processing time."
+msgstr ""
+"Μία ανάλυση εκτυπωτή στα 300 dpi γενικά δίνει ένα αρκετά αποδεκτό "
+"αποτέλεσμα. Η αλλαγή της προς μια υψηλότερη τιμή μπορεί να οδηγήσει σε πολύ "
+"μεγαλύτερο χρόνο επεξεργασίας."
+
+#: ../ui/crystal/prefs.ui.h:11
+msgid "300"
+msgstr "300"
+
+#: ../ui/crystal/prefs.ui.h:12
+msgid "360"
+msgstr "360"
+
+#: ../ui/crystal/prefs.ui.h:13
+msgid "600"
+msgstr "600"
+
+#: ../ui/crystal/prefs.ui.h:14
+msgid "720"
+msgstr "720"
+
+#: ../ui/crystal/prefs.ui.h:15
+msgid "1200"
+msgstr "1200"
+
+#: ../ui/crystal/prefs.ui.h:16
+msgid "1440"
+msgstr "1440"
+
+#: ../ui/crystal/prefs.ui.h:17
+msgid "2400"
+msgstr "2400"
+
+#: ../ui/crystal/prefs.ui.h:18
+msgid "2880"
+msgstr "2880"
+
+#: ../ui/crystal/prefs.ui.h:20
+msgid "Printing"
+msgstr "Εκτύπωση"
+
+#: ../ui/crystal/view-settings.ui.h:1
+msgid "View settings"
+msgstr "Ρυθμίσεις προβολής"
+
+#: ../ui/crystal/atoms.ui.h:1 ../ui/crystal/cleavages.ui.h:4
+#: ../ui/crystal/lines.ui.h:4
+msgid "_Add"
+msgstr "_Προσθήκη"
+
+#: ../ui/crystal/atoms.ui.h:2 ../ui/crystal/cleavages.ui.h:3
+#: ../ui/crystal/lines.ui.h:5
+msgid "_Delete"
+msgstr "_Διαγραφή"
+
+#: ../ui/crystal/atoms.ui.h:3 ../ui/crystal/cleavages.ui.h:6
+#: ../ui/crystal/lines.ui.h:6
+msgid "Dele_te all"
+msgstr "Διαγ_ραφή όλων"
+
+#: ../ui/crystal/atoms.ui.h:4 ../ui/crystal/lines.ui.h:7
+msgid "Select _all"
+msgstr "Επιλογή ό_λων"
+
+#: ../ui/crystal/atoms.ui.h:5
+msgid "Select _element"
+msgstr "Επιλογή _στοιχείου"
+
+#: ../ui/crystal/atoms.ui.h:6
+msgid "<b>Charge: </b>"
+msgstr "<b>Φορτίο:</b>"
+
+#: ../ui/crystal/atoms.ui.h:8
+msgid "<b>Scale factor:</b>"
+msgstr "<b>Συντελεστής κλίμακας:</b>"
+
+#: ../ui/crystal/atoms.ui.h:9
+msgid "<b>Value (pm):</b>"
+msgstr "<b>Τιμή: (pm):</b>"
+
+#: ../ui/crystal/atoms.ui.h:12
+msgid "Ionic"
+msgstr "Ιοντική"
+
+#: ../ui/crystal/atoms.ui.h:13
+msgid "Metallic"
+msgstr "Μεταλλική"
+
+#: ../ui/crystal/atoms.ui.h:14
+msgid "Covalent"
+msgstr "Ομοιοπολική"
+
+#: ../ui/crystal/atoms.ui.h:15
+msgid "Van der Waals"
+msgstr "Βαν ντερ Βάαλς"
+
+#: ../ui/crystal/atoms.ui.h:16
+msgid "<b>Radius</b>"
+msgstr "<b>Ακτίνα</b>"
+
+#: ../ui/crystal/atoms.ui.h:17
+msgid "<b>Custom color:</b>"
+msgstr "<b>Προσαρμοσμένο χρώμα:</b>"
+
+#: ../ui/crystal/atoms.ui.h:18
+msgid "<b>Periodic table of the elements</b>"
+msgstr "<b>Περιοδικός πίνακας των στοιχείων</b>"
+
+#: ../ui/crystal/cleavages.ui.h:1
+msgid "Cleavages"
+msgstr "Σχάσεις"
+
+#: ../ui/crystal/cleavages.ui.h:2
+msgid "List of defined cleavages (h, k, and l are the Miller indices)"
+msgstr "Λίστα καθορισμένων σχάσεων (h, k και l είναι οι δείκτες Miller)"
+
+#: ../ui/crystal/cleavages.ui.h:5
+msgid "Fixed model size"
+msgstr "Προκαθορισμένο μέγεθος προτύπου"
+
+#: ../ui/crystal/docprop.ui.h:1 ../ui/paint/docprop.ui.h:1
+msgid "Document properties"
+msgstr "Ιδιότητες εγγράφου"
+
+#: ../ui/crystal/docprop.ui.h:2 ../ui/paint/docprop.ui.h:2
+msgid "_Title:"
+msgstr "_Τίτλος:"
+
+#: ../ui/crystal/docprop.ui.h:3 ../ui/paint/docprop.ui.h:12
+msgid "<b>_Comments:</b>"
+msgstr "<b>_Σχόλια:</b>"
+
+#: ../ui/crystal/docprop.ui.h:4 ../ui/paint/docprop.ui.h:6
+msgid "<b>History</b>"
+msgstr "<b>Ιστορικό</b>"
+
+#: ../ui/crystal/docprop.ui.h:5 ../ui/paint/docprop.ui.h:3
+msgid "<b>Author:</b>"
+msgstr "<b>Συντάκτης:</b>"
+
+#: ../ui/crystal/docprop.ui.h:6 ../ui/paint/docprop.ui.h:7
+msgid "Creation date:"
+msgstr "Ημερομηνία δημιουργίας:"
+
+#: ../ui/crystal/docprop.ui.h:7 ../ui/paint/docprop.ui.h:8
+msgid "Revision date:"
+msgstr "Ημερομηνία αναθεώρησης:"
+
+#: ../ui/crystal/docprop.ui.h:8 ../ui/paint/docprop.ui.h:5
+msgid "E-_mail:"
+msgstr "Ηλ. _ταχυδρομείο:"
+
+#: ../ui/crystal/docprop.ui.h:9 ../ui/paint/docprop.ui.h:4
+msgid "_Name:"
+msgstr "Ό_νομα:"
+
+#: ../ui/crystal/lines.ui.h:1
+msgid "Cell edges"
+msgstr "Άκρες κελιών"
+
+#: ../ui/crystal/lines.ui.h:2
+msgid "Diagonals"
+msgstr "Διαγώνιοι"
+
+#: ../ui/crystal/lines.ui.h:3
+msgid "Medians"
+msgstr "Διάμεσοι"
+
+#: ../ui/crystal/lines.ui.h:8
+msgid "radius (pm):"
+msgstr "ακτίνα (pm):"
+
+#: ../ui/crystal/lines.ui.h:9
+msgid "color:"
+msgstr "χρώμα:"
+
+#: ../ui/crystal/lines.ui.h:10
+msgid "<b>Other lines</b>"
+msgstr "<b>Άλλες γραμμές</b>"
+
+#: ../ui/crystal/size.ui.h:1
+msgid "Crystal size"
+msgstr "Μέγεθος κρυστάλλου"
+
+#: ../ui/crystal/size.ui.h:2
+msgid "<b>Give minimum and maximum coordinates in cell units</b>"
+msgstr "<b>Δώστε ελάχιστες και μέγιστες συντεταγμένες στις μονάδες κελιών</b>"
+
+#: ../ui/crystal/size.ui.h:3
+msgid "<b>Minimum</b>"
+msgstr "<b>Ελάχιστη</b>"
+
+#: ../ui/crystal/size.ui.h:4
+msgid "<b>Maximum</b>"
+msgstr "<b>Μέγιστη</b>"
+
+#: ../ui/crystal/size.ui.h:5
+msgid "<b><i>x</i></b>"
+msgstr "<b><i>x</i></b>"
+
+#: ../ui/crystal/size.ui.h:6
+msgid "<b><i>y</i></b>"
+msgstr "<b><i>y</i></b>"
+
+#: ../ui/crystal/size.ui.h:7
+msgid "<b><i>z</i></b>"
+msgstr "<b><i>z</i></b>"
+
+#: ../ui/libgcu/gcuperiodic.ui.h:1
+msgid "Uus"
+msgstr "Uus"
+
+#: ../ui/libgcu/gcuperiodic.ui.h:2
+msgid "Uuo"
+msgstr "Uuo"
+
+#: ../ui/libgcu/gcuperiodic.ui.h:3
+msgid "Lanthanides"
+msgstr "Λανθανίδες"
+
+#: ../ui/libgcu/gcuperiodic.ui.h:4
+msgid "Actinides"
+msgstr "Ακτινίδες"
+
+#: ../ui/libgcu/image-size.ui.h:1
+msgid "Width:"
+msgstr "Πλάτος:"
+
+#: ../ui/libgcu/image-size.ui.h:2
+msgid "Height:"
+msgstr "Ύψος:"
+
+#: ../ui/libgcu/image-size.ui.h:3 ../ui/libgcu/image-resolution.ui.h:1
+msgid "Tr_ansparent background"
+msgstr "Δι_αφανές παρασκήνιο"
+
+#: ../ui/libgcu/image-resolution.ui.h:2
+msgid "Image _resolution:"
+msgstr "_Ανάλυση εικόνας:"
+
+#: ../ui/libgcu/print-setup.ui.h:1
+msgid "Page Setup"
+msgstr "Διαμόρφωση Σελίδας"
+
+#: ../ui/libgcu/print-setup.ui.h:2
+msgid "Reload defaults"
+msgstr "Επαναφόρτωση προεπιλογών"
+
+#: ../ui/libgcu/print-setup.ui.h:3
+msgid "Save as defaults"
+msgstr "Αποθήκευση ως προεπιλογές"
+
+#: ../ui/libgcu/print-setup.ui.h:4
+msgid "<b>Paper:</b>"
+msgstr "<b>Χαρτί:</b>"
+
+#: ../ui/libgcu/print-setup.ui.h:5
+msgid "Change Paper Type"
+msgstr "Αλλαγή τύπου χαρτιού"
+
+#: ../ui/libgcu/print-setup.ui.h:6
+msgid "Top margin:"
+msgstr "Επάνω περιθώριο:"
+
+#: ../ui/libgcu/print-setup.ui.h:7
+msgid "Header:"
+msgstr "Κεφαλίδα:"
+
+#: ../ui/libgcu/print-setup.ui.h:8
+msgid "Left margin:"
+msgstr "Αριστερό περιθώριο:"
+
+#: ../ui/libgcu/print-setup.ui.h:9
+msgid "Right margin:"
+msgstr "Δεξιό περιθώριο:"
+
+#: ../ui/libgcu/print-setup.ui.h:10
+msgid "Footer:"
+msgstr "Υποσέλιδο:"
+
+#: ../ui/libgcu/print-setup.ui.h:11
+msgid "Bottom margin:"
+msgstr "Κάτω περιθώριο:"
+
+#: ../ui/libgcu/print-setup.ui.h:12
+msgid "Unit:"
+msgstr "Μονάδα:"
+
+#: ../ui/libgcu/print-setup.ui.h:13
+msgid "<b>Center on page:</b>"
+msgstr "<b>Κέντρο της σελίδας:</b>"
+
+#: ../ui/libgcu/print-setup.ui.h:14
+msgid "<b>O_rientation:</b>"
+msgstr "<b>Π_ροσανατολισμός</b>"
+
+#: ../ui/libgcu/print-setup.ui.h:15
+msgid "_Horizontally"
+msgstr "_Οριζόντια"
+
+#: ../ui/libgcu/print-setup.ui.h:16
+msgid "_Vertically"
+msgstr "_Κάθετα"
+
+#: ../ui/libgcu/print-setup.ui.h:17
+msgid "Print background"
+msgstr "Εκτύπωση παρασκηνίου"
+
+#: ../ui/libgcu/print-setup.ui.h:18
+msgid "Page"
+msgstr "Σελίδα"
+
+#: ../ui/libgcu/print-setup.ui.h:19
+msgid "<b>Scale</b>"
+msgstr "<b>Κλίμακα</b>"
+
+#: ../ui/libgcu/print-setup.ui.h:20
+msgid "_No scaling"
+msgstr "_Χωρίς κλίμακα"
+
+#: ../ui/libgcu/print-setup.ui.h:21
+msgid "_Fixed scaling:"
+msgstr "_Σταθερή κλίμακα:"
+
+#: ../ui/libgcu/print-setup.ui.h:22
+msgid "_Automatic scaling:"
+msgstr "_Αυτόματη κλίμακα:"
+
+#: ../ui/libgcu/print-setup.ui.h:23
+msgid "Scale to fit _horizontally on"
+msgstr "Κλίμακα για _οριζόντια προσαρμογή σε"
+
+#: ../ui/libgcu/print-setup.ui.h:24
+msgid "Scale to fit _vertically on"
+msgstr "Κλίμακα για _κάθετη προσαρμογή σε"
+
+#: ../ui/libgcu/print-setup.ui.h:26
+#, no-c-format
+msgid "% of normal size"
+msgstr "% του κανονικού μεγέθους"
+
+#: ../ui/libgcu/print-setup.ui.h:27
+msgid "page(s)"
+msgstr "σελίδα(ες)"
+
+#: ../ui/libgcu/print-setup.ui.h:28
+msgid "Scale"
+msgstr "Κλίμακα"
+
+#: ../ui/libgcu/print-setup.ui.h:29
+msgid "_Header:"
+msgstr "_Κεφαλίδα:"
+
+#: ../ui/libgcu/print-setup.ui.h:30
+msgid "_Footer:"
+msgstr "_Υποσέλιδο:"
+
+#: ../ui/libgcu/print-setup.ui.h:31
+msgid "Fi_rst page number:"
+msgstr "Αριθμός π_ρώτης σελίδας:"
+
+#: ../ui/libgcu/print-setup.ui.h:32
+msgid "Configure"
+msgstr "Ρυθμίσεις"
+
+#: ../ui/libgcu/print-setup.ui.h:33
+msgid "Headers and Footers"
+msgstr "Κεφαλίδες και υποσέλιδα"
+
+#: ../ui/libgcu/stringinputdlg.ui.h:1
+msgid "Type InChI or SMILES"
+msgstr "Τύπος InChI ή SMILES"
+
+#: ../ui/paint/arrow-object.ui.h:1
+msgid "Arrow associated object"
+msgstr "Αντικείμενο σχετικό με το βέλος"
+
+#: ../ui/paint/arrow-object.ui.h:2
+msgid "_Role:"
+msgstr "_Ρόλος:"
+
+#: ../ui/paint/docprop.ui.h:9
+msgid "<b>Theme</b>"
+msgstr "<b>Θέμα</b>"
+
+#: ../ui/paint/docprop.ui.h:10 ../ui/paint/newfiledlg.ui.h:2
+msgid "Theme:"
+msgstr "Θέμα:"
+
+#: ../ui/paint/docprop.ui.h:11
+msgid "_Use colored atomic symbols"
+msgstr "_Χρήση χρωματιστών ατομικών συμβόλων"
+
+#: ../ui/paint/H-pos.ui.h:6
+msgid "Auto"
+msgstr "Αυτόματο"
+
+#: ../ui/paint/newfiledlg.ui.h:1
+msgid "New file with theme"
+msgstr "Νέο αρχείο με θέμα"
+
+#: ../ui/paint/preferences.ui.h:1
+msgid "GChemPaint Preferences"
+msgstr "Προτιμήσεις GChemPaint"
+
+#: ../ui/paint/preferences.ui.h:2
+msgid "Default compression _level for GChemPaint files:"
+msgstr "Προεπιλεγμένο _επίπεδο συμπίεσης για αρχεία GChemPaint:"
+
+#: ../ui/paint/preferences.ui.h:3
+msgid "_Invert wedge hashes"
+msgstr "_Αντιστροφή σφηνοειδούς διακεκομμένου"
+
+#: ../ui/paint/preferences.ui.h:4
+msgid ""
+"Hashed bonds are normally represented with the large side nearest, which is "
+"the opposite of what many people want. If checked, this behavior will be "
+"reversed."
+msgstr ""
+"Οι διακεκομμένοι δεσμοί κανονικά απεικονίζονται με κοντινότερη τη μεγάλη "
+"τους πλευρά, το οποίο είναι αντίθετο με αυτό που πολλοί θέλουν. Εάν "
+"επιλεγεί, αυτή η συμπεριφορά θα αντιστραφεί."
+
+#: ../ui/paint/preferences.ui.h:5
+msgid "_Use colored atomic symbols in new documents"
+msgstr "_Χρήση χρωματιστών ατομικών συμβόλων σε νέα έγγραφα"
+
+#: ../ui/paint/preferences.ui.h:6
+msgid "_Default theme:"
+msgstr "_Προεπιλεγμένο θέμα:"
+
+#: ../ui/paint/preferences.ui.h:7
+msgid "<b>Themes</b>"
+msgstr "<b>Θέματα</b>"
+
+#: ../ui/paint/preferences.ui.h:9
+msgid "_Scale:"
+msgstr "_Κλίμακα:"
+
+#: ../ui/paint/preferences.ui.h:10
+msgid "General _padding:"
+msgstr "Γενική _συμπλήρωση:"
+
+#: ../ui/paint/preferences.ui.h:11
+msgid "_Object padding:"
+msgstr "Συμπλήρωση _αντικειμένου:"
+
+#: ../ui/paint/preferences.ui.h:12
+msgid "Stoichio_metry padding:"
+msgstr "Συμπλήρωση στοιχειο_μετρίας:"
+
+#: ../ui/paint/preferences.ui.h:13
+msgid "Si_gn padding:"
+msgstr "Συμπλήρωση ση_μείου:"
+
+#: ../ui/paint/preferences.ui.h:14
+msgid ""
+"Scale used to convert real distance to canvas distance expressed in pm per "
+"pixel."
+msgstr ""
+"Κλίμακα που χρησιμοποιείται για τη μετατροπή της πραγματικής απόστασης σε "
+"απόσταση πάνω στον καμβά, εκφρασμένη σε pm ανά εικονοστοιχείο."
+
+#: ../ui/paint/preferences.ui.h:15
+msgid ""
+"Padding used around text objects such as atoms, texts and other typographic "
+"signs in pixels."
+msgstr ""
+"Συμπλήρωση που χρησιμοποιείται γύρω από αντικείμενα κειμένου όπως άτομα, "
+"κείμενα ή άλλα τυπογραφικά σύμβολα σε εικονοστοιχεία."
+
+#: ../ui/paint/preferences.ui.h:16
+msgid ""
+"Default padding in pixels added between consecutive objects during an "
+"alignment operation."
+msgstr ""
+"Προεπιλεγμένη συμπλήρωση σε εικονοστοιχεία που προστίθεται μεταξύ διαδοχικών "
+"αντικειμένων κατά τη διάρκεια λειτουργίας στοίχισης."
+
+#: ../ui/paint/preferences.ui.h:17
+msgid ""
+"Extra padding between a stoichiometric coefficient and its associated "
+"molecule in pixels."
+msgstr ""
+"Επιπρόσθετη συμπλήρωση μεταξύ ενός στοιχειομετρικού συντελεστή και του "
+"σχετικού με αυτό μορίου σε εικονοστοιχεία."
+
+#: ../ui/paint/preferences.ui.h:18
+msgid ""
+"Padding between a &apos;+&apos; sign in a reaction equation and reactants "
+"symbols in pixels."
+msgstr ""
+"Συμπλήρωση μεταξύ ενός συμβόλου &apos;+&apos; σε μια εξίσωση αντίδρασης και "
+"των συμβόλων των αντιδρώντων σε εικονοστοιχεία."
+
+#: ../ui/paint/preferences.ui.h:19
+msgid ""
+"Padding between a '+' sign in a reaction equation and reactants symbols in "
+"pixels."
+msgstr ""
+"Συμπλήρωση μεταξύ ενός συμβόλου '+' σε μια χημική εξίσωση και των συμβόλων "
+"των αντιδρώντων σε εικονοστοιχεία."
+
+#: ../ui/paint/preferences.ui.h:20
+msgid "<b>Normal bonds</b>"
+msgstr "<b>Κανονικοί δεσμοί</b>"
+
+#: ../ui/paint/preferences.ui.h:21
+msgid "<b>Stereochemical bonds</b>"
+msgstr "<b>Στερεοχημικοί δεσμοί</b>"
+
+#: ../ui/paint/preferences.ui.h:22
+msgid "Len_gth:"
+msgstr "Μήκ_ος:"
+
+#: ../ui/paint/preferences.ui.h:23
+msgid "Angl_e:"
+msgstr "Γωνί_α:"
+
+#: ../ui/paint/preferences.ui.h:24
+msgid "_Width:"
+msgstr "_Πλάτος:"
+
+#: ../ui/paint/preferences.ui.h:25
+msgid "_Distance:"
+msgstr "_Απόσταση:"
+
+#: ../ui/paint/preferences.ui.h:26
+msgid "Wid_th"
+msgstr "Πλά_τος"
+
+#: ../ui/paint/preferences.ui.h:27
+msgid "Ha_sh width:"
+msgstr "Πλάτος δια_κεκομμένων:"
+
+#: ../ui/paint/preferences.ui.h:28
+msgid "Dist_ance:"
+msgstr "Απόσ_ταση:"
+
+#: ../ui/paint/preferences.ui.h:29
+msgid "Default bond length (pm)."
+msgstr "Προεπιλεγμένο μήκος δεσμού (pm)."
+
+#: ../ui/paint/preferences.ui.h:30
+msgid "Default angle between two consecutive bonds in a chain."
+msgstr "Προεπιλεγμένη γωνία μεταξύ δύο διαδοχικών δεσμών σε μια αλυσίδα."
+
+#: ../ui/paint/preferences.ui.h:31
+msgid "Bond line width (in pixels)."
+msgstr "Πλάτος γραμμής δεσμού (σε εικονοστοιχεία)."
+
+#: ../ui/paint/preferences.ui.h:32
+msgid "Distance in pixels between two lines representing a multiple bond."
+msgstr ""
+"Απόσταση σε εικονοστοιχεία μεταξύ δύο γραμμών που αντιπροσωπεύουν πολλαπλό "
+"δεσμό."
+
+#: ../ui/paint/preferences.ui.h:33
+msgid "Width in pixels at the largest end."
+msgstr "Πλάτος σε εικονοστοιχεία στο μεγαλύτερο άκρο."
+
+#: ../ui/paint/preferences.ui.h:34
+msgid "Width of hashes in pixels."
+msgstr "Πλάτος των διακεκομμένων σε εικονοστοιχεία."
+
+#: ../ui/paint/preferences.ui.h:35
+msgid "Distance between hashes in pixels."
+msgstr "Απόσταση μεταξύ διακεκομμένων σε εικονοστοιχεία."
+
+#: ../ui/paint/preferences.ui.h:36
+msgid "_Padding:"
+msgstr "_Συμπλήρωση:"
+
+#: ../ui/paint/preferences.ui.h:37
+msgid "A:"
+msgstr "A:"
+
+#: ../ui/paint/preferences.ui.h:38
+msgid "<b>Arrow heads</b>"
+msgstr "<b>Κεφαλές βελών</b>"
+
+#: ../ui/paint/preferences.ui.h:39
+msgid "B:"
+msgstr "B:"
+
+#: ../ui/paint/preferences.ui.h:40
+msgid "C:"
+msgstr "C:"
+
+#: ../ui/paint/preferences.ui.h:41
+msgid "Default arrow length (in pm just like bond lengths)."
+msgstr "Προεπιλεγμένο μήκος βέλους (σε pm, ακριβώς όπως και τα μήκη δεσμών)."
+
+#: ../ui/paint/preferences.ui.h:42
+msgid "Arrow line width (in pixels)."
+msgstr "Πλάτος γραμμής του βέλους (σε εικονοστοιχεία)."
+
+#: ../ui/paint/preferences.ui.h:43
+msgid ""
+"Distance in pixels between two parallel lines (either two arrows or one "
+"arrow with two lines)."
+msgstr ""
+"Απόσταση σε εικονοστοιχεία μεταξύ δύο παράλληλων γραμμών (είτε δύο βελών "
+"είτε ενός βέλους με δύο γραμμές)."
+
+#: ../ui/paint/preferences.ui.h:44
+msgid "Padding added at each end of an arrow (in pixels)."
+msgstr "Συμπλήρωση που προστίθεται στο τέλος κάθε βέλους (σε εικονοστοιχεία)."
+
+#: ../ui/paint/preferences.ui.h:45
+msgid "Distance in pixels from tip of arrowhead to center."
+msgstr ""
+"Απόσταση σε εικονοστοιχεία από την απόληξη της κεφαλής του βέλους έως το "
+"κέντρο της."
+
+#: ../ui/paint/preferences.ui.h:46
+msgid ""
+"Distance in pixels from tip of arrowhead to trailing point, measured along "
+"shaft."
+msgstr ""
+"Απόσταση σε εικονοστοιχεία από την κορυφή της κεφαλής του βέλους έως το "
+"σημείο κατάληξης της κεφαλής, μετρημένη κατά το μήκος του άξονα."
+
+#: ../ui/paint/preferences.ui.h:47
+msgid ""
+"Distance in pixels of arrowhead trailing points from outside edge of shaft."
+msgstr ""
+"Απόσταση σε εικονοστοιχεία των σημείων κατάληξης της κεφαλής του βέλους από "
+"την εξωτερική πλευρά του άξονα."
+
+#: ../ui/paint/preferences.ui.h:48
+msgid "Charge _sign size:"
+msgstr "Μέγεθος _συμβόλου φορτίου:"
+
+#: ../ui/paint/preferences.ui.h:49
+msgid "Size of the charge sign in pixels."
+msgstr "Μέγεθος συμβόλου φορτίου σε εικονοστοιχεία."
+
+#: ../ui/paint/tools.ui.h:1
+msgid "_Current element:"
+msgstr "_Τρέχον στοιχείο:"
+
+#: ../ui/paint/zoom.ui.h:1
+msgid "Zoom"
+msgstr "Εστίαση"
+
+#: ../ui/paint/zoom.ui.h:3
+#, no-c-format
+msgid "Zoom factor (%):"
+msgstr "Συντελεστής εστίασης (%):"
+
+#: ../ui/table/acidity.ui.h:1
+msgid "<span background=\"red\"><b>Acidic</b></span>"
+msgstr "<span background=\"red\"><b>Όξινο</b></span>"
+
+#: ../ui/table/acidity.ui.h:2
+msgid "<span background=\"green\"><b>Neutral</b></span>"
+msgstr "<span background=\"green\"><b>Ουδέτερο</b></span>"
+
+#: ../ui/table/acidity.ui.h:3
+msgid "<span background=\"blue\"><b>Basic</b></span>"
+msgstr "<span background=\"blue\"><b>Βασικό</b></span>"
+
+#: ../ui/table/acidity.ui.h:4
+msgid "<span background=\"magenta\"><b>Amphoteric</b></span>"
+msgstr "<span background=\"magenta\"><b>Αμφοτερικό</b></span>"
+
+#: ../ui/table/eltpage.ui.h:1
+msgid "Atomic number:"
+msgstr "Ατομικός αριθμός:"
+
+#: ../ui/table/eltpage.ui.h:2
+msgid "Atomic weight:"
+msgstr "Ατομικό βάρος:"
+
+#: ../ui/table/eltpage.ui.h:3
+msgid "Main"
+msgstr "Κύρια"
+
+#: ../ui/table/eltpage.ui.h:4
+msgid "Pauling electronegativity:"
+msgstr "Ηλεκτραρνητικότητα Πάουλινγκ:"
+
+#: ../ui/table/eltpage.ui.h:6
+msgid "Ionization energies:"
+msgstr "Ενέργειες ιονισμού:"
+
+#: ../ui/table/eltpage.ui.h:7
+msgid "1:"
+msgstr "1:"
+
+#: ../ui/table/eltpage.ui.h:8
+msgid "Electronic affinities:"
+msgstr "Ηλεκτρονικές συγγένειες:"
+
+#: ../ui/table/eltpage.ui.h:9
+msgid "Electronic properties"
+msgstr "Ηλεκτρονικές ιδιότητες"
+
+#: ../ui/table/eltpage.ui.h:10
+msgid "Isotopes"
+msgstr "Ισότοπα"
+
+#: ../ui/table/eltpage.ui.h:11
+msgid "Covalent:"
+msgstr "Ομοιοπολική:"
+
+#: ../ui/table/eltpage.ui.h:12
+msgid "Van der Waals:"
+msgstr "Βαν ντερ Βάαλς:"
+
+#: ../ui/table/eltpage.ui.h:13
+msgid "Metallic:"
+msgstr "Μεταλλική:"
+
+#: ../ui/table/eltpage.ui.h:14
+msgid "Ionic radii (Shannon and Prewitt):"
+msgstr "Ιοντικές ακτίνες (Σάνον και Πρίουϊτ):"
+
+#: ../ui/table/eltpage.ui.h:15
+msgid "Radii"
+msgstr "Ακτίνες"
+
+#: ../ui/table/eltpage.ui.h:16
+msgid "Melting point:"
+msgstr "Σημείο τήξης:"
+
+#: ../ui/table/eltpage.ui.h:17
+msgid "Boiling point:"
+msgstr "Σημείο βρασμού:"
+
+#: ../ui/table/eltpage.ui.h:18
+msgid "Thermodynamics"
+msgstr "Θερμοδυναμική"
+
+#: ../ui/table/state-thermometer.ui.h:1
+msgid "Temperature (K):"
+msgstr "Θερμοκρασία (K):"
+
+#: ../ui/table/state-thermometer.ui.h:2
+msgid "<span background=\"blue\"> <b>Solid</b> </span>"
+msgstr "<span background=\"blue\"> <b>Στερεό</b> </span>"
+
+#: ../ui/table/state-thermometer.ui.h:3
+msgid "<span background=\"green\"> <b>Liquid</b> </span>"
+msgstr "<span background=\"green\"> <b>Υγρό</b> </span>"
+
+#: ../ui/table/state-thermometer.ui.h:4
+msgid "<span background=\"red\"> <b>Gas</b> </span>"
+msgstr "<span background=\"red\"> <b>Αέριο</b> </span>"
+
+#: ../ui/table/curve.ui.h:1
+msgid "GChemTable Graph"
+msgstr "Γράφημα GChemTable"
+
+#: ../ui/table/family.ui.h:1
+msgid "Selected Family:"
+msgstr "Επιλεγμένη Οικογένεια:"
+
+#: ../ui/table/family.ui.h:2
+msgid "All"
+msgstr "Όλα"
+
+#: ../ui/table/family.ui.h:3
+msgid "Alkali Metals"
+msgstr "Μέταλλα Αλκαλίων"
+
+#: ../ui/table/family.ui.h:4
+msgid "Alkaline Earths Metals"
+msgstr "Μέταλλα Αλκαλικών Γαιών"
+
+#: ../ui/table/family.ui.h:5
+msgid "Halogenes"
+msgstr "Αλογόνα"
+
+#: ../ui/table/family.ui.h:6
+msgid "Metalloids"
+msgstr "Μεταλλοειδή"
+
+#: ../ui/table/family.ui.h:7
+msgid "Noble Gases"
+msgstr "Ευγενή Αέρια"
+
+#: ../ui/table/family.ui.h:8
+msgid "Non-Metals"
+msgstr "Αμέταλλα"
+
+#: ../ui/table/family.ui.h:9
+msgid "Rare Earths Metals"
+msgstr "Μέταλλα σπάνιων γαιών"
+
+#: ../ui/table/family.ui.h:10
+msgid "Transition Metals"
+msgstr "Μέταλλα μεταπτώσεως"
+
+#: ../ui/table/family.ui.h:11
+msgid "Other Metals"
+msgstr "Άλλα Μέταλλα"
+
+#: ../ui/table/block.ui.h:1
+msgid ""
+"<span background=\"#00008e\" foreground=\"white\" size=\"larger\" weight="
+"\"bold\"> s block </span>"
+msgstr ""
+"<span background=\"#00008e\" foreground=\"white\" size=\"larger\" weight="
+"\"bold\"> ομάδα s </span>"
+
+#: ../ui/table/block.ui.h:2
+msgid ""
+"<span background=\"#008e00\" foreground=\"white\" size=\"larger\" weight="
+"\"bold\"> d block </span>"
+msgstr ""
+"<span background=\"#008e00\" foreground=\"white\" size=\"larger\" weight="
+"\"bold\"> ομάδα d </span>"
+
+#: ../ui/table/block.ui.h:3
+msgid ""
+"<span background=\"#8e0000\" foreground=\"white\" size=\"larger\" weight="
+"\"bold\"> p block </span>"
+msgstr ""
+"<span background=\"#8e0000\" foreground=\"white\" size=\"larger\" weight="
+"\"bold\"> όμαδα p </span>"
+
+#: ../ui/table/block.ui.h:4
+msgid ""
+"<span background=\"#8e008e\" foreground=\"white\" size=\"larger\" weight="
+"\"bold\"> f block </span>"
+msgstr ""
+"<span background=\"#8e008e\" foreground=\"white\" size=\"larger\" weight="
+"\"bold\"> ομάδα f </span>"
+
+#~ msgid "Off screen rendering"
+#~ msgstr "Φωτοαπόδοση εκτός οθόνης"
+
+#~ msgid ""
+#~ "Whether to use off-screen rendering when printing or exporting as an "
+#~ "image. Setting it to true might lead to a crash with some video cards "
+#~ "drivers."
+#~ msgstr ""
+#~ "Αν θα χρησιμοποιείται φωτοαπόδοση εκτός οθόνης κατά την εκτύπωση ή την "
+#~ "εξαγωγή ως εικόνα. Η επιλογή του μπορεί να οδηγήσει σε κατάρρευση με "
+#~ "ορισμένους οδηγούς καρτών βίντεο."
+
+#~ msgid "Ununhexium"
+#~ msgstr "Ουνουνχέξιο"
+
+#~ msgid "Ununquadium"
+#~ msgstr "Ουνοκουάντιο"
+
+#~ msgid ""
+#~ "Could not open file\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Δεν ήταν δυνατό το άνοιγμα του αρχείου\n"
+#~ "%s"
+
+#~ msgid "Export molecule to Ghemical"
+#~ msgstr "Εξαγωγή μορίου στο Ghemical"
+
+#~ msgid "NIST WebBook page for this molecule"
+#~ msgstr "Σελίδα NIST WebBook για αυτό το μόριο"
+
+#~ msgid ""
+#~ "Error could not build a reaction\n"
+#~ "from the selected objects."
+#~ msgstr ""
+#~ "Σφάλμα δεν ήταν δυνατή η κατασκευή αντίδρασης\n"
+#~ "από τα επιλεγμένα αντικείμενα."
+
+#~ msgid "Type a number greater than or equal %g and lower than to %g"
+#~ msgstr ""
+#~ "Πληκτρολογήστε έναν αριθμό μεγαλύτερο ή ίσο του %g και μικρότερο του %g"
+
+#~ msgid "Type a number greater than %g and lower than or equal to %g"
+#~ msgstr ""
+#~ "Πληκτρολογήστε έναν αριθμό μεγαλύτερο του %g και μικρότερο  ή ίσο του %g"
+
+#~ msgid "Type a number between %g and %g, the limits are valid."
+#~ msgstr "Πληκτρολογήστε έναν αριθμό μεταξύ %g και %g, τα όρια είναι έγκυρα."
+
+#~ msgid "Type a number greater than %g and lower than %g"
+#~ msgstr "Πληκτρολογήστε έναν αριθμό μεγαλύτερο του %g και μικρότερο του %g"
+
+#~ msgid "Wave number (1/cm)"
+#~ msgstr "Κυματαριθμός (1/cm)"
+
+#~ msgid "gtk-delete"
+#~ msgstr "gtk-διαγραφή"
+
+#~ msgid "gtk-save"
+#~ msgstr "gtk-αποθήκευση"
+
+#~ msgid "Group and/or align selected objects"
+#~ msgstr "Ομαδοποίηση και/ή ευθυγράμμιση των επιλεγμένων αντικειμένων"
+
+#~ msgid "*"
+#~ msgstr "*"
+
+#~ msgid "New template"
+#~ msgstr "Νέο πρότυπο"
+
+#~ msgid "Wikipedia export"
+#~ msgstr "Εξαγωγή στη Wikipedia"
+
+#~ msgid "Export for Wikipedia publication"
+#~ msgstr "Εξαγωγή για δημοσίευση στην Wikipedia"
+
+#~ msgid "Generate Wikipedia conformant PNG image"
+#~ msgstr "Δημιουργία εικόνας PNG προσαρμοσμένης στο Wikipedia"
+
+#~ msgid "Unable to save image file: "
+#~ msgstr "Αδυναμία αποθήκευσης του αρχείου εικόνας:"
+
+#~ msgid "h"
+#~ msgstr "h"
+
+#~ msgid "k"
+#~ msgstr "k"
+
+#~ msgid "l"
+#~ msgstr "l"
+
+#~ msgid "&#x3B1; (&#xB0;):"
+#~ msgstr "&#x3B1; (&#xB0;):"
+
+#~ msgid "&#x3B2; (&#xB0;):"
+#~ msgstr "&#x3B2; (&#xB0;):"
+
+#~ msgid "&#x3B3; (&#xB0;):"
+#~ msgstr "&#x3B3; (&#xB0;):"
+
+#~ msgid "Cell"
+#~ msgstr "Κελί"
+
+#~ msgid "Lattice:"
+#~ msgstr "Πλέγμα:"
+
+#~ msgid "&#x3B8; (&#xB0;):"
+#~ msgstr "&#x3B8; (&#xB0;):"
+
+#~ msgid "&#x3C6; (&#xB0;):"
+#~ msgstr "&#x3C6; (&#xB0;):"
+
+#~ msgid "&#x3C8; (&#xB0;):"
+#~ msgstr "&#x3C8; (&#xB0;):"
+
+#~ msgid "Field of view (between 1 and 45&#xB0;):"
+#~ msgstr "Οπτικό πεδίο (μεταξύ 1 και 45&#xB0;):"
+
+#~ msgid "Field of view (between 0 and 45&#xB0;):"
+#~ msgstr "Οπτικό πεδίο (μεταξύ 0 και 45&#xB0;):"
+
+#~ msgid "All atoms"
+#~ msgstr "Όλα τα άτομα"
+
+#~ msgid "Apply changes to:"
+#~ msgstr "Εφαρμογή αλλαγών σε:"
+
+#~ msgid "Charge: "
+#~ msgstr "Φορτίο:"
+
+#~ msgid "Radius"
+#~ msgstr "Ακτίνα"
+
+#~ msgid "Selected atom"
+#~ msgstr "Επιλεγμένο άτομο"
+
+#~ msgid "Type:"
+#~ msgstr "Τύπος:"
+
+#~ msgid "Value (pm):"
+#~ msgstr "Τιμή (pm):"
+
+#~ msgid "Lines"
+#~ msgstr "Γραμμές"
+
+#~ msgid "Maximum"
+#~ msgstr "Μέγιστη"
+
+#~ msgid "Landscape"
+#~ msgstr "Οριζόντια"
+
+#~ msgid "Portrait"
+#~ msgstr "Κατακόρυφα"
+
+#~ msgid "Reverse landscape"
+#~ msgstr "Αντίστροφα οριζόντια"
+
+#~ msgid "Reverse portrait"
+#~ msgstr "Αντίστροφα κατακόρυφα"
+
+#~ msgid "gtk-close"
+#~ msgstr "Κλείσιμο"
+
+#~ msgid "gtk-help"
+#~ msgstr "Βοήθεια"
+
+#~ msgid "gtk-apply"
+#~ msgstr "Εφαρμογή"
+
+#~ msgid "gtk-cancel"
+#~ msgstr "Άκυρο"
