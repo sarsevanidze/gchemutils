@@ -23,7 +23,7 @@ build and run on a modern system. It is not affiliated with upstream.
 * Dropped the dead Mozilla/NPAPI browser plugin.
 * `make install DESTDIR=...` now works (MIME/desktop database updates are
   skipped for staged installs).
-* **Georgian translation** (`po/ka.po`): 1224 of 1299 strings; the remainder are
+* **Georgian translation** (`po/ka.po`) by Temuri Doghonadze: 1278 of 1299 strings; the remainder are
   untranslatable (symbols, numbers, program names).
 
 GTK is still 3.x; no GTK4 port was attempted.
@@ -56,8 +56,7 @@ Run with the Georgian UI: `LANGUAGE=ka gchemtable-0.16`
   (editing, file loading, 3D view, printing). The `make check` tests were not run.
 * The Gnumeric plugin is built only if `libspreadsheet` is found; it was not
   available in the test environment and is untested.
-* Translation was written without review by other native speakers; corrections
-  to `po/ka.po` are welcome.
+* Corrections to the Georgian translation (`po/ka.po`) are welcome.
 
 ## License
 
